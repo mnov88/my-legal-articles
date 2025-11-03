@@ -1,0 +1,27 @@
+{
+  "comments": {
+    "Prompt protection/Drafts/04 Claude Cursor.md": {
+      "file-comment-1761756617028": {
+        "id": "file-comment-1761756617028",
+        "text": "__virtual_highlight_1761756617028__",
+        "filePath": "04 Claude Cursor.md",
+        "fileType": "md",
+        "displayText": "File comment",
+        "isVirtual": true,
+        "position": 0,
+        "paragraphOffset": 0,
+        "paragraphId": "04 Claude Cursor.md#^virtual-1761756617028",
+        "createdAt": 1761756617028,
+        "updatedAt": 1761756623404,
+        "comments": [
+          {
+            "id": "comment-1761756623404-5mou3f4cy",
+            "content": "Comment",
+            "createdAt": 1761756623404,
+            "updatedAt": 1761756623404
+          }
+        ]
+      }
+    }
+  }
+}
