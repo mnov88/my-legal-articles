@@ -2,29 +2,14 @@
 // current draft -- references not properly added, most can be found in draft8 or in older outline with good sources -- should likely be added.
 # Beyond one-dimensional AI: multi-handle pedagogy in legal education
 
-A contracts professor asks students to use AI to generate the funniest possible half‑page summary of yesterday’s lecture on offer and acceptance in contract formation. The only rule: maintain doctrinal accuracy. Students work for ten minutes, submit anonymously, and vote on the most effective summaries. One winner jokes that “an offer isn’t a supermarket shelf and silence isn’t a handshake” — a nod to invitations to treat and the rule that acceptance must be communicated. The class laughs. Then the professor asks: “Why will you remember contract formation from this exercise?”
+In a first‑year contract law seminar, the lecturer asks students to use AI to produce a half‑page, humorous summary of offer and acceptance. The only rule is doctrinal accuracy. Ten minutes later, anonymous submissions are read and voted on. One quip sticks: “an offer isn’t a supermarket shelf and silence isn’t a handshake.” Laughter opens space for a precise follow‑up: Why will you remember contract formation from this exercise?
 
-The answers reveal what happened pedagogically. The humor triggered emotional engagement—dopamine release that strengthens memory encoding. Creating humor required metacognitive evaluation—students couldn't make doctrine funny without understanding what makes it counterintuitive or absurd. Sharing summaries activated social learning—peer feedback calibrated judgment about what makes legal explanation both accurate and memorable. A single ten-minute exercise therefore engaged emotional, metacognitive, and social dimensions simultaneously.
+Because the activity loads multiple pedagogical handles at once. Humor triggers emotional engagement that strengthens memory; drafting jokes forces metacognitive evaluation of what the doctrine actually requires; sharing outputs activates social learning. This paper calls such intentional, single‑object integration multi‑handle pedagogy: designing learning materials that simultaneously engage emotional, social, sensory, metacognitive, and rational dimensions (also described in prior work as “multiply‑loaded pedagogy”).
 
-This paper terms this a “multi-handle pedagogy”: intentionally designing single learning objects that engage emotional, social, sensory, metacognitive, and rational handles concurrently (also described in prior work as “multiply-loaded pedagogy”).
+Generative AI’s distinctive contribution is to make integrated design practical at scale. Without it, producing varied, accurate, vivid materials takes hours; with it, educators can specify properties and iterate in minutes—provided AI is treated as a content generator, not as an authority.
 
-Without AI, creating even five humorous examples would have taken hours.
 
-AI makes this scalable in ways that were theoretically understood but practically impossible given faculty resource constraints.
-
-Legal educators currently deploy AI one-dimensionally—summarizing cases, generating quizzes, providing automated feedback.[^1] These applications save time but overlook the technology's distinctive capacity: rapid generation of content that activates emotional responses, sensory processing, social dynamics, and metacognitive awareness simultaneously. Educational psychology established decades ago that learning improves when students engage through multiple channels.[^2] The problem has never been knowledge; it has been implementation. Creating materials that trigger appropriate emotions whilst maintaining doctrinal accuracy requires hours per hypothetical. Developing visual representations demands design skills most faculty lack. Designing peer exercises that reduce competitive pressure whilst building skills involves elaborate scaffolding.
-
-AI removes these constraints—but only when educators stop expecting it to function as authoritative source and start deploying it as pedagogical content generator.
-
-Current discourse frames AI adoption through accuracy expectations. Hallucination rates and academic integrity violations dominate the literature.[^3] These concerns matter for legal research. But pedagogical materials serve different functions. Hypotheticals need emotional authenticity, not Bluebook citations. Scenarios for empathy development benefit from factual variation whilst maintaining doctrinal similarity—fabricated names pose no pedagogical problem. Peer evaluation practice improves when students identify flaws in AI-generated answers of varying quality.
-
-The accuracy trap explains why faculty adoption lags student use. Educators expect AI to produce correct doctrine. When it fails, they reject the technology categorically—including for applications where accuracy matters less than engagement, variation, or rapid generation.
-
-This analysis demonstrates how AI enables multi-handle pedagogy through four specific applications: humorous summaries engaging emotion and metacognition, varied scenarios triggering empathy through multiple sensory channels, AI-generated content for peer evaluation practice without social stakes, and emotional hypotheticals with graphics engaging dual coding pathways. Each activates multiple pedagogical dimensions simultaneously. None requires perfect doctrinal accuracy. Together they address documented challenges in legal education: competitive structures that isolate students, time constraints that prevent rich material development, limited feedback that leaves students comparing themselves to peers rather than to learning objectives.[^4]
-
-The argument's stakes extend beyond technological adoption. Legal education can continue using AI for efficiency—summarizing longer into shorter, automating feedback—whilst missing the technology's distinctive contribution. Or it can reconceptualize AI as enabling pedagogical strategies that resource constraints prevented for decades. Multi-handle pedagogy represents this reconceptualization.
-
-The analysis proceeds as follows: it reframes the student–faculty adoption gap; clarifies why accuracy metrics mislead for pedagogical materials; demonstrates four applications of multi‑handle design; and identifies the competencies required for design‑aware implementation.
+Accuracy standards that govern research tools do not govern pedagogical materials. The relevant criterion is whether materials elicit engagement, clarify doctrine, and support durable learning. This analysis therefore reframes the student–faculty adoption gap, explains the accuracy trap, demonstrates four applications of multi‑handle design, and identifies the competencies needed for design‑aware implementation.
 
 ## The gap: student use outpaces faculty adoption
 
@@ -116,7 +101,7 @@ Implementation requires minimal faculty time once designed. The professor provid
 
 Without AI, this exercise would be impractical. Faculty lack time to create multiple humorous examples themselves. Students without AI support would struggle to generate humor that maintains doctrinal accuracy—the cognitive load of simultaneously being funny and correct exceeds many students' capacities, particularly for students whose first language is not English or who lack confidence in creative writing. AI scaffolds the humor generation, enabling students to focus metacognitive effort on evaluation and revision rather than initial creation.
 
-This matters because legal education has long recognized that memorable examples improve learning but has lacked mechanisms to generate them at scale. The exercise produces dozens of examples per class session; some fail, and the best ones enter the professor’s teaching materials for future use. Over several semesters, the professor accumulates a library of student‑generated, AI‑assisted humorous examples covering major doctrines. The resource investment is distributed across students rather than concentrated on faculty. The pedagogical benefit—memorable, emotionally engaging examples that activate metacognitive reflection and social learning—was theoretically available before AI but practically impossible given resource constraints.
+This matters because legal education has long recognized that memorable examples improve learning but has lacked mechanisms to generate them at scale. The exercise produces dozens of examples per class session; some fail, and the best ones enter the professor’s teaching materials for future use. Over several semesters, the professor accumulates a library of student‑generated, AI‑assisted humorous examples covering major doctrines. The resource investment is distributed across students rather than concentrated on faculty. The pedagogical benefit—memorable, emotionally engaging examples that activate metacognitive reflection and social learning—was theoretically available before AI but practically impossible given resource constraints. To that extent, this exercise integrates emotional and metacognitive handles while preserving doctrinal control.
 
 ---
 
@@ -156,7 +141,6 @@ This matters because legal education has long recognized that memorable examples
 [^64]: M Dahl, V Magesh, M Suzgun and D E Ho, 'Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models' (2024) arXiv:2401.01301 https://arxiv.org/abs/2401.01301
 [^65]: D Andreeva and G Savova, 'Artificial Intelligence in the Legal Field: Law Students Perspective' (2024) arXiv:2410.09937 https://arxiv.org/abs/2410.09937
 
-To that extent, this exercise integrates emotional and metacognitive handles while preserving doctrinal control.
 
 ### Application two: doctrinally similar, factually varied scenarios
 
@@ -182,9 +166,8 @@ Simulated negotiation tools now use generative AI to present scenarios with spec
 
 Faculty time investment is front-loaded into prompt design but minimal thereafter. Once the professor develops effective prompts, generating new scenario variations takes seconds. The professor can create fresh examples for each class, preventing students from accessing prior years' materials whilst maintaining doctrinal consistency. The capacity for rapid variation addresses a persistent problem: how to prevent academic integrity violations when the same hypotheticals circulate for years.
 
-This matters because legal education has long emphasized that lawyers must understand how legal principles apply across varied contexts. A contextualised case approach pairs opinions with other perspectives, exploring complexities that formal reports leave unaddressed. By humanizing opinions and encouraging students to "imagine a different legal world," this pedagogical approach benefits from AI's capacity to generate alternative contexts rapidly. Faculty could theoretically create such materials manually. The resource investment—hours per scenario set, design skills for visual representations—prevented systematic implementation. AI generates varied content in seconds, removing time constraints whilst preserving faculty judgment about learning objectives and pedagogical appropriateness.
+This matters because legal education has long emphasized that lawyers must understand how legal principles apply across varied contexts. A contextualised case approach pairs opinions with other perspectives, exploring complexities that formal reports leave unaddressed. By humanizing opinions and encouraging students to "imagine a different legal world," this pedagogical approach benefits from AI's capacity to generate alternative contexts rapidly. Faculty could theoretically create such materials manually. The resource investment—hours per scenario set, design skills for visual representations—prevented systematic implementation. AI generates varied content in seconds, removing time constraints whilst preserving faculty judgment about learning objectives and pedagogical appropriateness. To that extent, varied contexts elicit empathy without sacrificing doctrinal comparability.
 
-To that extent, varied contexts elicit empathy without sacrificing doctrinal comparability.
 
 ### Application three: AI-generated answers for peer evaluation practice
 
@@ -206,9 +189,8 @@ Implementation requires the professor to generate AI memoranda of specified qual
 
 The exercise prepares students for consequential peer review. After practicing evaluation on AI-generated work, students possess calibrated judgment about quality standards. They have experience articulating constructive feedback. They understand how to use rubrics. The transition to peer review of actual student work involves less anxiety because students have developed competence in low-stakes environments.
 
-This matters because peer assessment improves learning when properly executed but creates social pressures that inhibit effectiveness.[^46] Students worry about being too harsh or too lenient. They fear damaging friendships or creating enemies. They lack confidence in their evaluative judgments. These social and metacognitive barriers prevent effective peer assessment. AI-generated practice materials remove social barriers whilst building metacognitive competence. The result is peer assessment that achieves learning benefits whilst reducing stress and anxiety—a practical solution to legal education's competitive structures that isolate students and create comparison behaviors.
+This matters because peer assessment improves learning when properly executed but creates social pressures that inhibit effectiveness.[^46] Students worry about being too harsh or too lenient. They fear damaging friendships or creating enemies. They lack confidence in their evaluative judgments. These social and metacognitive barriers prevent effective peer assessment. AI-generated practice materials remove social barriers whilst building metacognitive competence. The result is peer assessment that achieves learning benefits whilst reducing stress and anxiety—a practical solution to legal education's competitive structures that isolate students and create comparison behaviors. To that extent, assessment literacy grows without social risk or grading pressure.
 
-To that extent, assessment literacy grows without social risk or grading pressure.
 
 ### Application four: emotional hypotheticals with graphics
 
@@ -230,7 +212,7 @@ Metacognitive reflection occurs when the professor presents variations with less
 
 Implementation involves designing prompts specifying desired emotional content and visual elements. The professor prompts: "Generate a negligence hypothetical involving a child injured on defective playground equipment. Include sympathetic details about the child's age and vulnerability. Create three visual elements: a diagram of the playground layout showing the defective equipment, a timeline of events leading to the injury, an image depicting the type of harm suffered." AI generates text and images in seconds. The professor reviews for doctrinal accuracy and emotional appropriateness, makes adjustments if necessary, and integrates into teaching materials.
 
-NotebookLM generates audio overviews as podcasts and video overviews with narration, enabling multimodal content creation from single sources.[^51] These tools enable faculty without graphic design skills to create professional-quality materials rapidly. The combination of emotional engagement and sensory processing creates synergistic effects where affective and visual encoding reinforce each other, producing stronger memory traces than either alone.
+NotebookLM generates audio overviews as podcasts and video overviews with narration, enabling multimodal content creation from single sources.[^51] These tools enable faculty without graphic design skills to create professional-quality materials rapidly. The combination of emotional engagement and sensory processing creates synergistic effects where affective and visual encoding reinforce each other, producing stronger memory traces than either alone. To that extent, dual‑coding enhances clarity and long‑term retention.
 
 This matters because legal education has understood that visual representations clarify complex doctrine but has lacked resources to create them systematically. Faculty teaching large sections cannot spend hours designing graphics for each hypothetical. AI removes this barrier whilst preserving pedagogical judgment about which concepts benefit from visual representation and what emotional valence serves learning objectives.
 
@@ -242,7 +224,6 @@ None of these applications requires perfect doctrinal accuracy in every detail. 
 
 The resource investment is minimal compared to manual creation. Faculty design prompts, evaluate AI outputs for appropriateness, and facilitate exercises. The content generation itself takes seconds. The pedagogical benefit—materials engaging multiple dimensions simultaneously—was theoretically available before AI but practically impossible given time constraints.
 
-To that extent, dual‑coding enhances clarity and long‑term retention.
 
 ## Competency requirements: frameworks for effective implementation
 
