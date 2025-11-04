@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pedagogics/draft.md",
+                "file": "Pedagogics/Materials/Handles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draft"
+              "title": "Handles"
             }
           },
           {
@@ -321,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pedagogics/draft.md",
+                "file": "Pedagogics/Materials/Handles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of draft"
+              "title": "Outline of Handles"
             }
           },
           {
@@ -363,9 +363,11 @@
   },
   "active": "f30bfe2b4e18663e",
   "lastOpenFiles": [
-    "Pedagogics/Drafts/draft 10 - baseline.md",
-    "Pedagogics/Materials/Important-update-sources.md",
     "Pedagogics/Drafts/draft 9 - baseline.md",
+    "Pedagogics/Drafts/draft 10 - baseline.md",
+    "Pedagogics/CHANGELOG.md",
+    "Pedagogics/draft.md",
+    "Pedagogics/Materials/Important-update-sources.md",
     "Research report review.md",
     "README.md",
     "Pedagogics/Mappings/Chapter - The Gap (Student vs Faculty Adoption).md",
@@ -384,14 +386,12 @@
     "Pedagogics/Topic maps",
     "Pedagogics/tools/map_topics.py",
     "Pedagogics/tools",
-    "Pedagogics/CHANGELOG.md",
     "Pedagogics/Materials/Handles.md",
     "Pedagogics/Outlines/My outline semiexpanded.md",
     "Pedagogics/README.md",
     "Pedagogics/AGENTS.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Pedagogics/draft.md",
     "Pedagogics/Core article argument - critical.md",
     "Untitled.canvas",
     "Pedagogics/Outlines",
