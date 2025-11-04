@@ -266,7 +266,7 @@ The choice determines whether AI adoption represents technological novelty or pe
 
 The path forward is clear. Design exercises that activate multiple handles simultaneously. Evaluate whether emotional engagement, sensory processing, social learning, and metacognitive reflection enhance achievement of specific learning objectives. Iterate based on student response and learning outcomes. Build competencies through practice rather than passive training. Share effective applications while maintaining critical awareness of limitations and equity concerns.
 
-The question is whether legal education will seize the opportunity to see past the faults of AI — past all of its hallucinations and analytical shortcomings — and realize that it can help us reach our students in ways we could not before. 
+The question is whether legal education will seize the opportunity to see past the faults of AI — past all of its hallucinations and analytical shortcomings — and realize that it can help us reach our students in ways we could not before. If we approach it as a tool of pedagogical design, rather than legal doctrine, and measure its value in engagement, rather than precision — we will be at the front of a new educational dawn. If we do not — we will be doing the same old, once again.
 
 ---
 
