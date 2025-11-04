@@ -10,6 +10,22 @@
           {
             "id": "d1bf92d1b1e23e88",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pedagogics/draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "draft"
+            }
+          },
+          {
+            "id": "d2eee7ba9a93ba0b",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -152,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pedagogics/style.md",
+                "file": "Pedagogics/draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of style"
+              "title": "Outline of draft"
             }
           },
           {
@@ -182,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,9 +220,10 @@
   },
   "active": "d1bf92d1b1e23e88",
   "lastOpenFiles": [
+    "Pedagogics/style.md",
+    "Pedagogics/draft.md",
     "Pedagogics/Drafts/draft 9 - baseline.md",
     "Pedagogics/Drafts/draft 11 - baseline.md",
-    "Pedagogics/draft.md",
     "Consumer AI throttling/AI Service Pricing Models Explained.md",
     "Consumer AI throttling/AI LLM Pricing and Contractual Analysis.md",
     "Consumer AI throttling/Pricing Practices and Fairness in Large AI LLM Pla.md",
@@ -236,7 +253,6 @@
     "Pedagogics/Materials/Important-update-sources.md",
     "Pedagogics/Research reports/Draft focusing on multiply-loaded - too long - claude.md",
     "Pedagogics/Research reports/Gemini full report - practice report.md",
-    "Pedagogics/Research reports/Opus full.md",
     "Pedagogics/Mappings",
     "Pedagogics/Topic maps",
     "Pedagogics/tools/map_topics.py",
