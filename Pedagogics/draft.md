@@ -32,7 +32,7 @@ AI use among students jumped from 66% to 92% between 2024 and 2025 in the UK.[^5
 
 At the same time, the faculty adoption lags substantially. While 45% of higher education faculty used AI tools in 2024 (up from 24% in 2023), institutional leaders estimate fewer than half of faculty use AI compared to estimates that at least half of students do so.[^7] This divergence matters: students use AI extensively for high-stakes assessment work whilst faculty deploy it primarily for low-stakes planning and administration.
 
-Students overwhelmingly report using AI to save time and to obtain explanations when support is unavailable,[^5] and survey evidence shows they explicitly request faculty guidance and curricular training.[^61] The appropriate response is not adoption parity but curricular leadership: set norms, specify permissible use, and channel AI toward learning objectives. Law schools increasingly reflect this shift through courses and other curricular opportunities.[^9] Performance evidence likewise shows that mere tool use does not improve achievement; gains arise when students use AI both to understand and to produce.[^60] To that extent, the “gap” is misframed as a race to adopt tools. It is, instead, an alignment problem solved through design awareness and course‑level integration.
+Students overwhelmingly report using AI to save time and to obtain explanations when support is unavailable,[^5] and survey evidence shows they explicitly request faculty guidance and curricular training.[^61] The appropriate response is not adoption parity but curricular leadership: set norms, specify permissible use, and channel AI toward learning objectives. Law schools increasingly reflect this shift through courses and other curricular opportunities.[^9] In legal education specifically, recent survey evidence suggests law students may be less engaged than practicing professionals, challenging simple “students ahead, faculty behind” narratives.[^65] Performance evidence likewise shows that mere tool use does not improve achievement; gains arise when students use AI both to understand and to produce.[^60] To that extent, the “gap” is misframed as a race to adopt tools. It is, instead, an alignment problem solved through design awareness and course‑level integration.
 
 The gap reflects more than technological unfamiliarity. Shata and Hartley's study of 294 faculty found 33.6% opted out of using generative AI entirely, identifying five primary reasons: insufficient knowledge, no perceived value, conflicts with professional identity, concerns about replacing critical thinking, and broader negative societal consequences.[^10] Both users and non-users expressed academic integrity concerns, but non-users associated AI with categorical harm rather than tool-specific risks.
 
@@ -40,7 +40,7 @@ This resistance stems partly from quality expectations. When AI fails to produce
 
 ## The accuracy trap: misapplied standards
 
-Hallucinations constitute documented problems. Chelli and colleagues' systematic evaluation found hallucination rates reached 39.6% for ChatGPT-3.5, 28.6% for ChatGPT-4, and 91.4% for Bard.[^11] Walters and Wilder examined 636 bibliographic citations: 55% of GPT-3.5 citations were fabricated versus 18% for GPT-4.[^12] These accuracy problems make AI unsuitable for legal research. The _Mata v. Avianca_ case exemplified risks when a New York attorney submitted briefs citing non-existent cases with fabricated ECLI numbers.[^13] A tool that fabricates citations 18-55% of the time cannot support brief writing.
+Hallucinations constitute documented problems.[^64] Chelli and colleagues' systematic evaluation found hallucination rates reached 39.6% for ChatGPT-3.5, 28.6% for ChatGPT-4, and 91.4% for Bard.[^11] Walters and Wilder examined 636 bibliographic citations: 55% of GPT-3.5 citations were fabricated versus 18% for GPT-4.[^12] These accuracy problems make AI unsuitable for legal research. The _Mata v. Avianca_ case exemplified risks when a New York attorney submitted briefs citing non-existent cases with fabricated ECLI numbers.[^13] A tool that fabricates citations 18-55% of the time cannot support brief writing.
 
 But legal education is not legal practice.
 
@@ -153,6 +153,8 @@ This matters because legal education has long recognized that memorable examples
 [^33]: John A Banas and others, 'A Review of Humor in Educational Settings' (2011) 60 Communication Education 115.
 [^62]: The Chronicle of Higher Education, Teaching Newsletter (30 January 2025) https://www.chronicle.com/newsletter/teaching/2025-01-30
 [^63]: MIT Sloan Teaching & Learning Technologies, 'When AI Gets It Wrong: Addressing AI Hallucinations and Bias' (2024) https://mitsloanedtech.mit.edu/ai/basics/addressing-ai-hallucinations-and-bias/
+[^64]: M Dahl, V Magesh, M Suzgun and D E Ho, 'Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models' (2024) arXiv:2401.01301 https://arxiv.org/abs/2401.01301
+[^65]: D Andreeva and G Savova, 'Artificial Intelligence in the Legal Field: Law Students Perspective' (2024) arXiv:2410.09937 https://arxiv.org/abs/2410.09937
 
 To that extent, this exercise integrates emotional and metacognitive handles while preserving doctrinal control.
 
