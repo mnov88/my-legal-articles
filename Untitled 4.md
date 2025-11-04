@@ -20,6 +20,12 @@ The analysis proceeds in four moves. First, it reframes the apparent student–f
 
 AI use among students jumped from 66% to 92% between 2024 and 2025 in the UK.[^1] Globally, 86% of students now use AI, with 54% using it weekly and 25% daily.[^2] Use specifically for assessments rose from 53% to 88% over the same period. Among US students, AI writing tool usage increased 82% in a single semester – from 27% in spring 2023 to 49% in fall 2023.[^3]
 
+[^1]: Higher Education Policy Institute, Student Generative AI Survey 2025 (3 March 2025) https://www.hepi.ac.uk/reports/student-generative-ai-survey-2025/
+
+[^2]: Digital Education Council, Global AI Student Survey 2024 (covering 16 countries; 86% regular use) https://www.digitaleducationcouncil.com/post/what-students-want-key-results-from-dec-global-ai-student-survey-2024
+
+[^3]: Cengage Group, GenAI Report 2024 (2024) https://www.cengagegroup.com/news/press-releases/2024/
+
 At the same time, the faculty adoption lags substantially. While 45% of higher education faculty used AI tools in 2024 (up from 24% in 2023), institutional leaders estimate fewer than half of faculty use AI compared to estimates that at least half of students do so.[^4] This divergence matters: students use AI extensively for high-stakes assessment work whilst faculty deploy it primarily for low-stakes planning and administration.
 
 Students overwhelmingly report using AI to save time and to obtain explanations when support is unavailable,[^5] and survey evidence shows they explicitly request faculty guidance and curricular training.[^6] The appropriate response is not adoption parity but curricular leadership: set norms, specify permissible use, and channel AI toward learning objectives. Law schools increasingly reflect this shift through courses and other curricular opportunities.[^7] In legal education specifically, recent survey evidence suggests law students may be less engaged than practicing professionals, challenging simple “students ahead, faculty behind” narratives.[^8] Performance evidence likewise shows that mere tool use does not improve achievement; gains arise when students use AI both to understand and to produce.[^9] To that extent, the “gap” is misframed as a race to adopt tools. It is, instead, an alignment problem solved through design awareness and course‑level integration.
