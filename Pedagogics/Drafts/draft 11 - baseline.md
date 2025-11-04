@@ -1,4 +1,4 @@
-// draft 12, 4-Nov-25 01:00
+// draft 11, 4-Nov-25 00:30
 // current draft -- references not properly added, most can be found in draft8 or in older outline with good sources -- should likely be added.
 # Beyond one-dimensional AI: multi-handle pedagogy in legal education
 
