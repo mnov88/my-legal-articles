@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pedagogics/Materials/Important-update-sources.md",
+                "file": "Pedagogics/draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important-update-sources"
+              "title": "draft"
             }
           },
           {
@@ -321,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pedagogics/Materials/Important-update-sources.md",
+                "file": "Pedagogics/draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Important-update-sources"
+              "title": "Outline of draft"
             }
           },
           {
@@ -363,6 +363,10 @@
   },
   "active": "f30bfe2b4e18663e",
   "lastOpenFiles": [
+    "Pedagogics/Drafts/draft 10 - baseline.md",
+    "Pedagogics/Materials/Important-update-sources.md",
+    "Pedagogics/Drafts/draft 9 - baseline.md",
+    "Research report review.md",
     "README.md",
     "Pedagogics/Mappings/Chapter - The Gap (Student vs Faculty Adoption).md",
     "Pedagogics/Mappings",
@@ -383,16 +387,12 @@
     "Pedagogics/CHANGELOG.md",
     "Pedagogics/Materials/Handles.md",
     "Pedagogics/Outlines/My outline semiexpanded.md",
-    "Pedagogics/Materials/Important-update-sources.md",
     "Pedagogics/README.md",
     "Pedagogics/AGENTS.md",
     "Untitled 3.md",
     "Untitled 1.md",
     "Pedagogics/draft.md",
     "Pedagogics/Core article argument - critical.md",
-    "Pedagogics/Older outline -- good sources -- use to supplant references.md",
-    "Pedagogics/style.md",
-    "Prompting/Style revised.md",
     "Untitled.canvas",
     "Pedagogics/Outlines",
     "Pedagogics/Drafts",

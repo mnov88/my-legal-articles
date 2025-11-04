@@ -41,6 +41,35 @@ Refs:
 
 ## Example
 
+## 2025-11-04 — Draft 10: gap reframing + accuracy criterion + style fixes
+Author: ML
+Affected files: draft.md, Drafts/draft 9 - baseline.md
+
+Summary:
+- Advanced to draft 10. Fixed broken definition of “multi-handle pedagogy,” added roadmap signposting, reframed the student–faculty “gap” toward curricular leadership, clarified the “accuracy trap” criterion and forward reference, added closers to each application, adjusted headings to sentence case, and removed bold micro‑headers in competency section. Kept changes under ~360 words.
+
+Sections touched:
+- Introduction; The gap; The accuracy trap; Multi‑handle pedagogy; Applications I–IV; Competency requirements
+
+Key decisions and rationale:
+- Style compliance per style.md (sentence case headers; no bold micro‑headers in prose); added crystallizing conclusions.
+- No new sections; surgical edits only to preserve structure and word budget.
+
+Sources added/updated:
+- Reused existing footnotes in “Gap” section; no new footnotes introduced.
+
+Checks:
+- OSCOLA footnotes renumbered: not required (no new markers)
+- Signposting and crystallizing conclusions verified: yes
+
+Next actions:
+- If desired, attach explicit citations for EDUCAUSE/ABA curricular response in “Gap” paragraph and reconcile footnote numbers across the manuscript.
+
+Refs:
+- Draft snapshot: Drafts/draft 9 - baseline.md
+
+---
+
 ## 2025-11-03 — Reframed central analogy
 Author: ML
 Affected files: draft.md, Drafts/draft 9 - framing.md

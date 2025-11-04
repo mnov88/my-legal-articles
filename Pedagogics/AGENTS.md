@@ -6,9 +6,10 @@
 - Sources and notes: `Materials/`.
 - Outlines: `Outlines/`.
 - External analyses: `Research reports/`.
+- Resource maps: `Mappings/` (per‑chapter tables consolidating sources + refs).
 - Style rules: `style.md` (mandatory). General context: `README.md`.
 
-Workflow: On a major edit, copy the current `draft.md` to `Drafts/` with the next number, then continue in `draft.md`. Record each major change in `CHANGELOG.md` (newest entry on top).
+Workflow: On a major edit, copy the current `draft.md` to `Drafts/` with the next number, then continue in `draft.md`. Record each major change in `CHANGELOG.md` (newest entry on top). For literature synthesis, maintain per‑chapter maps in `Mappings/`.
 
 ## Build, Preview, and Lint
 - No build step required; files are Markdown.

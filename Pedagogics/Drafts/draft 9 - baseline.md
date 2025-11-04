@@ -1,12 +1,12 @@
-// draft 11, 4-Nov-25 00:30
+// draft 9, 3-Nov-25 21:00
 // current draft -- references not properly added, most can be found in draft8 or in older outline with good sources -- should likely be added.
-# Beyond one-dimensional AI: multi-handle pedagogy in legal education
+# Beyond One-Dimensional AI: Multi-Handle Pedagogy in Legal Education
 
 A contracts professor asks students to use AI to generate the funniest possible half-page summary of yesterday's lecture on consideration doctrine. The only rule: maintain doctrinal accuracy. Students work for ten minutes, submit anonymously, and vote on the most effective summaries. One winner depicts consideration as "the legal world's weirdest currency—where a peppercorn counts but love doesn't, and promising to stop playing bagpipes at 3am is apparently worth money." The class laughs. Then the professor asks: "Why will you remember consideration doctrine from this exercise?"
 
 The answers reveal what happened pedagogically. The humor triggered emotional engagement—dopamine release that strengthens memory encoding. Creating humor required metacognitive evaluation—students couldn't make doctrine funny without understanding what makes it counterintuitive or absurd. Sharing summaries activated social learning—peer feedback calibrated judgment about what makes legal explanation both accurate and memorable. A single ten-minute exercise therefore engaged emotional, metacognitive, and social dimensions simultaneously.
 
-This paper terms this a “multi-handle pedagogy”: intentionally designing single learning objects that engage emotional, social, sensory, metacognitive, and rational handles concurrently (also described in prior work as “multiply-loaded pedagogy”).
+This paper terms such pedagogical approach a 'multi-handle pedagogy': generating learning objects that engage multiple pedagogical dimensions concurrently within single activities — presents 
 
 Without AI, creating even five humorous examples would have taken hours.
 
@@ -24,21 +24,17 @@ This analysis demonstrates how AI enables multi-handle pedagogy through four spe
 
 The argument's stakes extend beyond technological adoption. Legal education can continue using AI for efficiency—summarizing longer into shorter, automating feedback—whilst missing the technology's distinctive contribution. Or it can reconceptualize AI as enabling pedagogical strategies that resource constraints prevented for decades. Multi-handle pedagogy represents this reconceptualization.
 
-The analysis proceeds as follows: it reframes the student–faculty adoption gap; clarifies why accuracy metrics mislead for pedagogical materials; demonstrates four applications of multi‑handle design; and identifies the competencies required for design‑aware implementation.
+## The Gap: Student Use Outpaces Faculty Adoption
 
-## The gap: student use outpaces faculty adoption
-
-AI use among students jumped from 66% to 92% between 2024 and 2025 in the UK.[^5] Globally, 86% of students now use AI, with 54% using it weekly and 25% daily.[^59] Use specifically for assessments rose from 53% to 88% over the same period. Among US students, AI writing tool usage increased 82% in a single semester—from 27% in spring 2023 to 49% in fall 2023.[^6]
+AI use among students jumped from 66% to 92% between 2024 and 2025 in the UK.[^5] Globally, 86% of students now use AI, with 54% using it weekly and 25% daily. Use specifically for assessments rose from 53% to 88% over the same period. Among US students, AI writing tool usage increased 82% in a single semester—from 27% in spring 2023 to 49% in fall 2023.[^6]
 
 At the same time, the faculty adoption lags substantially. While 45% of higher education faculty used AI tools in 2024 (up from 24% in 2023), institutional leaders estimate fewer than half of faculty use AI compared to estimates that at least half of students do so.[^7] This divergence matters: students use AI extensively for high-stakes assessment work whilst faculty deploy it primarily for low-stakes planning and administration.
-
-Students overwhelmingly report using AI to save time and to obtain explanations when support is unavailable,[^5] and survey evidence shows they explicitly request faculty guidance and curricular training.[^61] The appropriate response is not adoption parity but curricular leadership: set norms, specify permissible use, and channel AI toward learning objectives. Law schools increasingly reflect this shift through courses and other curricular opportunities.[^9] Performance evidence likewise shows that mere tool use does not improve achievement; gains arise when students use AI both to understand and to produce.[^60] To that extent, the “gap” is misframed as a race to adopt tools. It is, instead, an alignment problem solved through design awareness and course‑level integration.
 
 The gap reflects more than technological unfamiliarity. Shata and Hartley's study of 294 faculty found 33.6% opted out of using generative AI entirely, identifying five primary reasons: insufficient knowledge, no perceived value, conflicts with professional identity, concerns about replacing critical thinking, and broader negative societal consequences.[^10] Both users and non-users expressed academic integrity concerns, but non-users associated AI with categorical harm rather than tool-specific risks.
 
 This resistance stems partly from quality expectations. When AI fails to produce accurate doctrine—and it often does—faculty reject the technology entirely. This rejection extends to applications where accuracy matters far less than other qualities. Understanding why requires examining what AI actually gets wrong and why it matters less than assumed for pedagogical content.
 
-## The accuracy trap: misapplied standards
+## The Accuracy Trap: Misapplied Standards
 
 Hallucinations constitute documented problems. Chelli and colleagues' systematic evaluation found hallucination rates reached 39.6% for ChatGPT-3.5, 28.6% for ChatGPT-4, and 91.4% for Bard.[^11] Walters and Wilder examined 636 bibliographic citations: 55% of GPT-3.5 citations were fabricated versus 18% for GPT-4.[^12] These accuracy problems make AI unsuitable for legal research. The _Mata v. Avianca_ case exemplified risks when a New York attorney submitted briefs citing non-existent cases with fabricated ECLI numbers.[^13] A tool that fabricates citations 18-55% of the time cannot support brief writing.
 
@@ -58,19 +54,13 @@ The same principle applies to empathy development. A professor wants students to
 
 Or consider peer evaluation practice. Students struggle with assessment literacy—understanding what distinguishes excellent from adequate from poor legal analysis. The professor wants students to practice evaluation skills before reviewing peer work, reducing social stakes whilst building competence. AI generates legal memoranda of varying quality. Students practice identifying strengths and weaknesses without judging classmates. Whether the AI-generated memo cites real cases is pedagogically irrelevant. What matters is whether the analysis demonstrates the targeted skill level accurately enough for students to calibrate their assessment.
 
-The criterion for pedagogical quality here is not citational correctness but whether materials reliably elicit engagement, clarify doctrine, and support durable learning. To that extent, the analysis now turns to four applications that operationalize this standard in concrete classroom practice.
-
-[^59]: Digital Education Council, Global AI Student Survey 2024 (covering 16 countries; 86% regular use) https://www.digitaleducationcouncil.com/post/what-students-want-key-results-from-dec-global-ai-student-survey-2024
-[^60]: J R Freidhoff, AI in Education: Student Usage in Online Learning (Michigan Virtual Research Publications 2024) https://michiganvirtual.org/research/publications/ai-in-education-student-usage-in-online-learning/
-[^61]: B Watwood, C Crawford and T A Dousay, 'Using Student Data to Bridge the AI Divide' (2024) EDUCAUSE Review https://er.educause.edu/articles/2024/4/using-student-data-to-bridge-the-ai-divide
-
 The accuracy trap operates through category error. Faculty evaluate AI's suitability for education using criteria appropriate for legal research—precision, citation accuracy, doctrinal correctness. But pedagogical materials serve different functions than research tools. They need engagement, variation, emotional resonance, multiple perspectives, and rapid generation. Traditional case method materials served both functions simultaneously—authoritative doctrine _and_ pedagogical hypotheticals. This alignment created false expectations for AI.
 
 The technology can generate pedagogical scenarios engaging multiple learning dimensions without producing authoritative doctrine. This is not a bug. It is precisely the use case where AI's distinctive capacities shine—rapid generation of varied, emotionally engaging, contextually rich content that would take faculty hours to craft manually.
 
 Understanding this distinction changes the calculus. AI becomes valuable not because it produces perfect doctrine, but because it generates pedagogical materials that engage students more deeply than faculty could produce manually given time constraints. The accuracy trap dissolves when educators stop expecting AI to serve as authoritative source and start deploying it as content generator for scaffolded learning.
 
-## Multi-handle pedagogy: theory meets practice
+## Multi-Handle Pedagogy: Theory Meets Practice
 
 The accuracy trap dissolves when we recognize that pedagogical effectiveness depends less on doctrinal precision than on engagement across multiple dimensions. Legal education has understood this for decades but lacked resources to implement it systematically. Four pedagogical "handles"—emotional, sensory, social, and metacognitive—operate through well-established mechanisms. Before demonstrating how AI enables activating these handles simultaneously, each requires brief theoretical foundation.
 
@@ -94,7 +84,7 @@ These four handles operate through well-established mechanisms. Educational psyc
 
 AI changes this equation. The technology generates emotionally engaging scenarios in seconds. It produces visual representations from text descriptions. It creates content for social learning exercises without competitive pressure. It scaffolds metacognitive reflection through adaptive prompting. Most significantly, it can activate multiple handles within single generated objects—the multi-loading that represents AI's distinctive pedagogical contribution.
 
-### Application one: humorous lecture summaries
+### Application One: Humorous Lecture Summaries
 
 Return to the opening example. A contracts professor assigns students to use AI to generate the funniest possible half-page summary of consideration doctrine. Students must ensure doctrinal accuracy whilst maximizing humor. They submit anonymously. The class votes on effectiveness. The professor discusses what makes certain summaries both accurate and memorable.
 
@@ -120,43 +110,9 @@ This matters because legal education has long recognized that memorable examples
 
 ---
 
-[^1]: Examples from institutional implementations documented in surveys discussed infra.
-[^2]: Richard E Mayer, Multimedia Learning (2nd edn, Cambridge University Press 2009).
-[^3]: Detailed examination follows in section 2.
-[^4]: Lawrence S Krieger and Kennon M Sheldon, 'What Makes Lawyers Happy?' (2015) 83 Geo Wash L Rev 554.
-[^5]: Higher Education Policy Institute, Student Generative AI Survey 2025 (3 March 2025) https://www.hepi.ac.uk/reports/student-generative-ai-survey-2025/
-[^6]: Cengage Group, GenAI Report 2024 (2024) https://www.cengagegroup.com/news/press-releases/2024/
-[^7]: Ellucian, AI in Higher Education Survey (2024) https://www.ellucian.com; Elon University and AAC&U, Survey of Higher Education Leaders (2024) https://www.aacu.org
-[^8]: Notre Dame Law School, 'Harvey AI Partnership Announcement' (2024) https://law.nd.edu
-[^9]: ABA Task Force on Law and Artificial Intelligence, 'AI and Legal Education Survey Results' (June 2024) https://www.americanbar.org/news/abanews/aba-news-archives/2024/06/aba-task-force-law-and-ai-survey/
-[^10]: Doaa Shata and Ryan L Hartley, 'Generative AI in Higher Education' (2024) 32 International Journal of Educational Technology in Higher Education 1.
-[^11]: Shadi Chelli and others, 'Large Language Models in Systematic Reviews' (2024) 25 BMC Medical Research Methodology 112.
-[^12]: William H Walters and Esther Isabelle Wilder, 'Fabrication in Bibliographic Citations' (2023) 13 Scientific Reports 14045.
-[^13]: Mata v Avianca Inc No 22-cv-1461 (PKC) (SDNY 2023).
-[^14]: Statistics compiled from HEPI Survey 2025 and institutional reports.
-[^15]: Reinhard Pekrun, 'Control-Value Theory of Achievement Emotions' (2006) 18 Educational Psychology Review 315.
-[^16]: Mary Helen Immordino-Yang and Antonio Damasio, 'We Feel, Therefore We Learn' (2007) 1 Mind, Brain, and Education 3.
-[^17]: Kevin S LaBar and Roberto Cabeza, 'Cognitive Neuroscience of Emotional Memory' (2006) 7 Nature Reviews Neuroscience 54.
-[^18]: Fiona Gerdy, 'Clients, Empathy, and Compassion' (2008) 87 Nebraska Law Review 1.
-[^19]: Allan Paivio, Mental Representations: A Dual Coding Approach (Oxford University Press 1990).
-[^20]: Mayer (n 2).
-[^21]: Ghulam Shabiralyani and others, 'Impact of Visual Aids' (2015) 6 J Education and Practice 226.
-[^22]: Daire McLachlan and Lisa Webley, 'Visualisations of Law' (2019) 26 International Journal of the Legal Profession 195.
-[^23]: Lev S Vygotsky, Mind in Society (Harvard University Press 1978).
-[^24]: David W Johnson and others, 'Cooperative Learning Returns to College' (1998) 30 Change 26.
-[^25]: Nancy Levit and Douglas O Linder, The Happy Lawyer (Oxford University Press 2010).
-[^26]: Kevin D Ashley and Ilya Goldin, 'Supporting Assess As You Go' (2011) 22 Journal of Law and Policy 759.
-[^27]: John H Flavell, 'Metacognition and Cognitive Monitoring' (1979) 34 American Psychologist 906.
-[^28]: Barry J Zimmerman, 'Self-Regulated Learning' (1990) 25 Educational Psychologist 3.
-[^29]: Education Endowment Foundation, 'Metacognition and Self-Regulation' (2023) https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation
-[^30]: Timothy Casey, 'Reflective Practice in Legal Education' (2014) 20 Clinical Law Review 317.
-[^31]: Marsha C Lovett, 'Make Exams Worth More Than the Grade' in Matthew Kaplan and others (eds), Using Reflection and Metacognition (Stylus 2013).
-[^32]: James and Legg [citation to be confirmed].
-[^33]: John A Banas and others, 'A Review of Humor in Educational Settings' (2011) 60 Communication Education 115.
+[^1]: Examples from institutional implementations documented in surveys discussed infra. [^2]: Richard E Mayer, _Multimedia Learning_ (Cambridge University Press 2009); Michelene TH Chi and Ruth Wylie, 'The ICAP Framework' (2014) 49 Educational Psychologist 219. [^3]: Detailed examination follows in section 2. [^4]: Lawrence S Krieger and Kennon M Sheldon, 'What Makes Lawyers Happy?' (2015) 83 Geo Wash L Rev 554. [^5]: HEPI, 'Student Generative AI Survey 2025' (2025). [^6]: Cengage Group, 'GenAI Report 2024' (2024). [^7]: Ellucian, 'AI in Higher Education Survey' (2024); Elon University, 'Survey of Higher Education Leaders' (2024). [^8]: Notre Dame Law School, 'Harvey AI Partnership Announcement' (2024). [^9]: ABA Task Force on Law and Artificial Intelligence, 'Survey Results' (June 2024). [^10]: Doaa Shata and Ryan L Hartley, 'Generative AI in Higher Education' (2024) 32 Intl J Educational Technology in Higher Education 1. [^11]: Shadi Chelli and others, 'Large Language Models in Systematic Reviews' (2024) 25 BMC Medical Research Methodology 112. [^12]: William H Walters and Esther Isabelle Wilder, 'Fabrication in Bibliographic Citations' (2023) 13 Scientific Reports 14045. [^13]: _Mata v Avianca Inc_ No 22-cv-1461 (PKC) (SDNY 2023). [^14]: Statistics compiled from HEPI Survey 2025 and institutional reports. [^15]: Reinhard Pekrun, 'Control-Value Theory of Achievement Emotions' (2006) 18 Educational Psychology Review 315. [^16]: Mary Helen Immordino-Yang and Antonio Damasio, 'We Feel, Therefore We Learn' (2007) 1 Mind, Brain, and Education 3. [^17]: Kevin S LaBar and Roberto Cabeza, 'Cognitive Neuroscience of Emotional Memory' (2006) 7 Nature Reviews Neuroscience 54. [^18]: Fiona Gerdy, 'Clients, Empathy, and Compassion' (2008) 87 Nebraska Law Review 1. [^19]: Allan Paivio, _Mental Representations: A Dual Coding Approach_ (Oxford University Press 1990). [^20]: Mayer (n 2). [^21]: Ghulam Shabiralyani and others, 'Impact of Visual Aids' (2015) 6 J Education and Practice 226. [^22]: Daire McLachlan and Lisa Webley, 'Visualisations of Law' (2019) 26 Intl J Legal Profession 195. [^23]: Lev S Vygotsky, _Mind in Society_ (Harvard University Press 1978). [^24]: David W Johnson and others, 'Cooperative Learning Returns to College' (1998) 30 Change 26. [^25]: Nancy Levit and Douglas O Linder, _The Happy Lawyer_ (Oxford University Press 2010). [^26]: Kevin D Ashley and Ilya Goldin, 'Supporting Assess As You Go' (2011) 22 J Law and Policy 759. [^27]: John H Flavell, 'Metacognition and Cognitive Monitoring' (1979) 34 American Psychologist 906. [^28]: Barry J Zimmerman, 'Self-Regulated Learning' (1990) 25 Educational Psychologist 3. [^29]: Education Endowment Foundation, 'Metacognition and Self-Regulation' (2023). [^30]: Timothy Casey, 'Reflective Practice in Legal Education' (2014) 20 Clinical Law Review 317. [^31]: Marsha C Lovett, 'Make Exams Worth More Than the Grade' in Matthew Kaplan and others (eds), _Using Reflection and Metacognition_ (Stylus 2013). [^32]: James and Legg [citation to be confirmed]. [^33]: John A Banas and others, 'Review of Humor in Educational Settings' (2011) 20 Communication Education 115.
 
-To that extent, this exercise integrates emotional and metacognitive handles while preserving doctrinal control.
-
-### Application two: doctrinally similar, factually varied scenarios
+### Application Two: Doctrinally Similar, Factually Varied Scenarios
 
 A criminal law professor uses AI to generate five variations of a Fourth Amendment search-and-seizure scenario. The doctrinal elements remain constant: whether police have reasonable suspicion for a Terry stop based on matching general description from radio call. The factual contexts vary to elicit different emotional responses: elderly white woman in affluent neighborhood, young Black man in low-income neighborhood, Middle Eastern person near airport, person with visible disabilities, well-dressed professional in business district. Students analyze whether the legal standard applies identically across contexts and why their intuitive reactions might differ from legal analysis.
 
@@ -182,9 +138,7 @@ Faculty time investment is front-loaded into prompt design but minimal thereafte
 
 This matters because legal education has long emphasized that lawyers must understand how legal principles apply across varied contexts. The contextual case method pairs opinions with other perspectives, exploring complexities that went unaddressed.[^40] By humanizing opinions and encouraging students to "imagine a different legal world," this pedagogical approach benefits from AI's capacity to generate alternative contexts rapidly. Faculty could theoretically create such materials manually. The resource investment—hours per scenario set, design skills for visual representations—prevented systematic implementation. AI generates varied content in seconds, removing time constraints whilst preserving faculty judgment about learning objectives and pedagogical appropriateness.
 
-To that extent, varied contexts elicit empathy without sacrificing doctrinal comparability.
-
-### Application three: AI-generated answers for peer evaluation practice
+### Application Three: AI-Generated Answers for Peer Evaluation Practice
 
 A legal writing professor assigns students to evaluate three legal memoranda addressing the same issue. The memoranda vary in quality: one excellent with clear IRAC structure and effective use of authority, one adequate but with organizational problems, one poor with conclusory analysis and citation errors. Students do not know the memoranda are AI-generated. Working in pairs, students complete evaluation rubrics assessing legal analysis, use of authority, writing clarity, and citation format. The professor then reveals the memoranda were AI-generated, discusses evaluation rubrics, and assigns peer evaluation of actual student work.
 
@@ -206,9 +160,7 @@ The exercise prepares students for consequential peer review. After practicing e
 
 This matters because peer assessment improves learning when properly executed but creates social pressures that inhibit effectiveness.[^46] Students worry about being too harsh or too lenient. They fear damaging friendships or creating enemies. They lack confidence in their evaluative judgments. These social and metacognitive barriers prevent effective peer assessment. AI-generated practice materials remove social barriers whilst building metacognitive competence. The result is peer assessment that achieves learning benefits whilst reducing stress and anxiety—a practical solution to legal education's competitive structures that isolate students and create comparison behaviors.
 
-To that extent, assessment literacy grows without social risk or grading pressure.
-
-### Application four: emotional hypotheticals with graphics
+### Application Four: Emotional Hypotheticals with Graphics
 
 A torts professor uses AI to generate a negligence hypothetical involving a sympathetic plaintiff—a child injured on defective playground equipment. The professor prompts AI to create visual representations: a diagram showing physical layout of the accident scene, a timeline showing sequence of events, images depicting the type of harm suffered. Students analyze negligence elements whilst processing both textual and visual information. The professor then generates variations with less sympathetic plaintiffs to examine how emotional responses influence legal analysis.
 
@@ -240,11 +192,7 @@ None of these applications requires perfect doctrinal accuracy in every detail. 
 
 The resource investment is minimal compared to manual creation. Faculty design prompts, evaluate AI outputs for appropriateness, and facilitate exercises. The content generation itself takes seconds. The pedagogical benefit—materials engaging multiple dimensions simultaneously—was theoretically available before AI but practically impossible given time constraints.
 
-To that extent, dual‑coding enhances clarity and long‑term retention.
-
-## Competency requirements: frameworks for effective implementation
-
-This section synthesizes UDL’s diagnostic lens with TPACK and AI literacy to define the competencies required for multi‑handle, design‑aware implementation.
+## Competency Requirements: Frameworks for Effective Implementation
 
 Multi-loading does not occur automatically. Simply using AI tools does not guarantee generated content engages multiple pedagogical dimensions effectively. A professor can prompt AI to create a hypothetical, receive output in seconds, and present it to students—yet achieve only superficial engagement if the exercise lacks intentional design. The difference between multi-loading and mere tech-use depends on faculty competencies in three areas: pedagogical frameworks guiding intentional design, AI literacy enabling effective prompting and evaluation, and metacognitive awareness of when multi-dimensional engagement serves learning objectives.
 
@@ -252,15 +200,15 @@ Multi-loading does not occur automatically. Simply using AI tools does not guara
 
 UDL guides decisions about which handles to activate for specific learning objectives. A professor designing a contracts exercise must ask: What barriers prevent students from engaging with consideration doctrine? Perhaps abstract concepts need visual representation. Perhaps lack of emotional engagement prevents memory encoding. Perhaps competitive pressure inhibits collaborative discussion. UDL principles help diagnose barriers and select appropriate interventions.
 
-Technological pedagogical content knowledge provides frameworks for integrating AI into multi-loading design.[^53] TPACK integrates three knowledge bases—understanding subject matter, knowing effective teaching methods, and recognizing how technology transforms both content and pedagogy. This prevents technology-driven rather than pedagogy-driven decisions. A professor should not use AI to generate visual representations because the technology can produce images rapidly. The professor should identify that visual representations would clarify spatial relationships in property doctrine that text alone cannot convey efficiently, then deploy AI to generate appropriate visuals.
+**Technological Pedagogical Content Knowledge** provides frameworks for integrating AI into multi-loading design.[^53] TPACK integrates three knowledge bases—understanding subject matter, knowing effective teaching methods, and recognizing how technology transforms both content and pedagogy. This prevents technology-driven rather than pedagogy-driven decisions. A professor should not use AI to generate visual representations because the technology can produce images rapidly. The professor should identify that visual representations would clarify spatial relationships in property doctrine that text alone cannot convey efficiently, then deploy AI to generate appropriate visuals.
 
 The humorous summary exercise demonstrates TPACK integration. Content knowledge: understanding consideration doctrine sufficiently to evaluate whether student-generated humor maintains accuracy. Pedagogical knowledge: recognizing that humor engages emotional and metacognitive handles whilst reducing competitive pressure. Technology knowledge: understanding that AI can generate varied humorous examples rapidly whilst requiring human evaluation of appropriateness. The integration: designing prompts that scaffold student creation of content engaging multiple handles, evaluating outputs for doctrinal accuracy, and facilitating discussion that develops metacognitive awareness.
 
-AI literacy extends beyond technical proficiency. Long and Magerko defined AI literacy as abilities to critically evaluate AI, communicate with AI, and utilize AI as tools.[^54] Digital Promise's 2024 framework articulated three modes: UNDERSTAND acquiring basic AI knowledge, EVALUATE centering human judgment to critically consider benefits and costs, and USE encompassing interact, create, and problem-solve applications.[^55] These frameworks emphasize human judgment as the critical competency. AI generates outputs rapidly. Faculty must evaluate whether outputs achieve pedagogical purposes.
+**AI Literacy** extends beyond technical proficiency. Long and Magerko defined AI literacy as abilities to critically evaluate AI, communicate with AI, and utilize AI as tools.[^54] Digital Promise's 2024 framework articulated three modes: UNDERSTAND acquiring basic AI knowledge, EVALUATE centering human judgment to critically consider benefits and costs, and USE encompassing interact, create, and problem-solve applications.[^55] These frameworks emphasize human judgment as the critical competency. AI generates outputs rapidly. Faculty must evaluate whether outputs achieve pedagogical purposes.
 
 The peer evaluation exercise demonstrates AI literacy requirements. The professor must understand that AI can generate legal memoranda of specified quality levels—the technological capability. The professor must evaluate whether AI-generated memoranda exhibit weaknesses students need practice identifying—the pedagogical alignment. The professor must consider whether revealing that memoranda are AI-generated enhances or undermines the exercise—the ethical dimension. The professor must judge whether practicing on AI-generated content genuinely prepares students for peer review or merely creates an illusion of preparation—the critical evaluation.
 
-Faculty development must address these competencies systematically. Mah and Groß studied 122 faculty from German institutions, identifying four profiles: Optimistic (33.5%), Critical (27.3%), Critically Reflected (33.9%), and Neutral (5.3%).[^56] The Critically Reflected profile—agreeing with both benefits and challenges—represents the stance appropriate for multi-loading design. Faculty should recognize AI's capacity to generate content engaging multiple handles whilst remaining aware of limitations requiring human oversight.
+**Faculty Development** must address these competencies systematically. Mah and Groß studied 122 faculty from German institutions, identifying four profiles: Optimistic (33.5%), Critical (27.3%), Critically Reflected (33.9%), and Neutral (5.3%).[^56] The Critically Reflected profile—agreeing with both benefits and challenges—represents the stance appropriate for multi-loading design. Faculty should recognize AI's capacity to generate content engaging multiple handles whilst remaining aware of limitations requiring human oversight.
 
 Professional development must move beyond tool tutorials. Faculty need practice designing prompts that specify pedagogical properties, not just content topics. Effective development teaches faculty to analyze learning objectives, identify which handles would enhance achievement, design prompts specifying desired properties, and evaluate outputs for pedagogical appropriateness.
 
