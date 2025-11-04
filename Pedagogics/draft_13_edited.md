@@ -264,6 +264,10 @@ Multi-handle pedagogy represents AI's distinctive contribution to legal educatio
 
 The choice determines whether AI adoption represents technological novelty or pedagogical evolution. To that extent, the answer lies in implementation—not eventual implementation in speculative futures, but systematic deployment beginning now with the tools, frameworks, and research base that already exist.
 
+The path forward is clear. Design exercises that activate multiple handles simultaneously. Evaluate whether emotional engagement, sensory processing, social learning, and metacognitive reflection enhance achievement of specific learning objectives. Iterate based on student response and learning outcomes. Build competencies through practice rather than passive training. Share effective applications while maintaining critical awareness of limitations and equity concerns.
+
+The question is whether legal education will seize the opportunity to see past the faults of AI — past all of its hallucinations and analytical shortcomings — and realize that it can help us reach our students in ways we could not before. 
+
 ---
 
 [^34]: Hadi Alinezhad Noghabi and others, 'AI-Generated Storytelling for Socially Just EFL Pedagogy' (2024) 42 System 103.
