@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Pedagogics/draft_13_edited.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "draft_13_edited"
             }
           }
         ]
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Pedagogics/draft_13_edited.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of draft_13_edited"
             }
           },
           {
@@ -241,6 +241,7 @@
   "active": "2d381d6e264603cd",
   "lastOpenFiles": [
     "Pedagogics/draft.md",
+    "Pedagogics/draft_13_edited.md",
     "Untitled 2.md",
     "Pedagogics/style.md",
     "Pedagogics/Drafts/draft 9 - baseline.md",
@@ -272,7 +273,6 @@
     "Pedagogics/Outlines/My outline semiexpanded.md",
     "Pedagogics/Materials/Handles.md",
     "Pedagogics/Materials/Important-update-sources.md",
-    "Pedagogics/Research reports/Draft focusing on multiply-loaded - too long - claude.md",
     "Pedagogics/Mappings",
     "Pedagogics/Topic maps",
     "Pedagogics/tools/map_topics.py",
