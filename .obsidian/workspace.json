@@ -170,9 +170,19 @@
               "icon": "highlighter",
               "title": "HiNote"
             }
+          },
+          {
+            "id": "3467146ebddc947f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
