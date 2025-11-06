@@ -76,7 +76,9 @@
     "Per-Unit Pricing Gemini.md": "per-unit_pricing_gemini.md.json",
     "Consumer AI throttling/Per-Unit Pricing Gemini.md": "consumer_ai_throttling_per-unit_pricing_gemini.md.json",
     "Token-based pricing Gemini.md": "token-based_pricing_gemini.md.json",
-    "Consumer AI throttling/Token-based pricing Gemini.md": "consumer_ai_throttling_token-based_pricing_gemini.md.json"
+    "Consumer AI throttling/Token-based pricing Gemini.md": "consumer_ai_throttling_token-based_pricing_gemini.md.json",
+    "Credit-Based Pricing Gemini.md": "credit-based_pricing_gemini.md.json",
+    "Consumer AI throttling/Credit-Based Pricing Gemini.md": "consumer_ai_throttling_credit-based_pricing_gemini.md.json"
   },
-  "lastUpdated": 1762450400480
+  "lastUpdated": 1762450448769
 }
