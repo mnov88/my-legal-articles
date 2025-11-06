@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/AI Service Pricing Models Explained.md",
+                "file": "Untitled 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Service Pricing Models Explained"
+              "title": "Outline of Untitled 4"
             }
           },
           {
@@ -282,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8db60ba32637ed8b",
+  "active": "265f58e2ad595b18",
   "lastOpenFiles": [
+    "Consumer AI throttling/AI Service Pricing Models Explained.md",
     "Consumer AI throttling/ai_llm_contractual_terms_2025.md",
     "Consumer AI throttling/Consumers gemini report general service throttling.md",
     "Consumer AI throttling/Perplexity consumers general service EU framework.md",
@@ -297,7 +298,6 @@
     "Consumer AI throttling/AI Pricing Models in 2025_ A Comprehensive Analysi.md",
     "Consumer AI throttling/AI LLM Pricing and Contractual Analysis.md",
     "Consumer AI throttling/Pricing Practices and Fairness in Large AI LLM Pla.md",
-    "Consumer AI throttling/AI Service Pricing Models Explained.md",
     "Untitled 6.md",
     "Untitled 5.md",
     "Pedagogics/draft.md",
