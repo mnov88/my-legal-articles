@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Let us assume the following hypothetical: a company is offering an online service for a fixed price, but does not quantify how much access to the service/uptime/usage is included - it uses exceptionally vague language. Let us map a broad set of EU consumer protection law rules, including primary and secondary regulation, CJEU judgements, guidelines, reports, official documents, studies in a list. Following this, let’s assess the compliance of such practice in a legal academic post-doctoral text. Zero generalizations and fluff: deep doctrinal analysis where every sentence makes a specific point, and not a sweeping policy statement. Let’s also include a document with table of sources/legislation with links, relevant quotes and explanation of relevance.
-
-Now I'll proceed to write the comprehensive academic analysis based on all the research gathered.
 
 # EU Consumer Protection Law and Vague Service Terms: A Doctrinal Analysis
 
