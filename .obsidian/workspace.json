@@ -41,20 +41,32 @@
             "id": "d3098eb51243124f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
-                "page": 2,
-                "left": -13,
-                "top": 407,
-                "zoom": 1.25
+                "file": "Consumer AI throttling/Tier-based/RQ1-Information-Asymmetry.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "RQ1-Information-Asymmetry-Decision-Making"
+              "icon": "lucide-file",
+              "title": "RQ1-Information-Asymmetry"
+            }
+          },
+          {
+            "id": "b68f7a135c99cee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tier-based Gemini.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tier-based Gemini"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
+                "file": "Tier-based Gemini.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RQ1-Information-Asymmetry-Decision-Making"
+              "title": "Outline of Tier-based Gemini"
             }
           },
           {
@@ -261,15 +273,16 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "30b35ab29aee2758",
+  "active": "b68f7a135c99cee4",
   "lastOpenFiles": [
+    "Consumer AI throttling/Tier-based/RQ1-Information-Asymmetry.md",
+    "Tier-based Gemini.md",
+    "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
     "Consumer AI throttling/Tier-based/RQ3-4-5-Integrated-Framework.md",
     "Consumer AI throttling/Tier-based/RQ2-Value-Cost-Alignment.md",
-    "Consumer AI throttling/Tier-based/RQ1-Information-Asymmetry.md",
     "Consumer AI throttling/Tier-based/Comprehensive-Effects-Matrix.md",
     "Consumer AI throttling/Tier-based",
     "Untitled 7.md",
-    "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
     "Consumer AI throttling/Token based/Token-based pricing Gemini.md",
     "Per-token Gemini.md",
     "Consumer AI throttling/Call based/Per-Unit Pricing Gemini.md",
@@ -292,7 +305,6 @@
     "Consumer AI throttling/Case law/62015CJ0191.md",
     "Consumer AI throttling/Case law/62022CJ0646.md",
     "Consumer AI throttling/Case law/62023CJ0472.md",
-    "Consumer AI throttling/Case law/62024CJ0039.md",
     "Consumer AI throttling/Call based",
     "Consumer AI throttling/Token based/RQ4-5-Market-Structure-Sustainability.pdf",
     "Consumer AI throttling/Token based/RQ3-Behavioral-Effects-Usage-Patterns.pdf",
