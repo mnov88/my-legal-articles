@@ -186,7 +186,9 @@
     "Consumer AI throttling/Call based/Per-Unit Pricing Gemini.md": "consumer_ai_throttling_call_based_per-unit_pricing_gemini.md.json",
     "Consumer AI throttling/Let us assume the following hypothetical_ a compan.md": "consumer_ai_throttling_let_us_assume_the_following_hypothetical__a_compan.md.json",
     "Consumer AI throttling/Doctrinal analysis Perplexity.md": "consumer_ai_throttling_doctrinal_analysis_perplexity.md.json",
-    "Per-token Gemini.md": "per-token_gemini.md.json"
+    "Per-token Gemini.md": "per-token_gemini.md.json",
+    "Tier-based": "tier-based.json",
+    "Consumer AI throttling/Tier-based": "consumer_ai_throttling_tier-based.json"
   },
-  "lastUpdated": 1762453124208
+  "lastUpdated": 1762454598998
 }
