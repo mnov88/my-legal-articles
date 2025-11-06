@@ -196,7 +196,9 @@
     "Consumer AI throttling/Legal analysis/Doctrinal analysis Perplexity.md": "consumer_ai_throttling_legal_analysis_doctrinal_analysis_perplexity.md.json",
     "Consumer AI throttling/Legal analysis/EU Consumer protection law and vague terms.md": "consumer_ai_throttling_legal_analysis_eu_consumer_protection_law_and_vague_terms.md.json",
     "Consumer AI throttling/Legal analysis/EU consumer protection law and vague AI service pricing - Claude.md": "consumer_ai_throttling_legal_analysis_eu_consumer_protection_law_and_vague_ai_service_pricing_-_claude.md.json",
-    "Consumer AI throttling/360 Hypothesis": "consumer_ai_throttling_360_hypothesis.json"
+    "Consumer AI throttling/360 Hypothesis": "consumer_ai_throttling_360_hypothesis.json",
+    "Consumer AI throttling/360 analysis/compass_artifact_wf-fb638c4f-bc80-4599-8fce-155c90ed2f07_text_markdown.md": "consumer_ai_throttling_360_analysis_compass_artifact_wf-fb638c4f-bc80-4599-8fce-155c90ed2f07_text_markdown.md.json",
+    "Consumer AI throttling/360 analysis/The Pricing Paradox Claude.md": "consumer_ai_throttling_360_analysis_the_pricing_paradox_claude.md.json"
   },
-  "lastUpdated": 1762457942166
+  "lastUpdated": 1762464705769
 }

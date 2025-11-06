@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/360 Hypothesis/The Economics of AI Service Pricing_ Examining the.md",
+                "file": "Consumer AI throttling/360 analysis/The Pricing Paradox Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Economics of AI Service Pricing_ Examining the"
+              "title": "The Pricing Paradox Claude"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/360 Hypothesis/The Economics of AI Service Pricing_ Examining the.md",
+                "file": "Consumer AI throttling/360 analysis/The Pricing Paradox Claude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Economics of AI Service Pricing_ Examining the"
+              "title": "Outline of The Pricing Paradox Claude"
             }
           },
           {
@@ -275,8 +275,9 @@
   },
   "active": "b68f7a135c99cee4",
   "lastOpenFiles": [
-    "Consumer AI throttling/AI Pricing Models in 2025_ A Comprehensive Analysi.md",
     "Consumer AI throttling/360 Hypothesis/The Economics of AI Service Pricing_ Examining the.md",
+    "Consumer AI throttling/360 analysis/The Pricing Paradox Claude.md",
+    "Consumer AI throttling/AI Pricing Models in 2025_ A Comprehensive Analysi.md",
     "Consumer AI throttling/360 Hypothesis",
     "Consumer AI throttling/Tier-based/Comprehensive-Effects-Matrix.md",
     "Consumer AI throttling/Token based/RQ2-Value-Cost-Alignment-Fairness.pdf",
@@ -308,7 +309,6 @@
     "Consumer AI throttling/Tier-based/RQ2-Value-Cost-Alignment.md",
     "Consumer AI throttling/Tier-based",
     "Untitled 7.md",
-    "Per-token Gemini.md",
     "Consumer AI throttling/Legislation",
     "Consumer AI throttling/Call based",
     "Untitled.canvas"
