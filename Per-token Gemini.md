@@ -1,4 +1,4 @@
-  
+
 # **An Economic Analysis of Per-Unit Pricing for Digital Services: Theory, Behavior, and Market Structure**
 
 ## **I. Introduction: The Economic Logic of Per-Unit Digital Pricing**
