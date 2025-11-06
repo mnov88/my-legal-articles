@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tier-based Gemini.md",
+                "file": "Consumer AI throttling/Tier-based/Comprehensive-Effects-Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tier-based Gemini"
+              "title": "Comprehensive-Effects-Matrix"
             }
           }
         ],
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tier-based Gemini.md",
+                "file": "Consumer AI throttling/Tier-based/Comprehensive-Effects-Matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tier-based Gemini"
+              "title": "Outline of Comprehensive-Effects-Matrix"
             }
           },
           {
@@ -275,42 +275,41 @@
   },
   "active": "b68f7a135c99cee4",
   "lastOpenFiles": [
-    "Consumer AI throttling/Tier-based/RQ1-Information-Asymmetry.md",
-    "Tier-based Gemini.md",
+    "Consumer AI throttling/Token based/RQ2-Value-Cost-Alignment-Fairness.pdf",
+    "Consumer AI throttling/Token based/Token-based pricing Gemini.md",
+    "Consumer AI throttling/Token based/Evaluation-Matrix-Pricing-Models.pdf",
     "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
+    "Consumer AI throttling/360 analysis/executive-summary.md",
+    "Consumer AI throttling/360 analysis/call-based-pricing.md",
+    "Consumer AI throttling/360 analysis/measured-pricing.md",
+    "Consumer AI throttling/EU-Enforcement-Actions-Step3.md",
+    "Consumer AI throttling/360 analysis/script.py",
+    "Consumer AI throttling/360 analysis/tier-based-pricing.md",
+    "Consumer AI throttling/360 analysis/flat-rate-pricing.md",
+    "Consumer AI throttling/360 analysis/cross-cutting-framework.md",
+    "Consumer AI throttling/360 analysis/credit-based-pricing.md",
+    "Consumer AI throttling/Legal analysis/EU Consumer protection law and vague terms.md",
+    "Consumer AI throttling/AI Pricing Models in 2025_ A Comprehensive Analysi.md",
+    "Consumer AI throttling/AI LLM Pricing and Contractual Analysis.md",
+    "Consumer AI throttling/Pricing Practices and Fairness in Large AI LLM Pla.md",
+    "Consumer AI throttling/ai_llm_contractual_terms_2025.md",
+    "Consumer AI throttling/AI Service Pricing Models Explained.md",
+    "Consumer AI throttling/Legal analysis/Doctrinal analysis Perplexity.md",
+    "Consumer AI throttling/Legal analysis/Consumers gemini report general service throttling.md",
+    "Consumer AI throttling/Legal analysis",
+    "Consumer AI throttling/360 analysis/Academic Assessment of Online Service Pricing Models - Gemini.md",
+    "Tier-based Gemini.md",
+    "Consumer AI throttling/360 analysis",
+    "Consumer AI throttling/Tier-based/RQ1-Information-Asymmetry.md",
     "Consumer AI throttling/Tier-based/RQ3-4-5-Integrated-Framework.md",
     "Consumer AI throttling/Tier-based/RQ2-Value-Cost-Alignment.md",
     "Consumer AI throttling/Tier-based/Comprehensive-Effects-Matrix.md",
     "Consumer AI throttling/Tier-based",
     "Untitled 7.md",
-    "Consumer AI throttling/Token based/Token-based pricing Gemini.md",
     "Per-token Gemini.md",
-    "Consumer AI throttling/Call based/Per-Unit Pricing Gemini.md",
-    "Consumer AI throttling/Credit based/Credit-Based Pricing Gemini.md",
-    "Consumer AI throttling/Token based/Evaluation-Matrix-Pricing-Models.pdf",
-    "Consumer AI throttling/Call based/RQ5-Sustainability-Risks.md",
-    "Consumer AI throttling/Doctrinal analysis Perplexity.md",
-    "Consumer AI throttling/Consumers gemini report general service throttling.md",
-    "Consumer AI throttling/Call based/RQ4-Market-Structure.md",
-    "Consumer AI throttling/EU Consumer protection law and vague terms.md",
-    "Consumer AI throttling/EU-Case-Law-Analysis-Step2.md",
-    "Consumer AI throttling/Legislation/31998L0006.md",
-    "Consumer AI throttling/Case law/CURIA_CJEU_C_261_13_Print.md",
-    "Consumer AI throttling/Case law/62021CJ0395.md",
-    "Consumer AI throttling/Case law/62013CJ0261.md",
-    "Consumer AI throttling/Legislation/32019L0770.md",
-    "Consumer AI throttling/Legislation/32005L0029.md",
-    "Consumer AI throttling/Legislation/32019L2161.md",
     "Consumer AI throttling/Legislation",
-    "Consumer AI throttling/Case law/62015CJ0191.md",
-    "Consumer AI throttling/Case law/62022CJ0646.md",
-    "Consumer AI throttling/Case law/62023CJ0472.md",
     "Consumer AI throttling/Call based",
     "Consumer AI throttling/Token based/RQ4-5-Market-Structure-Sustainability.pdf",
-    "Consumer AI throttling/Token based/RQ3-Behavioral-Effects-Usage-Patterns.pdf",
-    "Consumer AI throttling/Token based/RQ2-Value-Cost-Alignment-Fairness.pdf",
-    "Consumer AI throttling/Token based",
-    "Consumer AI throttling/Credit based",
     "Untitled.canvas"
   ]
 }
