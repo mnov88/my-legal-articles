@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/Credit-Based Pricing Gemini.md",
+                "file": "Consumer AI throttling/Credit based/value-cost-alignment-fairness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Credit-Based Pricing Gemini"
+              "title": "value-cost-alignment-fairness"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/Credit-Based Pricing Gemini.md",
+                "file": "Consumer AI throttling/Credit based/value-cost-alignment-fairness.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Credit-Based Pricing Gemini"
+              "title": "Outline of value-cost-alignment-fairness"
             }
           },
           {
@@ -221,8 +221,21 @@
   },
   "active": "1fc99640147de5d8",
   "lastOpenFiles": [
-    "Consumer AI throttling/Token-based pricing Gemini.md",
+    "Consumer AI throttling/Token based/RQ4-5-Market-Structure-Sustainability.pdf",
+    "Consumer AI throttling/Token based/RQ3-Behavioral-Effects-Usage-Patterns.pdf",
+    "Consumer AI throttling/Token based/RQ2-Value-Cost-Alignment-Fairness.pdf",
+    "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
+    "Consumer AI throttling/Token based/Evaluation-Matrix-Pricing-Models.pdf",
+    "Consumer AI throttling/Token based",
     "Consumer AI throttling/Credit-Based Pricing Gemini.md",
+    "Consumer AI throttling/Credit based/value-cost-alignment-fairness.md",
+    "Consumer AI throttling/Credit based/sustainability-systemic-risks.md",
+    "Consumer AI throttling/Credit based/market-structure-competition.md",
+    "Consumer AI throttling/Credit based/information-asymmetry-decision-making.md",
+    "Consumer AI throttling/Credit based/comprehensive-impact-matrix.md",
+    "Consumer AI throttling/Credit based/behavioral-effects-usage-patterns.md",
+    "Consumer AI throttling/Credit based",
+    "Consumer AI throttling/Token-based pricing Gemini.md",
     "Consumer AI throttling/Per-Unit Pricing Gemini.md",
     "Untitled 4.md",
     "Consumer AI throttling/AI Service Pricing Models Explained.md",
@@ -240,23 +253,10 @@
     "Consumer AI throttling/AI LLM Pricing and Contractual Analysis.md",
     "Consumer AI throttling/Pricing Practices and Fairness in Large AI LLM Pla.md",
     "Untitled 6.md",
-    "Untitled 5.md",
-    "Pedagogics/draft.md",
-    "Consumer AI throttling/untitled folder/curia_C261_13_print.md",
-    "Consumer AI throttling/untitled folder/curia_C261_13.md",
-    "Consumer AI throttling/untitled folder/CURIA_CJEU_C_261_13_Print.md",
-    "Consumer AI throttling/untitled folder/CURIA_CJEU_C_261_13.md",
-    "Consumer AI throttling/untitled folder/62024CJ0039.md",
     "Consumer AI throttling/untitled folder/CURIA_CJEU_C_261_13_Print.html",
     "Consumer AI throttling/untitled folder/CURIA_CJEU_C_261_13.html",
     "Consumer AI throttling/untitled folder/curia_C261_13_print.html",
     "Consumer AI throttling/untitled folder/curia_C261_13.html",
-    "Consumer AI throttling/untitled folder/62024CJ0039.html",
-    "Consumer AI throttling/untitled folder/62022CJ0646.html",
-    "Consumer AI throttling/untitled folder/62023CJ0472.html",
-    "Consumer AI throttling/untitled folder/62021CJ0335.html",
-    "Consumer AI throttling/untitled folder/62021CJ0395.html",
-    "Consumer AI throttling/untitled folder/62015CJ0191.html",
     "Untitled.canvas"
   ]
 }
