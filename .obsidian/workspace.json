@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/EU Consumer protection law and vague terms.md",
+                "file": "Consumer AI throttling/Consumers gemini report general service throttling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EU Consumer protection law and vague terms"
+              "title": "Consumers gemini report general service throttling"
             }
           }
         ],
@@ -169,23 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/EU Consumer protection law and vague terms.md",
+                "file": "Consumer AI throttling/Consumers gemini report general service throttling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EU Consumer protection law and vague terms"
-            }
-          },
-          {
-            "id": "66c72c2155067366",
-            "type": "leaf",
-            "state": {
-              "type": "comment-view",
-              "state": {},
-              "icon": "highlighter",
-              "title": "HiNote"
+              "title": "Outline of Consumers gemini report general service throttling"
             }
           },
           {
@@ -197,13 +187,43 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "8a664454ffc297a5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "e925234aef92aee6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "search",
+              "title": "Smart Lookup"
+            }
+          },
+          {
+            "id": "51902ee5cef82e4f",
+            "type": "leaf",
+            "state": {
+              "type": "comment-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "HiNote"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +239,16 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "1fc99640147de5d8",
+  "active": "51902ee5cef82e4f",
   "lastOpenFiles": [
+    "Consumer AI throttling/EU Consumer protection law and vague terms.md",
+    "Consumer AI throttling/EU-Case-Law-Analysis-Step2.md",
     "Consumer AI throttling/Doctrinal analysis Perplexity.md",
     "Consumer AI throttling/Call based/RQ4-Market-Structure.md",
     "Consumer AI throttling/Legislation/31998L0006.md",
@@ -258,8 +283,6 @@
     "Consumer AI throttling/Credit based/comprehensive-impact-matrix.md",
     "Consumer AI throttling/Credit based/behavioral-effects-usage-patterns.md",
     "Consumer AI throttling/Credit based",
-    "Consumer AI throttling/Token based/Token-based pricing Gemini.md",
-    "Consumer AI throttling/Call based/Per-Unit Pricing Gemini.md",
     "Untitled.canvas"
   ]
 }
