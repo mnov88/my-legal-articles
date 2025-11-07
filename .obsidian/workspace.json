@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown.md",
+                "file": "Consumer AI throttling/Legislation/UCPD Guidance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown"
+              "title": "UCPD Guidance"
             }
           }
         ],
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown.md",
+                "file": "Consumer AI throttling/Legislation/UCPD Guidance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown"
+              "title": "Outline of UCPD Guidance"
             }
           },
           {
@@ -289,9 +289,11 @@
   },
   "active": "2bd489143cf045b5",
   "lastOpenFiles": [
+    "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown.md",
+    "Consumer AI throttling/Legislation/UCPD Guidance.md",
+    "Clippings",
     "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-6cf43d9c-cc1c-493e-a6c5-2e959a4e73a4_text_markdown.md",
     "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-1aade5fe-fe9f-43ce-bcc8-3d443a816bc5_text_markdown.md",
-    "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown.md",
     "Consumer AI throttling/360 Hypothesis/Summary-Paper.md",
     "Consumer AI throttling/The Economic Inevitability of Opaque Pricing.md",
     "Consumer AI throttling/360 Hypothesis/script.py",
@@ -321,10 +323,8 @@
     "Consumer AI throttling/360 analysis/script.py",
     "Consumer AI throttling/360 analysis/tier-based-pricing.md",
     "Consumer AI throttling/360 analysis/flat-rate-pricing.md",
-    "Consumer AI throttling/360 analysis/cross-cutting-framework.md",
     "Consumer AI throttling/Legal analysis",
     "Consumer AI throttling/360 analysis",
-    "Consumer AI throttling/Tier-based",
     "Untitled.canvas"
   ]
 }
