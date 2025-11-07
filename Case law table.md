@@ -108,3 +108,102 @@ Main marketing emphasizes Plus benefits during "high demand," but buries in FAQ 
 4. Consumers cannot foresee economic consequences of NOK 249/month spend
 
 The *Bundesverband* case (2025) is particularly recent and directly on-point: where final service quality "can't be pre-calculated," the **method** must be disclosed, not just aspirational adjectives like "extended" or "priority."
+
+# Claude on Claude
+
+## Analysis of Anthropic Marketing Against EU Case Law
+
+| Marketing Element | Problematic Under | Specific Issue |
+|-------------------|-------------------|----------------|
+| **"More usage*"** (asterisk not explained in main marketing) | *Bundesverband* (C-518/23), *D.V.* (C-395/21) | Asterisk references content not immediately visible. Consumers can't gauge economic consequences without clicking through. "More" without baseline is meaningless. |
+| **"At least five times the usage per session"** | **BETTER** - Partially complies | ✅ Provides concrete ratio. ❌ But "at least" creates open-ended obligation without upper bound disclosure. What's the actual range? |
+| **"Around 45 messages every five hours"** | **BETTER** - Partial compliance | ✅ Provides concrete example. ✅ Notes it's approximate with caveats. More transparent than OpenAI's approach. |
+| **"We may limit your usage... at our discretion"** | *RWE* (C-92/11) | **CRITICAL VIOLATION** - Pure trader discretion. No objective criteria. Identical to what *RWE* prohibits. "At our discretion" = arbitrary variation power. |
+| **"Limits may vary depending on Claude's current capacity"** | *RWE* (C-92/11), *Invitel* (C-472/10) | No objective threshold specified. What capacity level triggers what limits? Trader decides subjectively when to throttle. |
+| **Free: "will vary based on demand"** | *RWE* (C-92/11), *Invitel* (C-472/10) | No formula or threshold. What demand level = what limit? In telecom context (*Invitel*), this would fail plain language test. |
+| **"We may impose other types of usage limits"** | *RWE* (C-92/11) | Unlimited unilateral variation power. No advance specification of what limits, when applied, or how calculated. |
+| **Usage affected by "message length, file attachment size... tool usage... model choice"** | **BETTER** - Partial compliance | ✅ Discloses factors affecting consumption. ❌ But doesn't quantify impact (1 image = X text messages?). |
+| **Omission: Pro can also be limited "at our discretion"** | *Deroo-Blanquart* (C-310/15) | Material omission in main marketing. "More usage" implies reliability, but FAQ reveals discretionary caps apply to Pro too. |
+| **Five-hour session reset** | **GOOD** - Complies | ✅ Clear, objective timing. Consumers know exactly when limits refresh. |
+
+## Comparison: Anthropic vs OpenAI
+
+| Aspect | OpenAI | Anthropic | Winner |
+|--------|--------|-----------|---------|
+| **Concrete ratios** | ❌ "Limited" vs "Extended" | ✅ "5x the usage" | Anthropic |
+| **Example numbers** | ❌ None provided | ✅ "~45 messages/5 hours" | Anthropic |
+| **Reset timing** | ❌ Not disclosed | ✅ "Every 5 hours" | Anthropic |
+| **Discretionary language** | ✅ "May vary based on system conditions" | ❌ "At our discretion" | **TIE - both violate** |
+| **Factors affecting usage** | ❌ Not disclosed | ✅ Listed explicitly | Anthropic |
+| **Caching explanation** | ❌ Not mentioned | ✅ Explained clearly | Anthropic |
+
+## Most Severe Violations in Anthropic Marketing
+
+### 1. **"At our discretion"**
+This is the smoking gun. *RWE Vertrieb* specifically held that variation clauses **"cannot rest on trader discretion."** Anthropic explicitly states they may impose limits "at our discretion"—this is precisely what EU law prohibits.
+
+### 2. **"May vary depending on Claude's current capacity"** (Pro plan)
+No objective threshold. Anthropic unilaterally decides what "capacity" level justifies throttling. Under *Invitel* (telecom case), variable terms must state reasons/method in plain language with **verifiable criteria**.
+
+### 3. **Free tier: "Will vary based on demand"**
+Zero disclosure of the algorithm. What demand triggers what limits? *Bundesverband* requires the **method** be disclosed, not just that variation exists.
+
+## What Anthropic Does Better Than OpenAI
+
+✅ **"At least 5x the usage"** - Concrete multiplier (though "at least" is still vague on upper bound)
+
+✅ **"Around 45 messages every 5 hours"** - Actual usage example with realistic caveats
+
+✅ **"Every five hours"** - Clear reset timing
+
+✅ **Factor disclosure** - Lists what affects consumption (message length, files, tools, models)
+
+✅ **Caching explanation** - Explains how Projects reduce consumption
+
+✅ **Ballpark sentence estimates** - "200 English sentences... 15-20 words" helps consumers estimate
+
+## What Would Fully Comply?
+
+**Compliant marketing would state:**
+
+✅ **"Free tier: 5-15 messages per 5-hour session depending on load. Pro tier: 30-75 messages per 5-hour session"**
+- Concrete ranges, not just multiples
+
+✅ **"When system capacity exceeds 85%, Free users receive 1 message/minute; Pro users receive 5 messages/minute"**
+- Objective, verifiable threshold (RWE compliance)
+
+✅ **"File uploads: 1 MB image ≈ 10 text messages. 10 MB PDF ≈ 100 text messages"**
+- Quantified equivalencies
+
+✅ **"During peak demand (weekdays 9am-5pm PST), limits may be reduced by up to 50%. Pro users maintain priority allocation."**
+- Specific parameters and Pro advantage quantified
+
+✅ **"All tiers subject to capacity-based limits. Pro provides 5x allocation but does not guarantee uninterrupted access during extreme demand."**
+- Material disclosure that Pro isn't bulletproof
+
+## Risk Assessment
+
+**Medium-High risk** of EU consumer protection violations:
+
+**Higher risk than OpenAI for:**
+- Explicit "at our discretion" language (OpenAI implies this but doesn't state it)
+- This is textbook *RWE* violation
+
+**Lower risk than OpenAI for:**
+- Provides concrete examples and ratios
+- Discloses factors affecting usage
+- Clear reset timing
+- Better transparency overall
+
+**Both companies share the fundamental problem:**
+Neither discloses **objective, verifiable criteria** for when throttling occurs or how priority allocation works algorithmically. Both reserve unilateral variation power, which *RWE* and *Invitel* prohibit in the EU context.
+
+## The "At Our Discretion" Problem
+
+This phrase alone could invalidate the entire terms structure under *RWE*. The court held that price/service variation clauses must:
+1. ✅ State reasons for variation → Anthropic partially does this ("capacity," "demand")
+2. ❌ Use **objective criteria** → "At our discretion" is subjective by definition
+3. ❌ Be **verifiable** → Consumer cannot verify what Anthropic's internal capacity metrics show
+4. ❌ **Not rest on trader discretion** → Explicitly violated
+
+The fundamental incompatibility is that Anthropic wants to maintain operational flexibility (understandable for a capacity-constrained service) but EU law requires advance specification of objective criteria, which limits that flexibility.
