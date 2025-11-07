@@ -51,3 +51,60 @@ Sorted newest → oldest.
 |                                                                    |                                 |                                                                                                                                                                                                                                                                       |
 
 **Key takeaway:** The most problematic practice is using **vague language** ("priority," "enhanced") without disclosing the **method** of allocation, **when** benefits apply, and that premium users may still experience degradation. Cases like *Bundesverband*, *D.V.*, *RWE*, and *Invitel* suggest transparency requires explaining the mechanism, not just the aspiration.
+
+---
+
+# Claude
+
+## Analysis of OpenAI Marketing Against EU Case Law
+
+| Marketing Element | Problematic Under | Specific Issue |
+|-------------------|-------------------|----------------|
+| **"Limited" vs "Extended" vs "Expanded"** | *Bundesverband* (C-518/23) | No method or specific parameters disclosed. What's the ratio? 10 msgs vs 50? 50 vs 500? "Extended" is meaningless without baseline figures. |
+| **"Priority access during high-traffic periods"** | *RWE* (C-92/11), *Invitel* (C-472/10) | No objective verifiable criteria for what "priority" means algorithmically. How is queue position determined? What's the actual speed difference? |
+| **"Fewer interruptions even when demand is high"** | *innogy Energie* (C-749/23), *D.V.* (C-395/21) | Doesn't enable consumer to gauge economic consequences. "Fewer" than what? Can Plus users still be interrupted? If yes, not disclosed. |
+| **"Faster response speeds"** | *Bundesverband* (C-518/23) | No quantification. 10% faster? 200% faster? Conditional on load but conditions not specified. |
+| **"Usage limits... may vary based on system conditions"** | *RWE* (C-92/11) | **CRITICAL VIOLATION** - Pure trader discretion. No objective criteria. Exactly what *RWE* prohibits: variation not based on transparent, verifiable parameters. |
+| **"These limits may vary"** | *Invitel* (C-472/10) | In telecom context (directly applicable), variable terms must state reasons/method in plain language. "May vary" with no formula = insufficient. |
+| **Omission: Plus can also be throttled** | *Deroo-Blanquart* (C-310/15) | Material omission. Marketing implies Plus = reliable, but FAQ reveals "usage limits... especially during high demand" applies to Plus too. |
+| **No disclosure when benefits actually apply** | *Wind Tre/Vodafone* (C-54/17, 2018) | Technical information asymmetry. Consumers pay without understanding that during low-demand periods, all tiers may perform identically. |
+| **"Higher rate limits" (in FAQ)** | *D.V.* (C-395/21) | "Higher" without numbers fails transparency test. Consumer can't foresee whether NOK 249 provides value during their usage patterns. |
+
+## Most Severe Violations
+
+### 1. **"May vary based on system conditions"** 
+This directly violates *RWE Vertrieb* which held that variation clauses cannot rest on trader discretion. OpenAI unilaterally decides what "system conditions" justify throttling, with no disclosed criteria.
+
+### 2. **Vague relativity without baselines**
+*Bundesverband* requires specific parameters, not ranges or relatives. "Extended" and "Expanded" are meaningless without:
+- Absolute numbers (e.g., "100 messages/day vs 25 messages/day")
+- Or clear ratios (e.g., "4x the message capacity")
+
+### 3. **Omission that Plus users face limits too**
+Main marketing emphasizes Plus benefits during "high demand," but buries in FAQ that Plus also has "message caps, especially during high demand." This is a *Deroo-Blanquart* material omission—consumers believe they're buying reliability, not just queue priority.
+
+## What Would Comply?
+
+**Compliant marketing would require:**
+
+✅ **"Go tier: up to 100 messages per 3 hours; Plus tier: up to 300 messages per 3 hours"**
+- Concrete numbers (Bundesverbal compliance)
+
+✅ **"During high demand (>80% system capacity), Free users receive 25% of standard speed; Go receives 50%; Plus receives 100%"**
+- Objective, verifiable criteria (RWE compliance)
+
+✅ **"All tiers may experience delays during extreme demand. Plus users are prioritized but not guaranteed uninterrupted access."**
+- Material disclosure (Deroo-Blanquart compliance)
+
+✅ **"Priority allocation formula: [technical explanation of queue algorithm]"**
+- Method disclosure (Invitel/Bundesverband compliance)
+
+## Risk Assessment
+
+**High risk** that this marketing would fail EU consumer protection scrutiny because:
+1. It relies entirely on vague comparatives
+2. Variation is at trader discretion without disclosed criteria  
+3. Material facts (Plus also throttled) are omitted from main marketing
+4. Consumers cannot foresee economic consequences of NOK 249/month spend
+
+The *Bundesverband* case (2025) is particularly recent and directly on-point: where final service quality "can't be pre-calculated," the **method** must be disclosed, not just aspirational adjectives like "extended" or "priority."
