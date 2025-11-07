@@ -113,12 +113,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/Case law/62023CJ0472.md",
+                "file": "Consumer AI throttling/Case law/Case C-395-21 D-V- v M-A-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "62023CJ0472"
+              "title": "Case C-395-21 D-V- v M-A-"
+            }
+          },
+          {
+            "id": "3db8744cbbd53d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary Art 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary Art 6"
             }
           },
           {
@@ -136,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -267,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/Case law/62023CJ0472.md",
+                "file": "Summary Art 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 62023CJ0472"
+              "title": "Outline of Summary Art 6"
             }
           },
           {
@@ -343,34 +357,35 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "86aaf773ac00000f",
+  "active": "3db8744cbbd53d57",
   "lastOpenFiles": [
-    "Consumer AI throttling/Case law/62011CJ0092.md",
+    "Consumer AI throttling/Case law/Case C-395-21 D-V- v M-A-.md",
+    "Summary Art 6.md",
+    "Consumer AI throttling/Case law/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
+    "Consumer AI throttling/Case law/C-191-15 (Verein für Konsumenteninformation).md",
+    "Consumer AI throttling/Case law/C-749-23 innogy Energie.md",
+    "Consumer AI throttling/Case law/Case C-335-21 Vicente v Delia.md",
+    "Consumer AI throttling/Case law/Case C-39-24 Justa v Banco Bilbao Vizcaya Argentaria SA.md",
     "Consumer AI throttling/Case law/62023CJ0472.md",
+    "Consumer AI throttling/Case law/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
+    "Consumer AI throttling/Case law/Case C-38318 - Case C-38318 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Othe.html",
+    "Consumer AI throttling/Case law/62011CJ0092.md",
     "Consumer AI throttling/Case law/62013CJ0261.md",
     "Consumer AI throttling/Case law/Case C-191-15.md",
-    "Consumer AI throttling/Case law/C-191-15 (Verein für Konsumenteninformation).md",
     "Consumer AI throttling/Case law/62021CJ0335.md",
     "Consumer AI throttling/Case law/62021CJ0395.md",
-    "Consumer AI throttling/Case law/C-749-23 innogy Energie.md",
     "Consumer AI throttling/Case law/62024CJ0039.md",
-    "Consumer AI throttling/Case law/Case C-39-24 Justa v Banco Bilbao Vizcaya Argentaria SA.md",
     "Consumer AI throttling/Case law/CURIA_CJEU_C_261_13_Print.md",
     "Consumer AI throttling/Case law/CURIA_CJEU_C_261_13.md",
     "Consumer AI throttling/Case law/curia_C261_13.md",
     "Consumer AI throttling/Case law/curia_C261_13_print.md",
     "Consumer AI throttling/Case law/Case C-472-10 Invitel.md",
     "Consumer AI throttling/Case law/Case C-646-22.md",
-    "Consumer AI throttling/Case law/Case C-395-21 D-V- v M-A-.md",
     "Consumer AI throttling/Case law/Case C-522-08. Telekommunikacja Polska SA w Warszawie v Prezes Urzędu Komunikacji Elektronicznej-.md",
     "Consumer AI throttling/Case law/Case C‑92-11 RWE Vertrieb AG v Verbraucherzentrale Nordrhein-Westfalen eV.md",
     "Consumer AI throttling/Case law/Case C-410-23 I- SA v S- J-.md",
     "Consumer AI throttling/Case law/Case C-537-13 Birutė Šiba v Arūnas Devėnas.md",
     "Consumer AI throttling/Case law/Case C-388-13 Nemzeti Fogyasztóvédelmi Hatóság v UPC Magyarország kft.md",
-    "Consumer AI throttling/Case law/Case C-310-15 Vincent Deroo-Blanquart v Sony Europe Limited.md",
-    "Consumer AI throttling/Case law/Joined Cases C-54-17 and C-55-17 Autorità Garante della Concorrenza e del Mercato v Wind Tre SpA and Vodafone Italia SpA.md",
-    "Consumer AI throttling/Case law/Case C-102-20 StWL Städtische Werke Lauf a-d- Pegnitz GmbH v eprimo GmbH.md",
-    "Consumer AI throttling/Case law/Case C-335-21 Vicente v Delia.md",
     "Clippings",
     "Consumer AI throttling/360 Hypothesis/script.py",
     "Consumer AI throttling/360 Hypothesis/script_1.py",
@@ -380,7 +395,6 @@
     "Consumer AI throttling/Token based/RQ1-Information-Asymmetry-Decision-Making.pdf",
     "Consumer AI throttling/360 analysis/script.py",
     "Consumer AI throttling/Legal analysis",
-    "Consumer AI throttling/360 analysis",
     "Untitled.canvas"
   ]
 }

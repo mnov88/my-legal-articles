@@ -10,7 +10,7 @@ topics:
   - consumer protection
   - unfair terms
   - DPD applicable law
-topics:
+opics:
   - private international law
   - consumer protection
   - unfair terms
