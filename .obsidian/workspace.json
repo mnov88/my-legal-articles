@@ -99,12 +99,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/Case law/Case law table.md",
+                "file": "Consumer AI throttling/Case law/62022CJ0646.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case law table"
+              "title": "62022CJ0646"
+            }
+          },
+          {
+            "id": "86aaf773ac00000f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case C-410-23 I- SA v S- J-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Case C-410-23 I- SA v S- J-"
             }
           },
           {
@@ -122,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/Case law/Case law table.md",
+                "file": "Case C-410-23 I- SA v S- J-.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Case law table"
+              "title": "Outline of Case C-410-23 I- SA v S- J-"
             }
           },
           {
@@ -329,8 +343,16 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "70e8c774133f35df",
+  "active": "30b35ab29aee2758",
   "lastOpenFiles": [
+    "Case C-102-20 StWL Städtische Werke Lauf a-d- Pegnitz GmbH v eprimo GmbH.md",
+    "Case C-335-21 Vicente v Delia.md",
+    "Case C-395-21 D-V- v M-A-.md",
+    "Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
+    "Consumer AI throttling/Case law/62022CJ0646.md",
+    "Case C-410-23 I- SA v S- J-.md",
+    "Consumer AI throttling/Case law/C-472-10 Invitel.md",
+    "Consumer AI throttling/Case law/Case law table.md",
     "Consumer AI throttling/Case law/62023CJ0472.md",
     "Consumer AI throttling/Case law/curia_C261_13.md",
     "Consumer AI throttling/Case law/curia_C261_13_print.md",
@@ -338,7 +360,6 @@
     "Consumer AI throttling/Case law/CURIA_CJEU_C_261_13.md",
     "Consumer AI throttling/Case law/62024CJ0039.md",
     "C-749-23 innogy Energie.md",
-    "Consumer AI throttling/Case law/Case law table.md",
     "Untitled 8.md",
     "Consumer AI throttling/Legislation/UCPD Guidance.md",
     "Consumer AI throttling/360 Hypothesis/compass_artifact_wf-2a3a06ec-7d51-4698-ad66-31de7560e5ec_text_markdown.md",
@@ -353,13 +374,6 @@
     "Consumer AI throttling/360 Hypothesis/H3-Transferability.md",
     "Consumer AI throttling/360 Hypothesis/H2-Alternative-Models.md",
     "Consumer AI throttling/360 Hypothesis/H1-Technical-Constraints.md",
-    "Consumer AI throttling/LLM Services Pricing Practices and Consumer Protection Law - Claude.md",
-    "Consumer AI throttling/AI Pricing Models in 2025_ A Comprehensive Analysi.md",
-    "Consumer AI throttling/Contract law indefinite terms.md",
-    "Consumer AI throttling/AI LLM Pricing and Contractual Analysis.md",
-    "Consumer AI throttling/Pricing Practices and Fairness in Large AI LLM Pla.md",
-    "Consumer AI throttling/360 analysis/The Pricing Paradox Claude.md",
-    "Consumer AI throttling/360 Hypothesis/Academic Assessment of Online Service Pricing Models - Gemini.md",
     "Consumer AI throttling/360 Hypothesis",
     "Consumer AI throttling/Token based/RQ2-Value-Cost-Alignment-Fairness.pdf",
     "Consumer AI throttling/Token based/Evaluation-Matrix-Pricing-Models.pdf",
