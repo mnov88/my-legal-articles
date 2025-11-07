@@ -14,11 +14,11 @@ Credit-based systems create highly volatile and unpredictable demand patterns th
 **Peak Load Management:**
 Research shows credit systems generate 200-300% higher peak-to-average demand ratios compared to direct billing[129][134]. This requires substantial overprovisioning, increasing infrastructure costs by 40-60%[128][135].
 
-**Temporal Consumption Distortions:**
-Credit purchases create artificial demand cycles that don't align with optimal resource utilization:
-- Front-loaded consumption immediately after credit purchase[68][74]  
-- End-of-period usage spikes before credit expiration[72][207]
-- Seasonal clustering around promotional credit offerings[30][174]
+==**Temporal Consumption Distortions:**==
+==Credit purchases create artificial demand cycles that don't align with optimal resource utilization:==
+- ==Front-loaded consumption immediately after credit purchase[68][74]==  
+- ==End-of-period usage spikes before credit expiration[72][207]==
+- ==Seasonal clustering around promotional credit offerings[30][174]==
 
 These patterns force providers to maintain excess capacity that remains underutilized during non-peak periods[128][134].
 

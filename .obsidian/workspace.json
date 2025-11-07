@@ -64,9 +64,23 @@
               "icon": "lucide-file",
               "title": "LLM Services Pricing Practices and Consumer Protection Law - Claude"
             }
+          },
+          {
+            "id": "2bd489143cf045b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consumer AI throttling/360 Hypothesis/Summary-Paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary-Paper"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/LLM Services Pricing Practices and Consumer Protection Law - Claude.md",
+                "file": "Consumer AI throttling/360 Hypothesis/Summary-Paper.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM Services Pricing Practices and Consumer Protection Law - Claude"
+              "title": "Outline of Summary-Paper"
             }
           },
           {
@@ -273,8 +287,17 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "b68f7a135c99cee4",
+  "active": "2bd489143cf045b5",
   "lastOpenFiles": [
+    "Consumer AI throttling/The Economic Inevitability of Opaque Pricing.md",
+    "Consumer AI throttling/360 Hypothesis/Summary-Paper.md",
+    "Consumer AI throttling/360 Hypothesis/script.py",
+    "Consumer AI throttling/360 Hypothesis/script_1.py",
+    "Consumer AI throttling/360 Hypothesis/H4-Transparency-Paradox.md",
+    "Consumer AI throttling/360 Hypothesis/H3-Transferability.md",
+    "Consumer AI throttling/360 Hypothesis/H2-Alternative-Models.md",
+    "Consumer AI throttling/360 Hypothesis/H1-Technical-Constraints.md",
+    "Consumer AI throttling/LLM Services Pricing Practices and Consumer Protection Law - Claude.md",
     "Consumer AI throttling/AI Pricing Models in 2025_ A Comprehensive Analysi.md",
     "Consumer AI throttling/Contract law indefinite terms.md",
     "Consumer AI throttling/AI LLM Pricing and Contractual Analysis.md",
@@ -299,18 +322,9 @@
     "Consumer AI throttling/360 analysis/credit-based-pricing.md",
     "Consumer AI throttling/Legal analysis/EU Consumer protection law and vague terms.md",
     "Consumer AI throttling/ai_llm_contractual_terms_2025.md",
-    "Consumer AI throttling/AI Service Pricing Models Explained.md",
-    "Consumer AI throttling/Legal analysis/Doctrinal analysis Perplexity.md",
-    "Consumer AI throttling/Legal analysis/Consumers gemini report general service throttling.md",
     "Consumer AI throttling/Legal analysis",
-    "Tier-based Gemini.md",
     "Consumer AI throttling/360 analysis",
-    "Consumer AI throttling/Tier-based/RQ1-Information-Asymmetry.md",
-    "Consumer AI throttling/Tier-based/RQ3-4-5-Integrated-Framework.md",
-    "Consumer AI throttling/Tier-based/RQ2-Value-Cost-Alignment.md",
     "Consumer AI throttling/Tier-based",
-    "Consumer AI throttling/Legislation",
-    "Consumer AI throttling/Call based",
     "Untitled.canvas"
   ]
 }
