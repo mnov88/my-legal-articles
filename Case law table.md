@@ -359,3 +359,157 @@ The real EU law-compliant solution is:
 - **Replace "at our discretion" with objective thresholds** for when load-based reductions occur
 
 Anthropic's current approach - **concrete but misleading numbers ("45 messages") + hidden variability + discretionary clauses** - arguably combines the worst of both worlds from a consumer protection standpoint.
+
+## Analysis of Google Gemini Marketing Against EU Case Law
+
+| Marketing Element | Problematic Under | Specific Issue |
+|-------------------|-------------------|----------------|
+| **"Begrenset tilgang" (Limited access)** | *Bundesverband* (C-518/23) | ✅ BUT RESOLVED - Unlike OpenAI/Anthropic, Google immediately provides concrete numbers in table (5 prompts/day). Vague in marketing but specific in documentation. |
+| **"Up to 5/100/500 prompts / day"** | **EXCELLENT** - Strong compliance | ✅ Concrete, absolute numbers. ✅ Clear timeframe. ✅ Verifiable by consumer. Best disclosure we've seen. |
+| **"32 thousand vs 1 million" context window** | **EXCELLENT** - Strong compliance | ✅ Specific technical parameters. ✅ Objective and measurable. Consumers can understand capacity differences. |
+| **Specific feature limits (Deep Research: 5/month, 20/day, 200/day)** | **EXCELLENT** - Strong compliance | ✅ Concrete numbers for each tier. ✅ Clear reset periods. Much more transparent than competitors. |
+| **"Limits may change without notice, including due to capacity constraints"** | *RWE* (C-92/11) | **CRITICAL VIOLATION** - Unilateral variation power without objective criteria. "Without notice" potentially worse than OpenAI/Anthropic. |
+| **"When there's a large increase in activity... we may change limits"** | *RWE* (C-92/11), *Invitel* (C-472/10) | **VIOLATION** - No threshold specified. What activity level triggers what changes? Pure trader discretion. |
+| **"If capacity changes, limits... may be limited before users with a plan"** | **BETTER** - Partial compliance | ✅ Discloses priority mechanism. ✅ Pro users protected first. ❌ But "if capacity changes" = no objective threshold. |
+| **"Limits may change frequently" (image generation)** | *Invitel* (C-472/10) | **VIOLATION** - In telecom context, variable terms need plain language about reasons/method. "May change frequently" with no formula fails this. |
+| **"Usage limits subject to the selected model"** | **GOOD** - Partial compliance | ✅ Clear that limits vary by model choice. Consumer understands the relationship. ❌ But doesn't quantify impact. |
+| **"100 AI-saldopoeng per måned" (AI balance points)** | **EXCELLENT** - Strong compliance | ✅ Concrete allocation. ✅ Clear monthly reset. ✅ Objective metric consumers can track. |
+
+## Comparison: Google vs OpenAI vs Anthropic
+
+| Aspect | OpenAI | Anthropic | Google | Winner |
+|--------|--------|-----------|--------|---------|
+| **Absolute usage numbers** | ❌ None | ⚠️ "~45 messages" (misleading) | ✅ "5/100/500 prompts/day" | **Google** |
+| **Context window disclosure** | ❌ Not mentioned | ❌ Not mentioned | ✅ "32k vs 1M tokens" | **Google** |
+| **Feature-specific limits** | ❌ None | ❌ None | ✅ Table with all features | **Google** |
+| **Reset timing** | ❌ Not disclosed | ✅ "Every 5 hours" | ✅ "Per day/month" | **Tie: Anthropic/Google** |
+| **"Without notice" variation** | ⚠️ Implied | ⚠️ "At our discretion" | ❌ "Without notice" | **All violate (Google worst)** |
+| **Priority mechanism** | ❌ Not explained | ❌ "Priority access" (vague) | ✅ "Free limited before paid" | **Google** |
+| **Concrete allocation (points/tokens)** | ❌ None | ❌ Hides tokens | ✅ "100 vs 1000 points" | **Google** |
+
+## Most Severe Violations in Google Marketing
+
+### 1. **"Limits may change without notice"**
+This is potentially **worse than OpenAI/Anthropic** because it explicitly states changes can happen without advance notification. Under *Invitel* (telecom case), changes to service terms require notice periods and clear termination rights. "Without notice" directly contradicts this.
+
+### 2. **"We may change limits to maintain quality"** (no objective criteria)
+Still violates *RWE* - what quality metrics trigger what changes? Pure trader discretion. Though at least they explain *why* (quality maintenance), they don't explain *how* (the formula).
+
+### 3. **Image generation: "Limits may change frequently"**
+High-demand features get special exception for extreme variability. Under *Bundesverband*, even when final service "can't be pre-calculated," the **method** must still be disclosed. "May change frequently" is not a method.
+
+## What Google Does MUCH Better
+
+✅ **Concrete daily/monthly limits** - "5 prompts per day" vs "limited access"
+
+✅ **Full feature table** - Every feature has specific numbers for each tier
+
+✅ **Technical parameters disclosed** - Context window sizes in tokens
+
+✅ **AI balance points system** - Separate allocation for specific features (Flow/Whisk)
+
+✅ **Priority order disclosed** - "Free users limited before paid users"
+
+✅ **Reset periods clear** - Per day, per month specified for each limit
+
+✅ **Model-based limits explained** - Different limits for 2.5 Flash vs 2.5 Pro with actual numbers
+
+## The "Without Notice" Problem
+
+This phrase could be **more problematic than Anthropic's "at our discretion"** because:
+
+**Under *Invitel* (C-472/10) - Telecom case:**
+- ✅ Variation clauses must state reasons (**Google partially does this: "capacity constraints"**)
+- ✅ Must be in plain language (**Google does this**)
+- ❌ Consumer must have **real termination right** - but if changes happen "without notice," consumer can't exercise this right effectively
+- ❌ **Adequate notice period** typically required for material changes
+
+**"Without notice" potentially violates consumer's right to:**
+- Make informed decision about continuing service
+- Terminate before adverse change takes effect
+- Plan usage around known limits
+
+## Your Token Count Question Applied to Google
+
+**Google's approach to the "message vs. token" problem:**
+
+They actually use **BOTH** systems:
+1. **Prompt counts** for general usage (5/100/500 per day)
+2. **Context window** in tokens (32k vs 1M)
+3. **AI balance points** for specific features (100 vs 1000 per month)
+
+**Is "prompt" more honest than "message"?**
+- ⚠️ Same problem as Anthropic: one "prompt" can be 100 tokens or 100,000 tokens
+- ✅ BUT Google discloses the context window limit separately (32k vs 1M tokens)
+- ✅ This means consumers know: "I can send up to 100 prompts per day, AND my total context can't exceed 1M tokens"
+
+**So Google has a two-sided limit:**
+- Vertical limit: Number of prompts per day
+- Horizontal limit: Total token capacity per conversation
+
+This is actually **more transparent** because it acknowledges both constraints.
+
+## What Would Fully Comply?
+
+**Fix the "without notice" violation:**
+
+❌ Current: "Limits may change without notice, including due to capacity constraints"
+
+✅ Compliant:
+```
+Limits adjust based on system capacity with 24-hour notice:
+• Normal capacity (0-70% load): Standard limits apply
+• High capacity (70-90% load): Limits reduced by 25%, notice via email/app
+• Critical capacity (>90% load): Limits reduced by 50%, notice via email/app
+
+Current system status: gemini.google/status
+```
+
+**Fix the discretionary variation:**
+
+❌ Current: "When there's a large increase in activity... we may change limits"
+
+✅ Compliant:
+```
+Daily Active User thresholds:
+• < 10M DAU: Standard limits
+• 10M-15M DAU: Pro plan limits reduced to 80 prompts/day (from 100)
+• > 15M DAU: Pro plan limits reduced to 60 prompts/day
+
+Changes take effect 24 hours after threshold breach
+View current DAU at gemini.google/metrics
+```
+
+## Risk Assessment
+
+**Low-Medium risk** of EU violations (lowest of the three):
+
+**What Google does RIGHT:**
+- ✅ Most transparent disclosure of actual usage numbers
+- ✅ Specific limits for every feature
+- ✅ Technical parameters disclosed
+- ✅ Reset periods clear
+- ✅ Priority mechanism explained
+
+**What Google does WRONG:**
+- ❌ "Without notice" variation power (potentially worse than competitors)
+- ❌ "May change" still based on trader discretion
+- ❌ No objective thresholds for when changes occur
+
+**Overall:** Google has the **best substantive transparency** but **worst procedural protection** ("without notice"). They tell you what the limits are, but reserve the right to change them instantly without warning.
+
+## Bottom Line on Your Token Question
+
+Google's **dual-limit system** (prompt count + context window) is more honest than:
+- Anthropic's "messages" (hides that it's really tokens)
+- OpenAI's complete lack of numbers
+
+But Google still has the fundamental problem: "100 prompts per day" sounds concrete but could mean vastly different compute consumption depending on complexity. At least they ALSO disclose the 1M token context window, which gives consumers a secondary constraint to understand.
+
+The most honest approach would be:
+```
+Pro Plan:
+• Up to 100 prompts per day (simple prompts ~1000 tokens, complex ~10,000 tokens)
+• OR up to 1M tokens per conversation (whichever limit is hit first)
+• Remaining quota displayed in real-time
+```
