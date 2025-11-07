@@ -1,4 +1,4 @@
-Sorted newest → oldest.
+# Case law table
 
 | Case                                                               | Core topic (3–5 words)          | Concise holding/statement                                                                                                                                                                             |
 | ------------------------------------------------------------------ | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,6 +32,10 @@ Sorted newest → oldest.
 [13]: https://curia.europa.eu/juris/fiche.jsf?id=C%3B472%3B10%3BRP%3B1%3BP%3B1%3BC2010%2F0472%2FJ&language=en%2F1000&utm_source=chatgpt.com "CURIA - Case information - European Union"
 [14]: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ%3AC%3A2010%3A113%3AFULL&utm_source=chatgpt.com "Official Journal C 113/2010 - EUR-Lex - European Union"
 
+
+# Case law table in general AI
+
+
 | Case                                                               | Core topic (3–5 words)          | How it affects tiered/priority access with unpredictable quality                                                                                                                                                                                                      |
 | ------------------------------------------------------------------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **innogy Energie s.r.o. v QS (C-749/23, 2025)**                    | Flat-rate penalty fairness      | **RELEVANT** - Premium fees must be tethered to actual benefit delivered; transparency must enable consumers to gauge economic consequences of paying for priority that may not materialize during low-demand periods.                                                |
@@ -54,7 +58,7 @@ Sorted newest → oldest.
 
 ---
 
-# Claude
+# Claude OpenAI analysis
 
 ## Analysis of OpenAI Marketing Against EU Case Law
 
