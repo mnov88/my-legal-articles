@@ -23,7 +23,7 @@ Free-riding problem
 Countervailing concerns (200 words)
 Monopolization risks
 Complexity spectrum matters
-Links: [[/Economic value of prompts#Marketplace evidence]], [[Economic value of prompts#Labor market signals]], [[Economic value of prompts#Conspicuous absences]]
+Links: [[Economic value of prompts#Marketplace evidence]], [[Economic value of prompts#Labor market signals]], [[Economic value of prompts#Conspicuous absences]]
 III. Copyright Protection [3,000 words - EXPANDED]
 A. The Harmonized Originality Standard [800 words]
 Article 1(3) Software Directive, InfoSoc Directive 2001/29
