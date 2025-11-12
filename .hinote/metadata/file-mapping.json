@@ -622,7 +622,8 @@
     "Prompt protection/README.md": "prompt_protection_readme.md.json",
     "Consumer AI throttling/Drafts": "consumer_ai_throttling_drafts.json",
     "Consumer AI throttling/Drafts/Untitled.md": "consumer_ai_throttling_drafts_untitled.md.json",
-    "Consumer AI throttling/Drafts/article.md": "consumer_ai_throttling_drafts_article.md.json"
+    "Consumer AI throttling/Drafts/article.md": "consumer_ai_throttling_drafts_article.md.json",
+    "Current outline plan.md": "current_outline_plan.md.json"
   },
-  "lastUpdated": 1762967447844
+  "lastUpdated": 1762983408902
 }
