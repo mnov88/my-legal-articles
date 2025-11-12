@@ -8,8 +8,9 @@ description:
 tags:
   - "clippings"
 ---
-| 29.12.2021 | EN | Official Journal of the European Union | C 526/1 |
-| --- | --- | --- | --- |
+> [!note]
+> 29.12.2021 - EN - Official Journal of the European Union - C 526/1
+
 
 ---
 
@@ -22,288 +23,6 @@ Guidance on the interpretation and application of Directive 2005/29/EC of the Eu
 (2021/C 526/01)
 
 CONTENTS
-
-| INTRODUCTION | 5 |
-| --- | --- |
-
-| 1. | SCOPE OF THE UCPD | 5 |
-| --- | --- | --- |
-
-| 1.1. | Material scope of application | 5 |
-| --- | --- | --- |
-
-| 1.1.1. | National legislation concerning commercial practices but protecting interests other than consumers’ economic interests | 6 |
-| --- | --- | --- |
-
-| 1.1.2. | Commercial practices which relate to a business-to-business transaction or which harm only competitors’ economic interests | 7 |
-| --- | --- | --- |
-
-| 1.2. | Interplay between the Directive and other EU law | 8 |
-| --- | --- | --- |
-
-| 1.2.1. | Relationship with other EU legislation | 8 |
-| --- | --- | --- |
-
-| 1.2.2. | Information established by other EU law as ‘material’ information | 10 |
-| --- | --- | --- |
-
-| 1.2.3. | Interplay with the Consumer Rights Directive | 12 |
-| --- | --- | --- |
-
-| 1.2.4. | Interplay with the Unfair Contract Terms Directive | 13 |
-| --- | --- | --- |
-
-| 1.2.5. | Interplay with the Price Indication Directive | 15 |
-| --- | --- | --- |
-
-| 1.2.6. | Interplay with the Misleading and Comparative Advertising Directive | 16 |
-| --- | --- | --- |
-
-| 1.2.7. | Interplay with the Services Directive | 17 |
-| --- | --- | --- |
-
-| 1.2.8. | Interplay with the e-Commerce Directive | 17 |
-| --- | --- | --- |
-
-| 1.2.9. | Interplay with the Audiovisual Media Services Directive | 17 |
-| --- | --- | --- |
-
-| 1.2.10. | Interplay with the General Data Protection Regulation and the e-Privacy Directive | 18 |
-| --- | --- | --- |
-
-| 1.2.11. | Interplay with Articles 101-102 TFEU (EU competition rules) | 19 |
-| --- | --- | --- |
-
-| 1.2.12. | Interplay with the EU Charter of fundamental rights | 20 |
-| --- | --- | --- |
-
-| 1.2.13. | Interplay with Articles 34-36 TFEU | 20 |
-| --- | --- | --- |
-
-| 1.2.14. | Interplay with the Platform-to-Business Regulation | 21 |
-| --- | --- | --- |
-
-| 1.3. | The relationship between the UCPD and self-regulation | 21 |
-| --- | --- | --- |
-
-| 1.4. | Enforcement and redress | 22 |
-| --- | --- | --- |
-
-| 1.4.1. | Public and private enforcement | 22 |
-| --- | --- | --- |
-
-| 1.4.2. | Penalties | 22 |
-| --- | --- | --- |
-
-| 1.4.3. | Consumer redress | 25 |
-| --- | --- | --- |
-
-| 1.4.4. | Application of the UCPD to traders established in third countries | 25 |
-| --- | --- | --- |
-
-| 2. | MAIN CONCEPTS OF THE UCPD | 25 |
-| --- | --- | --- |
-
-| 2.1. | The functioning of the UCPD – Directive flowchart | 25 |
-| --- | --- | --- |
-
-| 2.2. | The concept of trader | 26 |
-| --- | --- | --- |
-
-| 2.3. | The concept of commercial practice | 28 |
-| --- | --- | --- |
-
-| 2.3.1. | After-sales practices, including debt collection activities | 29 |
-| --- | --- | --- |
-
-| 2.3.2. | Traders buying products from consumers | 30 |
-| --- | --- | --- |
-
-| 2.4. | Transactional decision test | 30 |
-| --- | --- | --- |
-
-| 2.5. | Average consumer | 33 |
-| --- | --- | --- |
-
-| 2.6. | Vulnerable consumers | 35 |
-| --- | --- | --- |
-
-| 2.7. | Article 5 - professional diligence | 36 |
-| --- | --- | --- |
-
-| 2.8. | Article 6 - misleading actions | 38 |
-| --- | --- | --- |
-
-| 2.8.1. | General misleading information | 39 |
-| --- | --- | --- |
-
-| 2.8.2. | Price advantages | 41 |
-| --- | --- | --- |
-
-| 2.8.3. | Confusing marketing | 42 |
-| --- | --- | --- |
-
-| 2.8.4. | Non-compliance with codes of conduct | 43 |
-| --- | --- | --- |
-
-| 2.8.5. | ‘Dual quality’ marketing | 44 |
-| --- | --- | --- |
-
-| 2.9. | Article 7 - misleading omissions | 49 |
-| --- | --- | --- |
-
-| 2.9.1. | Material information | 50 |
-| --- | --- | --- |
-
-| 2.9.2. | Hidden marketing/failure to identify commercial intent | 50 |
-| --- | --- | --- |
-
-| 2.9.3. | Material information provided in an unclear manner | 51 |
-| --- | --- | --- |
-
-| 2.9.4. | The factual context and limits of the communication medium used | 52 |
-| --- | --- | --- |
-
-| 2.9.5. | Material information in invitations to purchase – Article 7(4) | 53 |
-| --- | --- | --- |
-
-| 2.9.6. | Free trials and subscription traps | 58 |
-| --- | --- | --- |
-
-| 2.10. | Articles 8 and 9 - aggressive commercial practices | 59 |
-| --- | --- | --- |
-
-| 3. | BLACK LIST OF COMMERCIAL PRACTICES (ANNEX I) | 60 |
-| --- | --- | --- |
-
-| 3.1. | Products which cannot legally be sold – No 9 | 61 |
-| --- | --- | --- |
-
-| 3.2. | Pyramid schemes – No 14 | 62 |
-| --- | --- | --- |
-
-| 3.3. | Products which cure illnesses, dysfunctions and malformations – No 17 | 63 |
-| --- | --- | --- |
-
-| 3.4. | Use of the claim ‘free’ – No 20 | 66 |
-| --- | --- | --- |
-
-| 3.5. | Reselling events tickets acquired by automated means – No 23a | 69 |
-| --- | --- | --- |
-
-| 3.6. | Persistent marketing by a remote tool – No 26 | 69 |
-| --- | --- | --- |
-
-| 3.7. | Direct exhortations to children – No 28 | 70 |
-| --- | --- | --- |
-
-| 3.8. | Prizes – No 31 | 71 |
-| --- | --- | --- |
-
-| 4. | APPLICATION OF THE UCPD TO SPECIFIC FIELDS | 72 |
-| --- | --- | --- |
-
-| 4.1. | Sustainability | 72 |
-| --- | --- | --- |
-
-| 4.1.1. | Environmental claims | 72 |
-| --- | --- | --- |
-
-| 4.1.1.1. | Interplay with other EU legislation on environmental claims | 73 |
-| --- | --- | --- |
-
-| 4.1.1.2. | Main principles | 75 |
-| --- | --- | --- |
-
-| 4.1.1.3. | Application of Article 6 of the UCPD to environmental claims | 76 |
-| --- | --- | --- |
-
-| 4.1.1.4. | Application of Article 7 of the UCPD to environmental claims | 79 |
-| --- | --- | --- |
-
-| 4.1.1.5. | Application of Article 12 of the UCPD to environmental claims | 81 |
-| --- | --- | --- |
-
-| 4.1.1.6. | Application of Annex I to environmental claims | 82 |
-| --- | --- | --- |
-
-| 4.1.1.7. | Comparative environmental claims | 83 |
-| --- | --- | --- |
-
-| 4.1.2. | Planned obsolescence | 84 |
-| --- | --- | --- |
-
-| 4.2. | Digital sector | 86 |
-| --- | --- | --- |
-
-| 4.2.1. | Online platforms and their commercial practices | 87 |
-| --- | --- | --- |
-
-| 4.2.2. | Intermediation of consumer contracts with third parties | 89 |
-| --- | --- | --- |
-
-| 4.2.3. | Transparency of search results | 90 |
-| --- | --- | --- |
-
-| 4.2.4. | User reviews | 93 |
-| --- | --- | --- |
-
-| 4.2.5. | Social media | 96 |
-| --- | --- | --- |
-
-| 4.2.6. | Influencer marketing | 97 |
-| --- | --- | --- |
-
-| 4.2.7. | Data-driven practices and dark patterns | 99 |
-| --- | --- | --- |
-
-| 4.2.8. | Pricing practices | 102 |
-| --- | --- | --- |
-
-| 4.2.9. | Gaming | 103 |
-| --- | --- | --- |
-
-| 4.2.10. | Use of geo-localisation techniques | 105 |
-| --- | --- | --- |
-
-| 4.2.11. | Consumer lock-in | 106 |
-| --- | --- | --- |
-
-| 4.3. | Travel and transport sector | 107 |
-| --- | --- | --- |
-
-| 4.3.1. | Cross-cutting issues | 107 |
-| --- | --- | --- |
-
-| 4.3.2. | Package travel | 109 |
-| --- | --- | --- |
-
-| 4.3.3. | Timeshare contracts | 109 |
-| --- | --- | --- |
-
-| 4.3.4. | Issues relevant in particular to air transport | 110 |
-| --- | --- | --- |
-
-| 4.3.5. | Issues relevant in particular to car rental | 114 |
-| --- | --- | --- |
-
-| 4.3.6. | Issues relevant in particular to travel booking websites | 115 |
-| --- | --- | --- |
-
-| 4.4. | Financial services and immovable property | 116 |
-| --- | --- | --- |
-
-| 4.4.1. | Cross-cutting issues | 116 |
-| --- | --- | --- |
-
-| 4.4.2. | Issues specific to immovable property | 117 |
-| --- | --- | --- |
-
-| 4.4.3. | Issues specific to financial services | 118 |
-| --- | --- | --- |
-
-| ANNEX | 121 |
-| --- | --- |
 
 INTRODUCTION
 
@@ -319,14 +38,15 @@ The views expressed in this document cannot prejudge the position that the Europ
 
 As this Notice reflects the state of the art at the time of drafting, the guidance offered may be modified at a later date.
 
-1\. SCOPE OF THE UCPD
+# 1. SCOPE OF THE UCPD
 
-| Article 3(1)  This Directive shall apply to unfair business-to-consumer commercial practices as laid down in Article 5, before, during and after a commercial transaction in relation to a product. |
-| --- |
+> [!note]
+> Article 3(1)  This Directive shall apply to unfair business-to-consumer commercial practices as laid down in Article 5, before, during and after a commercial transaction in relation to a product.
+
 
 The Directive is horizontal in nature and protects the economic interests of consumers. Its principle-based provisions address a wide range of practices and are sufficiently broad to catch also fast-evolving products and sales methods.
 
-1.1. Material scope of application
+## Material scope of application
 
 The UCPD is based on the principle of full harmonisation. In order to remove internal market barriers and increase legal certainty for both consumers and businesses, it establishes a uniform regulatory framework harmonising national rules. Consequently, the UCPD establishes that Member States may not adopt stricter rules than those provided for in the Directive, even in order to achieve a higher level of consumer protection unless so permitted by the Directive itself [(4)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr4-C_2021526EN.01000101-E0004).
 
@@ -342,10 +62,11 @@ Recital 14 UCPD clarifies that the full harmonisation does not preclude Member S
 
 As regards consumer information, Recital 15 UCPD explains that Member States can, when allowed by the minimum clauses in EU law, maintain or introduce more stringent information requirements in conformity with EU law so as to ensure a higher level of protection of consumers' individual contractual rights. See also section 1.2.3, which explains the interplay with the pre-contractual information requirements in the Consumer Rights Directive.
 
-1.1.1. National legislation concerning commercial practices but protecting interests other than consumers’ economic interests
+### 1.1.1. National legislation concerning commercial practices but protecting interests other than consumers’ economic interests
 
-| Article 1  The purpose of this Directive is to contribute to the proper functioning of the internal market and achieve a high level of consumer protection by approximating the laws, regulations and administrative provisions of the Member States on unfair commercial practices harming consumers’ economic interests. |
-| --- |
+> [!note]
+> Article 1  The purpose of this Directive is to contribute to the proper functioning of the internal market and achieve a high level of consumer protection by approximating the laws, regulations and administrative provisions of the Member States on unfair commercial practices harming consumers’ economic interests.
+
 
 The UCPD does not cover national rules intended to protect interests which are not of an economic nature. Therefore, the UCPD does not affect the possibility of Member States to set rules regulating commercial practices for reasons of health, safety or environmental protection.
 
@@ -363,10 +84,11 @@ Concerning national rules banning sales with bonuses, the Court has clarified th
 
 Concerning national rules allowing clearance sales to be announced only if authorised by the competent district administrative authority, the Court noted that the referring court had implicitly accepted that such a provision, which was at stake in the case, was aimed at the protection of consumers and not solely at the protection of competitors and other operators in the market. Therefore, the UCPD was applicable [(12)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr12-C_2021526EN.01000101-E0012).
 
-1.1.2. Commercial practices which relate to a business-to-business transaction or which harm only competitors’ economic interests
+### 1.1.2. Commercial practices which relate to a business-to-business transaction or which harm only competitors’ economic interests
 
-| Recital 6  This Directive \[…\] neither covers nor affects the national laws on unfair commercial practices which harm only competitors’ economic interests or which relate to a transaction between traders; taking full account of the principle of full subsidiarity, Member States will continue to be able to regulate such practices in conformity with Community law, if they choose to do so \[…\]. |
-| --- |
+> [!note]
+> Recital 6  This Directive \[…\] neither covers nor affects the national laws on unfair commercial practices which harm only competitors’ economic interests or which relate to a transaction between traders; taking full account of the principle of full subsidiarity, Member States will continue to be able to regulate such practices in conformity with Community law, if they choose to do so \[…\].
+
 
 Business-to-business (B2B) commercial practices do not fall within the scope of the UCPD. They are partly regulated under the Misleading and Comparative Advertising Directive 2006/114/EC of the European Parliament and of the Council [(13)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr13-C_2021526EN.01000101-E0013). Also, Directive (EU) 2019/633 of the European Parliament and of the Council [(14)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr14-C_2021526EN.01000101-E0014) on unfair trading practices regulates B2B relationships in the agricultural and food supply chain. Member States may however extend, under their national laws, the protection granted under the UCPD to B2B commercial practices.
 
@@ -376,34 +98,39 @@ Only those national measures which protect exclusively competitors’ interests 
 
 Regarding the distinction between consumers’ and competitors’ interests, the Court considered that:
 
-| ‘ 39 | \[…\] As is evident from recital 6 in the preamble to \[the UCPD\], only national legislation relating to unfair commercial practices which harm ‘only’ competitors’ economic interests or which relate to a transaction between traders is thus excluded from that scope. |
-| --- | --- |
+> [!note]
+> ‘ 39 - \[…\] As is evident from recital 6 in the preamble to \[the UCPD\], only national legislation relating to unfair commercial practices which harm ‘only’ competitors’ economic interests or which relate to a transaction between traders is thus excluded from that scope.
 
-| 40 | \[…\] that is quite clearly not the case with the national provisions \[that\] refer expressly to the protection of consumers and not only to that of competitors and other market participants.’ [(16)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr16-C_2021526EN.01000101-E0016) |
-| --- | --- |
+
+> [!note]
+> 40 - \[…\] that is quite clearly not the case with the national provisions \[that\] refer expressly to the protection of consumers and not only to that of competitors and other market participants.’ [(16)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr16-C_2021526EN.01000101-E0016)
+
 
 It is for national authorities and courts to decide whether a national provision is intended to protect consumers’ economic interests.
 
 The Court noted that:
 
-| ‘ 29 | It is therefore for the national court and not for this Court to establish whether the national provisions \[…\] concerning price reduction announcements to consumers, actually pursue objectives relating to consumer protection, in order to determine whether such provisions are liable to fall within the scope of the Unfair Commercial Practices Directive \[…\].’ [(17)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr17-C_2021526EN.01000101-E0017) |
-| --- | --- |
+> [!note]
+> ‘ 29 - It is therefore for the national court and not for this Court to establish whether the national provisions \[…\] concerning price reduction announcements to consumers, actually pursue objectives relating to consumer protection, in order to determine whether such provisions are liable to fall within the scope of the Unfair Commercial Practices Directive \[…\].’ [(17)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr17-C_2021526EN.01000101-E0017)
+
 
 The Court has also found that the UCPD precludes a national provision prohibiting sales at loss only in so far as its aim is to protect consumers [(18)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr18-C_2021526EN.01000101-E0018).
 
 Regarding national rules prohibiting price reductions during pre-sales periods, the Court has clarified that such a prohibition is not compatible with the UCPD if it seeks to protect the economic interests of consumers [(19)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr19-C_2021526EN.01000101-E0019).
 
-1.2. Interplay between the Directive and other EU law
+## Interplay between the Directive and other EU law
 
-| Article 3 (4)  In the case of conflict between the provisions of this Directive and other Community rules regulating specific aspects of unfair commercial practices, the latter shall prevail and apply to those specific aspects. |
-| --- |
+> [!note]
+> Article 3 (4)  In the case of conflict between the provisions of this Directive and other Community rules regulating specific aspects of unfair commercial practices, the latter shall prevail and apply to those specific aspects.
 
-| Recital 10  It is necessary to ensure that the relationship between this Directive and existing Community law is coherent, particularly where detailed provisions on unfair commercial practices apply to specific sectors. \[…\] This Directive accordingly applies only in so far as there are no specific Community law provisions regulating specific aspects of unfair commercial practices, such as information requirements and rules on the way the information is presented to the consumer. It provides protection for consumers where there is no specific sectorial legislation at Community level and prohibits traders from creating a false impression of the nature of products. This is particularly important for complex products with high levels of risk to consumers, such as certain financial services products. This Directive consequently complements the Community acquis, which is applicable to commercial practices harming consumers’ economic interests. |
-| --- |
+
+> [!note]
+> Recital 10  It is necessary to ensure that the relationship between this Directive and existing Community law is coherent, particularly where detailed provisions on unfair commercial practices apply to specific sectors. \[…\] This Directive accordingly applies only in so far as there are no specific Community law provisions regulating specific aspects of unfair commercial practices, such as information requirements and rules on the way the information is presented to the consumer. It provides protection for consumers where there is no specific sectorial legislation at Community level and prohibits traders from creating a false impression of the nature of products. This is particularly important for complex products with high levels of risk to consumers, such as certain financial services products. This Directive consequently complements the Community acquis, which is applicable to commercial practices harming consumers’ economic interests.
+
 
 Due to its general scope, the Directive applies to many commercial practices which are also regulated by other general or sector-specific EU legislation.
 
-1.2.1. Relationship with other EU legislation
+### Relationship with other EU legislation
 
 Article 3(4) and Recital 10 are key features of the UCPD. They clarify that the UCPD complements other EU legislation (‘Community rules’) that regulate specific aspects of unfair commercial practices. Consequently, the UCPD works as a ‘safety net’ ensuring that a high common level of consumer protection against unfair commercial practices can be maintained in all sectors, including by complementing and filling gaps in other EU law.
 
@@ -411,22 +138,27 @@ Where EU law, sector-specific or other, is in place and its provisions overlap w
 
 Article 3(4) read in conjunction with Recital 10 implies that a provision of EU law will prevail over the UCPD if all of the following three conditions are fulfilled:
 
-| — | it has the status of EU law, |
-| --- | --- |
+> [!note]
+> it has the status of EU law,
 
-| — | it regulates a specific aspect of commercial practices, and |
-| --- | --- |
 
-| — | there is a conflict between the two provisions or the content of the other EU law provision overlaps with the content of the relevant UCPD provision, for instance by regulating the conduct at stake in a more detailed manner and/or by being applicable to a specific sector [(20)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr20-C_2021526EN.01000101-E0020). |
-| --- | --- |
+> [!note]
+> it regulates a specific aspect of commercial practices, and
 
-| For example:  Article 12 of the Mortgage Credit Directive [(21)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr21-C_2021526EN.01000101-E0021) prohibits, in principle, tying practices whereby a credit agreement for a mortgage is sold with another financial product and is not made available separately. This per se prohibition conflicts with the UCPD because tying practices would be unfair and thus prohibited under the UCPD only following a case-by-case assessment. Its Article 12 prevails over the general rules of the UCPD. Thus, tying practices within the meaning of Article 12 of the Mortgage Credit Directive are prohibited as such. |
-| --- |
+
+> [!note]
+> there is a conflict between the two provisions or the content of the other EU law provision overlaps with the content of the relevant UCPD provision, for instance by regulating the conduct at stake in a more detailed manner and/or by being applicable to a specific sector [(20)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr20-C_2021526EN.01000101-E0020).
+
+
+> [!note]
+> For example:  Article 12 of the Mortgage Credit Directive [(21)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr21-C_2021526EN.01000101-E0021) prohibits, in principle, tying practices whereby a credit agreement for a mortgage is sold with another financial product and is not made available separately. This per se prohibition conflicts with the UCPD because tying practices would be unfair and thus prohibited under the UCPD only following a case-by-case assessment. Its Article 12 prevails over the general rules of the UCPD. Thus, tying practices within the meaning of Article 12 of the Mortgage Credit Directive are prohibited as such.
+
 
 Where all three conditions set out above are fulfilled, the UCPD will not apply to the specific aspect of the commercial practice regulated, for example, by a sector-specific rule. The UCPD continues nonetheless to remain relevant to assess other possible aspects of the commercial practice not covered by the sector-specific provisions, such as, for example, aggressive behaviour by a trader.
 
-| For example:  In order to switch to a different telecom provider, a consumer is required by his or her current provider to fill in a form. However, the form is not accessible online and the provider is not replying to the consumer's emails/phone-calls. Article 106 of the European Electronic Communications Code (EECC) [(22)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr22-C_2021526EN.01000101-E0022) provides that, when switching, subscribers may retain their phone number, that the porting of numbers shall be carried out within the shortest possible time and that no direct charges are applied to end-users. The EECC also provides in Article 106(6) that providers must cooperate in good faith and must not delay or abuse the process. National regulatory authorities are responsible for ensuring the efficiency and simplicity of the switching process for the end-user. Furthermore, traders’ practices regarding the switching can be assessed under Articles 8 and 9(d) UCPD, which prohibit disproportionate non-contractual barriers to switching as an aggressive commercial practice. |
-| --- |
+> [!note]
+> For example:  In order to switch to a different telecom provider, a consumer is required by his or her current provider to fill in a form. However, the form is not accessible online and the provider is not replying to the consumer's emails/phone-calls. Article 106 of the European Electronic Communications Code (EECC) [(22)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr22-C_2021526EN.01000101-E0022) provides that, when switching, subscribers may retain their phone number, that the porting of numbers shall be carried out within the shortest possible time and that no direct charges are applied to end-users. The EECC also provides in Article 106(6) that providers must cooperate in good faith and must not delay or abuse the process. National regulatory authorities are responsible for ensuring the efficiency and simplicity of the switching process for the end-user. Furthermore, traders’ practices regarding the switching can be assessed under Articles 8 and 9(d) UCPD, which prohibit disproportionate non-contractual barriers to switching as an aggressive commercial practice.
+
 
 It follows from the above that, in general, the application of the UCPD is not per se excluded just because other EU legislation is in place which regulates specific aspects of unfair commercial practices.
 
@@ -444,48 +176,58 @@ The interplay with the information obligations in sector-specific EU instruments
 
 The interplay with sector-specific rules was also addressed in the Mezina case [(26)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr26-C_2021526EN.01000101-E0026). The case concerned health claims that were made in relation to natural food supplements. Regulation (EC) No 1924/2006 of the European Parliament and of the Council [(27)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr27-C_2021526EN.01000101-E0027) on nutrition and health claims made on foods applies to nutrition and health claims made in commercial communications, whether in the labelling, presentation or advertising of foods to be delivered as such to the final consumer. In case of conflict between the provisions of Regulation (EC) No 1924/2006 and the UCPD, the former will take precedence in relation to health claims.
 
-1.2.2. Information established by other EU law as ‘material’ information
+### Information established by other EU law as ‘material’ information
 
 The UCPD provides that information requirements in relation to commercial communication established by other EU law are ‘material’.
 
-| Article 7(5)  \|  \| 5. \| Information requirements established by Community law in relation to commercial communication including advertising or marketing, a non-exhaustive list of which is contained in Annex II, shall be regarded as material. \| \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 7(5)  
+ 5. - Information requirements established by Community law in relation to commercial communication including advertising or marketing, a non-exhaustive list of which is contained in Annex II, shall be regarded as material. 
+   
+
 
 Such information requirements are found in a number of pieces of sector-specific EU legislation. For example:
 
-| — | environment (e.g. Energy Labelling Framework Regulation [(28)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr28-C_2021526EN.01000101-E0028) and related delegated Regulations, Ecodesign Directive [(29)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr29-C_2021526EN.01000101-E0029) and related delegated Regulations, Tyre Labelling Regulation [(30)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr30-C_2021526EN.01000101-E0030), Fuel Economy Directive [(31)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr31-C_2021526EN.01000101-E0031)); |
-| --- | --- |
+> [!note]
+> environment (e.g. Energy Labelling Framework Regulation [(28)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr28-C_2021526EN.01000101-E0028) and related delegated Regulations, Ecodesign Directive [(29)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr29-C_2021526EN.01000101-E0029) and related delegated Regulations, Tyre Labelling Regulation [(30)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr30-C_2021526EN.01000101-E0030), Fuel Economy Directive [(31)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr31-C_2021526EN.01000101-E0031));
 
-| — | financial services (e.g. Markets in Financial Instruments Directive [(32)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr32-C_2021526EN.01000101-E0032), Payment Services Directive [(33)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr33-C_2021526EN.01000101-E0033), Consumer Credit Directive [(34)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr34-C_2021526EN.01000101-E0034), Mortgage Credit Directive [(35)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr35-C_2021526EN.01000101-E0035), Payment Accounts Directive [(36)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr36-C_2021526EN.01000101-E0036), Regulation on key information documents for PRIIPs [(37)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr37-C_2021526EN.01000101-E0037)); |
-| --- | --- |
 
-| — | health (e.g. Directive 2001/83/EC of the European Parliament and of the Council [(38)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr38-C_2021526EN.01000101-E0038)); |
-| --- | --- |
+> [!note]
+> financial services (e.g. Markets in Financial Instruments Directive [(32)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr32-C_2021526EN.01000101-E0032), Payment Services Directive [(33)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr33-C_2021526EN.01000101-E0033), Consumer Credit Directive [(34)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr34-C_2021526EN.01000101-E0034), Mortgage Credit Directive [(35)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr35-C_2021526EN.01000101-E0035), Payment Accounts Directive [(36)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr36-C_2021526EN.01000101-E0036), Regulation on key information documents for PRIIPs [(37)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr37-C_2021526EN.01000101-E0037));
 
-| — | electronic communications services (European Electronic Communications Code [(39)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr39-C_2021526EN.01000101-E0039)); |
-| --- | --- |
 
-| — | transport (e.g. Air Services Regulation [(40)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr40-C_2021526EN.01000101-E0040), passenger rights Regulations [(41)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr41-C_2021526EN.01000101-E0041)) |
-| --- | --- |
+> [!note]
+> health (e.g. Directive 2001/83/EC of the European Parliament and of the Council [(38)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr38-C_2021526EN.01000101-E0038));
 
-| — | food area (e.g. General Food Law Regulation [(42)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr42-C_2021526EN.01000101-E0042), Food Information to Consumers Regulation [(43)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr43-C_2021526EN.01000101-E0043)). |
-| --- | --- |
+
+> [!note]
+> electronic communications services (European Electronic Communications Code [(39)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr39-C_2021526EN.01000101-E0039));
+
+
+> [!note]
+> transport (e.g. Air Services Regulation [(40)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr40-C_2021526EN.01000101-E0040), passenger rights Regulations [(41)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr41-C_2021526EN.01000101-E0041))
+
+
+> [!note]
+> food area (e.g. General Food Law Regulation [(42)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr42-C_2021526EN.01000101-E0042), Food Information to Consumers Regulation [(43)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr43-C_2021526EN.01000101-E0043)).
+
 
 Such information requirements will often be more specific than the information requirements of the UCPD.
 
 Article 7(5) of the UCPD clarifies that such information requirements ‘ shall be regarded as material ’.
 
-| For example:  Article 23 of the Air Services Regulation requires air carriers, their agents and other ticket sellers, when offering flight tickets, to break down the final price by components (e.g. air fare, taxes, airport charges, and other charges and fees, such as those related to security and fuel). This constitutes material information within the meaning of Article 7(5) of the UCPD. |
-| --- |
+> [!note]
+> For example:  Article 23 of the Air Services Regulation requires air carriers, their agents and other ticket sellers, when offering flight tickets, to break down the final price by components (e.g. air fare, taxes, airport charges, and other charges and fees, such as those related to security and fuel). This constitutes material information within the meaning of Article 7(5) of the UCPD.
+
 
 Accordingly, failing to provide such information can qualify as a misleading commercial practice under the UCPD subject to the general transactional decision test, i.e. if the omission causes or is likely to cause the average consumer to take a transactional decision they would not have taken otherwise. The concept of ‘material information’ within the meaning of the UCPD is discussed in section 2.9.1.
 
 Recital 15 provides that Member States can retain or add information requirements relating to contract law where this is permitted by minimum harmonisation clauses found in existing EU legal instruments.
 
-| For example:  Member States can introduce additional pre-contractual requirements for on-premises sales, which are subject to the minimum harmonisation clause in Article 5(4) of the Consumer Rights Directive. |
-| --- |
+> [!note]
+> For example:  Member States can introduce additional pre-contractual requirements for on-premises sales, which are subject to the minimum harmonisation clause in Article 5(4) of the Consumer Rights Directive.
 
-1.2.3. Interplay with the Consumer Rights Directive
+### Interplay with the Consumer Rights Directive
 
 The Consumer Rights Directive [(44)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr44-C_2021526EN.01000101-E0044) (CRD) applies to all business-to-consumer contracts except in the areas that are excluded from its scope, such as financial and healthcare services. It fully harmonises pre-contractual information requirements for distance (including online) and off-premises contracts (i.e. contracts that are not concluded in regular brick-and-mortar shops, see Article 2(8) CRD for the full definition). At the same time, as stipulated in Article 6(8) of the CRD, the Directive does not prevent Member States from imposing additional information requirements in accordance with the Services Directive 2006/123/EC of the European Parliament and of the Council [(45)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr45-C_2021526EN.01000101-E0045) and the e-Commerce Directive 2000/31/EC of the European Parliament and of the Council [(46)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr46-C_2021526EN.01000101-E0046) (for further information, see Guidance on the CRD, section 4.1.1 [(47)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr47-C_2021526EN.01000101-E0047)). As regards other contracts, in particular those concluded in regular brick-and-mortar shops (‘on-premises’ contracts), the Directive allows Member States to adopt or maintain additional pre-contractual information requirements (Article 5(4)). CRD also regulates certain contractual rights, in particular the right of withdrawal.
 
@@ -501,7 +243,7 @@ In this context, the Court also clarified that point 29 of Annex I does not cove
 
 The Court has furthermore clarified that Article 27 CRD, read in conjunction with Article 5(1) and (5) UCPD, does not preclude a national law that requires the owners of an apartment in a building in co-ownership connected to a district heating network to contribute to the costs of the consumption of thermal energy by the common parts and the internal installation of the building, even though they did not individually request the supply of that thermal energy and they do not use it in their apartment since the contract was concluded at the request of the majority of the owners [(50)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr50-C_2021526EN.01000101-E0050).
 
-1.2.4. Interplay with the Unfair Contract Terms Directive
+### Interplay with the Unfair Contract Terms Directive
 
 The Unfair Contract Terms Directive [(51)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr51-C_2021526EN.01000101-E0051) (UCTD) applies to all business-to-consumer contracts and concerns contractual terms which have not been individually negotiated in advance (e.g. pre-formulated standard clauses). Contractual terms may be regarded as unfair based on a general prohibition [(52)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr52-C_2021526EN.01000101-E0052), an indicative list of potentially unfair terms [(53)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr53-C_2021526EN.01000101-E0053) or an obligation to draft terms transparently, i.e. in plain, intelligible language [(54)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr54-C_2021526EN.01000101-E0054). In contrast to the UCPD, which is without prejudice to contract law and does not provide for the invalidity of contracts that result from unfair commercial practices, breaches of the UCTD have contractual consequences: under Article 6(1) of that directive, unfair terms used in a contract with a consumer must ‘ not be binding on the consumer ’ [(55)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr55-C_2021526EN.01000101-E0055).
 
@@ -531,7 +273,7 @@ This interpretation has been justified by the fact that the UCPD does not provid
 
 However, Directive (EU) 2019/2161 on better enforcement and modernisation of Union consumer protection rules introduces individual remedies for victims of breaches of the provisions of the UCPD in a new Article 11a of the UCPD, applicable as from 28 May 2022. Under this new provision consumers harmed by unfair commercial practices should have access to proportionate and effective remedies, including compensation for damage suffered by the consumer and, where relevant, a price reduction or the termination of the contract (see section 1.4 for additional information). The addition of that clear and unequivocal new provision may entail an extension of the requirement of an ex officio control to the unfair commercial practices under the UCPD (to be confirmed by the Court).
 
-1.2.5. Interplay with the Price Indication Directive
+### Interplay with the Price Indication Directive
 
 The Price Indication Directive 98/6/EC of the European Parliament and of the Council [(69)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr69-C_2021526EN.01000101-E0069) (PID) requires traders to indicate the selling price and the unit price (price per unit of measurement) of goods in order to facilitate price comparison by consumers. Furthermore, Directive (EU) 2019/2161 added to the PID specific rules concerning ‘price reductions’.
 
@@ -543,11 +285,13 @@ The amendments introduced to the PID by Directive (EU) 2019/2161 require Member 
 
 By analogy with the Court’s findings in Citroën, the specific rules of the PID on price reductions should prevail over the UCPD regarding those aspects of price reduction that are governed by these specific rules, namely, the definition and indication of the ‘prior’ price when announcing price reduction. However, the UCPD remains applicable to other aspects of price reductions, in particular Article 6(1)(d) on the misleading claims about the existence of price advantage. It could apply, for instance, to different misleading aspects of price reduction practices, such as:
 
-| — | excessively long periods during which announcements of price reductions apply compared to the period during which the goods are sold at ‘full’ price; |
-| --- | --- |
+> [!note]
+> excessively long periods during which announcements of price reductions apply compared to the period during which the goods are sold at ‘full’ price;
 
-| — | advertising a promotion of, for example, ‘up to 70 % off’ when only a few of the items are reduced at 70 % and the rest are reduced at a lower percentage. |
-| --- | --- |
+
+> [!note]
+> advertising a promotion of, for example, ‘up to 70 % off’ when only a few of the items are reduced at 70 % and the rest are reduced at a lower percentage.
+
 
 Such practices could be found to be in breach of the UCPD (Article 6(1)(d)), subject to a case-by-case assessment, notwithstanding the fact that the trader has complied with the requirements of the PID as regards the definition and indication of the ‘prior’ price. Conversely, a trader found in breach of the PID rules on price reductions, i.e. definition and display of the ‘prior price’, could also be found in breach of the UCPD.
 
@@ -555,7 +299,7 @@ Moreover, the PID applies only to tangible goods and not to services and digital
 
 Finally, as the PID applies only to ‘price reductions’ as specifically defined therein, the UCPD remains fully applicable and governs other types of practices promoting price advantages, such as comparisons with other prices, combined or tied conditional offers and loyalty programmes (see section 2.8.2). The UCPD also applies to personalised prices (see section 4.2.8.).
 
-1.2.6. Interplay with the Misleading and Comparative Advertising Directive
+### Interplay with the Misleading and Comparative Advertising Directive
 
 The Misleading and Comparative Advertising Directive [(72)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr72-C_2021526EN.01000101-E0072) (MCAD) covers business-to-business (B2B) relations. However, its rules on comparative advertising continue to provide a general test, based on fully harmonised criteria, for assessing whether comparative advertising is lawful also in business-to-consumer (B2C) transactions [(73)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr73-C_2021526EN.01000101-E0073).
 
@@ -567,13 +311,13 @@ For those Member States which have extended all or part of the provisions contai
 
 The Court examined the interplay between the MCAD and the UCPD in the Carrefour case [(74)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr74-C_2021526EN.01000101-E0074), which concerned comparative advertising that may be misleading under Article 7 of the UCPD. The practice involved advertising comparing the prices of products sold in shops having different sizes or formats, where those shops are part of retail chains each of which includes a range of shops having different sizes or formats (e.g. hypermarkets and supermarkets) and where the advertiser compares the prices charged in shops having larger sizes or formats in its retail chain with those displayed in shops having smaller sizes or formats in the retail chains of competitors. The Court considered that this type of advertising practice could be unlawful within the meaning of Article 4(a) and (c) of the MCAD, read in conjunction with Article 7(1) to (3) of the UCPD, unless consumers are informed clearly and in the advertisement itself that the comparison was made between the prices charged in shops in the advertiser’s retail chain having larger sizes or formats and those indicated in the shops of competing retail chains having smaller sizes or format [(75)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr75-C_2021526EN.01000101-E0075).
 
-1.2.7. Interplay with the Services Directive
+### Interplay with the Services Directive
 
 Contrary to sector-specific legislation, the Services Directive [(76)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr76-C_2021526EN.01000101-E0076) has a broad scope of application. It applies to services in general as defined in the Treaty on the Functioning of the European Union, with certain exceptions. It can therefore not be considered as lex specialis to the UCPD within the meaning of Article 3(4).
 
 Accordingly, the information requirements in Article 22 of the Services Directive apply in addition to the information required for invitations to purchase under Article 7(4) of the UCPD.
 
-1.2.8. Interplay with the e-Commerce Directive
+### Interplay with the e-Commerce Directive
 
 The e-Commerce Directive [(77)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr77-C_2021526EN.01000101-E0077) applies to information society services, which will normally include the services provided by operators of websites and online platforms which allow consumers to buy a good or service.
 
@@ -583,7 +327,7 @@ Article 6 in particular requires Member States to ensure that traders clearly id
 
 The Commission published on 15 December 2020 proposals for a Digital Services Act [(78)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr78-C_2021526EN.01000101-E0078) (DSA) and for a Digital Markets Act [(79)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr79-C_2021526EN.01000101-E0079) (DMA). The DSA aims to update and extend the rules on ecommerce and platforms in the EU, and the DMA aims to impose additional obligations on certain services operated by so-called gatekeepers [(80)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr80-C_2021526EN.01000101-E0080).
 
-1.2.9. Interplay with the Audiovisual Media Services Directive
+### Interplay with the Audiovisual Media Services Directive
 
 The Audiovisual Media Services Directive [(81)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr81-C_2021526EN.01000101-E0081) (AVMSD) applies to linear and nonlinear audiovisual media services (i.e. TV broadcasting and on-demand media services), which can include audiovisual commercial communications which directly or indirectly promote goods or services (e.g. television advertising, sponsorship, teleshopping or product placement).
 
@@ -593,7 +337,7 @@ The 2018 revision of the Directive [(82)](https://eur-lex.europa.eu/legal-conten
 
 The UCPD applies to unfair commercial practices occurring in audiovisual media services, such as misleading and aggressive practices, to the extent that they are not covered by the provisions mentioned above.
 
-1.2.10. Interplay with the General Data Protection Regulation and the e-Privacy Directive
+### Interplay with the General Data Protection Regulation and the e-Privacy Directive
 
 The respect for private and family life and the protection of personal data are fundamental rights under Articles 7 and 8 of the EU Charter of Fundamental Rights. Under Article 7, everyone has the right to respect for his or her private and family life, home and communications. As regards the protection of personal data, Article 8(2) of the Charter contains key data protection principles (fair processing, consent or legitimate aim prescribed by law, right to access and rectification). Article 8(3) of the Charter requires that compliance with data protection rules be subject to control by an independent authority [(84)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr84-C_2021526EN.01000101-E0084).
 
@@ -611,7 +355,7 @@ From a UCPD perspective, the first issue to be considered concerns the transpare
 
 Furthermore, the information requirements from the GDPR and e-Privacy Directive may be considered as material information under the UCPD Article 7(5). Personal data, consumer preferences and other user-generated content have economic value and are often being made available to third parties. Consequently, under Article 7(2) and No 22 of Annex I UCPD, if the trader does not inform a consumer that the data provided will be used for commercial purposes, this could be considered a misleading omission of material information, as well as a breach of transparency and other requirements under Articles 12 to 14 of the GDPR.
 
-1.2.11. Interplay with Articles 101-102 TFEU (EU competition rules)
+### Interplay with Articles 101-102 TFEU (EU competition rules)
 
 Council Regulation (EC) No 1/2003 [(87)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr87-C_2021526EN.01000101-E0087) provides the legal framework for implementing the competition rules laid down in Articles 101 and 102 TFEU. Both Articles are without prejudice to the UCPD.
 
@@ -621,13 +365,13 @@ Article 102 TFEU prohibits, in certain circumstances, the abuse of a dominant po
 
 The fact that a given conduct is in breach of Articles 101 or 102 TFEU does not automatically mean that it is also unfair under the UCPD (or vice versa). The breach of competition rules should, however, be taken into account when assessing the unfairness of commercial practices under the UCPD insofar as they may be considered contrary to the general clause of Article 5(2) UCPD concerning ‘professional diligence’.
 
-1.2.12. Interplay with the EU Charter of fundamental rights
+### Interplay with the EU Charter of fundamental rights
 
 According to its Article 51(1), the EU Charter of fundamental rights applies to the Member States when they implement Union law, thus also when they implement the provisions of the UCPD. The Charter contains provisions, among others, on the protection of personal data (Article 8), the rights of the child (Article 24), consumer protection (Article 38) and the right to an effective remedy and a fair trial (Article 47).
 
 The Court has stressed the significance of Article 47 of the Charter on access to justice in relation to remedies available to consumers in connection with consumer rights granted under EU directives. The principle of effectiveness, as referred to by the Court, means that national rules of procedure may not make it excessively difficult or impossible in practice for consumers to exercise rights conferred by EU law [(88)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr88-C_2021526EN.01000101-E0088).
 
-1.2.13. Interplay with Articles 34-36 TFEU
+### Interplay with Articles 34-36 TFEU
 
 A national measure in an area which has been the subject of exhaustive harmonisation at EU level must be assessed in the light of the provisions of that harmonising measure and not those of the Treaty of the Functioning of the European Union (TFEU) [(89)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr89-C_2021526EN.01000101-E0089). Thus, when a national measure falls within the scope of the UCPD (discussed in sections 1.1 and 1.2 above), it should be assessed against the UCPD and not against the TFEU.
 
@@ -643,7 +387,7 @@ If a measure or national practice violates Article 34 TFEU, it may in principle 
 
 In order to be permissible, such provisions must be proportionate to the objective pursued and the objective must not be capable of being achieved by measures which are less restrictive of intra-EU trade [(100)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr100-C_2021526EN.01000101-E0100). More recently the Court held that ‘ in determining whether the restriction at issue is proportionate, it is also important to ascertain whether the measures implemented in that context go beyond what is necessary to attain the legitimate objective being pursued. In other words, it is necessary to determine whether there exist alternative measures that are also capable of attaining that objective while at the same time having a less restrictive effect on intra-Community trade ’ [(101)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr101-C_2021526EN.01000101-E0101). Moreover, the Court held that ‘ it should be borne in mind in that context that a restrictive measure may be regarded as complying with the requirements of European Union law only if it genuinely reflects a concern to secure the attainment of the objective pursued in a consistent and systematic manner ’ [(102)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr102-C_2021526EN.01000101-E0102).
 
-1.2.14. Interplay with the Platform-to-Business Regulation
+### Interplay with the Platform-to-Business Regulation
 
 The Platform-to-Business (P2B) Regulation [(103)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr103-C_2021526EN.01000101-E0103) lays down rules to ensure that business users of online intermediation services and corporate website users in relation to online search engines are granted appropriate transparency, fairness and effective redress possibilities. The transparency requirements of the P2B Regulation cover ranking of search results (Article 5).
 
@@ -651,13 +395,15 @@ The Commission has published guidelines on ranking transparency that aim to faci
 
 A similar requirement concerning ranking transparency in the B2C area was introduced by Directive (EU) 2019/2161, which added to the UCPD a new point 4a in Article 7. It requires traders to provide consumers with information on the main parameters determining the ranking of products presented to the consumer as a result of the search query and the relative importance of those parameters. The interplay between the UCPD and the P2B Regulation in the area of ranking transparency is addressed in section 4.2.3.
 
-1.3. The relationship between the UCPD and self-regulation
+## The relationship between the UCPD and self-regulation
 
-| Article 2(f)  ‘code of conduct’ means an agreement or set of rules not imposed by law, regulation or administrative provision of a Member State which defines the behaviour of traders who undertake to be bound by the code in relation to one or more particular commercial practices or business sectors; |
-| --- |
+> [!note]
+> Article 2(f)  ‘code of conduct’ means an agreement or set of rules not imposed by law, regulation or administrative provision of a Member State which defines the behaviour of traders who undertake to be bound by the code in relation to one or more particular commercial practices or business sectors;
 
-| Article 10  Codes of conduct  This Directive does not exclude the control, which Member States may encourage, of unfair commercial practices by code owners and recourse to such bodies by the persons or organisations referred to in Article 11 if proceedings before such bodies are in addition to the court or administrative proceedings referred to in that Article. Recourse to such control bodies shall never be deemed the equivalent of foregoing a means of judicial or administrative recourse as provided for in Article 11. |
-| --- |
+
+> [!note]
+> Article 10  Codes of conduct  This Directive does not exclude the control, which Member States may encourage, of unfair commercial practices by code owners and recourse to such bodies by the persons or organisations referred to in Article 11 if proceedings before such bodies are in addition to the court or administrative proceedings referred to in that Article. Recourse to such control bodies shall never be deemed the equivalent of foregoing a means of judicial or administrative recourse as provided for in Article 11.
+
 
 The UCPD recognises the importance of self-regulation mechanisms and clarifies the role that code owners and self-regulatory bodies can play in enforcement. Member States may encourage code owners to check for unfair commercial practices, in addition to enforcing the UCPD.
 
@@ -665,9 +411,9 @@ When the rules in self-regulatory codes are strict and rigorously applied by cod
 
 The UCPD contains several provisions which prevent traders from unduly exploiting the trust which consumers may have in self-regulatory codes. This is discussed in section 2.8.4 on non-compliance with codes of conduct.
 
-1.4. Enforcement and redress
+## Enforcement and redress
 
-1.4.1. Public and private enforcement
+### Public and private enforcement
 
 According to Article 11 of the UCPD, Member States are required to ensure that adequate and effective means exist to combat unfair commercial practices in order to enforce compliance with the provisions of the Directive in the interest of consumers.
 
@@ -681,7 +427,7 @@ In the area of private enforcement, Directive (EU) 2020/1828 of the European Par
 
 Finally, persons who report breaches of the UCPD (and of the CRD) are covered by the protective regime of Directive (EU) 2019/1937 of the European Parliament and of the Council [(107)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr107-C_2021526EN.01000101-E0107) (the Whistleblower Directive) pursuant to Article 2(1)a)(ix). By feeling safe to speak up, the number of whistleblowers’ reports will likely increase, thereby enhancing the enforcement of the UCPD.
 
-1.4.2. Penalties
+### Penalties
 
 Article 13 of the UCPD deals with penalties for the infringement of the national rules transposing the Directive. Paragraph 1 requires Member States to lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to the Directive. It leaves to Member States to decide on the type of the available penalties and to determine the procedures for the imposition of penalties, as long as they are effective, proportionate and dissuasive.
 
@@ -695,8 +441,17 @@ Criteria for the application of penalties
 
 Article 13(2) sets out a list of six non-exhaustive and indicative criteria that Member States’ competent authorities and courts should take into account when imposing the penalties. They apply on a ‘where appropriate’ basis to infringements, both domestically and in cross-border situations:
 
-| Article 13  \|  \| 2. \| Member States shall ensure that the following non-exhaustive and indicative criteria are taken into account for the imposition of penalties, where appropriate: \| \| --- \| --- \| --- \|  \| (a) \| the nature, gravity, scale and duration of the infringement; \| \| --- \| --- \|  \| (b) \| any action taken by the trader to mitigate or remedy the damage suffered by consumers; \| \| --- \| --- \|  \| (c) \| any previous infringements by the trader; \| \| --- \| --- \|  \| (d) \| the financial benefits gained or losses avoided by the trader due to the infringement, if the relevant data are available; \| \| --- \| --- \|  \| (e) \| penalties imposed on the trader for the same infringement in other Member States in cross-border cases where information about such penalties is available through the mechanism established by Regulation (EU) 2017/2394 of the European Parliament and of the Council; \| \| --- \| --- \|  \| (f) \| any other aggravating or mitigating factors applicable to the circumstances of the case. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 13  
+ 2. - Member States shall ensure that the following non-exhaustive and indicative criteria are taken into account for the imposition of penalties, where appropriate: 
+     - (a) - the nature, gravity, scale and duration of the infringement; 
+    - (b) - any action taken by the trader to mitigate or remedy the damage suffered by consumers; 
+    - (c) - any previous infringements by the trader; 
+    - (d) - the financial benefits gained or losses avoided by the trader due to the infringement, if the relevant data are available; 
+    - (e) - penalties imposed on the trader for the same infringement in other Member States in cross-border cases where information about such penalties is available through the mechanism established by Regulation (EU) 2017/2394 of the European Parliament and of the Council; 
+    - (f) - any other aggravating or mitigating factors applicable to the circumstances of the case. 
+  
+
 
 Recital 7 of Directive (EU) 2019/2161 explains some of the criteria. Recital 8 clarifies that they ‘ might not be relevant in deciding on penalties regarding every infringement, in particular regarding non-serious infringements.’ Moreover, ‘ Member States should also take account of other general principles of law applicable to the imposition of penalties, such as the principle of non bis in idem.’
 
@@ -732,7 +487,7 @@ The Directive does not define the reference year for the definition of the annua
 
 Under Article 13(3), Member States may, for national constitutional reasons, restrict the imposition of fines to: (a) infringements of Articles 6, 7, 8, 9 and of Annex I to this Directive; and (b) a trader’s continued use of a commercial practice that has been found to be unfair by the competent national authority or court, when that commercial practice is not an infringement referred to in point (a). Accordingly, this restriction is meant to address circumstances of exceptional nature and allows Member State not to apply the provisions on fines to those one-off infringements subject to CPC coordinated enforcement for which the sole legal basis is Article 5 of the UCPD on professional diligence.
 
-1.4.3. Consumer redress
+### Consumer redress
 
 Directive (EU) 2019/2161 added to the UCPD a new Article 11a requiring Member States to ensure that consumers harmed by the infringements of the UCPD have access to proportionate and effective remedies, in particular compensation for damage and, where relevant, price reduction and contract termination, subject to the conditions established at national level. Accordingly, consumer redress in the UCPD includes both contractual and non-contractual remedies.
 
@@ -740,21 +495,23 @@ The conditions for the application of the remedies are determined by Member Stat
 
 These remedies are without prejudice to remedies available in other EU law instruments, such as those in the Digital Content Directive (EU) 2019/770 of the European Parliament and of the Council [(111)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr111-C_2021526EN.01000101-E0111) and Sale of Goods Directive (EU) 2019/771 of the European Parliament and of the Council [(112)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr112-C_2021526EN.01000101-E0112). These remedies could also be claimed collectively through representative actions under Directive (EU) 2020/1828.
 
-1.4.4. Application of the UCPD to traders established in third countries
+### Application of the UCPD to traders established in third countries
 
 The applicability of the UCPD to non-EU traders is regulated by Regulation (EC) No 864/2007 of the European Parliament and of the Council [(113)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr113-C_2021526EN.01000101-E0113) on the law applicable to non-contractual obligations (Rome II). This Regulation applies ‘in situations involving a conflict of laws, to non-contractual obligations in civil and commercial matters’. Rome II is applicable in civil or commercial disputes.
 
-| Article 6(1) of the Rome II Regulation:  The law applicable to a non-contractual obligation arising out of an act of unfair competition shall be the law of the country where competitive relations or the collective interests of consumers are, or are likely to be, affected. |
-| --- |
+> [!note]
+> Article 6(1) of the Rome II Regulation:  The law applicable to a non-contractual obligation arising out of an act of unfair competition shall be the law of the country where competitive relations or the collective interests of consumers are, or are likely to be, affected.
 
-| Article 6(4) of the Rome II Regulation:  The law applicable under this Article may not be derogated from by an agreement pursuant to Article 14. |
-| --- |
+
+> [!note]
+> Article 6(4) of the Rome II Regulation:  The law applicable under this Article may not be derogated from by an agreement pursuant to Article 14.
+
 
 When the conditions of Article 6(1) of the Rome II Regulation are fulfilled, e.g. if misleading advertising is targeted to EU consumers and this harms the collective interests of EU consumers, the UCPD will be applicable. Pursuant to Article 6(4) of the Rome II Regulation, the law that is applicable may not be derogated from by a choice-of-law agreement.
 
-2\. MAIN CONCEPTS OF THE UCPD
+# 2. MAIN CONCEPTS OF THE UCPD
 
-2.1. The functioning of the UCPD – Directive flowchart
+## The functioning of the UCPD – Directive flowchart
 
 This flowchart illustrates the relationship between the ‘black list’ of commercial practices in the Annex and the general clauses of the UCPD, namely Articles 6 to 9 and Article 5 respectively. In order to be considered unfair and therefore prohibited under the UCPD, it is sufficient that a commercial practice fulfils only one of these tests.
 
@@ -762,15 +519,21 @@ Does the commercial practice:
 
 ![Image 1](https://eur-lex.europa.eu/resource.html?uri=uriserv:OJ.C_.2021.526.01.0001.01.ENG.xhtml.C_2021526EN.01002601.tif.jpg)
 
-2.2. The concept of trader
+## The concept of trader
 
-| Article 2(b)  ‘trader’ means any natural or legal person who, in commercial practices covered by this Directive, is acting for purposes relating to his trade, business, craft or profession and anyone acting in the name or on behalf of the trader. |
-| --- |
+> [!note]
+> Article 2(b)  ‘trader’ means any natural or legal person who, in commercial practices covered by this Directive, is acting for purposes relating to his trade, business, craft or profession and anyone acting in the name or on behalf of the trader.
+
 
 This definition covers not only traders who act on their own account but also persons, including consumers, acting ‘ in the name of ’ or ‘ on behalf of ’ another trader.
 
-| For example:  \| — \| A national court held that a company that placed advertisements in the media on behalf of and in the interests of another company, which was the service provider, was considered as a trader in the meaning of the national provisions transposing the UCPD [(114)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr114-C_2021526EN.01000101-E0114). \| \| --- \| --- \|  \| — \| National consumer protection authorities acting through the European Consumer Protection Cooperation (CPC) Network carried out a joint enforcement action on online games that offer in-app purchases. They clarified that, although liability for the content of an app primarily rests with the app developer, an app store provider could also be held responsible for ensuring that games on their platforms do not contain direct exhortations to children [(115)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr115-C_2021526EN.01000101-E0115). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national court held that a company that placed advertisements in the media on behalf of and in the interests of another company, which was the service provider, was considered as a trader in the meaning of the national provisions transposing the UCPD [(114)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr114-C_2021526EN.01000101-E0114). 
+    
+ National consumer protection authorities acting through the European Consumer Protection Cooperation (CPC) Network carried out a joint enforcement action on online games that offer in-app purchases. They clarified that, although liability for the content of an app primarily rests with the app developer, an app store provider could also be held responsible for ensuring that games on their platforms do not contain direct exhortations to children [(115)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr115-C_2021526EN.01000101-E0115). 
+  
+
 
 Hence, under Article 2(b) in conjunction with relevant national laws on liability and sanctions, a trader can be held jointly liable with another trader for infringements of the UCPD committed by the latter on his behalf.
 
@@ -782,32 +545,41 @@ Whether a seller qualifies as a ‘trader’ or a consumer must be assessed on a
 
 The criteria include the following:
 
-| — | whether the seller has a profit-seeking motive, including the fact that they might have received remuneration or other compensation for acting on behalf of a given trader; |
-| --- | --- |
+> [!note]
+> whether the seller has a profit-seeking motive, including the fact that they might have received remuneration or other compensation for acting on behalf of a given trader;
 
-| — | the number, amount and frequency of transactions; |
-| --- | --- |
 
-| — | the seller’s sales turnover; whether the seller purchases products in order to resell them; |
-| --- | --- |
+> [!note]
+> the number, amount and frequency of transactions;
 
-| — | whether the seller is subject to VAT; |
-| --- | --- |
 
-| — | whether the sale is carried out in an organised manner; |
-| --- | --- |
+> [!note]
+> the seller’s sales turnover; whether the seller purchases products in order to resell them;
 
-| — | whether the seller had a legal status which enabled them to engage in commercial activities; |
-| --- | --- |
 
-| — | whether the goods for sale were all of the same type or of the same value, and, in particular, whether the offer was concentrated on a small number of goods; |
-| --- | --- |
+> [!note]
+> whether the seller is subject to VAT;
 
-| — | whether the seller had technical information and expertise relating to the products which the consumer did not necessarily have, resulting in a more advantageous position of the seller compared to that of the consumer; |
-| --- | --- |
 
-| — | whether the seller purchased these goods in order to resell them, thus making that a regular, frequent and/or simultaneous activity in comparison with her usual commercial or business activity [(118)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr118-C_2021526EN.01000101-E0118). |
-| --- | --- |
+> [!note]
+> whether the sale is carried out in an organised manner;
+
+
+> [!note]
+> whether the seller had a legal status which enabled them to engage in commercial activities;
+
+
+> [!note]
+> whether the goods for sale were all of the same type or of the same value, and, in particular, whether the offer was concentrated on a small number of goods;
+
+
+> [!note]
+> whether the seller had technical information and expertise relating to the products which the consumer did not necessarily have, resulting in a more advantageous position of the seller compared to that of the consumer;
+
+
+> [!note]
+> whether the seller purchased these goods in order to resell them, thus making that a regular, frequent and/or simultaneous activity in comparison with her usual commercial or business activity [(118)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr118-C_2021526EN.01000101-E0118).
+
 
 Persons whose main activity is to sell products online on a very frequent basis, purchasing products to resell them at a higher price, could for example fall within the definition of trader.
 
@@ -819,8 +591,9 @@ The fact that an organisation is structured as ‘ non-profit ’ is not decisiv
 
 The same applies to public authorities, which may, depending on the circumstances also qualify as a trader when carrying out commercial activities.
 
-| For example:  A municipality marketing discounted ticket prices for an art exhibition it organises could fall under the definition of trader in the UCPD. |
-| --- |
+> [!note]
+> For example:  A municipality marketing discounted ticket prices for an art exhibition it organises could fall under the definition of trader in the UCPD.
+
 
 In the BKK Mobil Oil case, the Court confirmed that a public law body charged with a task of public interest such as managing a statutory health insurance fund, can qualify as a ‘trader’ as:
 
@@ -834,10 +607,11 @@ In particular, under Annex I of the UCPD (the ‘black list’) No 22, it is pro
 
 This includes the situation where a trader initially acts as a trader but then pretends to be a consumer, for example when the seller presents oneself as a professional car trader for the purposes of the transaction but later signs the contract as a natural person.
 
-2.3. The concept of commercial practice
+## The concept of commercial practice
 
-| Article 2(d)  business-to-consumer commercial practices means any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers; |
-| --- |
+> [!note]
+> Article 2(d)  business-to-consumer commercial practices means any act, omission, course of conduct or representation, commercial communication including advertising and marketing, by a trader, directly connected with the promotion, sale or supply of a product to consumers;
+
 
 The Court held that the sole criterion in Article 2(d) of the UCPD is that the trader’s practice must be directly connected with the promotion, sale or supply of a product or service to consumers [(121)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr121-C_2021526EN.01000101-E0121).
 
@@ -863,7 +637,7 @@ Traders must also be cautious when making ethical and corporate social responsib
 
 Claims regarding such aspects have become a marketing tool used to meet the growing concern of consumers that traders comply with ethical and social standards. Such claims may have an impact on the transactional decision of a consumer who has to choose between two competing products of similar quality and price. For this reason, they can be deemed to be ‘ directly connected with the promotion, sale or supply of a product ’ and therefore qualify as a commercial practice within the meaning of the UCPD. Due to the significant similarities between ethical/corporate social responsibility claims and environmental claims, the key principles applying to environmental claims may also apply to ethical and corporate social responsibility claims (see section 4.1).
 
-2.3.1. After-sales practices, including debt collection activities
+### After-sales practices, including debt collection activities
 
 Under Article 3(1), commercial practices occur not only during the marketing and supply stages, but also after the transaction has been made (after-sales stage), which can be covered by the scope of the UCPD.
 
@@ -875,10 +649,15 @@ This is also implied in No 25 of Annex I which considers the practice of ‘ Con
 
 The Court confirmed in the Gelvora case that the legal relationship between a debt collection agency and the debtor, who has defaulted under a consumer credit agreement and whose debt has been assigned to that agency, indeed falls within the material scope of the Directive [(128)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr128-C_2021526EN.01000101-E0128).
 
-| For example:  \| — \| A national court held that informing a consumer who is not complying with his financial obligations that his name will be published as a default payer in local media is an aggressive commercial practice [(129)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr129-C_2021526EN.01000101-E0129). \| \| --- \| --- \|  \| — \| A consumer authority took action against a debt collector that used a logo, name and documents that were similar to those used by the official agencies. The trader gave consumers the misleading impression that it was enforcing official court orders to force consumers to pay their debts when in fact such powers are reserved for public authorities [(130)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr130-C_2021526EN.01000101-E0130). \| \| --- \| --- \|  \| — \| A consumer authority considered debt collection as an after-sale commercial practice falling within the scope of the UCPD and fined a debt collection agency for misleading consumer debtors about the extent and gravity of adverse consequences they would face, would they fail to settle their debt immediately. The debt collection agency also failed to properly inform consumers about the exact contractual basis for the debt and exercised on them undue psychological pressure [(131)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr131-C_2021526EN.01000101-E0131). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national court held that informing a consumer who is not complying with his financial obligations that his name will be published as a default payer in local media is an aggressive commercial practice [(129)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr129-C_2021526EN.01000101-E0129). 
+    
+ A consumer authority took action against a debt collector that used a logo, name and documents that were similar to those used by the official agencies. The trader gave consumers the misleading impression that it was enforcing official court orders to force consumers to pay their debts when in fact such powers are reserved for public authorities [(130)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr130-C_2021526EN.01000101-E0130). 
+    
+ A consumer authority considered debt collection as an after-sale commercial practice falling within the scope of the UCPD and fined a debt collection agency for misleading consumer debtors about the extent and gravity of adverse consequences they would face, would they fail to settle their debt immediately. The debt collection agency also failed to properly inform consumers about the exact contractual basis for the debt and exercised on them undue psychological pressure [(131)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr131-C_2021526EN.01000101-E0131).
 
-2.3.2. Traders buying products from consumers
+### Traders buying products from consumers
 
 Certain traders may, in the course of their professional activity, purchase products from consumers. Examples of this include car dealers, antique dealers and retailers of second-hand goods.
 
@@ -888,13 +667,14 @@ For instance, trade-in agreements are common place in the motor vehicle trade. T
 
 The purchase and resale of gold could in some circumstances fall under the UCPD. For example, a trader, who offers consumers a professional evaluation for their gold before buying it, could be considered as providing a service to the consumers. When this is the case, the UCPD will apply and, as a consequence, the trader should not provide misleading information on the real value of the gold or on the price of the service offered (e.g. omission of ‘administrative fees’).
 
-| For example:  A trader who is an expert on Chinese pottery tells a consumer that a Ming vase is a fake. If it is not the case, the statement would be likely to amount to a misleading action. |
-| --- |
+> [!note]
+> For example:  A trader who is an expert on Chinese pottery tells a consumer that a Ming vase is a fake. If it is not the case, the statement would be likely to amount to a misleading action.
 
-2.4. Transactional decision test
+## Transactional decision test
 
-| Article 2(k)  ‘transactional decision’ means any decision taken by a consumer concerning whether, how and on what terms to purchase, make payment in whole or in part for, retain or dispose of a product or to exercise a contractual right in relation to the product, whether the consumer decides to act or to refrain from acting. |
-| --- |
+> [!note]
+> Article 2(k)  ‘transactional decision’ means any decision taken by a consumer concerning whether, how and on what terms to purchase, make payment in whole or in part for, retain or dispose of a product or to exercise a contractual right in relation to the product, whether the consumer decides to act or to refrain from acting.
+
 
 The UCPD’s general provisions (Articles 5 to 9) cover unfair, misleading and aggressive commercial practices which are capable of distorting consumers’ economic behaviour, thereby causing or being likely to cause them to take a transactional decision that they would not have taken otherwise.
 
@@ -916,18 +696,31 @@ These transactional decisions may result in actions which have no legal conseque
 
 Many pre-purchase decisions could be considered transactional decisions.
 
-| For example:  \| — \| A decision to travel to a sales outlet or shop as a result of a commercial offer. \| \| --- \| --- \|  \| — \| A decision to agree to a sales presentation by a trader. \| \| --- \| --- \|  \| — \| A decision to click through a website as a result of a commercial offer. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A decision to travel to a sales outlet or shop as a result of a commercial offer. 
+    
+ A decision to agree to a sales presentation by a trader. 
+    
+ A decision to click through a website as a result of a commercial offer. 
+  
+
 
 Many post-purchase decisions made after having purchased a product or subscribed to a service can qualify as transactional decisions.
 
-| For example:  \| — \| A decision to withdraw from or terminate a service contract. \| \| --- \| --- \|  \| — \| A decision to switch to another service provider. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A decision to withdraw from or terminate a service contract. 
+    
+ A decision to switch to another service provider. 
+  
+
 
 In addition, an unfair commercial practice directed at one consumer could lead to a transactional decision by another consumer, which the latter would not have taken otherwise.
 
-| For example:  Commercial practices by a trader offering online user reviews in which the trader screens negative reviews could be a misleading action or omission even though the relevant transactional decision relates to a decision by a different consumer than the one pressured into removing or not posting a negative review. In this situation, the trader’s creation of a false or misleading overall impression about the nature of the review site, or how it operates, could cause the average consumer reading the online reviews to take a decision to contact a listed trader (and subsequently contract with them) which they would not have taken, had they known that negative reviews had been withheld. |
-| --- |
+> [!note]
+> For example:  Commercial practices by a trader offering online user reviews in which the trader screens negative reviews could be a misleading action or omission even though the relevant transactional decision relates to a decision by a different consumer than the one pressured into removing or not posting a negative review. In this situation, the trader’s creation of a false or misleading overall impression about the nature of the review site, or how it operates, could cause the average consumer reading the online reviews to take a decision to contact a listed trader (and subsequently contract with them) which they would not have taken, had they known that negative reviews had been withheld.
+
 
 The UCPD’s general provisions (Articles 5 to 9) cover unfair, misleading and aggressive commercial practices which are capable of distorting consumers’ economic behaviour. These provisions use a slightly different wording to express these requirements.
 
@@ -935,8 +728,9 @@ Under Article 5(2) UCPD, a commercial practice is unfair if it is contrary to th
 
 The requirement that a commercial practice must be capable of distorting the consumer’s economic behaviour in order to be unfair is worded differently in Article 5(2) than in Articles 6, 7 and 8. At first sight, this apparent contradiction could pose problems of interpretation. However, Article 5(2) should be read in conjunction with Article 2(e), which states:
 
-| Article 2(e)  ‘to materially distort the economic behaviour of consumers’ means using a commercial practice to appreciably impair the consumer’s ability to make an informed decision, thereby causing the consumer to take a transactional decision that he would not have taken otherwise. |
-| --- |
+> [!note]
+> Article 2(e)  ‘to materially distort the economic behaviour of consumers’ means using a commercial practice to appreciably impair the consumer’s ability to make an informed decision, thereby causing the consumer to take a transactional decision that he would not have taken otherwise.
+
 
 Consequently, on the basis of Article 5(2), what determines whether a commercial practice ‘ materially distorts or is likely to materially distort ’ the consumer’s economic behaviour is whether the commercial practice causes or is likely to cause the consumer to ‘ take a transactional decision that he would not have taken otherwise ’.
 
@@ -946,30 +740,36 @@ The broad concept of transactional decision developed by the Court [(133)](https
 
 A commercial practice may be considered unfair not only if it is likely to cause the average consumer to purchase or not to purchase a product, but also if it is likely to cause the consumer to, for example:
 
-| — | enter a shop; |
-| --- | --- |
+> [!note]
+> enter a shop;
 
-| — | spend more time on the internet engaged in a booking process; |
-| --- | --- |
 
-| — | decide not to switch to another service provider or product; |
-| --- | --- |
+> [!note]
+> spend more time on the internet engaged in a booking process;
 
-| — | click on a link or advertisement online; |
-| --- | --- |
 
-| — | continue using the service by browsing or scrolling. |
-| --- | --- |
+> [!note]
+> decide not to switch to another service provider or product;
+
+
+> [!note]
+> click on a link or advertisement online;
+
+
+> [!note]
+> continue using the service by browsing or scrolling.
+
 
 The UCPD does not require to demonstrate whether the consumer’s economic behaviour (i.e. its transactional decision) has actually been distorted. It allows an assessment as to whether a commercial practice is ‘likely’ (i.e. capable) to have such an impact on the average consumer. National enforcement authorities should therefore investigate the facts and circumstances of the individual case (i.e. in concreto), but assess also the ‘ likelihood ’ of the impact of that practice on the transactional decision of the average consumer (i.e. in abstracto).
 
-| For example:  A commercial announcement claimed that a new model of a car was ‘the safest car in the world’. In deciding whether the claim had affected any consumer in regard to making a well-founded transactional decision, a national court held that to qualify as a transactional decision, it was sufficient that the marketing was likely to raise an interest among the average consumer and trigger the consumer’s decision to take any further action (e.g. visit a store or website to obtain additional information on the product) [(134)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr134-C_2021526EN.01000101-E0134). |
-| --- |
+> [!note]
+> For example:  A commercial announcement claimed that a new model of a car was ‘the safest car in the world’. In deciding whether the claim had affected any consumer in regard to making a well-founded transactional decision, a national court held that to qualify as a transactional decision, it was sufficient that the marketing was likely to raise an interest among the average consumer and trigger the consumer’s decision to take any further action (e.g. visit a store or website to obtain additional information on the product) [(134)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr134-C_2021526EN.01000101-E0134).
 
-2.5. Average consumer
+## Average consumer
 
-| Recital 18  It is appropriate to protect all consumers from unfair commercial practices; however the Court of Justice has found it necessary in adjudicating on advertising cases since the enactment of Directive 84/450/EEC to examine the effect on a notional, typical consumer. In line with the principle of proportionality, and to permit the effective application of the protections contained in it, this Directive takes as a benchmark the average consumer, who is reasonably well informed and reasonably observant and circumspect, taking into account social, cultural and linguistic factors, as interpreted by the Court of Justice, but also contains provisions aimed at preventing the exploitation of consumers whose characteristics make them particularly vulnerable to unfair commercial practices. Where a commercial practice is specifically aimed at a particular group of consumers, such as children, it is desirable that the impact of the commercial practice be assessed from the perspective of the average member of that group… The average consumer test is not a statistical test. National courts and authorities will have to exercise their own faculty of judgment, having regard to the case-law of the Court of Justice, to determine the typical reaction of the average consumer in a given case. |
-| --- |
+> [!note]
+> Recital 18  It is appropriate to protect all consumers from unfair commercial practices; however the Court of Justice has found it necessary in adjudicating on advertising cases since the enactment of Directive 84/450/EEC to examine the effect on a notional, typical consumer. In line with the principle of proportionality, and to permit the effective application of the protections contained in it, this Directive takes as a benchmark the average consumer, who is reasonably well informed and reasonably observant and circumspect, taking into account social, cultural and linguistic factors, as interpreted by the Court of Justice, but also contains provisions aimed at preventing the exploitation of consumers whose characteristics make them particularly vulnerable to unfair commercial practices. Where a commercial practice is specifically aimed at a particular group of consumers, such as children, it is desirable that the impact of the commercial practice be assessed from the perspective of the average member of that group… The average consumer test is not a statistical test. National courts and authorities will have to exercise their own faculty of judgment, having regard to the case-law of the Court of Justice, to determine the typical reaction of the average consumer in a given case.
+
 
 As indicated in Recital 18 and further specified in Articles 5 to 9, the UCPD’s benchmark for assessing the impact of a commercial practice is the notion of the ‘average consumer’, as previously developed by the Court:
 
@@ -979,8 +779,9 @@ This concept was indeed developed by the Court of Justice prior to the UCPD. It 
 
 In the case-law of the Court, the average consumer is a reasonably critical person, conscious and circumspect in his or her market behaviour.
 
-| For example:  The ‘reasonably circumspect consumer’ will not believe that the size of a promotional marking on a package corresponds to the promotional increase in the size of that product [(136)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr136-C_2021526EN.01000101-E0136). Usually, the average consumer will not attribute to goods bearing the marking ‘dermatologically tested’ any healing effects which such goods do not possess [(137)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr137-C_2021526EN.01000101-E0137). |
-| --- |
+> [!note]
+> For example:  The ‘reasonably circumspect consumer’ will not believe that the size of a promotional marking on a package corresponds to the promotional increase in the size of that product [(136)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr136-C_2021526EN.01000101-E0136). Usually, the average consumer will not attribute to goods bearing the marking ‘dermatologically tested’ any healing effects which such goods do not possess [(137)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr137-C_2021526EN.01000101-E0137).
+
 
 The average consumer under the UCPD is in any event not somebody who needs only a low level of protection because they are always in a position to acquire available information and act wisely on it. On the contrary, as underlined in Recital 18, the test is based on the principle of proportionality. The UCPD adopted this notion to strike the right balance between the need to protect consumers and the promotion of free trade in an openly competitive market.
 
@@ -990,13 +791,19 @@ At the same time, the UCPD is based on the idea that, for instance, a national m
 
 As explicitly mentioned by Recital 18, the average consumer test is not a statistical test. This means that national authorities and courts should be able to determine whether a practice is liable to mislead the average consumer exercising their own judgment by taking into account the general presumed consumers' expectations, without having to commission an expert's report or a consumer research poll [(139)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr139-C_2021526EN.01000101-E0139).
 
-| For example:  \| — \| A national court found that people with impaired eyesight can also be considered average consumers and printing information in a very small font can be considered a misleading commercial practice [(140)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr140-C_2021526EN.01000101-E0140). A similar decision was taken by another enforcement authority [(141)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr141-C_2021526EN.01000101-E0141). \| \| --- \| --- \|  \| — \| A national court found that a reasonably acting consumer is not suspicious and tends to trust that the received information is valid and accurate. A reasonably acting consumer is not obliged to further search for the entire accurate content of the message delivered to them, unless the sender of the message emphatically draws their attention to, or there is strong reference to such an obligation in the text of the message [(142)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr142-C_2021526EN.01000101-E0142). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national court found that people with impaired eyesight can also be considered average consumers and printing information in a very small font can be considered a misleading commercial practice [(140)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr140-C_2021526EN.01000101-E0140). A similar decision was taken by another enforcement authority [(141)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr141-C_2021526EN.01000101-E0141). 
+    
+ A national court found that a reasonably acting consumer is not suspicious and tends to trust that the received information is valid and accurate. A reasonably acting consumer is not obliged to further search for the entire accurate content of the message delivered to them, unless the sender of the message emphatically draws their attention to, or there is strong reference to such an obligation in the text of the message [(142)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr142-C_2021526EN.01000101-E0142). 
+  
+
 
 Article 5(2)(b) of the UCPD further refines the average consumer test when the interests of specific groups of consumers are at stake. When the practice is directed at a particular group of consumers, its impact should be assessed from the perspective of the average member of the relevant group. For instance, this could be the case when a commercial practice concerns a unique product, which is promoted through marketing channels to direct the marketing towards a specific and limited group of recipients, such as a particular profession. In this case, the average member of that particular group could have more specific knowledge or characteristics that an average consumer would not necessarily have, which has a direct impact on the assessment of the effects of the commercial practice. Given the distinction from the general category of the average consumer, the ‘particular group of consumers’ should be sufficiently identifiable, of limited scope and homogeneous. If a particular group cannot be identified, then the assessment should focus on the general average consumer benchmark.
 
-| For example:  In a case concerning misleading advertising of children’s diapers, notably implying a correlation between allergies and the trader's diaper's, a national court identified the average consumer as parents with small children, not having any special knowledge about allergies [(143)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr143-C_2021526EN.01000101-E0143). |
-| --- |
+> [!note]
+> For example:  In a case concerning misleading advertising of children’s diapers, notably implying a correlation between allergies and the trader's diaper's, a national court identified the average consumer as parents with small children, not having any special knowledge about allergies [(143)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr143-C_2021526EN.01000101-E0143).
+
 
 It is also possible for different consumer groups to be concerned by the same commercial practice. For example, there can be an average consumer whom the practice reaches or to whom it is addressed (Article 5(1)(b)) and, at the same time, the practice can be targeted at a group of vulnerable consumers. In general, the assessment should take into account the consumers that were actually reached by the practice, irrespective of whether they were the consumers that the trader intended to reach.
 
@@ -1010,13 +817,15 @@ Moreover, the Court stated that:
 
 Therefore, on the basis of the average consumer test and despite the UCPD’s full harmonisation character, it could be theoretically justified to require a foreign trader to provide additional information on social, cultural or linguistic grounds. In other words, the omission of such information could mislead consumers in the country of destination, unlike those in the country of origin.
 
-2.6. Vulnerable consumers
+## Vulnerable consumers
 
-| Article 5(3) – Prohibition of unfair commercial practices  3\. Commercial practices which are likely to materially distort the economic behaviour only of a clearly identifiable group of consumers who are particularly vulnerable to the practice or the underlying product because of their mental or physical infirmity, age or credulity in a way which the trader could reasonably be expected to foresee, shall be assessed from the perspective of the average member of that group. This is without prejudice to the common and legitimate advertising practice of making exaggerated statements or statements which are not meant to be taken literally. |
-| --- |
+> [!note]
+> Article 5(3) – Prohibition of unfair commercial practices  3. Commercial practices which are likely to materially distort the economic behaviour only of a clearly identifiable group of consumers who are particularly vulnerable to the practice or the underlying product because of their mental or physical infirmity, age or credulity in a way which the trader could reasonably be expected to foresee, shall be assessed from the perspective of the average member of that group. This is without prejudice to the common and legitimate advertising practice of making exaggerated statements or statements which are not meant to be taken literally.
 
-| Recital 19  Where certain characteristics such as age, physical or mental infirmity or credulity make consumers particularly susceptible to a commercial practice or to the underlying product and the economic behaviour only of such consumers is likely to be distorted by the practice in a way that the trader can reasonably foresee, it is appropriate to ensure that they are adequately protected by assessing the practice from the perspective of the average member of that group. |
-| --- |
+
+> [!note]
+> Recital 19  Where certain characteristics such as age, physical or mental infirmity or credulity make consumers particularly susceptible to a commercial practice or to the underlying product and the economic behaviour only of such consumers is likely to be distorted by the practice in a way that the trader can reasonably foresee, it is appropriate to ensure that they are adequately protected by assessing the practice from the perspective of the average member of that group.
+
 
 The UCPD is based on the idea that, whilst it is appropriate to protect all types of consumers from unfair commercial practices, consumers who qualify as members of one of the groups listed in Article 5(3) should be ensured a higher level of protection than ‘ the average consumer ’ referred to in Article 5(2).
 
@@ -1024,13 +833,15 @@ Recital 19 of the Preamble further clarifies the interpretation of Article 5(3):
 
 The concept of vulnerability is not limited to the characteristics listed in Article 5(3), as it covers also context-dependent vulnerabilities. Multi-dimensional forms of vulnerability [(146)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr146-C_2021526EN.01000101-E0146) are particularly acute in the digital environment, which is increasingly characterised by data collection on socio-demographic characteristics but also personal or psychological characteristics, such as interests, preferences, psychological profile and mood. The concept of vulnerability in the digital environment is further discussed in section 4.2.7.
 
-| For example:  In a case involving the omission of material information by a credit institution, an enforcement authority considered that consumers that had been banned by credit institutions due to poor ability to pay were particularly susceptible to a specific offer [(147)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr147-C_2021526EN.01000101-E0147). |
-| --- |
+> [!note]
+> For example:  In a case involving the omission of material information by a credit institution, an enforcement authority considered that consumers that had been banned by credit institutions due to poor ability to pay were particularly susceptible to a specific offer [(147)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr147-C_2021526EN.01000101-E0147).
+
 
 Infirmity (mental or physical) includes sensory impairment, limited mobility and other disabilities.
 
-| For example:  A consumer authority considered advertising that misleadingly presented products as able to cure serious illness as particularly serious because it could cause vulnerable consumers, such as people affected by a serious illness, to take a transactional decision that they would not have taken otherwise [(148)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr148-C_2021526EN.01000101-E0148). |
-| --- |
+> [!note]
+> For example:  A consumer authority considered advertising that misleadingly presented products as able to cure serious illness as particularly serious because it could cause vulnerable consumers, such as people affected by a serious illness, to take a transactional decision that they would not have taken otherwise [(148)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr148-C_2021526EN.01000101-E0148).
+
 
 As regards age, it may be appropriate to consider a commercial practice from the perspective of consumers of various ages.
 
@@ -1056,16 +867,22 @@ This means that traders are not required to do more than is reasonable, both in 
 
 As a consequence, a commercial practice would not be likely to be considered misleading if some consumers, because of their extreme naivety or ignorance, are misled by, or otherwise act irrationally in response to, even the most honest commercial practice.
 
-| For example:  There may be a few consumers who may believe that ‘Spaghetti Bolognese’ is actually made in Bologna. Traders, however, will not be held liable for every conceivable interpretation of or action taken in response to their commercial practice by certain consumers. |
-| --- |
+> [!note]
+> For example:  There may be a few consumers who may believe that ‘Spaghetti Bolognese’ is actually made in Bologna. Traders, however, will not be held liable for every conceivable interpretation of or action taken in response to their commercial practice by certain consumers.
 
-2.7. Article 5 - professional diligence
+## Article 5 - professional diligence
 
-| Article 5 – Prohibition of unfair commercial practices [(150)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr150-C_2021526EN.01000101-E0150)  \|  \| 1. \| Unfair commercial practices shall be prohibited. \| \| --- \| --- \| --- \|  \|  \| 2. \| A commercial practice shall be unfair if:  \\| (a) \\| it is contrary to the requirements of professional diligence, and \\| \\| --- \\| --- \\|  \\| (b) \\| it materially distorts or is likely to materially distort the economic behaviour with regard to the product of the average consumer whom it reaches or to whom it is addressed, or of the average member of the group when a commercial practice is directed to a particular group of consumers. \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 5 – Prohibition of unfair commercial practices [(150)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr150-C_2021526EN.01000101-E0150)  
+ 1. - Unfair commercial practices shall be prohibited. 
+     
+ 2. - A commercial practice shall be unfair if:  - (a) - it is contrary to the requirements of professional diligence, and - \ \ -  - (b) - it materially distorts or is likely to materially distort the economic behaviour with regard to the product of the average consumer whom it reaches or to whom it is addressed, or of the average member of the group when a commercial practice is directed to a particular group of consumers. - \ \ \
+ -               
 
-| Article 2 (h)  ‘professional diligence’ means the standard of special skill and care which a trader may reasonably be expected to exercise towards consumers, commensurate with honest market practice and/or the general principle of good faith in the trader’s field of activity; |
-| --- |
+
+> [!note]
+> Article 2 (h)  ‘professional diligence’ means the standard of special skill and care which a trader may reasonably be expected to exercise towards consumers, commensurate with honest market practice and/or the general principle of good faith in the trader’s field of activity;
+
 
 Article 5(2) provides a general clause setting two cumulative criteria for assessing whether commercial practices should be deemed unfair. It functions as a ‘safety net’ to make sure that any unfair practice which is not caught by other provisions of the UCPD (i.e. that is neither misleading, aggressive or listed in Annex I) can still be penalised. The provision is also future proof as it allows for emerging unfair practices to be tackled.
 
@@ -1075,26 +892,38 @@ This is a self-standing criterion – it is not an additional cumulative test th
 
 This was confirmed by the Court:
 
-| ‘ 45 | \[…\] having regard both to the wording and to the structure of Articles 5 and 6(1) of that directive, and to its general scheme, a commercial practice must be regarded as ‘misleading’ within the meaning of the second of those provisions if the criteria set out there are satisfied, and it is not necessary to determine whether the condition of that practice’s being contrary to the requirements of professional diligence, laid down in Article 5(2)(a) of that directive, is also met. |
-| --- | --- |
+> [!note]
+> ‘ 45 - \[…\] having regard both to the wording and to the structure of Articles 5 and 6(1) of that directive, and to its general scheme, a commercial practice must be regarded as ‘misleading’ within the meaning of the second of those provisions if the criteria set out there are satisfied, and it is not necessary to determine whether the condition of that practice’s being contrary to the requirements of professional diligence, laid down in Article 5(2)(a) of that directive, is also met.
 
-| 46 | The interpretation above is the only one capable of preserving the effectiveness of the specific rules laid down in Articles 6 to 9 of the Unfair Commercial Practices Directive. Indeed, if the conditions for the application of those articles were identical to those set out in Article 5(2) of the directive, those provisions would have no practical significance, even though they are intended to protect the consumer from the most common unfair commercial practices \[…\] ’ [(151)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr151-C_2021526EN.01000101-E0151) |
-| --- | --- |
+
+> [!note]
+> 46 - The interpretation above is the only one capable of preserving the effectiveness of the specific rules laid down in Articles 6 to 9 of the Unfair Commercial Practices Directive. Indeed, if the conditions for the application of those articles were identical to those set out in Article 5(2) of the directive, those provisions would have no practical significance, even though they are intended to protect the consumer from the most common unfair commercial practices \[…\] ’ [(151)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr151-C_2021526EN.01000101-E0151)
+
 
 The notion of ‘ professional diligence ’ encompasses principles which were already well-established in the laws of the Member States before the adoption of the UCPD, such as ‘honest market practice’, ‘good faith’ and ‘good market practice’. These principles emphasise normative values that apply in the specific field of business activity. It may include principles derived from national and international standards and codes of conduct (see also section 2.8.4 on non-compliance with codes of conduct).
 
-| For example:  \| — \| An enforcement authority acted against a trader providing satellite television services on the grounds that it had not shown professional diligence. Although contracts were limited in time, if the consumer did not take steps to prevent renewal at the time of expiry, the trader would automatically consider the contract renewed [(152)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr152-C_2021526EN.01000101-E0152). \| \| --- \| --- \|  \| — \| A national court held that, in an action brought by an enforcement authority, a debt collection agency that exerted pressure on consumers to pay bills for agreements that were legally invalid and refused to answer their questions, violated professional diligence. Consumers have the right to know what bill the debt collection agency is collecting, and whether or not that claim is correct. The authority based the interpretation of the requirements of professional diligence on the code of conduct of an association of debt collection agencies and a national court confirmed this interpretation. It also ruled that even for companies that are not a member of the association, this code of conduct can be used as a reference for determining what constitutes professional conduct [(153)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr153-C_2021526EN.01000101-E0153). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ An enforcement authority acted against a trader providing satellite television services on the grounds that it had not shown professional diligence. Although contracts were limited in time, if the consumer did not take steps to prevent renewal at the time of expiry, the trader would automatically consider the contract renewed [(152)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr152-C_2021526EN.01000101-E0152). 
+    
+ A national court held that, in an action brought by an enforcement authority, a debt collection agency that exerted pressure on consumers to pay bills for agreements that were legally invalid and refused to answer their questions, violated professional diligence. Consumers have the right to know what bill the debt collection agency is collecting, and whether or not that claim is correct. The authority based the interpretation of the requirements of professional diligence on the code of conduct of an association of debt collection agencies and a national court confirmed this interpretation. It also ruled that even for companies that are not a member of the association, this code of conduct can be used as a reference for determining what constitutes professional conduct [(153)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr153-C_2021526EN.01000101-E0153). 
+  
+
 
 It follows from Article 5(2)(b) that in order to be found contrary to the requirements of professional diligence, a commercial practice must also be considered likely to ‘ materially distort the economic behaviour ’ of consumers. This concept is discussed in section 2.4 above.
 
-| For example:  An enforcement authority took action against a debt collector. The authority found that the trader applied undue pressure and repeated aggressive practices against consumers, concluding that such behaviour was contrary to the requirements of professional diligence and impaired the freedom of choice of the average consumer, thus causing them to take a transactional decision that they would not have taken otherwise [(154)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr154-C_2021526EN.01000101-E0154). |
-| --- |
+> [!note]
+> For example:  An enforcement authority took action against a debt collector. The authority found that the trader applied undue pressure and repeated aggressive practices against consumers, concluding that such behaviour was contrary to the requirements of professional diligence and impaired the freedom of choice of the average consumer, thus causing them to take a transactional decision that they would not have taken otherwise [(154)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr154-C_2021526EN.01000101-E0154).
 
-2.8. Article 6 - misleading actions
+## Article 6 - misleading actions
 
-| Article 6 – Misleading actions  \|  \| 1. \| A commercial practice shall be regarded as misleading if it contains false information and is therefore untruthful or in any way, including overall presentation, deceives or is likely to deceive the average consumer, even if the information is factually correct, in relation to one or more of the following elements, and in either case causes or is likely to cause him to take a transactional decision that he would not have taken otherwise:  \\| (a) \\| the existence or nature of the product; \\| \\| --- \\| --- \\|  \\| (b) \\| the main characteristics of the product, such as its availability, benefits, risks, execution, composition, accessories, after sale customer assistance and complaint handling, method and date of manufacture or provision, delivery, fitness for purpose, usage, quantity, specification, geographical or commercial origin or the results to be expected from its use, or the results and material features of tests or checks carried out on the product; \\| \\| --- \\| --- \\|  \\| (c) \\| the extent of the trader’s commitments, the motives for the commercial practice and the nature of the sales process, any statement or symbol in relation to direct or indirect sponsorship or approval of the trader or the product; \\| \\| --- \\| --- \\|  \\| (d) \\| the price or the manner in which the price is calculated, or the existence of a specific price advantage; \\| \\| --- \\| --- \\|  \\| (e) \\| the need for a service, part, replacement or repair; \\| \\| --- \\| --- \\|  \\| (f) \\| the nature, attributes and rights of the trader or his agent, such as his identity and assets, his qualifications, status, approval, affiliation or connection and ownership of industrial, commercial or intellectual property rights or his awards and distinctions; \\| \\| --- \\| --- \\|  \\| (g) \\| the consumer’s rights, including the right to replacement or reimbursement under Directive 1999/44/EC of the European Parliament and of the Council of 25 May 1999 on certain aspects of the sale of consumer goods and associated guarantees (1), or the risks he may face. \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \|  \|  \| 2. \| A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves:  \\| (a) \\| any marketing of a product, including comparative advertising, which creates confusion with any products, trademarks, trade names or other distinguishing marks of a competitor; \\| \\| --- \\| --- \\|  \\| (b) \\| non-compliance by the trader with commitments contained in codes of conduct by which the trader has undertaken to be bound, where:  \\\| (i) \\\| the commitment is not aspirational but is firm and is capable of being verified,  and \\\| \\\| --- \\\| --- \\\|  \\\| (ii) \\\| the trader indicates in a commercial practice that he is bound by the code; \\\| \\\| --- \\\| --- \\\| \\| \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\| --- \\|  \\| (c) \\| any marketing of a good, in one Member State, as being identical to a good marketed in other Member States, while that good has significantly different composition or characteristics, unless justified by legitimate and objective factors. \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 6 – Misleading actions  
+ 1. - A commercial practice shall be regarded as misleading if it contains false information and is therefore untruthful or in any way, including overall presentation, deceives or is likely to deceive the average consumer, even if the information is factually correct, in relation to one or more of the following elements, and in either case causes or is likely to cause him to take a transactional decision that he would not have taken otherwise:  - (a) - the existence or nature of the product; - \ \ -  - (b) - the main characteristics of the product, such as its availability, benefits, risks, execution, composition, accessories, after sale customer assistance and complaint handling, method and date of manufacture or provision, delivery, fitness for purpose, usage, quantity, specification, geographical or commercial origin or the results to be expected from its use, or the results and material features of tests or checks carried out on the product; - \ \ -  - (c) - the extent of the trader’s commitments, the motives for the commercial practice and the nature of the sales process, any statement or symbol in relation to direct or indirect sponsorship or approval of the trader or the product; - \ \ -  - (d) - the price or the manner in which the price is calculated, or the existence of a specific price advantage; - \ \ -  - (e) - the need for a service, part, replacement or repair; - \ \ -  - (f) - the nature, attributes and rights of the trader or his agent, such as his identity and assets, his qualifications, status, approval, affiliation or connection and ownership of industrial, commercial or intellectual property rights or his awards and distinctions; - \ \ -  - (g) - the consumer’s rights, including the right to replacement or reimbursement under Directive 1999/44/EC of the European Parliament and of the Council of 25 May 1999 on certain aspects of the sale of consumer goods and associated guarantees (1), or the risks he may face. - \ \ \
+ -                                               
+ 2. - A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves:  - (a) - any marketing of a product, including comparative advertising, which creates confusion with any products, trademarks, trade names or other distinguishing marks of a competitor; - \ \ -  - (b) - non-compliance by the trader with commitments contained in codes of conduct by which the trader has undertaken to be bound, where:  \- (i) \- the commitment is not aspirational but is firm and is capable of being verified,  and \- \\ \\ \-  \- (ii) \- the trader indicates in a commercial practice that he is bound by the code; \- \\ \\ \- - \ \ \ \ \ \ \ \ \ \ \ \ \ \ -  - (c) - any marketing of a good, in one Member State, as being identical to a good marketed in other Member States, while that good has significantly different composition or characteristics, unless justified by legitimate and objective factors. - \ \ \
+ -                                             
+
 
 Together with Article 7 on misleading omissions, Article 6 is by far the most frequently used provision for enforcement purposes.
 
@@ -1102,28 +931,41 @@ Insights from behavioural economics show that not only the content of the inform
 
 It is for the national courts and administrative authorities to assess the misleading character of commercial practices by taking into account the most recent findings on behavioural economics. For example, the use of default settings (choices consumers are presumed to make unless they expressly indicate otherwise) or providing unnecessarily complex information may be considered misleading.
 
-2.8.1. General misleading information
+### General misleading information
 
 Article 6(1)(a) to (g) prohibit misleading actions which are capable of deceiving the average consumer on a wide range of elements, including:
 
-| — | the existence of the product; |
-| --- | --- |
+> [!note]
+> the existence of the product;
 
-| — | its main characteristics (e.g. its composition, method of manufacture, geographical or commercial origin, the risks and results to be expected from its use); |
-| --- | --- |
 
-| — | the price or the manner in which it is calculated or the existence of a specific price advantage; |
-| --- | --- |
+> [!note]
+> its main characteristics (e.g. its composition, method of manufacture, geographical or commercial origin, the risks and results to be expected from its use);
 
-| — | the nature, attributes and rights of the trader. |
-| --- | --- |
+
+> [!note]
+> the price or the manner in which it is calculated or the existence of a specific price advantage;
+
+
+> [!note]
+> the nature, attributes and rights of the trader.
+
 
 Article 6 clearly covers any commercial practice which ‘ contains false information and is therefore untruthful ’.
 
 Information about the product’s ‘main characteristics’ must be provided in an invitation to purchase in accordance with Article 7(4) UCPD and before the conclusion of the contract in accordance with the Consumer Rights Directive. Article 6(1)(b) UCPD prohibits providing incorrect information about the main characteristics of a product if it is likely to cause the average consumer to take a transactional decision they would not have taken otherwise.
 
-| For example:  \| — \| A consumer authority acted against a trader who falsely claimed that its loans to consumers had the lowest interest rates on the market. In addition, the trader included incorrect information in advertisements by indicating that consumers would be granted loans regardless of their credit history [(155)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr155-C_2021526EN.01000101-E0155). \| \| --- \| --- \|  \| — \| For IT products such as external hard disks, USB sticks, mobile phones and tablets, the storage capacity or memory is major element of their main characteristics. A consumer authority has taken action against a trader who promoted storage capacities of IT products that differed significantly from the actual storage capacity of the products [(156)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr156-C_2021526EN.01000101-E0156). Similarly, a consumer association launched a class action on the basis of investigations among different brands of IT devices that revealed a difference on average of one third between advertised and actual memory. \| \| --- \| --- \|  \| — \| A flight agency communicated with consumers in a national language prior to the transaction. However, the after sales customer assistance was only provided in the English language, which consumers were not informed of prior to the transaction. This commercial practice was considered to be a violation of Article 6(1)(b) UCPD in conjunction with point 8 of Annex I [(157)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr157-C_2021526EN.01000101-E0157). \| \| --- \| --- \|  \| — \| A national court found that the fact that a ticket has been resold qualifies as a main characteristic of the ticket because the buyer of a resold ticket might be denied entry by the original seller [(158)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr158-C_2021526EN.01000101-E0158). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A consumer authority acted against a trader who falsely claimed that its loans to consumers had the lowest interest rates on the market. In addition, the trader included incorrect information in advertisements by indicating that consumers would be granted loans regardless of their credit history [(155)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr155-C_2021526EN.01000101-E0155). 
+    
+ For IT products such as external hard disks, USB sticks, mobile phones and tablets, the storage capacity or memory is major element of their main characteristics. A consumer authority has taken action against a trader who promoted storage capacities of IT products that differed significantly from the actual storage capacity of the products [(156)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr156-C_2021526EN.01000101-E0156). Similarly, a consumer association launched a class action on the basis of investigations among different brands of IT devices that revealed a difference on average of one third between advertised and actual memory. 
+    
+ A flight agency communicated with consumers in a national language prior to the transaction. However, the after sales customer assistance was only provided in the English language, which consumers were not informed of prior to the transaction. This commercial practice was considered to be a violation of Article 6(1)(b) UCPD in conjunction with point 8 of Annex I [(157)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr157-C_2021526EN.01000101-E0157). 
+    
+ A national court found that the fact that a ticket has been resold qualifies as a main characteristic of the ticket because the buyer of a resold ticket might be denied entry by the original seller [(158)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr158-C_2021526EN.01000101-E0158). 
+  
+
 
 Articles 6(1)(c) and 6(1)(f) cover various information regarding the trader and the nature of the sales process. This may also include commercial practices where a trader falsely claims or implies that it is authorised to sell a product when the product is subject to a selective distribution network.
 
@@ -1131,35 +973,51 @@ A commercial practice, often referred to as ‘ up to claims ’, implies trader
 
 Whether an ‘up to’ claim is misleading must be assessed on a case-by-case basis. Different criteria could be relevant, such as:
 
-| — | Whether they clearly disclose results and benefits that the average consumer can reasonably expect to achieve, including any applicable condition or limitation. Not doing so could qualify as misleading in relation to the product’s ‘main characteristics’:  \| — \| by omitting material information within the meaning of Article 7(4)(a) (in the case of an invitation to purchase); \| \| --- \| --- \|  \| — \| as a misleading action within the meaning of Article 6(1)(b) of the UCPD; \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Whether they clearly disclose results and benefits that the average consumer can reasonably expect to achieve, including any applicable condition or limitation. Not doing so could qualify as misleading in relation to the product’s ‘main characteristics’:  
+ by omitting material information within the meaning of Article 7(4)(a) (in the case of an invitation to purchase); 
+    
+ as a misleading action within the meaning of Article 6(1)(b) of the UCPD; 
+  
 
-| — | Whether the trader has adequate evidence readily available to substantiate the claim within the meaning of Article 12 of the UCPD. |
-| --- | --- |
+
+> [!note]
+> Whether the trader has adequate evidence readily available to substantiate the claim within the meaning of Article 12 of the UCPD.
+
 
 Information provided to consumers should also not deceive or be likely to deceive the consumer in any way, including in the overall presentation, even if the information is factually correct.
 
-| For example:  \| — \| A financial institution promoted an investment product as a low risk 5-year deposit with privileged interest and guaranteed capital return on its expiry date. In fact, investors lost the interest on the capital and an important part of the capital initially invested. A consumer authority found this commercial practice misleading, as investors had received inadequate and misleading information about the financial product offered [(159)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr159-C_2021526EN.01000101-E0159). \| \| --- \| --- \|  \| — \| A national tribunal considered as misleading the advertising by a mobile phone operator since the trader, while claiming 30 % cheaper mobile rates than its competitors, failed to indicate in an unambiguous manner that the first minute of phone conversation was not on a per second basis. The tribunal considered that, due to the ambiguous presentation of the offer, the consumer was not in in a position to take an informed decision [(160)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr160-C_2021526EN.01000101-E0160). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A financial institution promoted an investment product as a low risk 5-year deposit with privileged interest and guaranteed capital return on its expiry date. In fact, investors lost the interest on the capital and an important part of the capital initially invested. A consumer authority found this commercial practice misleading, as investors had received inadequate and misleading information about the financial product offered [(159)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr159-C_2021526EN.01000101-E0159). 
+    
+ A national tribunal considered as misleading the advertising by a mobile phone operator since the trader, while claiming 30 % cheaper mobile rates than its competitors, failed to indicate in an unambiguous manner that the first minute of phone conversation was not on a per second basis. The tribunal considered that, due to the ambiguous presentation of the offer, the consumer was not in in a position to take an informed decision [(160)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr160-C_2021526EN.01000101-E0160). 
+  
+
 
 The UCPD does not provide for any formal requirement to indicate the geographical (or commercial) origin of a product or its composition [(161)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr161-C_2021526EN.01000101-E0161). However, such requirements may exist in sector-specific legislation [(162)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr162-C_2021526EN.01000101-E0162). Furthermore, under the UCPD, misleading the consumer on such elements could fall under the ban laid down in Article 6(1)(b) of the UCPD if such false or deceiving information is likely to make the consumer take a purchase decision they would not have taken otherwise.
 
 Some decisions by national courts specifically relate to the application of the UCPD to misleading origin claims.
 
-| For example:  A company from the Dominican Republic was marketing its production of rum in the Union by making several references to Cuba on the bottles and in commercial materials. A national court held that mentioning a famous geographical location on a product whereas the product does not originate from that location constitutes a misleading commercial practice [(163)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr163-C_2021526EN.01000101-E0163). |
-| --- |
+> [!note]
+> For example:  A company from the Dominican Republic was marketing its production of rum in the Union by making several references to Cuba on the bottles and in commercial materials. A national court held that mentioning a famous geographical location on a product whereas the product does not originate from that location constitutes a misleading commercial practice [(163)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr163-C_2021526EN.01000101-E0163).
+
 
 Questions have been raised also regarding the information about the composition of products, such as goods containing non-animal components labelled or marked with the term ‘leather’.
 
-| For example:  National courts have decided that it is misleading to market furniture that does not include any leather with claims that parts of the furniture are made of ‘textile leather’. The courts stressed that the average consumer would presume a presence of leather in such furniture [(164)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr164-C_2021526EN.01000101-E0164). |
-| --- |
+> [!note]
+> For example:  National courts have decided that it is misleading to market furniture that does not include any leather with claims that parts of the furniture are made of ‘textile leather’. The courts stressed that the average consumer would presume a presence of leather in such furniture [(164)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr164-C_2021526EN.01000101-E0164).
+
 
 Under Article 6(1)(g), traders should not mislead consumers over their consumer rights.
 
-| For example:  \| — \| A national court ruled against an appeal by a trader who was fined by an enforcement authority for misleading consumers over their right of withdrawal. Rather than making explicit reference to the fact that consumers had 14 days to withdraw from the contract, the contracts only included a reference to the relevant provisions of the national legislation, in unclear and misleading language [(165)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr165-C_2021526EN.01000101-E0165). \| \| --- \| --- \|  \| — \| A trader was prominently advertising a 1-year free commercial guarantee in order to promote a payable extension of this commercial guarantee for up to three or 5 years. The company did not properly inform consumers about the existence of the legal guarantee of conformity to which they are entitled under the Consumer Sales and Guarantees Directive within 2 years of delivery of the product. A consumer authority found this commercial practice misleading, in particular on the basis of Article 6(1)(g) of the UCPD [(166)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr166-C_2021526EN.01000101-E0166). That decision was subsequently upheld by a national court [(167)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr167-C_2021526EN.01000101-E0167). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national court ruled against an appeal by a trader who was fined by an enforcement authority for misleading consumers over their right of withdrawal. Rather than making explicit reference to the fact that consumers had 14 days to withdraw from the contract, the contracts only included a reference to the relevant provisions of the national legislation, in unclear and misleading language [(165)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr165-C_2021526EN.01000101-E0165). 
+    
+ A trader was prominently advertising a 1-year free commercial guarantee in order to promote a payable extension of this commercial guarantee for up to three or 5 years. The company did not properly inform consumers about the existence of the legal guarantee of conformity to which they are entitled under the Consumer Sales and Guarantees Directive within 2 years of delivery of the product. A consumer authority found this commercial practice misleading, in particular on the basis of Article 6(1)(g) of the UCPD [(166)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr166-C_2021526EN.01000101-E0166). That decision was subsequently upheld by a national court [(167)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr167-C_2021526EN.01000101-E0167).
 
-2.8.2. Price advantages
+### Price advantages
 
 Article 6(1)(d) prohibits misleading information about the price. The application of the UCPD to price reductions, which are subject to specific rules in the Price Indication Directive 98/6/EC, is discussed in section 1.2.5. The UCPD remains fully applicable and governs other types of practices promoting price advantages, such as comparisons with other prices, combined or tied conditional offers and loyalty programmes. Several UCPD provisions are relevant for such promotional practices (e.g. Article 6(d) on the existence of a specific price advantage and point 20 on free offers). The UCPD also applies to personalised prices (see section 4.2.8.).
 
@@ -1169,18 +1027,30 @@ Any use of ‘ recommended retail prices ’ in price comparisons should be expl
 
 In the Canal Digital Danmark case [(168)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr168-C_2021526EN.01000101-E0168), the Court clarified that a commercial practice which consists of dividing the price of a product into several components and highlighting one of them, must be regarded as misleading under Article 6(1), since that practice would be likely, first, to give the average consumer the false impression that they have been offered a favourable price and, secondly, cause them to take a transactional decision that they would not have taken otherwise, which it is for the referring court to ascertain, taking into account all the relevant circumstances of the main proceedings [(169)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr169-C_2021526EN.01000101-E0169).
 
-| For example:  \| — \| In 2020, the Commission and national authorities in the Consumer Protection Cooperation (CPC) network received commitments from travel booking websites Booking and Expedia. As platforms, they agreed to ensure the clear presentation of price reductions and discounts in accordance with EU consumer law, including:  \\| — \\| not presenting prices calculated in relation to different stay dates as a discount (e.g. by using a strikethrough or terms such as ‘% off’) \\| \\| --- \\| --- \\|  \\| — \\| making it clear if lower prices are only available to members of reward programmes \\| \\| --- \\| --- \\|  \\| — \\| not presenting an offer as time-limited if the offer will continue to be available at the same price also afterwards [(170)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr170-C_2021526EN.01000101-E0170). \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \|  \| — \| A trader advertised sport equipment by comparing its price to the somewhat higher recommended retail price of the importer, although the importer was not directly selling such product to consumers. A national court found the practice misleading and prohibited the trader from comparing its price to the recommended retail price, unless such price matches the price actually generally charged by other retailers for the same product [(171)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr171-C_2021526EN.01000101-E0171). \| \| --- \| --- \|  \| — \| A national court found that a trader violated Article 6(1)(d) UCPD by using crossed-out reference prices for furniture, while those products were never offered at that price. By doing this, the trader created a non-existent price advantage, which misled or could potentially mislead consumers [(172)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr172-C_2021526EN.01000101-E0172). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ In 2020, the Commission and national authorities in the Consumer Protection Cooperation (CPC) network received commitments from travel booking websites Booking and Expedia. As platforms, they agreed to ensure the clear presentation of price reductions and discounts in accordance with EU consumer law, including:  - — - not presenting prices calculated in relation to different stay dates as a discount (e.g. by using a strikethrough or terms such as ‘% off’) - \ \ -  - — - making it clear if lower prices are only available to members of reward programmes - \ \ -  - — - not presenting an offer as time-limited if the offer will continue to be available at the same price also afterwards [(170)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr170-C_2021526EN.01000101-E0170). - \ \ \
+ -                      
+ A trader advertised sport equipment by comparing its price to the somewhat higher recommended retail price of the importer, although the importer was not directly selling such product to consumers. A national court found the practice misleading and prohibited the trader from comparing its price to the recommended retail price, unless such price matches the price actually generally charged by other retailers for the same product [(171)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr171-C_2021526EN.01000101-E0171). 
+    
+ A national court found that a trader violated Article 6(1)(d) UCPD by using crossed-out reference prices for furniture, while those products were never offered at that price. By doing this, the trader created a non-existent price advantage, which misled or could potentially mislead consumers [(172)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr172-C_2021526EN.01000101-E0172).
 
-2.8.3. Confusing marketing
+### Confusing marketing
 
 Article 6(2)(a) of the UCPD addresses confusing marketing.
 
-| Article 6(2)(a):  A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves:  \| (a) \| any marketing of a product, including comparative advertising, which creates confusion with any products, trademarks, trade names or other distinguishing marks of a competitor; \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 6(2)(a):  A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves:  - (a) - any marketing of a product, including comparative advertising, which creates confusion with any products, trademarks, trade names or other distinguishing marks of a competitor; 
+  
 
-| For example:  \| — \| A national court considered that sending out invoices that mimic another trader’s branding (its name, marks and invoice design) and creating the impression that services were rendered by this other trader is an unfair commercial practice. This was also contrary to No 21 of Annex I to the UCPD (including in marketing material an invoice or similar document seeking payment which gives the consumer the impression that they have already ordered the marketed product when they have not) [(173)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr173-C_2021526EN.01000101-E0173). \| \| --- \| --- \|  \| — \| The same court also considered the use of the indications ‘Taxi’ and ‘Taxi Gothenburg’, both in a yellow design on a taxi vehicle, to constitute comparative advertising and create confusion with the distinguishing marks of a competitor. This was because another trader had performed taxi services in the Gothenburg area since 1922 using the words ‘Taxi Gothenburg’ and the colour yellow as its trademarks [(174)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr174-C_2021526EN.01000101-E0174). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+> [!note]
+> For example:  
+ A national court considered that sending out invoices that mimic another trader’s branding (its name, marks and invoice design) and creating the impression that services were rendered by this other trader is an unfair commercial practice. This was also contrary to No 21 of Annex I to the UCPD (including in marketing material an invoice or similar document seeking payment which gives the consumer the impression that they have already ordered the marketed product when they have not) [(173)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr173-C_2021526EN.01000101-E0173). 
+    
+ The same court also considered the use of the indications ‘Taxi’ and ‘Taxi Gothenburg’, both in a yellow design on a taxi vehicle, to constitute comparative advertising and create confusion with the distinguishing marks of a competitor. This was because another trader had performed taxi services in the Gothenburg area since 1922 using the words ‘Taxi Gothenburg’ and the colour yellow as its trademarks [(174)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr174-C_2021526EN.01000101-E0174). 
+  
+
 
 A practice which raises issues of compatibility with this provision is ‘ copycat packaging ’, which can occur in the offline and online sales channels. This refers to the practice of designing the packaging of a product (or its ‘trade dress’) to give it the general ‘look and feel’ of a competing well-known brand.
 
@@ -1188,51 +1058,69 @@ Copycat packaging is distinct from counterfeiting as normally it does not involv
 
 Consumer deception caused by copycat packaging can take a number of forms:
 
-| — | Outright confusion – the consumer buys the copycat product having mistaken it for the brand; |
-| --- | --- |
+> [!note]
+> Outright confusion – the consumer buys the copycat product having mistaken it for the brand;
 
-| — | Deception over origin – the consumer recognises the copycat product is different but believes, due to the similar packaging, that it is made by the same manufacturer; |
-| --- | --- |
 
-| — | Deception over quality or nature – again, consumers recognise the copycat is different but believe, due to the similar packaging, that the quality is the same or closer to that of the copied product. |
-| --- | --- |
+> [!note]
+> Deception over origin – the consumer recognises the copycat product is different but believes, due to the similar packaging, that it is made by the same manufacturer;
+
+
+> [!note]
+> Deception over quality or nature – again, consumers recognise the copycat is different but believe, due to the similar packaging, that the quality is the same or closer to that of the copied product.
+
 
 The similar packaging suggests to consumers that the quality or nature of the copycat product is comparable to the quality or nature of the brand in question or at least that it is more comparable than they might otherwise assume. As such, similar packaging gives the impression to consumers that the price alone is the only term of comparison between the products (rather than the combination of price and quality).
 
-| For example:  A trader names or brands its new sunglasses so as to very closely resemble the name or brand of a competitor’s sunglasses. This practice is likely to be in breach of Article 6(2) of the UCPD if the similarity is close enough to confuse the average consumer, making them more likely to opt for the new sunglasses when, without such confusion, they otherwise would not have done so. |
-| --- |
+> [!note]
+> For example:  A trader names or brands its new sunglasses so as to very closely resemble the name or brand of a competitor’s sunglasses. This practice is likely to be in breach of Article 6(2) of the UCPD if the similarity is close enough to confuse the average consumer, making them more likely to opt for the new sunglasses when, without such confusion, they otherwise would not have done so.
+
 
 Annex I to the UCPD prohibits in all circumstances some specific commercial practices that involve confusing marketing in relation to trade marks, brands and related features:
 
-| No 3 of ANNEX I  Displaying a trust mark, quality mark or equivalent without having obtained the necessary authorisation. |
-| --- |
+> [!note]
+> No 3 of ANNEX I  Displaying a trust mark, quality mark or equivalent without having obtained the necessary authorisation.
 
-| No 4 of ANNEX I  Claiming that traders (including their commercial practices) or products have been approved, endorsed or authorised by a public or private body when they have not been or making such a claim without complying with the terms of the approval, endorsement or authorisation. |
-| --- |
 
-| No 13 of ANNEX I  Promoting a product similar to a product made by a particular manufacturer in such a manner as to deliberately mislead the consumer into believing that the product is made by that same manufacturer when it is not. |
-| --- |
+> [!note]
+> No 4 of ANNEX I  Claiming that traders (including their commercial practices) or products have been approved, endorsed or authorised by a public or private body when they have not been or making such a claim without complying with the terms of the approval, endorsement or authorisation.
+
+
+> [!note]
+> No 13 of ANNEX I  Promoting a product similar to a product made by a particular manufacturer in such a manner as to deliberately mislead the consumer into believing that the product is made by that same manufacturer when it is not.
+
 
 A practice that may mislead consumers is the sale by traders or online marketplaces of brand names as keywords if this creates confusion as regards the identity of the trader actually offering the product. The UCPD, in particular Articles 6(1)(a) and 6(2)(a), will come into play if the results displayed are likely to deceive consumers as to the nature of the product or create confusion between products, trade marks, trade names or other distinguishing marks of competitors. Companies using trademarked brand keywords to sell counterfeited products could potentially be found in breach of point No 9 of Annex I to the UCPD.
 
-2.8.4. Non-compliance with codes of conduct
+### Non-compliance with codes of conduct
 
-| Article 6(2)(b):  \|  \| 2. \| A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves: \| \| --- \| --- \| --- \|  (…)  \|  \| (b) \| non-compliance by the trader with commitments contained in codes of conduct by which the trader has undertaken to be bound, where:  \\| (i) \\| the commitment is not aspirational but is firm and is capable of being verified,  and \\| \\| --- \\| --- \\|  \\| (ii) \\| the trader indicates in a commercial practice that he is bound by the code. \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 6(2)(b):  
+ 2. - A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves: 
+     (…)  
+ (b) - non-compliance by the trader with commitments contained in codes of conduct by which the trader has undertaken to be bound, where:  - (i) - the commitment is not aspirational but is firm and is capable of being verified,  and - \ \ -  - (ii) - the trader indicates in a commercial practice that he is bound by the code. - \ \ \
+ -               
+
 
 The UCPD contains several provisions to prevent traders from unduly exploiting the trust which consumers may have in self-regulatory codes. It does not provide specific rules on the validity of a code of conduct, but relies on the assumption that misleading statements about a trader’s affiliation or about an endorsement from a self-regulatory body may distort the economic behaviour of consumers and undermine the trust that consumers have in self-regulatory codes. Firstly, Article 6(2)(b) obliges traders to comply with codes of conduct to which they have committed themselves in commercial communications.
 
 The Court clarified in the Bankia case that the UCPD does not preclude national legislation that does not confer a legally binding nature on codes of conduct [(175)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr175-C_2021526EN.01000101-E0175). While the Court acknowledged that Article 6(2)(b) provides that non-compliance by a trader with a code of conduct may constitute an unfair commercial practice, the Directive as such does not require that the Member States provide for direct consequences for traders solely on the ground that they have not complied with a code of conduct [(176)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr176-C_2021526EN.01000101-E0176).
 
-| For example:  A consumer authority took action on the basis of this provision against a provider of energy supply services. The provider, which was a member of an association representing energy companies, claimed to be bound by a code of conduct issued by the association. The code of conduct stated that when consumers request information only, they should not be presented with product or service offers. In the case in point, however, consumers either did not receive the information requested or ended up bound by a contract to which they had not consented. The code of conduct also stated that a member should not take advantage of the inexperience or vulnerability (age) of the consumer. However, the energy provider in question had taken advantage of several elderly people who were contacted [(177)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr177-C_2021526EN.01000101-E0177). |
-| --- |
+> [!note]
+> For example:  A consumer authority took action on the basis of this provision against a provider of energy supply services. The provider, which was a member of an association representing energy companies, claimed to be bound by a code of conduct issued by the association. The code of conduct stated that when consumers request information only, they should not be presented with product or service offers. In the case in point, however, consumers either did not receive the information requested or ended up bound by a contract to which they had not consented. The code of conduct also stated that a member should not take advantage of the inexperience or vulnerability (age) of the consumer. However, the energy provider in question had taken advantage of several elderly people who were contacted [(177)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr177-C_2021526EN.01000101-E0177).
+
 
 Secondly, Annex I to the UCPD prohibits certain practices in all circumstances to ensure that traders make responsible use of codes of conduct in marketing (Annex I points 1 and 3 on codes of conduct, point No 2 on trust marks and point No 4 on endorsement by a public or private body).
 
-2.8.5. ‘Dual quality’ marketing
+#### 2.8.5. ‘Dual quality’ marketing
 
-| Article 6(2)(c)  \|  \| 2. \| A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves: \| \| --- \| --- \| --- \|  (…)  \|  \| (c) \| any marketing of a good, in one Member State, as being identical to a good marketed in other Member States, while that good has significantly different composition or characteristics, unless justified by legitimate and objective factors. \| \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 6(2)(c)  
+ 2. - A commercial practice shall also be regarded as misleading if, in its factual context, taking account of all its features and circumstances, it causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise, and it involves: 
+     (…)  
+ (c) - any marketing of a good, in one Member State, as being identical to a good marketed in other Member States, while that good has significantly different composition or characteristics, unless justified by legitimate and objective factors. 
+   
+
 
 The free movement of goods does not necessarily mean that every product must be identical in every corner of the Single Market. Whilst consumers are free to buy the products of their choice, business operators are also free to market and sell goods with different composition or characteristics, provided that they fully respect EU legislation (whether on the safety of products, labelling or other horizontal or sectoral legislation).
 
@@ -1260,11 +1148,13 @@ Establishing the differences and whether the goods are marketed as being ‘iden
 
 According to Article 6(2)(c) UCPD, potentially unfair ‘dual quality’ marketing practices in respect of a good exist where the following two conditions are met:
 
-| 1. | the good is marketed as being identical to the good marketed in other Member States, and |
-| --- | --- |
+> [!note]
+> 1. - the good is marketed as being identical to the good marketed in other Member States, and
 
-| 2. | the good has significantly different composition or characteristics compared to the good marketed in other Member States. |
-| --- | --- |
+
+> [!note]
+> 2. - the good has significantly different composition or characteristics compared to the good marketed in other Member States.
+
 
 The reference to ‘other Member States’ should be understood as covering one or more Member States besides the one carrying out the enforcement [(179)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr179-C_2021526EN.01000101-E0179).
 
@@ -1326,12 +1216,25 @@ Other goods
 
 As the prohibition of misleading ‘dual quality’ practices is not restricted to food products, and in light of concerns as regards similar practices in the context of other consumer goods [(188)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr188-C_2021526EN.01000101-E0188), the Commission is conducting, as of 2021, a pilot study in the area of cleaning products, detergents and cosmetics. The objective of this study is to examine whether the above-mentioned common methodology developed by the Joint Research Centre in the area of food products can be extended to compare the composition of such goods as well as the feasibility of creating a monitoring tool for ‘dual quality’ cases by Member States’ competent authorities, NGOs or the industry.
 
-2.9. Article 7 - misleading omissions
+## Article 7 - misleading omissions
 
-| Article 7 – Misleading omissions  \|  \| 1. \| A commercial practice shall be regarded as misleading if, in its factual context, taking account of all its features and circumstances and the limitations of the communication medium, it omits material information that the average consumer needs, according to the context, to take an informed transactional decision and thereby causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. \| \| --- \| --- \| --- \|  \|  \| 2. \| It shall also be regarded as a misleading omission when, taking account of the matters described in paragraph 1, a trader hides or provides in an unclear, unintelligible, ambiguous or untimely manner such material information as referred to in that paragraph or fails to identify the commercial intent of the commercial practice if not already apparent from the context, and where, in either case, this causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. \| \| --- \| --- \| --- \|  \|  \| 3. \| Where the medium used to communicate the commercial practice imposes limitations of space or time, these limitations and any measures taken by the trader to make the information available to consumers by other means shall be taken into account in deciding whether information has been omitted. \| \| --- \| --- \| --- \|  \|  \| 4. \| In the case of an invitation to purchase, the following information shall be regarded as material, if not already apparent from the context:  \\| (a) \\| the main characteristics of the product, to an extent appropriate to the medium and the product; \\| \\| --- \\| --- \\|  \\| (b) \\| the geographical address and the identity of the trader, such as his trading name and, where applicable, the geographical address and the identity of the trader on whose behalf he is acting; \\| \\| --- \\| --- \\|  \\| (c) \\| the price inclusive of taxes, or where the nature of the product means that the price cannot reasonably be calculated in advance, the manner in which the price is calculated, as well as, where appropriate, all additional freight, delivery or postal charges or, where these charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable; \\| \\| --- \\| --- \\|  \\| (d) \\| the arrangements for payment, delivery and performance, if they depart from the requirements of professional diligence; \\| \\| --- \\| --- \\|  \\| (e) \\| for products and transactions involving a right of withdrawal or cancellation, the existence of such a right; \\| \\| --- \\| --- \\|  \\| (f) \\| for products offered on online marketplaces, whether the third party offering the products is a trader or not, on the basis of the declaration of that third party to the provider of the online marketplace. \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \|  \|  \| 4a. \| When providing consumers with the possibility to search for products offered by different traders or by consumers on the basis of a query in the form of a keyword, phrase or other input, irrespective of where transactions are ultimately concluded, general information, made available in a specific section of the online interface that is directly and easily accessible from the page where the query results are presented, on the main parameters determining the ranking of products presented to the consumer as a result of the search query and the relative importance of those parameters, as opposed to other parameters, shall be regarded as material. This paragraph does not apply to providers of online search engines as defined in point (6) of Article 2 of Regulation (EU) 2019/1150 of the European Parliament and of the Council. \| \| --- \| --- \| --- \|  \|  \| 5. \| Information requirements established by Community law in relation to commercial communication including advertising or marketing, a non-exhaustive list of which is contained in Annex II, shall be regarded as material. \| \| --- \| --- \| --- \|  \|  \| 6. \| Where a trader provides access to consumer reviews of products, information about whether and how the trader ensures that the published reviews originate from consumers who have actually used or purchased the product shall be regarded as material. \| \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 7 – Misleading omissions  
+ 1. - A commercial practice shall be regarded as misleading if, in its factual context, taking account of all its features and circumstances and the limitations of the communication medium, it omits material information that the average consumer needs, according to the context, to take an informed transactional decision and thereby causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. 
+     
+ 2. - It shall also be regarded as a misleading omission when, taking account of the matters described in paragraph 1, a trader hides or provides in an unclear, unintelligible, ambiguous or untimely manner such material information as referred to in that paragraph or fails to identify the commercial intent of the commercial practice if not already apparent from the context, and where, in either case, this causes or is likely to cause the average consumer to take a transactional decision that he would not have taken otherwise. 
+     
+ 3. - Where the medium used to communicate the commercial practice imposes limitations of space or time, these limitations and any measures taken by the trader to make the information available to consumers by other means shall be taken into account in deciding whether information has been omitted. 
+     
+ 4. - In the case of an invitation to purchase, the following information shall be regarded as material, if not already apparent from the context:  - (a) - the main characteristics of the product, to an extent appropriate to the medium and the product; - \ \ -  - (b) - the geographical address and the identity of the trader, such as his trading name and, where applicable, the geographical address and the identity of the trader on whose behalf he is acting; - \ \ -  - (c) - the price inclusive of taxes, or where the nature of the product means that the price cannot reasonably be calculated in advance, the manner in which the price is calculated, as well as, where appropriate, all additional freight, delivery or postal charges or, where these charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable; - \ \ -  - (d) - the arrangements for payment, delivery and performance, if they depart from the requirements of professional diligence; - \ \ -  - (e) - for products and transactions involving a right of withdrawal or cancellation, the existence of such a right; - \ \ -  - (f) - for products offered on online marketplaces, whether the third party offering the products is a trader or not, on the basis of the declaration of that third party to the provider of the online marketplace. - \ \ \
+ -                                         
+ 4a. - When providing consumers with the possibility to search for products offered by different traders or by consumers on the basis of a query in the form of a keyword, phrase or other input, irrespective of where transactions are ultimately concluded, general information, made available in a specific section of the online interface that is directly and easily accessible from the page where the query results are presented, on the main parameters determining the ranking of products presented to the consumer as a result of the search query and the relative importance of those parameters, as opposed to other parameters, shall be regarded as material. This paragraph does not apply to providers of online search engines as defined in point (6) of Article 2 of Regulation (EU) 2019/1150 of the European Parliament and of the Council. 
+     
+ 5. - Information requirements established by Community law in relation to commercial communication including advertising or marketing, a non-exhaustive list of which is contained in Annex II, shall be regarded as material. 
+     
+ 6. - Where a trader provides access to consumer reviews of products, information about whether and how the trader ensures that the published reviews originate from consumers who have actually used or purchased the product shall be regarded as material.
 
-2.9.1. Material information
+### Material information
 
 Articles 7(1) and (2) establish in very general terms a positive obligation on traders to provide all the information which the average consumer needs to make an informed purchasing decision. This is what is called ‘ material information ’ in Article 7.
 
@@ -1341,52 +1244,65 @@ In contrast, as explained in recital 15, where Member States have introduced inf
 
 In order to assess on a case-by-case basis whether material information has been omitted, national authorities and courts need to take into account all features and circumstances of a given commercial practice, including the limitations of the medium used to communicate it.
 
-| For example:  \| — \| A national authority acted against a trader who offered life insurance products without including material information in the advertising. The trader claimed that the relatives of a person covered by the insurance would obtain all insurance benefits if that person died. However, the trader omitted to inform consumers that if the person died within the first 24 months of the contract for reasons other than an accident, the relatives would only receive limited insurance benefits [(189)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr189-C_2021526EN.01000101-E0189). \| \| --- \| --- \|  \| — \| Some comparison tools use claims such as ‘best deals’ to identify not necessarily the cheapest deals, but rather those that offer the best value for money. Omitting information about the criteria for the ‘best deal’ claim could be misleading under Article 7 of the UCPD. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national authority acted against a trader who offered life insurance products without including material information in the advertising. The trader claimed that the relatives of a person covered by the insurance would obtain all insurance benefits if that person died. However, the trader omitted to inform consumers that if the person died within the first 24 months of the contract for reasons other than an accident, the relatives would only receive limited insurance benefits [(189)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr189-C_2021526EN.01000101-E0189). 
+    
+ Some comparison tools use claims such as ‘best deals’ to identify not necessarily the cheapest deals, but rather those that offer the best value for money. Omitting information about the criteria for the ‘best deal’ claim could be misleading under Article 7 of the UCPD.
 
-2.9.2. Hidden marketing/failure to identify commercial intent
+### Hidden marketing/failure to identify commercial intent
 
 Under Article 7(2), failing to identify the commercial intent of a commercial practice is regarded as a misleading omission, when this failure is likely to cause the average consumer to take a transactional decision they would not have taken otherwise.
 
 The e-Commerce Directive [(190)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr190-C_2021526EN.01000101-E0190), the Audiovisual Media Services Directive [(191)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr191-C_2021526EN.01000101-E0191) and the e-Privacy Directive [(192)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr192-C_2021526EN.01000101-E0192) similarly lay down certain requirements in this regard with respect to commercial communications and the sending electronic mail for purposes of direct marketing. A specific aspect of hidden marketing is also regulated by Article 8(5) of the Consumer Rights Directive.
 
-| Article 8(5) of the Consumer Rights Directive:  ‘(…) if the trader makes a telephone call to the consumer with a view to concluding a distance contract, he shall, at the beginning of the conversation with the consumer, disclose the identity and, where applicable, the identity of the person on whose behalf he makes that call, and the commercial purpose of the call’. |
-| --- |
+> [!note]
+> Article 8(5) of the Consumer Rights Directive:  ‘(…) if the trader makes a telephone call to the consumer with a view to concluding a distance contract, he shall, at the beginning of the conversation with the consumer, disclose the identity and, where applicable, the identity of the person on whose behalf he makes that call, and the commercial purpose of the call’.
+
 
 While these provisions focus on specific commercial practices or sectors, Article 7(2) has a general and broader scope and addresses any commercial practice.
 
-| For example:  A consumer authority acted against a trader who invited consumers to meetings offering them a free health check-up as part of an ‘I care for my health’ programme. The trader failed to disclose the fact that the main purpose of the meetings was to present products in order to sell them to consumers [(193)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr193-C_2021526EN.01000101-E0193). |
-| --- |
+> [!note]
+> For example:  A consumer authority acted against a trader who invited consumers to meetings offering them a free health check-up as part of an ‘I care for my health’ programme. The trader failed to disclose the fact that the main purpose of the meetings was to present products in order to sell them to consumers [(193)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr193-C_2021526EN.01000101-E0193).
+
 
 In addition to Article 7(2), the UCPD bans in all circumstances certain specific practices that involve failure to disclose commercial intent.
 
 Point No 11 of Annex I bans the use of ‘ editorial content in the media to promote a product where a trader has paid for the promotion without making that clear in the content or by images or sounds clearly identifiable by the consumer (advertorial)’.
 
-| For example:  A major newspaper teamed up with a telecom operator who finances a particular section of the newspaper under the title ‘The Digital Life’. This section and all of its material, including promotions of products which the telecom operator was about to launch, appear as the newspaper’s editorial content; the only disclosure to the public about the commercial nature of the presented material is the discrete appearance of the text ‘in collaboration with’ followed by the telecom operator's trademark. This practice was found to be in breach of Point 11 of Annex I UCPD [(194)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr194-C_2021526EN.01000101-E0194). |
-| --- |
+> [!note]
+> For example:  A major newspaper teamed up with a telecom operator who finances a particular section of the newspaper under the title ‘The Digital Life’. This section and all of its material, including promotions of products which the telecom operator was about to launch, appear as the newspaper’s editorial content; the only disclosure to the public about the commercial nature of the presented material is the discrete appearance of the text ‘in collaboration with’ followed by the telecom operator's trademark. This practice was found to be in breach of Point 11 of Annex I UCPD [(194)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr194-C_2021526EN.01000101-E0194).
+
 
 Point No 22 of Annex I prohibits ‘ falsely claiming or creating the impression that the trader is not acting for purposes related to his trade, business, craft or profession or falsely representing oneself as a consumer ’.
 
 Article 7(2), together with points 11 and 22 of Annex I, can be particularly relevant for online traders (see section 4.2.5 on social media and 4.2.6 on influencer marketing).
 
-2.9.3. Material information provided in an unclear manner
+### Material information provided in an unclear manner
 
 According to Article 7(2), providing material information ‘ in an unclear, unintelligible, ambiguous or untimely manner ’ is a misleading omission, if this is likely to cause the average consumer to take a transactional decision they would not have taken otherwise.
 
-| For example:  \| — \| A national court concluded that a trader infringed Article 7 UCPD by informing consumers of their rights in an unclear, ambiguous and not reasonably understandable way. The trader had informed consumers about their right of withdrawal by providing the full text of a Government Decree. The court found that the text indicated numerous provisions not applicable to the contracts at stake and that delivering the full text of the Government Decree did not qualify as information by which consumers could plainly and concretely become aware of the conditions governing their right to withdraw from the contract [(195)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr195-C_2021526EN.01000101-E0195). \| \| --- \| --- \|  \| — \| A telephone operator advertised on TV a mobile phone subscription by highlighting the specific price benefits, whilst the restrictions and conditions of the offer were only presented in small print which appeared on the screen for a very short time. It was held that, despite the limits of space and time of the medium used (TV), nothing prevented the trader to more clearly indicate such central facts. Hence, to the extent that material information had been omitted, the advertising was found to be misleading [(196)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr196-C_2021526EN.01000101-E0196). \| \| --- \| --- \|  \| — \| The requirement to provide material information in a clear, intelligible and timely manner could be breached in a situation where an online trader targets consumers in a specific Member State, providing part of the material information in the language of that country but making other pieces of material information available only in a different language [(197)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr197-C_2021526EN.01000101-E0197), for example in the standard terms and conditions [(198)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr198-C_2021526EN.01000101-E0198).The application of the UCPD in such cases is complementary and without prejudice to more specific language requirements provided in accordance with other EU law, such as the regulatory option provided in Directive 2011/83/EU concerning contractual information in distance and off-premises contracts (see section 4.1.8 of the CRD Guidance Notice). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national court concluded that a trader infringed Article 7 UCPD by informing consumers of their rights in an unclear, ambiguous and not reasonably understandable way. The trader had informed consumers about their right of withdrawal by providing the full text of a Government Decree. The court found that the text indicated numerous provisions not applicable to the contracts at stake and that delivering the full text of the Government Decree did not qualify as information by which consumers could plainly and concretely become aware of the conditions governing their right to withdraw from the contract [(195)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr195-C_2021526EN.01000101-E0195). 
+    
+ A telephone operator advertised on TV a mobile phone subscription by highlighting the specific price benefits, whilst the restrictions and conditions of the offer were only presented in small print which appeared on the screen for a very short time. It was held that, despite the limits of space and time of the medium used (TV), nothing prevented the trader to more clearly indicate such central facts. Hence, to the extent that material information had been omitted, the advertising was found to be misleading [(196)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr196-C_2021526EN.01000101-E0196). 
+    
+ The requirement to provide material information in a clear, intelligible and timely manner could be breached in a situation where an online trader targets consumers in a specific Member State, providing part of the material information in the language of that country but making other pieces of material information available only in a different language [(197)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr197-C_2021526EN.01000101-E0197), for example in the standard terms and conditions [(198)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr198-C_2021526EN.01000101-E0198).The application of the UCPD in such cases is complementary and without prejudice to more specific language requirements provided in accordance with other EU law, such as the regulatory option provided in Directive 2011/83/EU concerning contractual information in distance and off-premises contracts (see section 4.1.8 of the CRD Guidance Notice).
 
-2.9.4. The factual context and limits of the communication medium used
+### The factual context and limits of the communication medium used
 
 Article 7(1) underlines that to assess whether a commercial practice is misleading, it needs to be considered ‘ in its factual context, taking account of all its features and circumstances and the limitations of the communication medium ’.
 
 Article 7(3) should be read in conjunction with Article 7(1). Under Article 7(3), when assessing whether material information has been omitted, account should be taken of:
 
-| — | the limits of space and time of the communication medium used; |
-| --- | --- |
+> [!note]
+> the limits of space and time of the communication medium used;
 
-| — | any measures taken by the trader to make the information available to consumers by other means. |
-| --- | --- |
+
+> [!note]
+> any measures taken by the trader to make the information available to consumers by other means.
+
 
 The above provisions apply to all sections of Article 7. In addition, under the introductory part of Article 7(4), traders do not need to provide information in invitations to purchase that is already apparent from the context.
 
@@ -1396,8 +1312,9 @@ In the same case, the Court also found that the limits of time and space of the 
 
 According to Article 7(2), providing material information ‘ in an unclear, unintelligible, ambiguous or untimely manner ’ is a misleading omission, if this is likely to cause the average consumer to take a transactional decision they would not have taken otherwise.
 
-| For example:  A telephone operator advertised on TV a mobile phone subscription by highlighting the specific price benefits, whilst the restrictions and conditions of the offer were only presented in small print which appeared on the screen for a very short time. A national court held that, despite the limits of space and time of the medium used (TV), nothing prevented the trader to more clearly indicate such central facts. Hence, to the extent that material information had been omitted, the advertising was found to be misleading [(201)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr201-C_2021526EN.01000101-E0201). |
-| --- |
+> [!note]
+> For example:  A telephone operator advertised on TV a mobile phone subscription by highlighting the specific price benefits, whilst the restrictions and conditions of the offer were only presented in small print which appeared on the screen for a very short time. A national court held that, despite the limits of space and time of the medium used (TV), nothing prevented the trader to more clearly indicate such central facts. Hence, to the extent that material information had been omitted, the advertising was found to be misleading [(201)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr201-C_2021526EN.01000101-E0201).
+
 
 Article 7(4)(a) also states that, in invitations to purchase, account should be taken of ‘the medium and the product’ when clarifying whether the main characteristics of the product is one of the elements to be regarded as material information.
 
@@ -1405,17 +1322,19 @@ In the Ving Sverige case, the Court found that ‘ it may be sufficient for only
 
 Given their importance for the consumer’s purchasing decision, information about a product’s full price and main characteristics should be prominently displayed.
 
-| For example:  A national court considered as misleading a leaflet claiming that 3 % savings on purchases could have been made by consumers using the promoted credit card. The court considered that the general statement in the leaflet led consumers to believe that savings would apply to any kind of purchase made with the credit card, whereas in reality important limitations applied. Such limitations were only specified in the contract terms: this was not deemed to be sufficient, as material information about the characteristics of the advertised product was omitted [(203)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr203-C_2021526EN.01000101-E0203). |
-| --- |
+> [!note]
+> For example:  A national court considered as misleading a leaflet claiming that 3 % savings on purchases could have been made by consumers using the promoted credit card. The court considered that the general statement in the leaflet led consumers to believe that savings would apply to any kind of purchase made with the credit card, whereas in reality important limitations applied. Such limitations were only specified in the contract terms: this was not deemed to be sufficient, as material information about the characteristics of the advertised product was omitted [(203)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr203-C_2021526EN.01000101-E0203).
+
 
 The overall extent of the required information on a product’s main characteristics must be assessed based on the context of the invitation to purchase, the typology of product and the communication medium used.
 
-2.9.5. Material information in invitations to purchase – Article 7(4)
+### Material information in invitations to purchase – Article 7(4)
 
 Invitations to purchase
 
-| Article 2(i)  ‘invitation to purchase’ means a commercial communication which indicates characteristics of the product and the price in a way appropriate to the means of the commercial communication used and thereby enables the consumer to make a purchase; |
-| --- |
+> [!note]
+> Article 2(i)  ‘invitation to purchase’ means a commercial communication which indicates characteristics of the product and the price in a way appropriate to the means of the commercial communication used and thereby enables the consumer to make a purchase;
+
 
 For ‘ invitations to purchase ’, Article 7(4) of the UCPD regards certain pieces of information as ‘material’. This means that traders will need to provide consumers with this information if it not otherwise apparent from the context.
 
@@ -1431,18 +1350,27 @@ An invitation to purchase is a narrower concept than advertising, and not all co
 
 However, an invitation to purchase is a wider concept than pre-contractual information. While pre-contractual information requirements refer to information that needs to be provided before the consumer enters into a contract, an invitation to purchase does not necessarily imply that the next step for the consumer is to enter into a contract with a trader.
 
-| For example:  Radio advertising that includes a product’s characteristics and price is an invitation to purchase, but will normally not qualify as pre-contractual information. |
-| --- |
+> [!note]
+> For example:  Radio advertising that includes a product’s characteristics and price is an invitation to purchase, but will normally not qualify as pre-contractual information.
+
 
 This distinction is particularly important in relation to the interplay between the UCPD and the CRD. A wide variety of commercial communications would normally qualify as invitations to purchase.
 
-| For example:  \| — \| An airline website displaying offers for flights and their prices. \| \| --- \| --- \|  \| — \| A mail order advertisement [(205)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr205-C_2021526EN.01000101-E0205). \| \| --- \| --- \|  \| — \| A leaflet from a supermarket advertising discounted prices on certain products. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ An airline website displaying offers for flights and their prices. 
+    
+ A mail order advertisement [(205)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr205-C_2021526EN.01000101-E0205). 
+    
+ A leaflet from a supermarket advertising discounted prices on certain products. 
+  
+
 
 The UCPD leaves traders the choice as to whether to include the price in their commercial communications. A commercial communication or advertisement that includes an exhaustive description of a product or service’s nature, characteristics and benefits but not its price cannot be considered an ‘invitation to purchase’ within the meaning of Article 2(i) of the UCPD. An example of commercial communications which are not invitations to purchase would be advertisements promoting a trader’s ‘brand’ rather than any particular product (i.e. brand advertising).
 
-| For example:  A national court ruled that an advertisement inviting a consumer to visit a website to obtain an insurance offer does not constitute an invitation to purchase [(206)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr206-C_2021526EN.01000101-E0206). |
-| --- |
+> [!note]
+> For example:  A national court ruled that an advertisement inviting a consumer to visit a website to obtain an insurance offer does not constitute an invitation to purchase [(206)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr206-C_2021526EN.01000101-E0206).
+
 
 Material information
 
@@ -1468,18 +1396,25 @@ Safety warnings may, subject to a case-by-case assessment, constitute a main cha
 
 Under Article 7(4)(b), failure to inform consumers of the trader’s geographical address and identity can constitute a misleading omission.
 
-| For example:  In a case relating to an online dating service, a national court ordered a trader to post information about its name, address, registration number and email address in a direct and permanent manner when marketing the services it provided on the Internet. The court held that the trader’s not posting its correct address or any email address on its website constituted a misleading omission likely to cause the consumer to take a transactional decision they would not have taken otherwise [(212)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr212-C_2021526EN.01000101-E0212). |
-| --- |
+> [!note]
+> For example:  In a case relating to an online dating service, a national court ordered a trader to post information about its name, address, registration number and email address in a direct and permanent manner when marketing the services it provided on the Internet. The court held that the trader’s not posting its correct address or any email address on its website constituted a misleading omission likely to cause the consumer to take a transactional decision they would not have taken otherwise [(212)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr212-C_2021526EN.01000101-E0212).
+
 
 On the other hand, omitting to provide information about the identity of the trader could sometimes be considered as ‘ apparent from the context ’ within the meaning of Article 7(4).
 
-| For example:  \| — \| The address of a shop or restaurant which the consumer is already in. \| \| --- \| --- \|  \| — \| For online shops, Article 5 of the e-Commerce Directive requires traders to make their name, address and other details including their electronic mail address easily, directly and permanently accessible. Furthermore, under Article 10 of the e-Commerce Directive, certain information (e.g. on the various technical steps necessary before the formal conclusion of a contract) must also be provided before the order is placed. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ The address of a shop or restaurant which the consumer is already in. 
+    
+ For online shops, Article 5 of the e-Commerce Directive requires traders to make their name, address and other details including their electronic mail address easily, directly and permanently accessible. Furthermore, under Article 10 of the e-Commerce Directive, certain information (e.g. on the various technical steps necessary before the formal conclusion of a contract) must also be provided before the order is placed. 
+  
+
 
 Based on a case-by-case assessment, stating the commercial name of a trader could be enough to comply with the requirement in Article 7(4)(b) on the trader’s identity. The legal name must be stated in the terms and conditions of sale, but it may not necessarily be considered material information within the meaning of Article 7(4).
 
-| For example:  In its advertising material, a fast food company will not need to specify its legal status such as Ltd, SA, SARL, Inc. |
-| --- |
+> [!note]
+> For example:  In its advertising material, a fast food company will not need to specify its legal status such as Ltd, SA, SARL, Inc.
+
 
 In addition to the requirement in Article 7(4)(b), the CRD lays down further information requirements on the trader’s contact details, specifically in Article 5(1) (on-premises sales) and Article 6(1) (off-premises and distance sales).
 
@@ -1493,18 +1428,27 @@ Article 7(4)(c) requires traders to state the total (or final) price in an invit
 
 In the Canal Digital Danmark case, the Court established that where a trader states the price for a subscription so that the consumer must pay both a monthly charge and a 6-monthly charge, that practice must be regarded as a misleading omission under Article 7 if the price of the monthly charge is particularly highlighted in the marketing, whilst the 6-monthly charge is omitted entirely or presented only in a less conspicuous manner, if such failure causes the consumer to take a transactional decision that they would not have taken otherwise [(213)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr213-C_2021526EN.01000101-E0213).
 
-| For example:  \| — \| A consumer authority took action against a telecom operator who did not inform consumers that they would have to pay an activation fee in order to use the services provided. Consumers were only informed about this fee after the contract had been signed [(214)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr214-C_2021526EN.01000101-E0214). \| \| --- \| --- \|  \| — \| A consumer authority imposed administrative fines against a telecom operator who applied charges, of which the consumers were not informed, to provide services that the company could not deliver/supply [(215)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr215-C_2021526EN.01000101-E0215). \| \| --- \| --- \|  \| — \| A national court ruled in favour of a decision by a municipality imposing a fine on an internet provider who had failed to display the full price of its services in its commercial offers, notably by omitting to include network charges and taxes [(216)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr216-C_2021526EN.01000101-E0216). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A consumer authority took action against a telecom operator who did not inform consumers that they would have to pay an activation fee in order to use the services provided. Consumers were only informed about this fee after the contract had been signed [(214)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr214-C_2021526EN.01000101-E0214). 
+    
+ A consumer authority imposed administrative fines against a telecom operator who applied charges, of which the consumers were not informed, to provide services that the company could not deliver/supply [(215)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr215-C_2021526EN.01000101-E0215). 
+    
+ A national court ruled in favour of a decision by a municipality imposing a fine on an internet provider who had failed to display the full price of its services in its commercial offers, notably by omitting to include network charges and taxes [(216)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr216-C_2021526EN.01000101-E0216). 
+  
+
 
 Under Article 7(4)(c) of the UCPD, using ‘ entry-level prices ’, i.e. indicating the price 'as from' a specific minimum amount, is permitted if the final price cannot ‘ reasonably be calculated in advance ’ due to the nature of the product.
 
-| For example:  A travel agency indicated prices ‘as from’ for given flights and travel packages. A national court ruled that the UCPD does not rule out the use of entry-level prices, as long as the information provided meets the Directive’s requirements, taking into account the circumstances of a real case. It held that: ‘A reference only to an entry-level price may, therefore, be justified in situations where the price cannot reasonably be calculated in advance, having regard, inter alia, to the nature and characteristics of the product’ [(217)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr217-C_2021526EN.01000101-E0217). |
-| --- |
+> [!note]
+> For example:  A travel agency indicated prices ‘as from’ for given flights and travel packages. A national court ruled that the UCPD does not rule out the use of entry-level prices, as long as the information provided meets the Directive’s requirements, taking into account the circumstances of a real case. It held that: ‘A reference only to an entry-level price may, therefore, be justified in situations where the price cannot reasonably be calculated in advance, having regard, inter alia, to the nature and characteristics of the product’ [(217)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr217-C_2021526EN.01000101-E0217).
+
 
 The minimum price should, however, be a real price applicable to certain products, in accordance with the advertisement.
 
-| For example:  A company advertised the sale of apartments using statements such as ‘It’s cheaper than you might think. Prices starting from EUR 2 150 per square metre’. However, it turned out that there were no apartments available at the price indicated. Moreover, the price indicated did not include VAT. This commercial practice was found to be misleading by a consumer authority [(218)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr218-C_2021526EN.01000101-E0218). |
-| --- |
+> [!note]
+> For example:  A company advertised the sale of apartments using statements such as ‘It’s cheaper than you might think. Prices starting from EUR 2 150 per square metre’. However, it turned out that there were no apartments available at the price indicated. Moreover, the price indicated did not include VAT. This commercial practice was found to be misleading by a consumer authority [(218)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr218-C_2021526EN.01000101-E0218).
+
 
 Commercial practices where traders advertise prices that do not exist could also be in breach of points 5 and 6 of Annex I to the UCPD, as they may be considered instances of bait advertising (point 5) or bait and switch (point 6).
 
@@ -1522,7 +1466,7 @@ For distance or off-premises contracts, the trader must provide information abou
 
 Obligations in Article 7(4)(f), (4a) and (6) concerning online marketplaces, transparency of search results and user reviews are discussed in section 4.2.
 
-2.9.6. Free trials and subscription traps
+### Free trials and subscription traps
 
 Free trials are marketing tools that allow consumers to order a product or subscribe to a service without costs or for a small amount (i.e. postage of the sample). Some free trials involve unfair commercial practices that mislead consumers into subscriptions. A 2017 Commission study on online free trials and subscription traps reported the prevalence of various practices described below [(219)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr219-C_2021526EN.01000101-E0219).
 
@@ -1532,32 +1476,48 @@ If a trader does not make it clear to consumers that they may enter into subscri
 
 Omitting or providing information in an unclear manner on the recurring costs of a subscription may be contrary to Articles 6(1)(d) and/or 7(1), 7(2) and 7(4)(c) UCPD.
 
-| For example:  \| — \| A telecom operator advertised on billboards that consumers could receive either two tablets or one mobile phone and a tablet for the price of PLN 1,-. However, the trader did not clearly inform consumers that, in order to take advantage of this offer, they would have to sign both a subscription contract for 24 months and a purchase contract for the products with 36 monthly instalments. A consumer authority found this advertising misleading within the meaning of Article 6(1)(d) of the UCPD [(220)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr220-C_2021526EN.01000101-E0220). \| \| --- \| --- \|  \| — \| In 2021, the Commission and national consumer authorities took action concerning the lack of clear information when making purchases with credit cards, which may involve problems such as concealing actual costs in hidden or small print about recurring payments [(221)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr221-C_2021526EN.01000101-E0221). While credit card companies are not the ones running these schemes, they have a duty to properly inform their customers. In the payment window where consumers enter their credit card information when shopping online, there is often only information about a one-off payment amount, not the recurring subscription. Under the UCPD and Payment Services Directive, consumers must be made aware of the specific amounts for all payment transactions, including recurring ones. \| \| --- \| --- \|  \| — \| In 2020, a national authority fined the operator of two dating websites for breaches of the UCPD concerning the websites’ subscription models. Specifically, the authority found that although the websites were advertised as free of charge, essential services (e.g. contacting other users) were subject to a fee, providing misleading information to consumers on subscriptions, renewals and fees. Further, the high number of consumer complaints, as well as their poor handling indicated the trader’s refusal to change its communication practices [(222)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr222-C_2021526EN.01000101-E0222). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A telecom operator advertised on billboards that consumers could receive either two tablets or one mobile phone and a tablet for the price of PLN 1,-. However, the trader did not clearly inform consumers that, in order to take advantage of this offer, they would have to sign both a subscription contract for 24 months and a purchase contract for the products with 36 monthly instalments. A consumer authority found this advertising misleading within the meaning of Article 6(1)(d) of the UCPD [(220)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr220-C_2021526EN.01000101-E0220). 
+    
+ In 2021, the Commission and national consumer authorities took action concerning the lack of clear information when making purchases with credit cards, which may involve problems such as concealing actual costs in hidden or small print about recurring payments [(221)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr221-C_2021526EN.01000101-E0221). While credit card companies are not the ones running these schemes, they have a duty to properly inform their customers. In the payment window where consumers enter their credit card information when shopping online, there is often only information about a one-off payment amount, not the recurring subscription. Under the UCPD and Payment Services Directive, consumers must be made aware of the specific amounts for all payment transactions, including recurring ones. 
+    
+ In 2020, a national authority fined the operator of two dating websites for breaches of the UCPD concerning the websites’ subscription models. Specifically, the authority found that although the websites were advertised as free of charge, essential services (e.g. contacting other users) were subject to a fee, providing misleading information to consumers on subscriptions, renewals and fees. Further, the high number of consumer complaints, as well as their poor handling indicated the trader’s refusal to change its communication practices [(222)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr222-C_2021526EN.01000101-E0222). 
+  
+
 
 Moreover, the CRD contains specific rules to improve the transparency of payments on the internet in its Article 8(2). According to Article 8(2), in distance contracts concluded by electronic means, information relating to the main characteristics of the good or service, the price inclusive of taxes and the duration of the contract and of the consumers' obligations must be provided in a clear and prominent manner, and directly before the consumer places his order; it does not suffice to provide this information in the previous steps of the ordering process. In addition, the consumer must be given the possibility to explicitly acknowledge that the order implies an obligation to pay, including recurring amounts, e.g. by activating an unambiguously labelled ordering button. Both the amount of a one-off payment as well as the amount of recurring payments that may follow should be clearly provided to the consumer.
 
-| For example:  A trader contacted consumers via telemarketing to promote the sale of a free puzzle book together with a 6 month subscription, which entails five additional books at a cost. A national court considered that, based on the information provided and the emphasis on the first free book, consumers may have thought that they committed themselves to a one-off payment, while in fact they engaged in a subscription. The trader was found to infringe Article 6(1)(a) UCPD by not providing clear information about the nature of the product [(223)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr223-C_2021526EN.01000101-E0223). |
-| --- |
+> [!note]
+> For example:  A trader contacted consumers via telemarketing to promote the sale of a free puzzle book together with a 6 month subscription, which entails five additional books at a cost. A national court considered that, based on the information provided and the emphasis on the first free book, consumers may have thought that they committed themselves to a one-off payment, while in fact they engaged in a subscription. The trader was found to infringe Article 6(1)(a) UCPD by not providing clear information about the nature of the product [(223)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr223-C_2021526EN.01000101-E0223).
+
 
 In addition, describing a products as ‘gratis’, ‘free’, ‘without charge’ or similar if the consumer has to pay anything other than the unavoidable cost of responding to the commercial practice and collecting or paying for delivery of the item’ is a commercial practice which is in all circumstances considered unfair and thus prohibited under the UCPD. This follows from No 20 of Annex I of the Directive.
 
 Inertia selling (demanding payment for or the return or safekeeping of products not solicited by the consumer) is also a commercial practice which is in all circumstances prohibited under the UCPD. This follows from No 29 of Annex I of the Directive.
 
-2.10. Articles 8 and 9 - aggressive commercial practices
+## Articles 8 and 9 - aggressive commercial practices
 
-| Article 8 – Aggressive commercial practices  A commercial practice shall be regarded as aggressive if, in its factual context, taking account of all its features and circumstances, by harassment, coercion, including the use of physical force, or undue influence, it significantly impairs or is likely to significantly impair the average consumer’s freedom of choice or conduct with regard to the product and thereby causes him or is likely to cause him to take a transactional decision that he would not have taken. |
-| --- |
+> [!note]
+> Article 8 – Aggressive commercial practices  A commercial practice shall be regarded as aggressive if, in its factual context, taking account of all its features and circumstances, by harassment, coercion, including the use of physical force, or undue influence, it significantly impairs or is likely to significantly impair the average consumer’s freedom of choice or conduct with regard to the product and thereby causes him or is likely to cause him to take a transactional decision that he would not have taken.
 
-| Article 9 – Use of harassment, coercion and undue influence  In determining whether a commercial practice uses harassment, coercion, including the use of physical force, or undue influence, account shall be taken of:  \| (a) \| its timing, location, nature or persistence; \| \| --- \| --- \|  \| (b) \| the use of threatening or abusive language or behaviour; \| \| --- \| --- \|  \| (c) \| the exploitation by the trader of any specific misfortune or circumstance of such gravity as to impair the consumer’s judgement, of which the trader is aware, to influence the consumer’s decision with regard to the product; \| \| --- \| --- \|  \| (d) \| any onerous or disproportionate non-contractual barriers imposed by the trader where a consumer wishes to exercise rights under the contract, including rights to terminate a contract or to switch to another product or another trader; \| \| --- \| --- \|  \| (e) \| any threat to take any action that cannot legally be taken. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+> [!note]
+> Article 9 – Use of harassment, coercion and undue influence  In determining whether a commercial practice uses harassment, coercion, including the use of physical force, or undue influence, account shall be taken of:  - (a) - its timing, location, nature or persistence; 
+    - (b) - the use of threatening or abusive language or behaviour; 
+    - (c) - the exploitation by the trader of any specific misfortune or circumstance of such gravity as to impair the consumer’s judgement, of which the trader is aware, to influence the consumer’s decision with regard to the product; 
+    - (d) - any onerous or disproportionate non-contractual barriers imposed by the trader where a consumer wishes to exercise rights under the contract, including rights to terminate a contract or to switch to another product or another trader; 
+    - (e) - any threat to take any action that cannot legally be taken. 
+  
+
 
 The UCPD provides a single definition of aggressive commercial practices that can be applied across the EU. The Directive prevents traders from adopting selling techniques which limit the consumer’s freedom of choice or conduct with regard to the product, thereby distorting their economic behaviour.
 
 Aggressive commercial practices are those which make use of harassment, coercion, physical force or undue influence. They can involve behaviour at the marketing stage but also practices which occur during or after a transaction has taken place. As clarified by the Court, unless assessing prohibited practices in Annex I, a commercial practice cannot be classified as aggressive ‘ until a factual and case-specific assessment of its features has been carried out in the light of the criteria set out in Articles 8 and 9 of that directive ’ [(224)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr224-C_2021526EN.01000101-E0224).
 
-| For example:  A national court ruled that in order to qualify as aggressive and unfair, a commercial practice should not only influence the consumer’s transactional decision, but also be carried out using specific methods. This implies that an aggressive practice should entail active conduct by the trader (‘harassment, coercion including the use of physical force, or undue influence’) which limits the consumer’s freedom of choice [(225)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr225-C_2021526EN.01000101-E0225). |
-| --- |
+> [!note]
+> For example:  A national court ruled that in order to qualify as aggressive and unfair, a commercial practice should not only influence the consumer’s transactional decision, but also be carried out using specific methods. This implies that an aggressive practice should entail active conduct by the trader (‘harassment, coercion including the use of physical force, or undue influence’) which limits the consumer’s freedom of choice [(225)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr225-C_2021526EN.01000101-E0225).
+
 
 Aggressive practices can involve conduct already covered by other national legislation, including contract and criminal law. The UCPD adds an additional layer of protection which can be activated by public enforcement means without necessarily having to start criminal or civil law proceedings.
 
@@ -1565,13 +1525,15 @@ Article 9(c) outlaws practices which exert undue influence on consumers, such as
 
 Article 9(d) prevents traders from imposing disproportionate non-contractual barriers that are detrimental to consumers who wish to exercise their rights under a contract, including the right to terminate the contract or switch to another product or trader. This provision is important in particular to prevent non-contractual barriers to switching in telecoms [(226)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr226-C_2021526EN.01000101-E0226) and energy utilities contracts. For additional explanations regarding the issue of ‘consumer lock-in’, see section 4.2.11.
 
-| For example:  A national court found that the practice where a trader made it particularly burdensome for its customers to terminate their service contracts with it to the point that they were often trapped in de facto automatic renewals amounted to an aggressive commercial practice [(227)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr227-C_2021526EN.01000101-E0227). |
-| --- |
+> [!note]
+> For example:  A national court found that the practice where a trader made it particularly burdensome for its customers to terminate their service contracts with it to the point that they were often trapped in de facto automatic renewals amounted to an aggressive commercial practice [(227)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr227-C_2021526EN.01000101-E0227).
+
 
 Article 9(e) covers any threat to take any action that cannot legally be taken. Aggressive practices often occur in doorstep sales or other off-premises sales of consumer goods and in the timeshare sector. Aggressive practices can also occur in debt recovery, where third parties are mandated to collect debts. Onerous or disproportionate switching barriers should also be regarded as aggressive practices.
 
-| For example:  A consumer authority ruled that sending a notice to a consumer to appear before a judge who had no jurisdiction and who had not received any application from the trader was an aggressive practice. The purpose of the practice was to intimidate consumers through undue influence [(228)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr228-C_2021526EN.01000101-E0228). |
-| --- |
+> [!note]
+> For example:  A consumer authority ruled that sending a notice to a consumer to appear before a judge who had no jurisdiction and who had not received any application from the trader was an aggressive practice. The purpose of the practice was to intimidate consumers through undue influence [(228)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr228-C_2021526EN.01000101-E0228).
+
 
 The Court has provided further guidance on the assessment of aggressive practices in specific cases.
 
@@ -1585,32 +1547,39 @@ The fact that the consumer was not given the opportunity to read the standard co
 
 ‘By way of example, the announcement that any delay in signing the contract or amendment would mean that the subsequent conclusion thereof would be possible only under less favourable conditions, or the fact that the consumer would risk having to pay contractual penalties or, in the event of the contract being amended, would risk the trader suspending the service, may fall within that category. The fact of the courier informing the consumer that, if he refuses to sign or delays in signing the contract or amendment that has been delivered to him, he could receive an unfavourable assessment from his employer could also fall within that same category.’
 
-3\. BLACK LIST OF COMMERCIAL PRACTICES (ANNEX I)
+# 3.  BLACK LIST OF COMMERCIAL PRACTICES (ANNEX I)
 
-| Article 5(5)  Annex I contains the list of those commercial practices which shall in all circumstances be regarded as unfair. The same single list shall apply in all Member States and may only be modified by revision of this Directive. |
-| --- |
+> [!note]
+> Article 5(5)  Annex I contains the list of those commercial practices which shall in all circumstances be regarded as unfair. The same single list shall apply in all Member States and may only be modified by revision of this Directive.
 
-| Recital 17  It is desirable that those commercial practices which are in all circumstances unfair be identified to provide greater legal certainty. Annex I therefore contains the full list of all such practices. These are the only commercial practices which can be deemed to be unfair without a case-by-case assessment against the provisions of Articles 5 to 9. The list may only be modified by revision of the Directive. |
-| --- |
+
+> [!note]
+> Recital 17  It is desirable that those commercial practices which are in all circumstances unfair be identified to provide greater legal certainty. Annex I therefore contains the full list of all such practices. These are the only commercial practices which can be deemed to be unfair without a case-by-case assessment against the provisions of Articles 5 to 9. The list may only be modified by revision of the Directive.
+
 
 The list in Annex I was drawn up to enable enforcers, traders, marketing professionals and customers to identify certain practices and give a more immediate enforcement response to them. It therefore leads to greater legal certainty. If it can be proved that the trader has carried out a blacklisted commercial practice, national enforcers can take action to sanction the trader without having to apply a case-by-case test (i.e. assessing the likely impact of the practice on the average consumer's economic behaviour).
 
-3.1. Products which cannot legally be sold – No 9
+## Products which cannot legally be sold – No 9
 
-| Point No 9 of Annex I  ‘Stating or otherwise creating the impression that a product can legally be sold when it cannot.’ |
-| --- |
+> [!note]
+> Point No 9 of Annex I  ‘Stating or otherwise creating the impression that a product can legally be sold when it cannot.’
+
 
 This practice has been banned to prevent situations where a trader markets a product or a service and omits to clearly inform the consumer that there are legal rules which may restrict the sale, possession or use of a given product. This involves products or services for which the sale is banned or illegal in all circumstances, such as the sale of illegal drugs or stolen goods. Since such practices often involve criminal activities and/or dishonest operators, they are easy to identify. Such practices are usually also serious violations of other laws that usually are more specific and which take precedence over the UCPD.
 
 A second category of practices concerns products or services which are not illegal but which may be legally marketed and sold only under certain conditions and/or subject to certain restrictions.
 
-| For example:  \| — \| Travel packages can only be organised by traders that comply with the insolvency protection requirements imposed by the Package Travel Directive [(234)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr234-C_2021526EN.01000101-E0234). A national court found that a travel agency offering such packages despite having failed to lodge a guarantee deposit with a national insolvency fund, had infringed point No 9 of Annex I in that consumers were given the false impression that the offer was in full compliance with the law [(235)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr235-C_2021526EN.01000101-E0235). \| \| --- \| --- \|  \| — \| Giving the impression that tickets may legally be sold where there is a national legislative prohibition in either the EEA state of sale, the EEA state of performance or both is considered an unfair commercial practice, according to the judgment of the EFTA Court in a case concerning a trader’s marketing and resale of tickets to the London 2012 Olympic and Paralympic Games [(236)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr236-C_2021526EN.01000101-E0236). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Travel packages can only be organised by traders that comply with the insolvency protection requirements imposed by the Package Travel Directive [(234)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr234-C_2021526EN.01000101-E0234). A national court found that a travel agency offering such packages despite having failed to lodge a guarantee deposit with a national insolvency fund, had infringed point No 9 of Annex I in that consumers were given the false impression that the offer was in full compliance with the law [(235)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr235-C_2021526EN.01000101-E0235). 
+    
+ Giving the impression that tickets may legally be sold where there is a national legislative prohibition in either the EEA state of sale, the EEA state of performance or both is considered an unfair commercial practice, according to the judgment of the EFTA Court in a case concerning a trader’s marketing and resale of tickets to the London 2012 Olympic and Paralympic Games [(236)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr236-C_2021526EN.01000101-E0236).
 
-3.2. Pyramid schemes – No 14
+## Pyramid schemes – No 14
 
-| Point No 14 of Annex I  ‘Establishing, operating, or promoting a pyramid promotional scheme where a consumer gives consideration for the opportunity to receive compensation that is derived primarily from the introduction of other consumers into the scheme rather than from the sale or consumption of products.’ |
-| --- |
+> [!note]
+> Point No 14 of Annex I  ‘Establishing, operating, or promoting a pyramid promotional scheme where a consumer gives consideration for the opportunity to receive compensation that is derived primarily from the introduction of other consumers into the scheme rather than from the sale or consumption of products.’
+
 
 This practice has been banned to prevent traders from luring consumers into a scheme promising them compensation when in fact the consumer will actually be compensated primarily for bringing new members into the scheme, rather than from the sale or consumption of products. The pyramid structure of the scheme is generally devised in such a way that it will deliver benefits only to the organisers at the top, whereas recruited consumers usually do not stand any reasonable chance to recover what they have invested. The Court has clarified the conditions under which a system of trade promotion can be considered a ‘pyramid promotional scheme’ within the meaning of Point No 14 of Annex I. The Court noted that:
 
@@ -1626,32 +1595,41 @@ Another case Loterie Nationale concerned a scheme where players were recruited t
 
 ‘ It cannot, on the other hand, be deduced from the wording of that provision that the required financial link must necessarily be direct. What matters is the description ‘primarily’ or ‘mostly’ applicable to the contributions paid by new participants in the scheme.’ [(240)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr240-C_2021526EN.01000101-E0240)
 
-| For example:  A consumer authority took action in three cases involving pyramid schemes. One case involved a sales scheme where the compensation system was based not on the sales volumes, but on the number of new sales agents that each of the resellers was able to attract to the system [(241)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr241-C_2021526EN.01000101-E0241). Another case involved a sales scheme where the rewards structure was aimed mainly at attracting new consumers by recovering the registration fee from the entry of other agents [(242)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr242-C_2021526EN.01000101-E0242). In a third case, consumers were proposed to purchase products through mechanisms aimed at recruiting other sellers who were asked for an initial contribution or subscription to a program of personal purchases [(243)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr243-C_2021526EN.01000101-E0243). The authority also took into account how the schemes worked in practice. It focused on the number of agents who actually generated sales compared with the total number of recruited consumers and to the varying significance of the revenues/acquisitions from the agents or from sales to outsiders. Investigations showed that the mechanisms involved that the consumer could not make a contribution in exchange for the opportunity to receive compensation that was derived primarily from the introduction of other consumers into the scheme rather than from the sale/consumption of products. |
-| --- |
+> [!note]
+> For example:  A consumer authority took action in three cases involving pyramid schemes. One case involved a sales scheme where the compensation system was based not on the sales volumes, but on the number of new sales agents that each of the resellers was able to attract to the system [(241)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr241-C_2021526EN.01000101-E0241). Another case involved a sales scheme where the rewards structure was aimed mainly at attracting new consumers by recovering the registration fee from the entry of other agents [(242)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr242-C_2021526EN.01000101-E0242). In a third case, consumers were proposed to purchase products through mechanisms aimed at recruiting other sellers who were asked for an initial contribution or subscription to a program of personal purchases [(243)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr243-C_2021526EN.01000101-E0243). The authority also took into account how the schemes worked in practice. It focused on the number of agents who actually generated sales compared with the total number of recruited consumers and to the varying significance of the revenues/acquisitions from the agents or from sales to outsiders. Investigations showed that the mechanisms involved that the consumer could not make a contribution in exchange for the opportunity to receive compensation that was derived primarily from the introduction of other consumers into the scheme rather than from the sale/consumption of products.
+
 
 Hierarchical structures such as pyramid schemes are complex and it may be difficult to quantify the benefits of new members for the company. There may also be different methods for calculating the compensation received by existing members.
 
-| For example:  A consumer authority took action against a pyramid scheme in which the organiser offered participants opportunities to receive cash donations in return for introducing new members into the scheme [(244)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr244-C_2021526EN.01000101-E0244). To obtain such financial gains, the participants had to: pay a registration fee, make a cash donation to another participant, make other donations to another participant and pay a commission to the organiser of the system. The opportunity to obtain cash donations from a new participant would appear only when a ‘Blue Circle’ was in place, consisting of participants introduced by people previously introduced by a new participant. |
-| --- |
+> [!note]
+> For example:  A consumer authority took action against a pyramid scheme in which the organiser offered participants opportunities to receive cash donations in return for introducing new members into the scheme [(244)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr244-C_2021526EN.01000101-E0244). To obtain such financial gains, the participants had to: pay a registration fee, make a cash donation to another participant, make other donations to another participant and pay a commission to the organiser of the system. The opportunity to obtain cash donations from a new participant would appear only when a ‘Blue Circle’ was in place, consisting of participants introduced by people previously introduced by a new participant.
+
 
 It seems necessary to distinguish between banned commercial practice No 14, where participants make money mostly or solely by recruiting new participants into the programme, and multilevel marketing, where the sales force is compensated mostly for sales they personally generate and also for the sales of the other salespeople they recruit.
 
 It is also difficult to draw the line between consumers and traders: after a consumer has entered into a scheme, that person could, from the moment they starts promoting it, be considered as a trader and become subject to the prohibition of the UCPD themselves, as regards the professional conducts carried out in the framework of the scheme.
 
-3.3. Products which cure illnesses, dysfunctions and malformations – No 17
+## Products which cure illnesses, dysfunctions and malformations – No 17
 
-| Point No 17 of Annex I  ‘Falsely claiming that a product is able to cure illnesses, dysfunction or malformations.’ |
-| --- |
+> [!note]
+> Point No 17 of Annex I  ‘Falsely claiming that a product is able to cure illnesses, dysfunction or malformations.’
+
 
 This ban covers situations where a trader claims that its product or service can improve or cure certain physical or psychological ailments.
 
-| For example:  A consumer authority ruled that claims that a massage armchair had healing effects on human health (including curing spine and blood circulation diseases) fell under the ban imposed in point No 17 of Annex I [(245)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr245-C_2021526EN.01000101-E0245). |
-| --- |
+> [!note]
+> For example:  A consumer authority ruled that claims that a massage armchair had healing effects on human health (including curing spine and blood circulation diseases) fell under the ban imposed in point No 17 of Annex I [(245)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr245-C_2021526EN.01000101-E0245).
+
 
 Misinformation related to health claims was prevalent during the COVID-19 pandemic. Rogue traders advertised and sold products, such as protective masks, caps and hand sanitisers, which allegedly would prevent or cure an infection. However, such statements were often made without references to solid scientific evidence or without being in full alignment with official expert advice. Such claims may breach Articles 5 and 6 of the UCPD that prohibit misleading actions about the main characteristics of the product; in specific cases such claims may be banned by the prohibition in No 17 of Annex I. To help fight such practices, the Commission brought together the national authorities working in the Consumer Protection Cooperation network and adopted a common position [(246)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr246-C_2021526EN.01000101-E0246) on how to deal with COVID-19 related scams.
 
-| For example:  \| — \| A national authority blocked the website of a trader who advertised a drug containing the active ingredients of antiviral for HIV treatment as the ‘only drug against Coronavirus (COVID-19)’ and the ‘only remedy to fight Coronavirus (COVID19)’ despite official statements from health authorities that there is no effective cure to fight the virus [(247)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr247-C_2021526EN.01000101-E0247). \| \| --- \| --- \|  \| — \| In three cases of traders marketing products whilst giving the impression that the products could protect against the coronavirus, national authorities and a court found that such practices were aggressive. In particular, it was found that traders took advantage of the consumers’ fear of being infected by the coronavirus, thereby reducing their judgment, and the specific marketing practices exploited a situation of serious societal concern [(248)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr248-C_2021526EN.01000101-E0248). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A national authority blocked the website of a trader who advertised a drug containing the active ingredients of antiviral for HIV treatment as the ‘only drug against Coronavirus (COVID-19)’ and the ‘only remedy to fight Coronavirus (COVID19)’ despite official statements from health authorities that there is no effective cure to fight the virus [(247)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr247-C_2021526EN.01000101-E0247). 
+    
+ In three cases of traders marketing products whilst giving the impression that the products could protect against the coronavirus, national authorities and a court found that such practices were aggressive. In particular, it was found that traders took advantage of the consumers’ fear of being infected by the coronavirus, thereby reducing their judgment, and the specific marketing practices exploited a situation of serious societal concern [(248)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr248-C_2021526EN.01000101-E0248). 
+  
+
 
 Such claims are also partly covered under specific EU legislation. The UCPD is also without prejudice to EU rules on the health properties of products. Point 17 therefore applies only in addition to existing EU rules on health claims. However, any misleading practices with regard to health and wellness products can still be assessed in the light of Article 6 of the UCPD (e.g. where the overall presentation is deceptive).
 
@@ -1663,48 +1641,61 @@ In addition, the EU’s Nutrition and Health Claims Regulation [(250)](https://e
 
 Under the Regulation, nutrition claims (‘any claim which states, suggests or implies that a food has particular beneficial nutritional properties’) shall only be permitted if they are listed in the Annex and are in conformity with the conditions set out in the Claims Regulation. Health claims (‘any claim which states, suggests or implies that a relationship exists between a food category, a food or one of its constituents and health’) shall be prohibited unless they are authorised in accordance with the Claims Regulation and included in the lists of authorised claims provided for in Articles 13 and 14. The Regulation also specifically bans the following health claims [(251)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr251-C_2021526EN.01000101-E0251):
 
-| — | claims which suggest that health could be affected by not consuming the food; |
-| --- | --- |
+> [!note]
+> claims which suggest that health could be affected by not consuming the food;
 
-| — | claims which make reference to the rate or amount of weight loss; |
-| --- | --- |
 
-| — | claims which make reference to recommendations of individual doctors or health professionals and other associations not referred to in Article 11 of the Claims Regulation. |
-| --- | --- |
+> [!note]
+> claims which make reference to the rate or amount of weight loss;
+
+
+> [!note]
+> claims which make reference to recommendations of individual doctors or health professionals and other associations not referred to in Article 11 of the Claims Regulation.
+
 
 Health-related claims are also covered by EU health and pharmaceutical legislation. Article 6(1) of Directive 2001/83/EC on medicinal products makes it clear that no medicinal product may be placed on the market of a Member State unless a marketing authorisation has been issued. Articles 86 to 100 of this Directive also sets out specific provisions on advertising medicinal products to the general public. Advertisement of prescription-only medicines and products containing psychotropic or narcotic substances is prohibited. Member States can also forbid advertisement for products which are reimbursed. Advertisement for products which are available over the counter is allowed but with precise conditions. For example:
 
-| — | it has to be set out in such a way that it is clear that the message is an advertisement and that the product is clearly identified as a medicinal product; |
-| --- | --- |
+> [!note]
+> it has to be set out in such a way that it is clear that the message is an advertisement and that the product is clearly identified as a medicinal product;
 
-| — | shall encourage the rational use of the medicinal product, by presenting it objectively and without exaggerating its properties; |
-| --- | --- |
 
-| — | shall not be misleading; |
-| --- | --- |
+> [!note]
+> shall encourage the rational use of the medicinal product, by presenting it objectively and without exaggerating its properties;
 
-| — | cannot be directed exclusively or principally at children; |
-| --- | --- |
 
-| — | cannot use, in improper, alarming or misleading terms, pictorial representations of changes in the human body caused by disease or injury, or of the action of a medicinal product on the human body; |
-| --- | --- |
+> [!note]
+> shall not be misleading;
 
-| — | cannot refer to recommendation by scientists or heath professionals who, due to their celebrity, could encourage the use of the product. |
-| --- | --- |
+
+> [!note]
+> cannot be directed exclusively or principally at children;
+
+
+> [!note]
+> cannot use, in improper, alarming or misleading terms, pictorial representations of changes in the human body caused by disease or injury, or of the action of a medicinal product on the human body;
+
+
+> [!note]
+> cannot refer to recommendation by scientists or heath professionals who, due to their celebrity, could encourage the use of the product.
+
 
 Article 7 of Regulation (EU) 2017/745 of the European Parliament and of the Council [(252)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr252-C_2021526EN.01000101-E0252) on medical devices and Article 7 of Regulation (EU) 2017/746 of the European Parliament and of the Council [(253)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr253-C_2021526EN.01000101-E0253) on in vitro diagnostic medical devices have introduced at EU level a prohibition on claims in labelling, instructions for use or advertising that mislead the user or patient with regard to the device’s intended purpose, safety or performance, notably by:
 
-| — | ascribing functions and properties to the device which the device does not have; |
-| --- | --- |
+> [!note]
+> ascribing functions and properties to the device which the device does not have;
 
-| — | creating a false impression regarding treatment or diagnosis, functions or properties which the device does not have; |
-| --- | --- |
 
-| — | failing to inform the user or the patient of a likely risk associated with the use of the device in line with its intended purpose; |
-| --- | --- |
+> [!note]
+> creating a false impression regarding treatment or diagnosis, functions or properties which the device does not have;
 
-| — | suggesting uses for the device other than those stated to form part of the intended purpose for which the conformity assessment was carried out. |
-| --- | --- |
+
+> [!note]
+> failing to inform the user or the patient of a likely risk associated with the use of the device in line with its intended purpose;
+
+
+> [!note]
+> suggesting uses for the device other than those stated to form part of the intended purpose for which the conformity assessment was carried out.
+
 
 In addition, specific limits (i.e. bans) exist on promoting pharmaceuticals and medical treatments between professionals i.e. traders and doctors. The choice of the product/treatment depends on the doctor or specialist who prescribes it. Any misleading advertising in this area (whether it concerns an authorised trader or not) will trigger the relevant EU or national rules and be subject to the respective systems of enforcement and sanctions. These will take precedence over the UCPD.
 
@@ -1716,70 +1707,96 @@ A trader’s failure to produce the appropriate and relevant evidence on the phy
 
 In order to avoid the ban, traders must be able to substantiate any factual claims of this type with scientific evidence. The fact that the burden of proof rests on the trader reflects the principle, more broadly formulated in Article 12 of the UCPD, which states that ‘Member States shall confer upon the courts or administrative authorities powers enabling them in the civil or administrative proceedings \[…\]: (a) to require the trader to furnish evidence as to the accuracy of factual claims in relation to a commercial practice if, taking into account the legitimate interest of the trader and any other party to the proceedings, such a requirement appears appropriate on the basis of the circumstances of the particular case’.
 
-| For example:  An online trader advertised a number of products on its website, including clothes and cosmetics, as having various positive effects on health (e.g. reducing pain, improving sleep and decreasing wrinkles). However, it could not substantiate its claims with appropriate evidence. A national authority considered this to be an example of the misleading commercial practice banned under Annex I to the UCPD [(255)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr255-C_2021526EN.01000101-E0255). |
-| --- |
+> [!note]
+> For example:  An online trader advertised a number of products on its website, including clothes and cosmetics, as having various positive effects on health (e.g. reducing pain, improving sleep and decreasing wrinkles). However, it could not substantiate its claims with appropriate evidence. A national authority considered this to be an example of the misleading commercial practice banned under Annex I to the UCPD [(255)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr255-C_2021526EN.01000101-E0255).
 
-3.4. Use of the claim ‘free’ – No 20
+## Use of the claim ‘free’ – No 20
 
-| Point No 20 of Annex I  ‘Describing a product as ‘gratis’, ‘free’, ‘without charge’ or similar if the consumer has to pay anything other than the unavoidable cost of responding to the commercial practice and collecting or paying for delivery of the item.’ |
-| --- |
+> [!note]
+> Point No 20 of Annex I  ‘Describing a product as ‘gratis’, ‘free’, ‘without charge’ or similar if the consumer has to pay anything other than the unavoidable cost of responding to the commercial practice and collecting or paying for delivery of the item.’
+
 
 This ban is based on the idea that consumers expect a ‘free’ claim to be exactly that, meaning they receive something without giving money in exchange. This means that an offer can be described as free only if consumers pay no more than:
 
-| — | the minimum, unavoidable cost of responding to the commercial practice (e.g. the current public postage rates, the cost of telephoning up to and including the standard national rate or the minimum, unavoidable cost of sending a text message); |
-| --- | --- |
+> [!note]
+> the minimum, unavoidable cost of responding to the commercial practice (e.g. the current public postage rates, the cost of telephoning up to and including the standard national rate or the minimum, unavoidable cost of sending a text message);
 
-| — | the true/real cost of freight or delivery; |
-| --- | --- |
 
-| — | the cost, including incidental expenses, of any travel involved if consumers collect the offer. |
-| --- | --- |
+> [!note]
+> the true/real cost of freight or delivery;
+
+
+> [!note]
+> the cost, including incidental expenses, of any travel involved if consumers collect the offer.
+
 
 As a consequence, traders should not charge for packaging, handling or administration of a product marketed as free. When traders make ‘free’ offers, they should also state clearly in all material what the consumer’s liability is for any unavoidable costs, as referred to above.
 
 It is harder to determine whether the commercial practice is unfair when the claim ‘free’ is used in combined offers, which are commercial offers involving more than one product or service. Combined offers are usually conditional purchase promotions or package offers. The following are some principles which national authorities could take into account when assessing combined offers. They are already largely reflected in some advertising regulatory codes:
 
-| — | Traders must not try to recover their costs by reducing the quality or composition or by inflating the price of any product that must be bought as a pre-condition for obtaining a separate, free item. |
-| --- | --- |
+> [!note]
+> Traders must not try to recover their costs by reducing the quality or composition or by inflating the price of any product that must be bought as a pre-condition for obtaining a separate, free item.
 
-| — | Traders should not describe an individual element of a package as ‘free’ if the cost of that element is included in the package price. |
-| --- | --- |
 
-| For example:  \| — \| In a combined offer for a mobile phone with a subscription, a telecom operator marketed the price as ‘0 kr’. However, once consumers accepted the offer, the monthly instalments for the subscription increased. A national court considered that this fell under point No 20 in Annex I to the UCPD [(256)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr256-C_2021526EN.01000101-E0256). \| \| --- \| --- \|  \| — \| In the case of an offer for a ‘free credit’, a consumer authority found that it falls under point No 20 in Annex I to the UCPD if the consumer may have to sign a credit insurance contract with additional costs to get the loan granted. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Traders should not describe an individual element of a package as ‘free’ if the cost of that element is included in the package price.
+
+
+> [!note]
+> For example:  
+ In a combined offer for a mobile phone with a subscription, a telecom operator marketed the price as ‘0 kr’. However, once consumers accepted the offer, the monthly instalments for the subscription increased. A national court considered that this fell under point No 20 in Annex I to the UCPD [(256)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr256-C_2021526EN.01000101-E0256). 
+    
+ In the case of an offer for a ‘free credit’, a consumer authority found that it falls under point No 20 in Annex I to the UCPD if the consumer may have to sign a credit insurance contract with additional costs to get the loan granted. 
+  
+
 
 The ban does not prevent traders from using the claim ‘free’ in conditional purchase promotions where customers are required to buy other items (i.e. ‘buy one get one free’-type offers), provided that:
 
-| — | it is made clear to consumers that they have to pay all costs; |
-| --- | --- |
+> [!note]
+> it is made clear to consumers that they have to pay all costs;
 
-| — | the quality or composition of the paid-for items has not been reduced; and |
-| --- | --- |
 
-| — | the price of the paid-for items has not been inflated to recover the cost of supplying the free item. |
-| --- | --- |
+> [!note]
+> the quality or composition of the paid-for items has not been reduced; and
 
-| For example:  A trader launched a promotional campaign on the internet and in newspapers offering two free car tyres when buying two new ones. In reality, the price stated for the two tyres in the campaign was twice as high as the previously applied retail price. A national authority ruled that this conditional purchase promotion was prohibited under point No 20 of Annex I [(257)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr257-C_2021526EN.01000101-E0257). |
-| --- |
+
+> [!note]
+> the price of the paid-for items has not been inflated to recover the cost of supplying the free item.
+
+
+> [!note]
+> For example:  A trader launched a promotional campaign on the internet and in newspapers offering two free car tyres when buying two new ones. In reality, the price stated for the two tyres in the campaign was twice as high as the previously applied retail price. A national authority ruled that this conditional purchase promotion was prohibited under point No 20 of Annex I [(257)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr257-C_2021526EN.01000101-E0257).
+
 
 The key distinguishing feature of a conditional purchase promotion is that the item described as ‘free’ must be genuinely separate from and additional to the item(s) that the customer is required to pay for. Hence, in such conditional purchase promotions, traders must be able to show:
 
-| — | that the free item is genuinely additional to the item(s) usually sold for that price or that the free item is genuinely separable from the paid-for item(s); |
-| --- | --- |
+> [!note]
+> that the free item is genuinely additional to the item(s) usually sold for that price or that the free item is genuinely separable from the paid-for item(s);
 
-| — | that they only supply the ‘free’ item with the paid-for item(s) if the consumer complies with the terms of the promotion; and |
-| --- | --- |
 
-| — | that consumers are aware of the stand-alone price of the item(s) they are paying for and that that price remains the same with or without the free item. |
-| --- | --- |
+> [!note]
+> that they only supply the ‘free’ item with the paid-for item(s) if the consumer complies with the terms of the promotion; and
 
-| For example:  \| — \| A ‘free wall-chart when you buy Thursday’s paper’ claim is legitimate if the paper is sold without a wall-chart on other days for the same price. \| \| --- \| --- \|  \| — \| A claim of ‘free travel insurance for customers who book their holiday online’ is legitimate if customers who book the same journey by telephone are offered the same price but not offered free insurance. \| \| --- \| --- \|  \| — \| A claim that consumers can get a ‘free subscription to a streaming service for a certain number of months’ together with their purchase of a good, such as a television, is legitimate if the consumer is not required to pay for that subscription and the price of the good is not increased due to the added subscription. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+> [!note]
+> that consumers are aware of the stand-alone price of the item(s) they are paying for and that that price remains the same with or without the free item.
+
+
+> [!note]
+> For example:  
+ A ‘free wall-chart when you buy Thursday’s paper’ claim is legitimate if the paper is sold without a wall-chart on other days for the same price. 
+    
+ A claim of ‘free travel insurance for customers who book their holiday online’ is legitimate if customers who book the same journey by telephone are offered the same price but not offered free insurance. 
+    
+ A claim that consumers can get a ‘free subscription to a streaming service for a certain number of months’ together with their purchase of a good, such as a television, is legitimate if the consumer is not required to pay for that subscription and the price of the good is not increased due to the added subscription. 
+  
+
 
 Point 20 of Annex I prohibits the use of the claim ‘free’ to describe an individual element of a package offer if the cost of that element is included in the package price. A ‘package offer’ here means a pre-arranged combination of features offered for a single, inclusive price where customers cannot exercise genuine choice on how many elements of the package they receive for that price.
 
-| For example:  If a car is advertised with leather seats, air conditioning and a multi-media system for a standard price of EUR 10 000, that combination of features is a package. The consumer pays one all-inclusive price for the car as advertised. If any of the advertised features were to be removed, the quality and composition of the car the customer is paying EUR 10 000 for would be diminished. In order to claim that the multi-media system is free and that the EUR 10 000 relates to the other elements, the trader needs to demonstrate either (a) that the requirements of a conditional purchase promotion are satisfied, or (b) that the multi-media system was a new additional feature and that the price of the car had not increased. |
-| --- |
+> [!note]
+> For example:  If a car is advertised with leather seats, air conditioning and a multi-media system for a standard price of EUR 10 000, that combination of features is a package. The consumer pays one all-inclusive price for the car as advertised. If any of the advertised features were to be removed, the quality and composition of the car the customer is paying EUR 10 000 for would be diminished. In order to claim that the multi-media system is free and that the EUR 10 000 relates to the other elements, the trader needs to demonstrate either (a) that the requirements of a conditional purchase promotion are satisfied, or (b) that the multi-media system was a new additional feature and that the price of the car had not increased.
+
 
 However, traders sometimes add new elements to existing packages without increasing the overall price of the package or reducing the quality or composition of the elements included. In those circumstances, consumers are likely to regard the element that has been added to the package as additional to the established package for a period after its introduction. However if the price of a package increases or its quality or composition is reduced after a new element is added, the new element may not be described as ‘free’.
 
@@ -1791,13 +1808,17 @@ Products presented as ‘free’ are especially common in the online sector. How
 
 In addition, Directive (EU) 2019/770 [(258)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr258-C_2021526EN.01000101-E0258) applies to contracts where digital content or digital services are provided to consumers and the consumers provide or undertake to provide personal data. The Digital Content Directive applies regardless of whether personal data is provided to the trader at the time of concluding a contract or at a later time, for example where the consumer gives consent for personal data processing. Following the amendments introduced by Directive (EU) 2019/2161, also the Consumer Rights Directive applies (as from 28 May 2022) to contracts for the supply of digital services and content where the consumers provide or undertake to provide personal data.
 
-| For example:  \| — \| A consumer authority fined an online platform for misleading information on the basis of Article 6 UCPD for its claim that its service is ‘for free’ or ‘without charge’, because the company derives its revenues from analysing users’ private data and providing the information to third party traders [(259)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr259-C_2021526EN.01000101-E0259). \| \| --- \| --- \|  \| — \| A consumer authority fined an online platform for misleading users (under Articles 6 and 7 UCPD) into registering and not immediately and adequately informing them during the creation of the account that the data provided would be used for commercial purposes and, more generally, of the remunerative purposes underlying the service, emphasising instead the free of charge nature of the service [(260)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr260-C_2021526EN.01000101-E0260). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A consumer authority fined an online platform for misleading information on the basis of Article 6 UCPD for its claim that its service is ‘for free’ or ‘without charge’, because the company derives its revenues from analysing users’ private data and providing the information to third party traders [(259)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr259-C_2021526EN.01000101-E0259). 
+    
+ A consumer authority fined an online platform for misleading users (under Articles 6 and 7 UCPD) into registering and not immediately and adequately informing them during the creation of the account that the data provided would be used for commercial purposes and, more generally, of the remunerative purposes underlying the service, emphasising instead the free of charge nature of the service [(260)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr260-C_2021526EN.01000101-E0260).
 
-3.5. Reselling events tickets acquired by automated means – No 23a
+## Reselling events tickets acquired by automated means – No 23a
 
-| Point No 23a of Annex I  ‘Reselling events tickets to consumers if the trader acquired them by using automated means to circumvent any limit imposed on the number of tickets that a person can buy or any other rules applicable to the purchase of tickets.’ |
-| --- |
+> [!note]
+> Point No 23a of Annex I  ‘Reselling events tickets to consumers if the trader acquired them by using automated means to circumvent any limit imposed on the number of tickets that a person can buy or any other rules applicable to the purchase of tickets.’
+
 
 Directive (EU) 2019/2161 added to the UCPD a new banned commercial practice in Point 23a, which prohibits traders from reselling to consumers tickets to cultural and sports events that they have acquired by using specialised software (‘bots’).
 
@@ -1807,15 +1828,17 @@ The prohibition applies generally to ‘events’ that include cultural and spor
 
 The prohibition in Point 23a of Annex I complements the general UCPD provisions on unfair practices as regards this specific aspect of ticket resale. Recital 50 to Directive (EU) 2019/2161 explains that the prohibition is without prejudice to any other national measures that Member States can take to protect the legitimate interests of consumers and to secure cultural policy and broad access of all individuals to cultural and sports events, such as regulating the resale price of the tickets.
 
-3.6. Persistent marketing by a remote tool – No 26
+## Persistent marketing by a remote tool – No 26
 
-| Point No 26 of Annex I  ‘Making persistent and unwanted solicitations by telephone, fax, email or other remote media except in circumstances and to the extent justified under national law to enforce a contractual obligation. This is without prejudice to Article 10 of Directive 97/7/EC and Directives 95/46/EC and 2002/58/EC.’ |
-| --- |
+> [!note]
+> Point No 26 of Annex I  ‘Making persistent and unwanted solicitations by telephone, fax, email or other remote media except in circumstances and to the extent justified under national law to enforce a contractual obligation. This is without prejudice to Article 10 of Directive 97/7/EC and Directives 95/46/EC and 2002/58/EC.’
+
 
 This ban aims to protect consumers against pestering by distance marketing tools. Point No 26 of Annex I does not prohibit distance marketing per se but rather persistent and unwanted solicitations [(261)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr261-C_2021526EN.01000101-E0261).
 
-| For example:  An insurance adviser searched online and offline newspapers for reports of accidents and then sent standard letters to the victims, offering advice on and help with compensation issues. A national court ruled that sending a single letter to a person does not qualify as ‘persistent and unwanted solicitations’ within the meaning of point 26 of Annex I [(262)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr262-C_2021526EN.01000101-E0262). |
-| --- |
+> [!note]
+> For example:  An insurance adviser searched online and offline newspapers for reports of accidents and then sent standard letters to the victims, offering advice on and help with compensation issues. A national court ruled that sending a single letter to a person does not qualify as ‘persistent and unwanted solicitations’ within the meaning of point 26 of Annex I [(262)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr262-C_2021526EN.01000101-E0262).
+
 
 Specific rules on unsolicited communications using electronic communications networks (i.e. by telephone or email) are laid down in Article 13 of the e-Privacy Directive 2002/58/EC. Automatic calling machines, facsimile machines (fax) or electronic mail may be only used for the purposes of direct marketing to contact users who have given their prior consent. However, where a natural or legal person obtains from its customers their electronic contact details for electronic mail, in the context of the sale of a product or a service, the same natural or legal person may use these electronic contact details for direct marketing of its own similar products or services provided that customers clearly and distinctly are given the opportunity to object, free of charge and in an easy manner, to such use of electronic contact details at the time of their collection and on the occasion of each message in case the customer has not initially refused such use. These sector-specific provisions prevail over the UCPD, meaning that such solicitations do not have to be persistent and that Member States must penalise solicitations from the first call or email.
 
@@ -1823,42 +1846,69 @@ If for marketing purposes a controller uses personal data (e.g. the name and/or 
 
 There are no similar sector-specific EU rules for marketing by post and other printed advertising. These are exhaustively regulated by the UCPD, and by point No 26 of the Annex in particular. Therefore, national provisions prohibiting all kinds of unaddressed printed advertising, unless consumers give prior consent (opt-in), would go beyond the fully harmonised provisions of the UCPD. Such a prohibition would be allowed only if it falls outside the scope of the Directive, i.e. it does not have the aim of protecting the economic interest of consumers. Some Member States have defended such prohibitions on different grounds, e.g. protecting the environment (reducing paper wasted on marketing material).
 
-3.7. Direct exhortations to children – No 28
+## Direct exhortations to children – No 28
 
-| Point No 28 of Annex I  ‘Including in an advertisement a direct exhortation to children to buy advertised products or persuade their parents or other adults to buy advertised products for them. This provision is without prejudice to Article 16 of Directive 89/552/EEC on television broadcasting.’ |
-| --- |
+> [!note]
+> Point No 28 of Annex I  ‘Including in an advertisement a direct exhortation to children to buy advertised products or persuade their parents or other adults to buy advertised products for them. This provision is without prejudice to Article 16 of Directive 89/552/EEC on television broadcasting.’
+
 
 This ban includes putting pressure on children to buy a product directly or to persuade adults to buy items for them (‘pester power’). A recurrent claim made by many traders about this ban is that it can be difficult to distinguish marketing directed at children from marketing directed at other consumers. Similarly, it could sometimes be unclear whether a commercial practice includes a direct exhortation to children.
 
 Nevertheless, the check to determine whether a commercial practice falls under point 28 of Annex I must be carried out taking into account all the facts and circumstances of an individual case. The assessment may take into account various factors, such as the design of the marketing, the medium used to send the marketing, the type of language used, the presence of topics or characters that may in particular appeal to children, the presence of age-restrictions, providing direct links to making purchases etc. [(263)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr263-C_2021526EN.01000101-E0263) A national enforcement authority or court is also not bound by the trader’s own definition of the target group for the commercial practice in question, although that definition may be taken into account. The assessment should also take into account the steps that the trader has taken in protecting minors from direct exhortation. Traders should adapt the marketing according to the consumers that could actually be reached by the practice, not only according to the intended target group.
 
-| For example:  \| — \| An online commercial practice involving a gameplaying community in which children dress virtual dolls invited children to ‘buy more’, ‘buy here’, ‘upgrade now’ and ‘upgrade to Superstar’. A national court banned such practices on the grounds that the statements were direct exhortations to children within the meaning of No 28 Annex I [(264)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr264-C_2021526EN.01000101-E0264). \| \| --- \| --- \|  \| — \| A concert organiser had advertised tickets for a Justin Bieber concert using phrases such as ‘Belibers – there are still RIMI-cards available at many stores. Run, jump on your bike or get someone to drive you’ and ‘Remember to also buy tickets for the Bieberexpress when you buy concert tickets at RIMI today’. A national court found this to be in breach of point No 28 of Annex I [(265)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr265-C_2021526EN.01000101-E0265). \| \| --- \| --- \|  \| — \| A national authority found that when a bank addressed direct marketing letter to children turning 10, this was an aggressive practice. In the letter, the children were welcomed to a branch office of the bank to obtain a personal Visa Electron card to mark their 10th birthday [(266)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr266-C_2021526EN.01000101-E0266). \| \| --- \| --- \|  \| — \| A national authority found a direct exhortation in a competition advertisement that was carried out using augmented reality (AR). The reader would download an AR application to their phone and use it to scan the panels of a story with video materials. The videos included numerous comic-like visual elements and sound effects. At the end of the story, the application showed a wheel of fortune where the reader had a chance to win tickets to a concert. If the reader was not lucky enough to win, a link popped up next to the wheel of fortune encouraging the reader to ‘check out the tickets’. In the same situation, virtual avatar encouraged the reader to ‘click here and get tickets’. According to the national authority, this was a direct invitation to purchase, especially because it was possible to purchase tickets from the associated link. The national authority also took the view that the AR content and advertisement was targeted at children were published in a comic magazine, itself aimed at a child audience [(267)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr267-C_2021526EN.01000101-E0267). \| \| --- \| --- \|  \| — \| A Member State court considered the issue of whether the display of a link to an online store constitutes a direct invitation to purchase. The court found that an advertisement addressing the viewer in second-person singular, using terms typical for children is targeting children in the first instance, and that such direct invitations to purchase are covered by point No 28 of Annex I even if the prices and characteristics of the products advertised are not displayed until the link is clicked [(268)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr268-C_2021526EN.01000101-E0268). \| \| --- \| --- \|  \| — \| In a similar case, the Member State court considered that indirect invitations to purchase are not subject to the prohibition in point No 28 of Annex I, and are defined as references to the intended use of the advertised products. In this case, advertising messages and links to the online store were accompanied by the message ‘If you also want a copy for yourself, you can also order it for your console using the links below’. It was found that providing information about a purchasing opportunity or inviting the user to virtual business premises is not inadmissible [(269)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr269-C_2021526EN.01000101-E0269). \| \| --- \| --- \|  \| — \| In 2021, an enforcement authority fined the operator of an online game and several online influencer agencies for the infringement of the prohibition in point No 28 of Annex I. The advertisements for the game were promoted across a range of online channels, encouraging children and adolescents to interact with an animal character by sending premium-rate SMS messages. Children were therefore directly invited to make purchases. In addition, the fine took into account misleading practices of the trader and influencers, as certain advertisements and promotions were not marked accordingly and misled consumers into viewing an advertisement [(270)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr270-C_2021526EN.01000101-E0270). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ An online commercial practice involving a gameplaying community in which children dress virtual dolls invited children to ‘buy more’, ‘buy here’, ‘upgrade now’ and ‘upgrade to Superstar’. A national court banned such practices on the grounds that the statements were direct exhortations to children within the meaning of No 28 Annex I [(264)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr264-C_2021526EN.01000101-E0264). 
+    
+ A concert organiser had advertised tickets for a Justin Bieber concert using phrases such as ‘Belibers – there are still RIMI-cards available at many stores. Run, jump on your bike or get someone to drive you’ and ‘Remember to also buy tickets for the Bieberexpress when you buy concert tickets at RIMI today’. A national court found this to be in breach of point No 28 of Annex I [(265)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr265-C_2021526EN.01000101-E0265). 
+    
+ A national authority found that when a bank addressed direct marketing letter to children turning 10, this was an aggressive practice. In the letter, the children were welcomed to a branch office of the bank to obtain a personal Visa Electron card to mark their 10th birthday [(266)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr266-C_2021526EN.01000101-E0266). 
+    
+ A national authority found a direct exhortation in a competition advertisement that was carried out using augmented reality (AR). The reader would download an AR application to their phone and use it to scan the panels of a story with video materials. The videos included numerous comic-like visual elements and sound effects. At the end of the story, the application showed a wheel of fortune where the reader had a chance to win tickets to a concert. If the reader was not lucky enough to win, a link popped up next to the wheel of fortune encouraging the reader to ‘check out the tickets’. In the same situation, virtual avatar encouraged the reader to ‘click here and get tickets’. According to the national authority, this was a direct invitation to purchase, especially because it was possible to purchase tickets from the associated link. The national authority also took the view that the AR content and advertisement was targeted at children were published in a comic magazine, itself aimed at a child audience [(267)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr267-C_2021526EN.01000101-E0267). 
+    
+ A Member State court considered the issue of whether the display of a link to an online store constitutes a direct invitation to purchase. The court found that an advertisement addressing the viewer in second-person singular, using terms typical for children is targeting children in the first instance, and that such direct invitations to purchase are covered by point No 28 of Annex I even if the prices and characteristics of the products advertised are not displayed until the link is clicked [(268)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr268-C_2021526EN.01000101-E0268). 
+    
+ In a similar case, the Member State court considered that indirect invitations to purchase are not subject to the prohibition in point No 28 of Annex I, and are defined as references to the intended use of the advertised products. In this case, advertising messages and links to the online store were accompanied by the message ‘If you also want a copy for yourself, you can also order it for your console using the links below’. It was found that providing information about a purchasing opportunity or inviting the user to virtual business premises is not inadmissible [(269)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr269-C_2021526EN.01000101-E0269). 
+    
+ In 2021, an enforcement authority fined the operator of an online game and several online influencer agencies for the infringement of the prohibition in point No 28 of Annex I. The advertisements for the game were promoted across a range of online channels, encouraging children and adolescents to interact with an animal character by sending premium-rate SMS messages. Children were therefore directly invited to make purchases. In addition, the fine took into account misleading practices of the trader and influencers, as certain advertisements and promotions were not marked accordingly and misled consumers into viewing an advertisement [(270)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr270-C_2021526EN.01000101-E0270). 
+  
+
 
 In 2013-2014, the Commission and national authorities, carried out a joint enforcement action on online games that offer possibilities to make purchases while playing (in-app purchases) and that are likely to appeal to or to be played by children, which is further discussed in section 4.2.9 [(271)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr271-C_2021526EN.01000101-E0271). The authorities considered that point No 28 Annex I to the UCPD applies to games that are likely to appeal to children, not only those solely or specifically targeted at children. A game or application, and the exhortation contained within it, may be considered as directed at children within the meaning of point No 28 of Annex I if the trader could reasonably be expected to foresee that it is likely to appeal to children.
 
-3.8. Prizes – No 31
+## Prizes – No 31
 
-| Point No 31 of Annex I  ‘ Creating the false impression that the consumer has already won, will win, or will on doing a particular act win, a prize or other equivalent benefit, when in fact either:  \| — \| there is no prize or other equivalent benefit,  or \| \| --- \| --- \|  \| — \| taking any action in relation to claiming the prize or other equivalent benefit is subject to the consumer paying money or incurring a cost.’ \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Point No 31 of Annex I  ‘ Creating the false impression that the consumer has already won, will win, or will on doing a particular act win, a prize or other equivalent benefit, when in fact either:  
+ there is no prize or other equivalent benefit,  or 
+    
+ taking any action in relation to claiming the prize or other equivalent benefit is subject to the consumer paying money or incurring a cost.’ 
+  
+
 
 The assessment of the first category of situations (i.e. no prize) is fairly straightforward. In order not to breach the ban, traders must always be able to demonstrate that they awarded the prize/s or equivalent benefit/s in the exact terms stated in their announcement to the consumer. Failing this, the practice would fall under the ban.
 
-| For example:  \| — \| A trader created the false impression that consumers could win a prize by stating that everyone who participated in a specific lottery would have the chance to win a laptop computer. In reality, no such computer could be won [(272)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr272-C_2021526EN.01000101-E0272). \| \| --- \| --- \|  \| — \| A trader created the false impression that a consumer had won a prize by stating unequivocally in a letter to the consumer that they had won a prize of 18 000 euros, when in fact there was no such prize. A national court clarified that this commercial practice was contrary to the national law transposing Annex I No 31 of the UCPD [(273)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr273-C_2021526EN.01000101-E0273). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A trader created the false impression that consumers could win a prize by stating that everyone who participated in a specific lottery would have the chance to win a laptop computer. In reality, no such computer could be won [(272)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr272-C_2021526EN.01000101-E0272). 
+    
+ A trader created the false impression that a consumer had won a prize by stating unequivocally in a letter to the consumer that they had won a prize of 18 000 euros, when in fact there was no such prize. A national court clarified that this commercial practice was contrary to the national law transposing Annex I No 31 of the UCPD [(273)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr273-C_2021526EN.01000101-E0273). 
+  
+
 
 The second part of point No 31 (i.e. the prize or benefit is subject to the consumer paying money or incurring a cost) covers dishonest practices where, for instance, consumers are informed that they have won a prize but have to call a premium rate line to claim it, or where consumers are initially informed that they have won a prize but then learn that they must order another good or service to receive the advertised prize or the equivalent benefit.
 
 The Court has clarified that even when the cost imposed on the consumer for claiming the prize (i.e. requesting information on the nature of that prize or taking possession of it) is minimal, as in the case of a stamp, compared to the value of the prize, and regardless of whether the payment of such costs procures any benefits to the trader, such practices are prohibited by point No 31 of Annex I [(274)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr274-C_2021526EN.01000101-E0274).
 
-| For example:  A mail order company sent promotional advertising by post stating that the consumer ‘is guaranteed 100 % that they are one of the selected people to receive an electronic product. This product is free of charge!’ In fact, consumers had to respond within 2 days and pay EUR 19,99 to cover ‘administration and transport costs’. A consumer authority found that giving consumers the false impression that they have already won a prize while requiring them to pay a fee within 2 days of receiving notice of the promotional action fell under point No 31 of Annex I and also other blacklisted actions such as No 20 owing to the use of the word ‘free’ [(275)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr275-C_2021526EN.01000101-E0275). |
-| --- |
+> [!note]
+> For example:  A mail order company sent promotional advertising by post stating that the consumer ‘is guaranteed 100 % that they are one of the selected people to receive an electronic product. This product is free of charge!’ In fact, consumers had to respond within 2 days and pay EUR 19,99 to cover ‘administration and transport costs’. A consumer authority found that giving consumers the false impression that they have already won a prize while requiring them to pay a fee within 2 days of receiving notice of the promotional action fell under point No 31 of Annex I and also other blacklisted actions such as No 20 owing to the use of the word ‘free’ [(275)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr275-C_2021526EN.01000101-E0275).
 
-4\. APPLICATION OF THE UCPD TO SPECIFIC FIELDS
 
-4.1. Sustainability
+# 4. APPLICATION OF THE UCPD TO SPECIFIC FIELDS
 
-4.1.1. Environmental claims
+## Sustainability
+
+### Environmental claims
 
 The expressions ‘environmental claims’ and ‘green claims’ refer to the practice of suggesting or otherwise creating the impression (in a commercial communication, marketing or advertising) that a good or a service has a positive or no impact on the environment or is less damaging to the environment than competing goods or services. This may be due to its composition, how it has been manufactured, how it can be disposed of and the reduction in energy or pollution expected from its use. When such claims are not true or cannot be verified, this practice is often called ‘greenwashing’. The coordinated screening of websites (‘sweep’) that the Commission and national consumer authorities carried out in 2020 confirmed the prevalence of vague, exaggerated, false or deceptive green claims [(276)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr276-C_2021526EN.01000101-E0276).
 
@@ -1870,49 +1920,67 @@ The New Consumer Agenda [(277)](https://eur-lex.europa.eu/legal-content/EN/TXT/H
 
 As regards consumer redress for harm incurred from a breach of the UCPD related to environmental claims, such as compensation for damage, price reduction and contract termination, see section 1.4.3.
 
-4.1.1.1. Interplay with other EU legislation on environmental claims
+#### Interplay with other EU legislation on environmental claims
 
 Article 3(4) and Recital 10 set out the principle that the UCPD complements other EU legislation as a ‘safety net’ ensuring that a high common level of consumer protection against unfair commercial practices is maintained in all sectors. In the area of environmental claims, UCPD complements instruments such as:
 
-| — | Regulation (EC) No 66/2010 of the European Parliament and of the Council [(280)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr280-C_2021526EN.01000101-E0280) on the EU Ecolabel; |
-| --- | --- |
+> [!note]
+> Regulation (EC) No 66/2010 of the European Parliament and of the Council [(280)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr280-C_2021526EN.01000101-E0280) on the EU Ecolabel;
 
-| — | Regulation (EU) 2017/1369 of the European Parliament and of the Council [(281)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr281-C_2021526EN.01000101-E0281) setting a framework for energy labelling; |
-| --- | --- |
 
-| — | Directive 1999/94/EC relating to the availability of consumer information on fuel economy and CO 2 emissions in respect of the marketing of new passenger cars; |
-| --- | --- |
+> [!note]
+> Regulation (EU) 2017/1369 of the European Parliament and of the Council [(281)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr281-C_2021526EN.01000101-E0281) setting a framework for energy labelling;
 
-| — | Directive 2012/27/EU on energy efficiency [(282)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr282-C_2021526EN.01000101-E0282), as amended by Directive (EU) 2018/2002 [(283)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr283-C_2021526EN.01000101-E0283); |
-| --- | --- |
 
-| — | Directive 2010/31/EU on the energy performance of buildings [(284)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr284-C_2021526EN.01000101-E0284); |
-| --- | --- |
+> [!note]
+> Directive 1999/94/EC relating to the availability of consumer information on fuel economy and CO 2 emissions in respect of the marketing of new passenger cars;
 
-| — | Regulation (EU) 2020/740 on the labelling of tyres with respect to fuel efficiency and other parameters [(285)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr285-C_2021526EN.01000101-E0285); |
-| --- | --- |
 
-| — | Directive (EU) 2019/944 of the European Parliament and of the Council [(286)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr286-C_2021526EN.01000101-E0286) on common rules for the internal market in electricity; |
-| --- | --- |
+> [!note]
+> Directive 2012/27/EU on energy efficiency [(282)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr282-C_2021526EN.01000101-E0282), as amended by Directive (EU) 2018/2002 [(283)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr283-C_2021526EN.01000101-E0283);
 
-| — | Directive 2009/125/EC establishing a framework for the setting of ecodesign requirements for energy-related products [(287)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr287-C_2021526EN.01000101-E0287); |
-| --- | --- |
 
-| — | Regulation (EU) 2018/848 of the European Parliament and of the Council [(288)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr288-C_2021526EN.01000101-E0288) on organic production and labelling of organic products; |
-| --- | --- |
+> [!note]
+> Directive 2010/31/EU on the energy performance of buildings [(284)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr284-C_2021526EN.01000101-E0284);
 
-| — | Directive (EU) 2018/2001 of the European Parliament and of the Council [(289)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr289-C_2021526EN.01000101-E0289) on the promotion of the use of energy from renewable sources; |
-| --- | --- |
 
-| — | Directive 2009/73/EC of the European Parliament and of the Council [(290)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr290-C_2021526EN.01000101-E0290) on common rules for the internal market in natural gas. |
-| --- | --- |
+> [!note]
+> Regulation (EU) 2020/740 on the labelling of tyres with respect to fuel efficiency and other parameters [(285)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr285-C_2021526EN.01000101-E0285);
+
+
+> [!note]
+> Directive (EU) 2019/944 of the European Parliament and of the Council [(286)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr286-C_2021526EN.01000101-E0286) on common rules for the internal market in electricity;
+
+
+> [!note]
+> Directive 2009/125/EC establishing a framework for the setting of ecodesign requirements for energy-related products [(287)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr287-C_2021526EN.01000101-E0287);
+
+
+> [!note]
+> Regulation (EU) 2018/848 of the European Parliament and of the Council [(288)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr288-C_2021526EN.01000101-E0288) on organic production and labelling of organic products;
+
+
+> [!note]
+> Directive (EU) 2018/2001 of the European Parliament and of the Council [(289)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr289-C_2021526EN.01000101-E0289) on the promotion of the use of energy from renewable sources;
+
+
+> [!note]
+> Directive 2009/73/EC of the European Parliament and of the Council [(290)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr290-C_2021526EN.01000101-E0290) on common rules for the internal market in natural gas.
+
 
 Here are a few examples of the interplay between the UCPD and specific EU legislation concerning environmental claims.
 
-| For example:  \| — \| Regulation (EU) 2017/1369 setting a framework for energy labelling prohibits additional labels and symbols that in themselves may mislead consumers with regard to consumption of energy or other resources [(291)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr291-C_2021526EN.01000101-E0291). However, it does not include specific rules on what is considered misleading. On this point, the UCPD can come into play. For example, a court considered the use of the slogan ‘very energy saving’ for a refrigerator/freezer in energy efficiency class ‘A’ a misleading commercial practice under the UCPD. 308 out of 543 appliances on the market at the time belonged to class ‘A+’ and 17 % of all available appliances were in energy efficiency class ‘A++’ [(292)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr292-C_2021526EN.01000101-E0292). \| \| --- \| --- \|  \| — \| A tyre manufacturer had its own tyre label for marketing tyres. The label was intended to depict a tyre's driving capabilities in winter conditions. The company’s own label is very similar to the official EU tyre label [(293)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr293-C_2021526EN.01000101-E0293), which has been compulsory as of November 2012. The tyre manufacturer marketed its tyres using the proprietary label, which may have given consumers the misleading impression that the tyres complied with the testing and classification requirements ofthe EU tyre label. Additionally, the tyre label did not give a reliable picture of the tyres’ properties, in comparison to the tyres of other manufacturers that carried the EU label. A court prohibited the tyre manufacturer from using the company’s own tyre labels in marketing that targets consumers, unless the company clearly distinguished this label from the EU's tyre label [(294)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr294-C_2021526EN.01000101-E0294). \| \| --- \| --- \|  \| — \| Under Directive (EU) 2019/944 electricity suppliers need to specify in their billing information the ‘environmental impact of electricity, in at least terms of CO 2 emissions and the radioactive waste resulting from the electricity produced by the overall energy mix of the supplier over the preceding year’ and supplier companies will need to specify the actual CO 2 footprint of their energy mix in accordance with its Annex I (5) (b). \| \| --- \| --- \|  \| — \| A trader advertised its diesel cars to consumers as ‘environmentally friendly’, while in reality the exhaust gas emission tests were manipulated through the use of defeat device software (‘Dieselgate’ scandal). Claims about the environmental features of the cars in question were displayed on the trader’s website, advertising materials and in product listings. The Court of Justice confirmed in its judgement of 17 December 2020 in Case C-693/18 that the defeat device software was illegal under EU type approval legislation [(295)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr295-C_2021526EN.01000101-E0295). From the UCPD perspective, the practice in question raises concerns under Article 5 (practice contrary to professional diligence), Article 6 (providing consumers with misleading information about the main characteristics of the product, such as the advertised environmental impact of the product) and Annex I point No 4 (claiming that a product has been approved by a public body without complying with the terms of the approval). National consumer authorities have issued fines on the basis of these provisions [(296)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr296-C_2021526EN.01000101-E0296). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Regulation (EU) 2017/1369 setting a framework for energy labelling prohibits additional labels and symbols that in themselves may mislead consumers with regard to consumption of energy or other resources [(291)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr291-C_2021526EN.01000101-E0291). However, it does not include specific rules on what is considered misleading. On this point, the UCPD can come into play. For example, a court considered the use of the slogan ‘very energy saving’ for a refrigerator/freezer in energy efficiency class ‘A’ a misleading commercial practice under the UCPD. 308 out of 543 appliances on the market at the time belonged to class ‘A+’ and 17 % of all available appliances were in energy efficiency class ‘A++’ [(292)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr292-C_2021526EN.01000101-E0292). 
+    
+ A tyre manufacturer had its own tyre label for marketing tyres. The label was intended to depict a tyre's driving capabilities in winter conditions. The company’s own label is very similar to the official EU tyre label [(293)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr293-C_2021526EN.01000101-E0293), which has been compulsory as of November 2012. The tyre manufacturer marketed its tyres using the proprietary label, which may have given consumers the misleading impression that the tyres complied with the testing and classification requirements ofthe EU tyre label. Additionally, the tyre label did not give a reliable picture of the tyres’ properties, in comparison to the tyres of other manufacturers that carried the EU label. A court prohibited the tyre manufacturer from using the company’s own tyre labels in marketing that targets consumers, unless the company clearly distinguished this label from the EU's tyre label [(294)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr294-C_2021526EN.01000101-E0294). 
+    
+ Under Directive (EU) 2019/944 electricity suppliers need to specify in their billing information the ‘environmental impact of electricity, in at least terms of CO 2 emissions and the radioactive waste resulting from the electricity produced by the overall energy mix of the supplier over the preceding year’ and supplier companies will need to specify the actual CO 2 footprint of their energy mix in accordance with its Annex I (5) (b). 
+    
+ A trader advertised its diesel cars to consumers as ‘environmentally friendly’, while in reality the exhaust gas emission tests were manipulated through the use of defeat device software (‘Dieselgate’ scandal). Claims about the environmental features of the cars in question were displayed on the trader’s website, advertising materials and in product listings. The Court of Justice confirmed in its judgement of 17 December 2020 in Case C-693/18 that the defeat device software was illegal under EU type approval legislation [(295)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr295-C_2021526EN.01000101-E0295). From the UCPD perspective, the practice in question raises concerns under Article 5 (practice contrary to professional diligence), Article 6 (providing consumers with misleading information about the main characteristics of the product, such as the advertised environmental impact of the product) and Annex I point No 4 (claiming that a product has been approved by a public body without complying with the terms of the approval). National consumer authorities have issued fines on the basis of these provisions [(296)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr296-C_2021526EN.01000101-E0296).
 
-4.1.1.2. Main principles
+#### Main principles
 
 The application of the UCPD to environmental claims can be summarised in the following main principles [(297)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr297-C_2021526EN.01000101-E0297).
 
@@ -1926,14 +1994,23 @@ The general clause of Article 5(2) UCPD provides an additional possibility to as
 
 The standard of professional diligence in the area of environmental claims may include principles derived from national and international standards and codes of conduct. For example, professional diligence may require that certification schemes that traders use to promote the environmental virtues of their products adhere to such standards and provide substantial benefits to consumers and that they are independently controlled and audited. Practices contrary to professional diligence will be unfair if they cause or are likely to cause the average consumer to take a transactional decision they would not have taken otherwise, such as purchasing a specific product as a result of the expected benefits derived from the claimed adherence to a certification scheme. National enforcement authorities will assess such situations based on the facts and circumstances of each individual case.
 
-4.1.1.3. Application of Article 6 of the UCPD to environmental claims
+#### Application of Article 6 of the UCPD to environmental claims
 
 Article 6 of the UCPD implies that consumers must be able to trust environmental claims put forward by traders. Consequently, in order not to be misleading, environmental claims must be truthful, not contain false information and be presented in a clear specific, unambiguous and accurate manner.
 
 An environmental claim can be misleading if it ‘ contains false information and is therefore untruthful ’ in relation to one of the elements listed in Article 6(1)(a) to (g).
 
-| For example:  \| — \| Using the term ‘biodegradable’ for a product which is not actually biodegradable or for which no tests have been carried out [(298)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr298-C_2021526EN.01000101-E0298). \| \| --- \| --- \|  \| — \| Presenting electrical appliances such as irons, vacuum cleaners, coffee machines, as ‘environmentally friendly’ (‘eco’), although tests show that they frequently do not perform better than similar products or where no tests have been carried out [(299)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr299-C_2021526EN.01000101-E0299). \| \| --- \| --- \|  \| — \| Presenting car tyres as ‘eco tyres’ and promoting their environmental performance and impact on fuel consumption, although tests show mixed results [(300)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr300-C_2021526EN.01000101-E0300). \| \| --- \| --- \|  \| — \| Presenting tableware containing bamboo as a sustainable, recyclable and eco-friendly alternative to plastic materials, when such products are in reality a mix of plastic, bamboo (sometimes bamboo dust) and resin made of melamine and formaldehyde that is necessary to produce various shapes (dishes, bowls etc.) and degrees of stiffness [(301)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr301-C_2021526EN.01000101-E0301). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Using the term ‘biodegradable’ for a product which is not actually biodegradable or for which no tests have been carried out [(298)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr298-C_2021526EN.01000101-E0298). 
+    
+ Presenting electrical appliances such as irons, vacuum cleaners, coffee machines, as ‘environmentally friendly’ (‘eco’), although tests show that they frequently do not perform better than similar products or where no tests have been carried out [(299)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr299-C_2021526EN.01000101-E0299). 
+    
+ Presenting car tyres as ‘eco tyres’ and promoting their environmental performance and impact on fuel consumption, although tests show mixed results [(300)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr300-C_2021526EN.01000101-E0300). 
+    
+ Presenting tableware containing bamboo as a sustainable, recyclable and eco-friendly alternative to plastic materials, when such products are in reality a mix of plastic, bamboo (sometimes bamboo dust) and resin made of melamine and formaldehyde that is necessary to produce various shapes (dishes, bowls etc.) and degrees of stiffness [(301)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr301-C_2021526EN.01000101-E0301). 
+  
+
 
 An environmental claim can also be misleading if it ‘ deceives or is likely to deceive the average consumer, even if the information is factually correct ’ in respect of the items referred to in Article 6(1)(a) to (g).
 
@@ -1947,39 +2024,61 @@ Since terms such as ‘conscious’ and ‘responsible’ can refer to numerous 
 
 If vague and ambiguous claims are used, the qualifications need to be sufficiently detailed so that the claim cannot be understood in any other way than the way the trader intended.
 
-| For example:  \| — \| Claim that electric car hire is ‘ecological’ can be found misleading without providing information to put the claim into perspective. In particular, if the electricity needed to recharge the cars does not come from renewable energy sources, the car hire service would still have a negative impact on the environment [(302)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr302-C_2021526EN.01000101-E0302). \| \| --- \| --- \|  \| — \| Traders increasingly make claims about carbon neutrality by investing in projects that compensate for CO 2 emissions. For example, a car rental company offers consumers the possibility to ‘drive CO 2 neutral’ by choosing an option that compensates for emissions. This practice may be problematic if the underlying carbon credits are of low environmental integrity or are not accounted for appropriately, so that they do not represent real and additional emission reductions. Carbon removals claims should be authentic, robust, transparent, reported, monitorable, verifiable, credible, certified, should not undermine near-term emission reduction action in emitting sectors, should guarantee additionality and should ensure an appropriate accounting of carbon removals in national GHG inventories. A national consumer authority considered in its guidelines that consumers should be properly informed about the functioning of the measures that compensate for CO 2 emissions, such as the number of kilometres that are fully compensated and the manner in which this is achieved, how and where the compensation is accounted for [(303)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr303-C_2021526EN.01000101-E0303). \| \| --- \| --- \|  \| — \| A court considered that the marketing of hair and skin care products, where the trader had stated that their products are organic with claims such as ‘eco’ and ‘organic’, were vague and without clear qualifications. The court also assessed that it is not clear enough with only the graphic symbol/logo/label of a third-party certification label as a qualification of what organic and/or eco means [(304)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr304-C_2021526EN.01000101-E0304). \| \| --- \| --- \|  \| — \| A trader advertised the sale of bags of sweets by stating that for each bag sold, it would plant one tree. However, the trader had already agreed to plant a certain number of trees, independently from the number of bags of sweets sold. A national court upheld a claim by the relevant ombudsman that this statement qualified as misleading advertising which took advantage of the credulity of consumers who were concerned about the environment [(305)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr305-C_2021526EN.01000101-E0305). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Claim that electric car hire is ‘ecological’ can be found misleading without providing information to put the claim into perspective. In particular, if the electricity needed to recharge the cars does not come from renewable energy sources, the car hire service would still have a negative impact on the environment [(302)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr302-C_2021526EN.01000101-E0302). 
+    
+ Traders increasingly make claims about carbon neutrality by investing in projects that compensate for CO 2 emissions. For example, a car rental company offers consumers the possibility to ‘drive CO 2 neutral’ by choosing an option that compensates for emissions. This practice may be problematic if the underlying carbon credits are of low environmental integrity or are not accounted for appropriately, so that they do not represent real and additional emission reductions. Carbon removals claims should be authentic, robust, transparent, reported, monitorable, verifiable, credible, certified, should not undermine near-term emission reduction action in emitting sectors, should guarantee additionality and should ensure an appropriate accounting of carbon removals in national GHG inventories. A national consumer authority considered in its guidelines that consumers should be properly informed about the functioning of the measures that compensate for CO 2 emissions, such as the number of kilometres that are fully compensated and the manner in which this is achieved, how and where the compensation is accounted for [(303)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr303-C_2021526EN.01000101-E0303). 
+    
+ A court considered that the marketing of hair and skin care products, where the trader had stated that their products are organic with claims such as ‘eco’ and ‘organic’, were vague and without clear qualifications. The court also assessed that it is not clear enough with only the graphic symbol/logo/label of a third-party certification label as a qualification of what organic and/or eco means [(304)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr304-C_2021526EN.01000101-E0304). 
+    
+ A trader advertised the sale of bags of sweets by stating that for each bag sold, it would plant one tree. However, the trader had already agreed to plant a certain number of trees, independently from the number of bags of sweets sold. A national court upheld a claim by the relevant ombudsman that this statement qualified as misleading advertising which took advantage of the credulity of consumers who were concerned about the environment [(305)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr305-C_2021526EN.01000101-E0305). 
+  
+
 
 Claims should be reassessed and updated as necessary, in view of technological developments, and the emergence of comparable products or other circumstances that may affect the accuracy or relevance of the claim. Environmental claims should not relate to an improvement compared to a product from the same trader or a competitor that is no longer available on the market or the trader no longer sells to consumers, unless this improvement is significant and recent.
 
 If a trader uses environmental statements in its company name, brand name, product name etc., and the name is used for marketing purposes, such marketing is subject to the same substantiation requirements as those which apply to other environmental claims in marketing communications, unless the company can prove that this name has no environmental connotation or existed already before. However, in order to be contrary to the UCPD, a name used in marketing will need to mislead the average consumers and be likely to cause them to take a transactional decision that they would not have taken otherwise.
 
-| For example:  A court has addressed the marketing of an oil product, stating that the terms ‘environmental’ together with ‘plus’ in the product name gave the impression that the product had certain environmental advantages, even though fossil oil always causes damage to the environment. In this respect, the court judged that the term ‘Environment’ could not be used in the product name [(306)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr306-C_2021526EN.01000101-E0306). |
-| --- |
+> [!note]
+> For example:  A court has addressed the marketing of an oil product, stating that the terms ‘environmental’ together with ‘plus’ in the product name gave the impression that the product had certain environmental advantages, even though fossil oil always causes damage to the environment. In this respect, the court judged that the term ‘Environment’ could not be used in the product name [(306)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr306-C_2021526EN.01000101-E0306).
+
 
 When assessing an environmental claim, the product’s main environmental impacts over its lifecycle, including its supply chain, are relevant. An environmental claim should relate to aspects that are significant in terms of the product’s environmental impact.
 
 Highly polluting industries should ensure that their environmental claims are accurate in a sense of being relative, e.g. ‘less harmful for the environment’ instead of ‘environmentally friendly’ (see also section 4.1.1.7 on comparative environmental claims). This enables the average consumer to better understand the relative impact of the product. An environmental claim should in any case relate to aspects that are significant in terms of the product’s total environmental impacts over its life cycle. Highly polluting industries may be required by courts or authorities to make it clear to the consumer in their environmental claims that the product has an overall negative impact on the environment.
 
-| For example:  A self-regulatory body found that a claim on a website presenting fossil gas as an ‘environmentally friendly energy source’ was in breach of the applicable advertising regulations, as the wording was too absolute and without explanations or contextualisation [(307)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr307-C_2021526EN.01000101-E0307). |
-| --- |
+> [!note]
+> For example:  A self-regulatory body found that a claim on a website presenting fossil gas as an ‘environmentally friendly energy source’ was in breach of the applicable advertising regulations, as the wording was too absolute and without explanations or contextualisation [(307)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr307-C_2021526EN.01000101-E0307).
+
 
 Moreover, claims should be clear and unambiguous regarding which aspect of the product or its life cycle they refer to [(308)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr308-C_2021526EN.01000101-E0308). If a trader makes an environmental claim by highlighting just one of several impacts the product has on the environment, the claim could be misleading within the meaning of Article 6 or 7 of the UCPD.
 
 Furthermore, traders should not distort claims about the composition of the product (including raw materials), or its use, manufacturing process, transport or end-of-life impacts, for example by unduly emphasising the importance of positive aspects, which are in reality only marginal or whereas the overall environmental impact resulting from the product’s life cycle is negative.
 
-| For example:  \| — \| A claim ‘using 100 % renewable energy’ may be misleading if it does not specify that renewable energy was used only during a certain stage in the life cycle of the product. In contrast, a claim ‘100 % renewable material (except fittings)’ makes it clear which components of the product were not made of renewable materials [(309)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr309-C_2021526EN.01000101-E0309). \| \| --- \| --- \|  \| — \| Advertising a product as containing ‘sustainable cotton’ could be misleading if the origin of the cotton is neither traceable nor separated in the production chain from conventional cotton. \| \| --- \| --- \|  \| — \| Advertising a product such as artificial turf as environmentally friendly because it does not need water, fertiliser or maintenance during its use phase, might not justify the claim if the manufacturing and end-of-life stages have a severe negative impact on the environment. \| \| --- \| --- \|  \| — \| Misleading information on sources of energy indicated in billing information, such as abstract information on national energy mix or misleading information on environmental impact/the actual contribution of renewable energy sources to the electricity purchased by the final customer (e.g. unduly emphasis on RE share). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A claim ‘using 100 % renewable energy’ may be misleading if it does not specify that renewable energy was used only during a certain stage in the life cycle of the product. In contrast, a claim ‘100 % renewable material (except fittings)’ makes it clear which components of the product were not made of renewable materials [(309)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr309-C_2021526EN.01000101-E0309). 
+    
+ Advertising a product as containing ‘sustainable cotton’ could be misleading if the origin of the cotton is neither traceable nor separated in the production chain from conventional cotton. 
+    
+ Advertising a product such as artificial turf as environmentally friendly because it does not need water, fertiliser or maintenance during its use phase, might not justify the claim if the manufacturing and end-of-life stages have a severe negative impact on the environment. 
+    
+ Misleading information on sources of energy indicated in billing information, such as abstract information on national energy mix or misleading information on environmental impact/the actual contribution of renewable energy sources to the electricity purchased by the final customer (e.g. unduly emphasis on RE share). 
+  
+
 
 The benefit claimed should not result in an undue transfer of impacts, i.e. the creation or increase of other negative environmental impacts at other stages of the product’s life cycle should be avoided, unless the total net environmental benefit has been significantly improved, for example according to a life-cycle assessment and recognised or generally accepted methods applicable to the relevant product type and should be third-party verified.
 
-| For example:  A manufacturer claims that its product consumes little water. However, at the same time the product consumes more energy than a comparable product of the same category, which increases the product’s overall environmental impact significantly. Under such circumstances, the claim could be misleading either in relation to the nature of the product (Article 6(1)(a)) or its main characteristics (Article 6(1)(b) UCPD). |
-| --- |
+> [!note]
+> For example:  A manufacturer claims that its product consumes little water. However, at the same time the product consumes more energy than a comparable product of the same category, which increases the product’s overall environmental impact significantly. Under such circumstances, the claim could be misleading either in relation to the nature of the product (Article 6(1)(a)) or its main characteristics (Article 6(1)(b) UCPD).
+
 
 Codes of conduct may include voluntary commitments in relation to environmental protection or ‘green behaviour’. An average consumer would expect such code signatories to sell products which comply with that code. A trader who has announced to be bound but does not comply with such a code may be considered to be misleading if the claimed adherence to the code affects or is likely to affect the consumers’ transactional decision. This situation is covered by Article 6(2)(b) UCPD.
 
-| For example:  A trader has subscribed to a code of practice that promotes sustainable use of wood and displays the code’s logo on its website. The code of practice contains a commitment that its members will not use hardwood from unsustainably managed forests. However, it is found that the products advertised on the website contain wood from exactly such a forest. Under such circumstances, the claim could breach the Annex I point 4 or be misleading under Article 6(2)(b) UCPD. |
-| --- |
+> [!note]
+> For example:  A trader has subscribed to a code of practice that promotes sustainable use of wood and displays the code’s logo on its website. The code of practice contains a commitment that its members will not use hardwood from unsustainably managed forests. However, it is found that the products advertised on the website contain wood from exactly such a forest. Under such circumstances, the claim could breach the Annex I point 4 or be misleading under Article 6(2)(b) UCPD.
+
 
 Certain misleading commercial practices in relation to codes of conduct are considered unfair per se under Annex I to the UCPD (see section 4.1.1.6).
 
@@ -1987,7 +2086,7 @@ An average consumer is not expected to know the meaning or significance of vario
 
 If a trader or industry chooses to use private labelling schemes, symbols or certificates for marketing purposes, they must only be applied to the products/services or traders which meet the criteria set to qualify for their use. The criteria should demonstrate clear environmental benefits compared with competing products or traders and should be easily publicly accessible. Otherwise, such labelling is likely to be misleading. The labelling may have to be further qualified, so that the meaning and the most relevant criteria of the labelling is highlighted (e.g. highlight if the use of water is the most relevant criterion for a given product). Moreover, traders should consider third party verification to ensure the credibility and relevance of the label. The private nature of the label (if that is the case) and its meaning or significance must also be made clear to the consumer. Finally, such labels must not be capable of being confused with other labels, including, for example, labels of publicly run labelling schemes or schemes of competitors.
 
-4.1.1.4. Application of Article 7 of the UCPD to environmental claims
+#### Application of Article 7 of the UCPD to environmental claims
 
 Article 7 UCPD lists specific elements that are relevant when assessing whether a commercial practice involves a misleading omission.
 
@@ -2001,8 +2100,17 @@ In case environmental claims are made on the packaging of products and/or other 
 
 By analogy, in the area of nutrition and health claims on foods, point 3 of the Annex to Commission Implementing Decision 2013/63/EU [(310)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr310-C_2021526EN.01000101-E0310) provides that when referring to general, non-specific health benefits, it is required to accompany such references by a specific health claim from the lists of permitted health claims in the Union Register. For the purposes of the Regulation, the specific authorised health claim accompanying the statement making reference to general non-specific health benefits, should be made ‘next to’ or ‘following’ such statement. According to the Court, when a reference to general, non-specific health benefits of a nutrient or food appears on the front of the packaging, whereas the specific health claim intended to accompany it appears only on the back of that packaging, there should be a clear reference, such as an asterisk, between the two, to ensure the consumer’s comprehension [(311)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr311-C_2021526EN.01000101-E0311).
 
-| For example:  \| — \| Traders sometimes provide information about environmental claims in a way that requires the consumer to take additional action to access (e.g. a consumer may have to click once more in the context of a social media post or a product list to get the necessary supplementary information), which may be misleading in some cases. Representatives from the CPC network of national consumer authorities considered that, depending on the circumstances of the case and in particular the limitations of the medium, it may be misleading to require the consumer to take such action to obtain the relevant information, especially if it is possible to provide that information in a more prominent way, e.g. next to the claim [(312)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr312-C_2021526EN.01000101-E0312). \| \| --- \| --- \|  \| — \| Traders might choose to display certain environmental claims prominently (e.g. at the front of a product packaging), while leaving additional information about the claim in a less prominent location (e.g. at the back of the product packaging). Representatives from the CPC network of national consumer authorities that, depending on the circumstances of the case and in particular the limitations of the medium, this may be misleading [(313)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr313-C_2021526EN.01000101-E0313). \| \| --- \| --- \|  \| — \| A court considered that the qualifications for vague claims such as ‘eco’ and ‘organic’ for certain products should be placed directly next to the claims. It is not enough to place the qualification on another page on the website (one click away from the claim) [(314)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr314-C_2021526EN.01000101-E0314). \| \| --- \| --- \|  \| — \| Claims that a product is ‘compostable’ on the packaging are likely to be misleading if it is only compostable through industrial means and if the packaging do not specify the actions the consumer needs to take for the product to compost. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Traders sometimes provide information about environmental claims in a way that requires the consumer to take additional action to access (e.g. a consumer may have to click once more in the context of a social media post or a product list to get the necessary supplementary information), which may be misleading in some cases. Representatives from the CPC network of national consumer authorities considered that, depending on the circumstances of the case and in particular the limitations of the medium, it may be misleading to require the consumer to take such action to obtain the relevant information, especially if it is possible to provide that information in a more prominent way, e.g. next to the claim [(312)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr312-C_2021526EN.01000101-E0312). 
+    
+ Traders might choose to display certain environmental claims prominently (e.g. at the front of a product packaging), while leaving additional information about the claim in a less prominent location (e.g. at the back of the product packaging). Representatives from the CPC network of national consumer authorities that, depending on the circumstances of the case and in particular the limitations of the medium, this may be misleading [(313)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr313-C_2021526EN.01000101-E0313). 
+    
+ A court considered that the qualifications for vague claims such as ‘eco’ and ‘organic’ for certain products should be placed directly next to the claims. It is not enough to place the qualification on another page on the website (one click away from the claim) [(314)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr314-C_2021526EN.01000101-E0314). 
+    
+ Claims that a product is ‘compostable’ on the packaging are likely to be misleading if it is only compostable through industrial means and if the packaging do not specify the actions the consumer needs to take for the product to compost. 
+  
+
 
 The use of a general benefit claim (without further qualifications) may be justified in some cases.
 
@@ -2014,18 +2122,22 @@ This could also be the case if the life cycle assessment studies of the product 
 
 Similarly, an environmental claim could be misleading under Article 7(2) if it is presented in an unclear, unintelligible or unclear manner. On the basis of a case-by-case assessment, this could be the case if the scope and boundaries of the claim are not made clear.
 
-| For example:  It is not clear whether the claim covers the whole product or only one of its components, or the company’s overall environmental performance or only certain of its activities or which environmental impact or process the claim addresses. |
-| --- |
+> [!note]
+> For example:  It is not clear whether the claim covers the whole product or only one of its components, or the company’s overall environmental performance or only certain of its activities or which environmental impact or process the claim addresses.
+
 
 When making an environmental claim, the product’s main environmental impacts are relevant. Furthermore, an environmental claim concerning a product must relate to an actual environmental impact of that specific product and should be distinguished from more general environmental claims regarding the trader, its practices and sustainability policies.
 
-| For example:  A trader displays various general environmental claims on its website, such as statements about its corporate social responsibility programme and a sustainability label that is relevant for certain product ranges. In order to avoid misleading consumers, the trader should ensure that environmental claims that are displayed on the product landing page concern the actual environmental impact of the specific product and are distinguished from other, broader claims regarding that trader and its practices [(316)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr316-C_2021526EN.01000101-E0316). |
-| --- |
+> [!note]
+> For example:  A trader displays various general environmental claims on its website, such as statements about its corporate social responsibility programme and a sustainability label that is relevant for certain product ranges. In order to avoid misleading consumers, the trader should ensure that environmental claims that are displayed on the product landing page concern the actual environmental impact of the specific product and are distinguished from other, broader claims regarding that trader and its practices [(316)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr316-C_2021526EN.01000101-E0316).
 
-4.1.1.5. Application of Article 12 of the UCPD to environmental claims
+#### Application of Article 12 of the UCPD to environmental claims
 
-| Article 12:  ‘ Member States shall confer upon the courts or administrative authorities powers enabling them in the civil or administrative proceedings provided for in Article 11:  \| (a) \| to require the trader to furnish evidence as to the accuracy of factual claims in relation to a commercial practice if, taking into account the legitimate interest of the trader and any other party to the proceedings, such a requirement appears appropriate on the basis of the circumstances of the particular case; \| \| --- \| --- \|  \| (b) \| to consider factual claims as inaccurate if the evidence demanded in accordance with (a) is not furnished or is deemed insufficient by the court or administrative authority.’ \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 12:  ‘ Member States shall confer upon the courts or administrative authorities powers enabling them in the civil or administrative proceedings provided for in Article 11:  - (a) - to require the trader to furnish evidence as to the accuracy of factual claims in relation to a commercial practice if, taking into account the legitimate interest of the trader and any other party to the proceedings, such a requirement appears appropriate on the basis of the circumstances of the particular case; 
+    - (b) - to consider factual claims as inaccurate if the evidence demanded in accordance with (a) is not furnished or is deemed insufficient by the court or administrative authority.’ 
+  
+
 
 Article 12 of the UCPD clarifies that any claim (including environmental claims) should be based on evidence which can be verified by the relevant competent authorities. Traders must be able to substantiate environmental claims with appropriate evidence. Consequently, claims should be based on robust, independent, verifiable and generally recognised evidence which takes into account updated scientific findings and methods. There is no equivalent obligation in the UCPD for the trader to provide documentation or other supporting evidence to consumers.
 
@@ -2033,8 +2145,9 @@ The burden of proof regarding the accuracy of the claim rests on the trader. Art
 
 The application of this requirement must take into account the legitimate interests of the trader, such as in the case of trade secrets or the protection of intellectual property, which authorities may have to treat confidentially.
 
-| For example:  A mineral water company presented its products with the claim ‘Zero Impact’, stating that the manufacture and sale of the bottles of water had no impact whatsoever on the environment. However, the company could not demonstrate that it was involved in specific activities reducing the environmental impact of its products, other than participating in a project to compensate environmental damage. On this basis, the national consumer enforcement authority concluded that the ‘Zero Impact’ campaign constituted an unfair commercial practice capable of influencing consumers’ transactional decisions [(317)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr317-C_2021526EN.01000101-E0317). |
-| --- |
+> [!note]
+> For example:  A mineral water company presented its products with the claim ‘Zero Impact’, stating that the manufacture and sale of the bottles of water had no impact whatsoever on the environment. However, the company could not demonstrate that it was involved in specific activities reducing the environmental impact of its products, other than participating in a project to compensate environmental damage. On this basis, the national consumer enforcement authority concluded that the ‘Zero Impact’ campaign constituted an unfair commercial practice capable of influencing consumers’ transactional decisions [(317)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr317-C_2021526EN.01000101-E0317).
+
 
 In order to ensure that environmental claims are substantiated, traders should either have the evidence necessary to support their claims from the time the claims are put into use or be certain that it can be obtained and presented upon request.
 
@@ -2042,73 +2155,99 @@ Although a claim may be correct and relevant to a product when the claim is firs
 
 The presented evidence should be clear and robust. Independent third party testing should be made available for the competent bodies if the claim is challenged. If expert studies give rise to significant disagreement or doubt over environmental impacts, the trader should refrain from the claim altogether. The content and scope of the documentation to be supplied will depend on the specific content of the statement. The complexity of the product or activity will be of relevance in this respect.
 
-4.1.1.6. Application of Annex I to environmental claims
+#### Application of Annex I to environmental claims
 
 The following practices listed in Annex I are particularly relevant to environmental claims:
 
-| Point No 1 of ANNEX I  ‘ Claiming to be a signatory of a code of conduct when the trader is not.’ |
-| --- |
+> [!note]
+> Point No 1 of ANNEX I  ‘ Claiming to be a signatory of a code of conduct when the trader is not.’
 
-| For example:  A trader falsely displaying on its website that it is a signatory of a code of conduct on the product’s environmental performance. |
-| --- |
 
-| Point No 2 of ANNEX I  ‘Displaying a trust mark, quality mark or equivalent without having obtained the necessary authorisation.’ |
-| --- |
+> [!note]
+> For example:  A trader falsely displaying on its website that it is a signatory of a code of conduct on the product’s environmental performance.
 
-| For example:  Using any EU or national label (e.g.: EU Ecolabel, Nordic Swan Label, Blue Angel or other logo) without authorisation. |
-| --- |
 
-| Point No 3 of ANNEX I  ‘Claiming that a code of conduct has an endorsement from a public or other body which it does not have.’ |
-| --- |
+> [!note]
+> Point No 2 of ANNEX I  ‘Displaying a trust mark, quality mark or equivalent without having obtained the necessary authorisation.’
 
-| For example:  A trader falsely claiming that the code of conduct of its car-manufacturing company is endorsed by the national environment agency, ministry or consumer’s organisation. |
-| --- |
 
-| Point No 4 of ANNEX I  ‘Claiming that a trader (including his commercial practices) or a product has been approved, endorsed or authorised by a public or private body when he/it has not or making such a claim without complying with the terms of the approval, endorsement or authorisation.’ |
-| --- |
+> [!note]
+> For example:  Using any EU or national label (e.g.: EU Ecolabel, Nordic Swan Label, Blue Angel or other logo) without authorisation.
 
-| For example:  Falsely claiming that a car complies with the terms of type approval legislation, while using illegal defeat devices. |
-| --- |
 
-| Point No 10 of ANNEX I  ‘Presenting rights given to consumers in law as a distinctive feature of the trader’s offer’. |
-| --- |
+> [!note]
+> Point No 3 of ANNEX I  ‘Claiming that a code of conduct has an endorsement from a public or other body which it does not have.’
+
+
+> [!note]
+> For example:  A trader falsely claiming that the code of conduct of its car-manufacturing company is endorsed by the national environment agency, ministry or consumer’s organisation.
+
+
+> [!note]
+> Point No 4 of ANNEX I  ‘Claiming that a trader (including his commercial practices) or a product has been approved, endorsed or authorised by a public or private body when he/it has not or making such a claim without complying with the terms of the approval, endorsement or authorisation.’
+
+
+> [!note]
+> For example:  Falsely claiming that a car complies with the terms of type approval legislation, while using illegal defeat devices.
+
+
+> [!note]
+> Point No 10 of ANNEX I  ‘Presenting rights given to consumers in law as a distinctive feature of the trader’s offer’.
+
 
 This provision clarifies that traders should not mislead consumers by unduly emphasising attributes that come from regulatory requirements.
 
-| For example:  Traders should not claim that a product is free of certain substances if such substances are already prohibited by legislation. |
-| --- |
+> [!note]
+> For example:  Traders should not claim that a product is free of certain substances if such substances are already prohibited by legislation.
 
-4.1.1.7. Comparative environmental claims
+#### Comparative environmental claims
 
 Environmental claims may suggest that a product has a more positive impact on the environment or is less damaging to the environment than competing goods or services, or previous versions of their own goods or services. Products bearing such comparative claims should be assessed against similar products (or, where appropriate, against a previous version of the same product) and the same assessment method has to be applied in a consistent manner to allow for such a comparison.
 
 National enforcement authorities and self-regulatory bodies usually interpret this principle to mean that comparisons should refer to products within the same product category. However, it would seem equally important that the method used to produce the environmental claim is the same, that it is applied in a consistent manner (i.e. the same methodological choices and rules are applied, results are reproducible), and that the method applied allows comparisons, otherwise any comparison becomes misleading [(318)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr318-C_2021526EN.01000101-E0318). For example, depending on the products in question, comparative environmental claims are likely to be misleading if they exclude factors, such as transportation in particular where such factors contribute the most towards a product’s environmental footprint.
 
-| For example:  \| — \| A company makes a comparative claim that a razor A contains less plastic than other razors on the market. This claim is likely to be misleading if the other razors selected for the comparison are not representative of the market on the whole, and the amount of plastic in razors generally is on average lower than that of razor A. \| \| --- \| --- \|  \| — \| An airline claims that it is the ‘greenest airline’ and that it has ‘the lowest CO 2 emissions of all major airlines’ [(319)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr319-C_2021526EN.01000101-E0319). In its advertising the airline compares its CO 2 emissions per passenger-km with those of four other ‘major’ European airlines, and shows that it has the lowest CO 2 emissions per passenger-km. This claim could be misleading if the emissions compared were not calculated in the same way, if the airline’s total CO 2 emissions are higher than other airlines and if emissions have increased significantly over the past years. It would be clearer to claim more specifically that it has the lowest CO 2 emissions per passenger-km in comparison with the four other major European airlines, provided that the method allows for such comparison and that the airline does not hide the fact that its emissions have increased in absolute terms. If climate-related claims are based on carbon/greenhouse gas emission offsets, these need to be transparent and detailed, given the associated greenwashing risks. Furthermore, comparison across all relevant transport modes, not just air travel, would be even more objective and informative. Consumers’ mobility needs may be met not only through a flight but with other means of transport, depending on the route. Therefore, a comparison of average passenger-km emissions between rail, road and air modes would prevent misleading consumers that their choice is ‘green’, when viable alternatives with lower emissions exist. \| \| --- \| --- \|  \| — \| A company makes a comparative claim that their ‘remanufactured good’ is more environmentally friendly than a ‘new good’. This claim could be misleading if the applicable recycling or take-back solutions are comparatively worse and the overall environmental footprint is thereby more significant. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A company makes a comparative claim that a razor A contains less plastic than other razors on the market. This claim is likely to be misleading if the other razors selected for the comparison are not representative of the market on the whole, and the amount of plastic in razors generally is on average lower than that of razor A. 
+    
+ An airline claims that it is the ‘greenest airline’ and that it has ‘the lowest CO 2 emissions of all major airlines’ [(319)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr319-C_2021526EN.01000101-E0319). In its advertising the airline compares its CO 2 emissions per passenger-km with those of four other ‘major’ European airlines, and shows that it has the lowest CO 2 emissions per passenger-km. This claim could be misleading if the emissions compared were not calculated in the same way, if the airline’s total CO 2 emissions are higher than other airlines and if emissions have increased significantly over the past years. It would be clearer to claim more specifically that it has the lowest CO 2 emissions per passenger-km in comparison with the four other major European airlines, provided that the method allows for such comparison and that the airline does not hide the fact that its emissions have increased in absolute terms. If climate-related claims are based on carbon/greenhouse gas emission offsets, these need to be transparent and detailed, given the associated greenwashing risks. Furthermore, comparison across all relevant transport modes, not just air travel, would be even more objective and informative. Consumers’ mobility needs may be met not only through a flight but with other means of transport, depending on the route. Therefore, a comparison of average passenger-km emissions between rail, road and air modes would prevent misleading consumers that their choice is ‘green’, when viable alternatives with lower emissions exist. 
+    
+ A company makes a comparative claim that their ‘remanufactured good’ is more environmentally friendly than a ‘new good’. This claim could be misleading if the applicable recycling or take-back solutions are comparatively worse and the overall environmental footprint is thereby more significant. 
+  
+
 
 Directive 2006/114/EC on misleading and comparative advertising, which covers business-to-business relations, lays down the conditions under which comparative advertising is permitted. These conditions are also relevant for assessing whether comparative advertising is lawful in business-to-consumer relations in the UCPD context. Comparisons of the environmental benefits of products should, among other things:
 
-| 1. | not be misleading within the meaning of Articles 6 and 7 of the UCPD; |
-| --- | --- |
+> [!note]
+> 1. - not be misleading within the meaning of Articles 6 and 7 of the UCPD;
 
-| 2. | compare goods or services meeting the same needs or intended for the same purpose; |
-| --- | --- |
 
-| 3. | objectively compare one or more material, relevant, verifiable and representative features of those goods and services. |
-| --- | --- |
+> [!note]
+> 2. - compare goods or services meeting the same needs or intended for the same purpose;
 
-| For example:  A court considered misleading an advertising claiming that filtered water was more environmental friendly than mineral bottled water, giving consumers the impression that consuming filtered water instead of mineral water would contribute to the protection of the environment. In particular, the reference to greater protection of the environment was deemed misleading since the comparison was not based on any objective basis such as an impact study [(320)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr320-C_2021526EN.01000101-E0320). |
-| --- |
 
-4.1.2. Planned obsolescence
+> [!note]
+> 3. - objectively compare one or more material, relevant, verifiable and representative features of those goods and services.
+
+
+> [!note]
+> For example:  A court considered misleading an advertising claiming that filtered water was more environmental friendly than mineral bottled water, giving consumers the impression that consuming filtered water instead of mineral water would contribute to the protection of the environment. In particular, the reference to greater protection of the environment was deemed misleading since the comparison was not based on any objective basis such as an impact study [(320)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr320-C_2021526EN.01000101-E0320).
+
+### Planned obsolescence
 
 Consumers can encounter early obsolescence practices whereby goods last less than their normal ‘lifespan’ should be according to consumers’ reasonable expectations. In particular, the premature failure of the goods can be due to planned obsolescence, or built-in obsolescence in industrial design, which is a commercial policy involving deliberately planning or designing a product with a limited useful life so that it will become obsolete or non-functional after a certain period of time. As explained under 2.3.1 above, the UCPD also covers commercial practices which occur after the transaction has been made. Regarding smart and connected goods, such commercial practices after the purchase can consist of reducing the functionality or slowing down the operation of the goods through software updates without a valid reason.
 
 UCPD does not have provisions specifically addressing obsolescence. However, where the trader, including manufacturer, engages in commercial practices towards the consumer, its failure to inform the consumer that a product has been designed with a limited lifetime might, subject to a case-by-case assessment, be considered as omission of material information under Article 7 UCPD. Furthermore, such practices may also be contrary to the requirements of professional diligence under Article 5(2) UCPD if they are likely to materially distort the economic behaviour of the average consumer.
 
-| For example:  \| — \| Omitting information that a smartphone's battery (which is subject to particular wear and tear) cannot be replaced or that a printer ink cartridges are programmed so that their replacement is needed before they are actually used up could be in breach of Article 7 of the UCPD, even if there may be technical justifications for designing the good in this way. \| \| --- \| --- \|  \| — \| A national consumer protection authority fined a printer producer for misleading and aggressive practices, including not adequately highlighting the limitations on the use of non-original printer ink cartridges on sales packages [(321)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr321-C_2021526EN.01000101-E0321). \| \| --- \| --- \|  \| — \| National consumer protection authorities took action concerning the premature obsolescence of smartphones [(322)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr322-C_2021526EN.01000101-E0322). Certain smartphone models were negatively affected by the installation of a new operating system and subsequent updates, leading to reduced battery life and slowed down performance. Consumers were not adequately informed about the purpose of the updates and their consequences on the performance of the product under Article 7 UCPD. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Omitting information that a smartphone's battery (which is subject to particular wear and tear) cannot be replaced or that a printer ink cartridges are programmed so that their replacement is needed before they are actually used up could be in breach of Article 7 of the UCPD, even if there may be technical justifications for designing the good in this way. 
+    
+ A national consumer protection authority fined a printer producer for misleading and aggressive practices, including not adequately highlighting the limitations on the use of non-original printer ink cartridges on sales packages [(321)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr321-C_2021526EN.01000101-E0321). 
+    
+ National consumer protection authorities took action concerning the premature obsolescence of smartphones [(322)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr322-C_2021526EN.01000101-E0322). Certain smartphone models were negatively affected by the installation of a new operating system and subsequent updates, leading to reduced battery life and slowed down performance. Consumers were not adequately informed about the purpose of the updates and their consequences on the performance of the product under Article 7 UCPD. 
+  
+
 
 Other EU legislation provides additional means of combating planned obsolescence for specific product categories.
 
@@ -2130,20 +2269,25 @@ Article 17(1) also refers to the ‘ commercial guarantee of durability ’ offe
 
 The New Consumer Agenda [(335)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr335-C_2021526EN.01000101-E0335) and the Circular Economy Action Plan 2020 [(336)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr336-C_2021526EN.01000101-E0336) foresee further proposals to tackle premature obsolescence.
 
-4.2. Digital sector
+## Digital sector
 
 The Directive has a broad scope of application as it covers the totality of business-to-consumer transactions, whether offline or online. It is technology-neutral and applies regardless of the channel, medium or device used to implement a business-to-consumer commercial practice. It applies to online intermediaries, including social media, online marketplaces and app stores, search engines, comparison tools [(337)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr337-C_2021526EN.01000101-E0337) and various other traders operating in the digital sector.
 
 The Directive applies also to practices and products that involve the use of technologies such as algorithms, automated decision-making and Artificial Intelligence (AI). This includes all business-to-consumer practices taken by traders towards consumers in the advertising, sales and after-sales phases, such as the use of tracking and targeting technologies, algorithmic personalisation, dynamic optimisation and distributed ledger technologies.
 
-4.2.1. Online platforms and their commercial practices
+### Online platforms and their commercial practices
 
 Online platforms generally provide infrastructure and enable interactions between suppliers and users for the provision of goods, services, digital content and information online. Online platforms’ business models range from merely allowing users to look for information supplied by third parties to directly enabling contractual transactions between third party traders and consumers. Platforms can also advertise and sell, in their own name, different kinds of products.
 
 The UCPD applies to the commercial practices of the platform and of the traders using the platform to promote their products to the consumers. Given that the UCPD only applies in B2C situations, the first step in assessing its application to an online platform provider should be to evaluate whether it qualifies as a ‘trader’ or ‘acting in the name of or on behalf of a trader’ under Article 2(b) UCPD. According to a case-by-case assessment, a platform provider may be acting for purposes relating to its business whenever, for example, it charges a commission on the transactions between suppliers and users, provides additional paid services or draws revenues from targeted advertising.
 
-| For example:  \| — \| A grocery price comparison service was considered by a national court to be a trader’s website and a tool for comparative advertising [(338)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr338-C_2021526EN.01000101-E0338). \| \| --- \| --- \|  \| — \| A consumer organisation running a comparison tool offering information to consumers against payment of a subscription would, in principle, have to comply with the requirements of the UCPD. This service could be part of the organisation’s strategy to gain commercial profit from its services to consumers, making it a ‘trader’ within the meaning of Article 2(b) of the Directive. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A grocery price comparison service was considered by a national court to be a trader’s website and a tool for comparative advertising [(338)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr338-C_2021526EN.01000101-E0338). 
+    
+ A consumer organisation running a comparison tool offering information to consumers against payment of a subscription would, in principle, have to comply with the requirements of the UCPD. This service could be part of the organisation’s strategy to gain commercial profit from its services to consumers, making it a ‘trader’ within the meaning of Article 2(b) of the Directive. 
+  
+
 
 The second step in assessing whether the UCPD is applicable should be to evaluate whether the platform provider engages in ‘ business-to-consumer commercial practices ’ within the meaning of Article 2(d), towards users (suppliers and recipients) who qualify as ‘consumers’ within the meaning of Article 2(a) UCPD.
 
@@ -2151,8 +2295,9 @@ A platform qualifying as a trader must always comply with EU consumer law as far
 
 In Verband Sozialer Wettbewerb case the Court confirmed this large scope of ‘commercial practice’ in a case concerning advertising by an online platform in a printed medium:
 
-| ‘ 31. | Lastly, it must be stated that the obligation to include in an invitation to purchase \[products\] the information referred to in Article 7(4)(b) of Directive 2005/29 does not depend on the issue of whether the supplier of the products concerned is the author of that invitation \[i.e. the online platform\] or a third party. Consequently, where an advertisement \[by an online platform\] in a print medium promotes products from different suppliers, the information required by that provision remains necessary, subject to the limitations of space mentioned in paragraph 29 above.’ [(339)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr339-C_2021526EN.01000101-E0339) |
-| --- | --- |
+> [!note]
+> ‘ 31. - Lastly, it must be stated that the obligation to include in an invitation to purchase \[products\] the information referred to in Article 7(4)(b) of Directive 2005/29 does not depend on the issue of whether the supplier of the products concerned is the author of that invitation \[i.e. the online platform\] or a third party. Consequently, where an advertisement \[by an online platform\] in a print medium promotes products from different suppliers, the information required by that provision remains necessary, subject to the limitations of space mentioned in paragraph 29 above.’ [(339)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr339-C_2021526EN.01000101-E0339)
+
 
 Transparency obligations
 
@@ -2166,8 +2311,13 @@ Promoting prices or products where the platform is reasonably aware of the fact 
 
 Where a platform allows consumers to purchase products together at a more favourable price (‘collective buying’ platforms), they should clearly inform the consumers about the characteristics and price of the offer and its supplier. In particular, the characteristics of the product/service obtained following a group purchase should not be inferior to those available at the regular price, unless consumers are clearly informed that this is the case. The conditions under which consumers can benefit from the product (e.g. minimum number of buyers, duration of the offer) should be clearly spelled out.
 
-| For example:  \| — \| An offer for a specific treatment in a wellness centre is advertised at a 50 % reduction if bought from a group buying platform. Such an offer is likely to fall under Article 6(1)(b) and (d) (as a misleading indication of a price advantage) if the treatment offered lasts only 30 minutes whereas at full, ordinary price it lasts 60 minutes, unless consumers were clearly informed otherwise. \| \| --- \| --- \|  \| — \| In the case of package offers, i.e. a combination of several products or services, when the price may vary depending on the number/volume of products or services acquired, the total package price must be indicated to avoid any impression that a larger number of products or services may be acquired at a lower price when they may not [(340)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr340-C_2021526EN.01000101-E0340). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ An offer for a specific treatment in a wellness centre is advertised at a 50 % reduction if bought from a group buying platform. Such an offer is likely to fall under Article 6(1)(b) and (d) (as a misleading indication of a price advantage) if the treatment offered lasts only 30 minutes whereas at full, ordinary price it lasts 60 minutes, unless consumers were clearly informed otherwise. 
+    
+ In the case of package offers, i.e. a combination of several products or services, when the price may vary depending on the number/volume of products or services acquired, the total package price must be indicated to avoid any impression that a larger number of products or services may be acquired at a lower price when they may not [(340)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr340-C_2021526EN.01000101-E0340). 
+  
+
 
 Professional diligence
 
@@ -2183,7 +2333,7 @@ For example, such measures could imply that platforms design their interfaces in
 
 If online platforms falling within the scope of the UCPD fail to comply with such professional diligence requirements or otherwise promote, sell or supply a product to users in an unfair manner, they can be found in breach of EU consumer law. They cannot invoke the intermediary liability exemption under the e-Commerce Directive as far as their own commercial practices are concerned as that exemption relates only to illegal information stored at the request of third parties.
 
-4.2.2. Intermediation of consumer contracts with third parties
+### Intermediation of consumer contracts with third parties
 
 Following the amendments by Directive (EU) 2019/2161, the UCPD includes a specific definition of ‘ online marketplace ’, which is an online platform enabling customers to buy products offered by third party suppliers (traders or consumers) directly on the interface of the marketplace. The ‘online marketplace’ is a technology-neutral concept, including also app stores that provide digital content and services.
 
@@ -2205,8 +2355,11 @@ Further guidance on the concept of ‘trader’ can be expected in the pending C
 
 A new point (f) was added to Article 7(4) by Directive (EU) 2019/2161. It specifically requires the providers of an online marketplace to inform the consumer, in any invitation to purchase, whether the third party offering the products is a trader or non-trader (such as a peer consumer), on the basis of the information provided by that third party supplier. Directive (EU) 2019/2161 added the same and further information requirements for online marketplaces in the CRD (Article 6a).
 
-| Article 7 – Misleading omissions  \|  \| 4. \| In the case of an invitation to purchase, the following information shall be regarded as material, if not already apparent from the context:  \\| (f) \\| for products offered on online marketplaces, whether the third party offering the products is a trader or not, on the basis of the declaration of that third party to the provider of the online marketplace. \\| \\| --- \\| --- \\| \| \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 7 – Misleading omissions  
+ 4. - In the case of an invitation to purchase, the following information shall be regarded as material, if not already apparent from the context:  - (f) - for products offered on online marketplaces, whether the third party offering the products is a trader or not, on the basis of the declaration of that third party to the provider of the online marketplace. - \ \ \
+ -         
+
 
 The purpose of this information requirement specifically for online marketplaces is to make sure that consumers always know from whom they are buying a product on the online marketplace – a trader or another consumer. An erroneous assumption that the third party supplier is a trader can cause problems for the consumer if something goes wrong with the online purchase (e.g. non-conformity of the goods), and if it then turns out that consumer protection rules, such as the right to withdraw within 14 days or the legal guarantee, actually do not apply to the contract concluded.
 
@@ -2218,7 +2371,7 @@ To stimulate the traders to declare their status correctly, Article 6a(1)(c) of 
 
 Finally, in the Kamenova case concerning an individual seller on an online platform the Court provided additional criteria for determining whether a person qualifies as trader (see section 2.2 on the notion of trader).
 
-4.2.3. Transparency of search results
+### Transparency of search results
 
 Search engines allow searching for information on the internet according to a specific algorithm. Also other intermediaries, such as online marketplaces and price comparison services, provide for the possibility to search amongst the different products and suppliers that are accessible via their services. Consumers expect search results to be 'natural' or 'organic' and based on sufficiently impartial criteria. However, the providers also include in the search results paid-for advertising or improve the ranking of products due to direct or indirect payment they receive from the relevant third party traders.
 
@@ -2226,8 +2379,10 @@ Directive (EU) 2019/2161 added to Article 7 of the UCPD a new paragraph 4a layin
 
 Information about ranking parameters
 
-| Article 7  \| ‘ 4a. \| When providing consumers with the possibility to search for products offered by different traders or by consumers on the basis of a query in the form of a keyword, phrase or other input, irrespective of where transactions are ultimately concluded, general information, made available in a specific section of the online interface that is directly and easily accessible from the page where the query results are presented, on the main parameters determining the ranking of products presented to the consumer as a result of the search query and the relative importance of those parameters, as opposed to other parameters, shall be regarded as material. This paragraph does not apply to providers of online search engines as defined in point (6) of Article 2 of Regulation (EU) 2019/1150 \[…\] ’ \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 7  - ‘ 4a. - When providing consumers with the possibility to search for products offered by different traders or by consumers on the basis of a query in the form of a keyword, phrase or other input, irrespective of where transactions are ultimately concluded, general information, made available in a specific section of the online interface that is directly and easily accessible from the page where the query results are presented, on the main parameters determining the ranking of products presented to the consumer as a result of the search query and the relative importance of those parameters, as opposed to other parameters, shall be regarded as material. This paragraph does not apply to providers of online search engines as defined in point (6) of Article 2 of Regulation (EU) 2019/1150 \[…\] ’ 
+  
+
 
 The new information requirement in Article 7(4a) applies only to traders that allow consumers to search for products offered by other, third party, traders or by consumers, i.e. online marketplaces and comparison tools. It does not apply to traders that provide their consumers with a possibility to search only amongst their own offers of different products.
 
@@ -2259,8 +2414,10 @@ Practically speaking, the providers of online intermediation services will be ab
 
 Disclosure of paid-for advertising and ranking
 
-| Point No 11a of ANNEX I  \| ‘ 11a. \| Providing search results in response to a consumer’s online search query without clearly disclosing any paid advertisement or payment specifically for achieving higher ranking of products within the search results.’ \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Point No 11a of ANNEX I  - ‘ 11a. - Providing search results in response to a consumer’s online search query without clearly disclosing any paid advertisement or payment specifically for achieving higher ranking of products within the search results.’ 
+  
+
 
 The new point 11a applies to any trader providing for a possibility to search for ‘products’ (i.e. goods, services, digital content), including search engines.
 
@@ -2270,14 +2427,17 @@ It does not ban the inclusion of advertisements or higher ranking due to the pay
 
 ‘ Higher ranking ’ refers to situations where the position of one or more listings in the ranking has been improved due to direct or indirect payments. Recital 20 of Directive (EU) 2019/2161 provides non-exhaustive examples of indirect payment for the purpose of higher ranking:
 
-| — | Acceptance by a trader of additional obligations towards the provider; |
-| --- | --- |
+> [!note]
+> Acceptance by a trader of additional obligations towards the provider;
 
-| — | Increased commission per transaction; |
-| --- | --- |
 
-| — | Different compensation schemes that specifically lead to higher ranking; |
-| --- | --- |
+> [!note]
+> Increased commission per transaction;
+
+
+> [!note]
+> Different compensation schemes that specifically lead to higher ranking;
+
 
 In contrast, indirect payments do not cover payments for general services, such as listing fees or membership subscriptions, which address a broad range of functionalities, provided that such payments are not dedicated to achieving higher ranking.
 
@@ -2287,10 +2447,13 @@ However, where payments which are made specifically for achieving a higher ranki
 
 The Commission and national consumer authorities in the CPC network addressed the disclosure of advertising and paid ranking within search results in the joint actions regarding the Booking.com and Expedia platforms [(349)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr349-C_2021526EN.01000101-E0349) (see also section 4.3.6). As a result of these actions, these platforms accepted to show on the search results page when payments affect the ranking of accommodations. They also added a link for further explanation and clearly labelled such properties. Moreover, the previous indication ‘sponsored’ was replaced with the more telling labels ‘Ad’, ‘Advert’, ‘Advertisement’, or similar equivalent text in local language, and those indications were made more prominent.
 
-| For example:  \| — \| A price comparison website offered to top rank the products of traders paying an additional fee. A national court ruled that consumers’ transactional decisions can be influenced by a comparative display that they might believe has no commercial intent or objective. On this basis, the comparison website’s commercial practice was qualified as misleading. The court found that the comparison tool’s failure to clearly identify this top ranking as a paid one was likely to materially distort the economic behaviour of consumers [(350)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr350-C_2021526EN.01000101-E0350). \| \| --- \| --- \|  \| — \| A national court found that the practice of a major comparison and booking service provider to enable hotels to manipulate the ranking by paying higher commission fees was misleading [(351)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr351-C_2021526EN.01000101-E0351). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A price comparison website offered to top rank the products of traders paying an additional fee. A national court ruled that consumers’ transactional decisions can be influenced by a comparative display that they might believe has no commercial intent or objective. On this basis, the comparison website’s commercial practice was qualified as misleading. The court found that the comparison tool’s failure to clearly identify this top ranking as a paid one was likely to materially distort the economic behaviour of consumers [(350)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr350-C_2021526EN.01000101-E0350). 
+    
+ A national court found that the practice of a major comparison and booking service provider to enable hotels to manipulate the ranking by paying higher commission fees was misleading [(351)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr351-C_2021526EN.01000101-E0351).
 
-4.2.4. User reviews
+### User reviews
 
 Many online platforms and also individual traders provide the possibility for consumers to inform other consumers about their experience with different products or traders. Review facilities are often included in online marketplaces, search engines, specialised travel review sites, comparison tools and social networks. Various studies demonstrate the importance of reviews for consumers’ purchasing decisions. It is therefore, important that the traders that give access to consumer reviews take reasonable and proportionate steps to ensure that they reflect the experience of real consumers with the relevant product. The notion of ‘reviews’ should be interpreted broadly, including practices related to ratings.
 
@@ -2316,8 +2479,11 @@ In contrast, reviews that assess the trader’s qualities outside the business-t
 
 Information about the handling of the reviews
 
-| Article 7(6)  \|  \| 6. \| Where a trader provides access to consumer reviews of products, information about whether and how the trader ensures that the published reviews originate from consumers who have actually used or purchased the product shall be regarded as material. \| \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Article 7(6)  
+ 6. - Where a trader provides access to consumer reviews of products, information about whether and how the trader ensures that the published reviews originate from consumers who have actually used or purchased the product shall be regarded as material. 
+   
+
 
 The new information obligation applies to any trader that provides access to consumer reviews, including where a trader promotes on its online interface the reviews made available by another trader, such as a specialised review tool. Recital 47 of Directive (EU) 2019/2161 explains the scope of the requirement in a broad manner. Namely, the information must cover not only the specific measures to check that reviews originate from consumers who have actually used or purchased the product but also the processing of reviews more generally. This includes information on whether all reviews are published, how they are sourced, how average review scores are calculated and if they are influenced by sponsored reviews or by contractual relations with the traders hosted on the platform.
 
@@ -2327,8 +2493,11 @@ This information must be clear, intelligible, and made available ‘ when provid
 
 Prohibited practices
 
-| Annex I point No 23b  \|  \| 23b. \| Stating that reviews of a product are submitted by consumers who have actually used or purchased the product without taking reasonable and proportionate steps to check that they originate from such consumers. \| \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Annex I point No 23b  
+ 23b. - Stating that reviews of a product are submitted by consumers who have actually used or purchased the product without taking reasonable and proportionate steps to check that they originate from such consumers. 
+   
+
 
 The new point 23b of Annex I prevents traders from misleading its users as to the origin of the reviews: they must not state that reviews they make available originate from real users, unless they take reasonable and proportionate steps which – without amounting to a general obligation to monitor or carry out fact-finding (see Article 15(1) e-Commerce Directive) – increase the likelihood for such reviews to reflect real users' experiences.
 
@@ -2340,33 +2509,43 @@ However, the steps to check the origin of reviews should be proportionate also i
 
 Recital 47 to Directive (EU) 2019/2161 explains that reasonable and proportionate steps could include ‘ requesting information to verify that that the consumer has actually used or purchased the product ’. Such information could be, for example, a booking number. Other ‘reasonable and proportionate steps’ could include:
 
-| — | requiring the reviewers to register; |
-| --- | --- |
+> [!note]
+> requiring the reviewers to register;
 
-| — | using technical means to verify that the reviewer is actually a consumer (e.g. IP address check, verification by email); |
-| --- | --- |
 
-| — | setting clear rules for reviewers prohibiting fake and non-disclosed sponsored reviews; |
-| --- | --- |
+> [!note]
+> using technical means to verify that the reviewer is actually a consumer (e.g. IP address check, verification by email);
 
-| — | deploying tools to automatically detect fraudulent activity; |
-| --- | --- |
 
-| — | having adequate measures and resources to respond to complaints about suspicious reviews, including where the trader concerned by the reviews provides evidence that they are not submitted by consumers who actually used or purchased the product. |
-| --- | --- |
+> [!note]
+> setting clear rules for reviewers prohibiting fake and non-disclosed sponsored reviews;
+
+
+> [!note]
+> deploying tools to automatically detect fraudulent activity;
+
+
+> [!note]
+> having adequate measures and resources to respond to complaints about suspicious reviews, including where the trader concerned by the reviews provides evidence that they are not submitted by consumers who actually used or purchased the product.
+
 
 Thanks to the information that traders will publish in accordance with Article 7(6), it is expected to be possible for both the users and the enforcement authorities to assess and to evaluate the steps taken by the trader, also comparing those with the industry best practices that may develop over time. An ISO standard is available in this area - ‘Online consumer reviews: Principles and requirements for their collection, moderation and publication’ (ISO 20488:2018).
 
-| Annex I point No 23c  \|  \| 23c. \| Submitting or commissioning another legal or natural person to submit false consumer reviews or endorsements, or misrepresenting consumer reviews or social endorsements, in order to promote products. \| \| --- \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> Annex I point No 23c  
+ 23c. - Submitting or commissioning another legal or natural person to submit false consumer reviews or endorsements, or misrepresenting consumer reviews or social endorsements, in order to promote products. 
+   
+
 
 The new point 23c covers two types of unfair commercial practices:
 
-| — | The first element aims at traders who submit or commission, including buying from others (e.g. from ‘likes factories’ or natural persons) false reviews or endorsements. It covers, in particular, the practice of engaging actual consumers who purchase the product and get remuneration for posting positive reviews. This part of point 23c applies both to the professionals and the consumers involved in these misleading activities insofar as they qualify as ‘acting in the name of or on behalf of the trader’. It does not, however, apply to those traders, in particular online platforms, that host and give access to consumer reviews without being involved in their submission (posting). |
-| --- | --- |
+> [!note]
+> The first element aims at traders who submit or commission, including buying from others (e.g. from ‘likes factories’ or natural persons) false reviews or endorsements. It covers, in particular, the practice of engaging actual consumers who purchase the product and get remuneration for posting positive reviews. This part of point 23c applies both to the professionals and the consumers involved in these misleading activities insofar as they qualify as ‘acting in the name of or on behalf of the trader’. It does not, however, apply to those traders, in particular online platforms, that host and give access to consumer reviews without being involved in their submission (posting).
 
-| — | The second element aims at traders, including online platforms, that give access to consumer reviews or social endorsements and misrepresent them, such as by only soliciting and making available positive reviews and obtaining the withdrawal of negative reviews. |
-| --- | --- |
+
+> [!note]
+> The second element aims at traders, including online platforms, that give access to consumer reviews or social endorsements and misrepresent them, such as by only soliciting and making available positive reviews and obtaining the withdrawal of negative reviews.
+
 
 The notion of ‘endorsements’ should be interpreted broadly, covering also practices related to fake followers, reactions and views.
 
@@ -2374,22 +2553,27 @@ The first element aims at ensuring that consumer reviews reflect real consumers�
 
 As regards the second element prohibiting the misrepresentation of consumer reviews or social endorsements, Recital 49 of Directive (EU) 2019/2161 gives the following examples of prohibited manipulative practices:
 
-| — | Publishing only positive reviews and deleting the negative ones; |
-| --- | --- |
+> [!note]
+> Publishing only positive reviews and deleting the negative ones;
 
-| — | Linking the consumer endorsements to different content than the one intended by the consumer. |
-| --- | --- |
+
+> [!note]
+> Linking the consumer endorsements to different content than the one intended by the consumer.
+
 
 Further examples of manipulative practices are situations where the trader:
 
-| — | provides consumers with pre-filled positive review templates; |
-| --- | --- |
+> [!note]
+> provides consumers with pre-filled positive review templates;
 
-| — | engages with consumers during the moderation process to incentivise them to change their reviews or withdraw the negative reviews; |
-| --- | --- |
 
-| — | presents consolidated review ratings on the basis of undisclosed and/or opaque criteria. |
-| --- | --- |
+> [!note]
+> engages with consumers during the moderation process to incentivise them to change their reviews or withdraw the negative reviews;
+
+
+> [!note]
+> presents consolidated review ratings on the basis of undisclosed and/or opaque criteria.
+
 
 The prohibition of misrepresenting consumer reviews is without prejudice to the rights and obligation of the trader that makes reviews available to suppress fake negative reviews as part of the measures to ensure that reviews originate from consumers who have actually used or purchased the product.
 
@@ -2397,30 +2581,36 @@ Whilst the new provisions in Annex I of the UCPD prohibit the respective commerc
 
 Furthermore, traders that engage with consumers and/or other traders that make reviews available to prevent negative reviews about them from being published or removing them after publication can also cause the average consumer (who has not yet been in contact with this trader) to select this trader rather than a competitor who has not engaged in such unfair commercial practices.
 
-| For example:  A trader posted ‘likes’ for its dental products on its own website claiming ‘guaranteed real customer reviews’ and then linked the ‘likes’ to a review site, on which the positive customer reviews were favoured over neutral or negative reviews. A national court found it misleading of the trader to claim ‘guaranteed real customer reviews’ [(353)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr353-C_2021526EN.01000101-E0353). |
-| --- |
+> [!note]
+> For example:  A trader posted ‘likes’ for its dental products on its own website claiming ‘guaranteed real customer reviews’ and then linked the ‘likes’ to a review site, on which the positive customer reviews were favoured over neutral or negative reviews. A national court found it misleading of the trader to claim ‘guaranteed real customer reviews’ [(353)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr353-C_2021526EN.01000101-E0353).
 
-4.2.5. Social media
+### Social media
 
 Social media platforms such as Facebook, Twitter, YouTube, Instagram and TikTok enable users to create profiles and communicate with each other, including sharing information and content. Social media platforms increasingly feature commercial practices that may be problematic under the UCPD and EU consumer law more broadly, such as:
 
-| — | hidden advertising by the social media platform or by third party traders, including misleading influencer marketing; |
-| --- | --- |
+> [!note]
+> hidden advertising by the social media platform or by third party traders, including misleading influencer marketing;
 
-| — | unfair standard contract terms; |
-| --- | --- |
 
-| — | social media services being presented to consumers as ‘free’ when they rely on an advertising model processing large amounts of personal data in exchange for access; |
-| --- | --- |
+> [!note]
+> unfair standard contract terms;
 
-| — | problematic algorithmic practices, such as manipulative targeted advertising or practices to capture the consumer’s attention to continue using the service (see also section 4.2.7); |
-| --- | --- |
 
-| — | unfair practices related to in-platform purchases, such as virtual items; |
-| --- | --- |
+> [!note]
+> social media services being presented to consumers as ‘free’ when they rely on an advertising model processing large amounts of personal data in exchange for access;
 
-| — | commercial practices put in place by third party traders through social media platforms, including scams and fraud, fake or misleading user reviews or endorsements, direct exhortations to children, spam and subscription traps. |
-| --- | --- |
+
+> [!note]
+> problematic algorithmic practices, such as manipulative targeted advertising or practices to capture the consumer’s attention to continue using the service (see also section 4.2.7);
+
+
+> [!note]
+> unfair practices related to in-platform purchases, such as virtual items;
+
+
+> [!note]
+> commercial practices put in place by third party traders through social media platforms, including scams and fraud, fake or misleading user reviews or endorsements, direct exhortations to children, spam and subscription traps.
+
 
 Some social media platforms have become environments for advertising, product placement and consumer reviews. Therefore, they can present increased risks for hidden advertising, given that commercial elements are mixed with social and cultural user-generated content. Furthermore, consumers may not always be aware that traders use social media for marketing purposes.
 
@@ -2432,7 +2622,7 @@ Furthermore, many users of social media are children and young people. Consequen
 
 In 2016-2019, the Commission and national authorities obtained commitments from Facebook, Twitter and Google+ to bring their practices in accordance with EU consumer law. They addressed practices such as the lack of transparency concerning their business model for consumers, and various terms in their terms and conditions [(355)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr355-C_2021526EN.01000101-E0355), which included limiting or totally excluding the liability of the platform in connection with the performance of the service and the identification of commercial communications, waiving mandatory EU consumer rights, and depriving consumers of their EU rights in relation to jurisdiction and applicable law.
 
-4.2.6. Influencer marketing
+### Influencer marketing
 
 Influencer marketing involves the promotion of specific brands or products through influencers using the positive impact that influencers are likely to have on consumer perceptions. An influencer is generally described as a natural person or virtual entity [(356)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr356-C_2021526EN.01000101-E0356) who has a greater than average reach in a relevant platform. Compared to most other forms of online advertising, influencer marketing bears even fewer characteristics that make it possible for consumers to identify the commercial nature of the content. Even if the influencer uses disclaimers to highlight the presence of commercial communications, the average consumer, particularly children and young people, could assume that the content is presented at least partly as a personal, non-commercial endorsement rather than a direct and clearly identifiable advertisement.
 
@@ -2448,19 +2638,21 @@ The commercial element is considered to be present whenever the influencer recei
 
 Depending on the circumstances of the case, the breach could be attributed both to the influencer or to the trader/brand that has engaged the influencer and benefits from the endorsement. The presence of editorial control by the trader is not necessary to trigger the application of these rules but could serve as a factor in the determination of its liability. The trader/brand is liable for the breaches of the above-mentioned provisions and in particular the requirement of exercising professional diligence under Article 5. Subject to the assessment of the circumstances of the case, such liability is unlikely to be present in the scenario where an influencer does not have any connections to the trader/brand (i.e. misleadingly pretends to act on behalf of the trader). The influencer would be liable for its own obligations under the UCPD, provided that it qualifies as a ‘trader’, as explained earlier.
 
-| For example:  A trader re-posted social media posts by influencers that promoted their products in return for consideration but failed to adequately label their posts as commercial communications. A national court held the trader liable for not taking necessary measures to ensure compliance with consumer law, such as ensuring transparency, educating influencers and having control mechanisms to bring infringements to an end [(362)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr362-C_2021526EN.01000101-E0362). |
-| --- |
+> [!note]
+> For example:  A trader re-posted social media posts by influencers that promoted their products in return for consideration but failed to adequately label their posts as commercial communications. A national court held the trader liable for not taking necessary measures to ensure compliance with consumer law, such as ensuring transparency, educating influencers and having control mechanisms to bring infringements to an end [(362)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr362-C_2021526EN.01000101-E0362).
+
 
 In case the influencer is endorsing its own products or business, the same rules will apply. The commercial intent of the communication must always be declared in such cases, in particular in light of point No 22 of Annex I, which prohibits falsely claiming or creating the impression that a trader is not acting for the purposes of his trade or falsely representing oneself as a consumer. There is a need for adequate disclosure also in case the influencers endorse brands or products that are visibly linked to them, e.g. by bearing their name or face.
 
-| For example:  An influencer promoted on Instagram the products of a company where she was the CEO, main shareholder and sole board member. It was found that the relevant Instagram posts were misleading, as the commercial intent was unclear to the average consumer. One post, promoting fish oil, made indirect claims about strengthening immune function and therefore protecting against COVID-19. In absence of evidence for such claims, this post was found to be both misleading and aggressive [(363)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr363-C_2021526EN.01000101-E0363). |
-| --- |
+> [!note]
+> For example:  An influencer promoted on Instagram the products of a company where she was the CEO, main shareholder and sole board member. It was found that the relevant Instagram posts were misleading, as the commercial intent was unclear to the average consumer. One post, promoting fish oil, made indirect claims about strengthening immune function and therefore protecting against COVID-19. In absence of evidence for such claims, this post was found to be both misleading and aggressive [(363)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr363-C_2021526EN.01000101-E0363).
+
 
 Moreover, given that the relationship that the influencer builds with its audience is often based on trust and a personal connection, their behaviour could in some cases amount to an aggressive commercial practice through the use of undue influence, prohibited by Articles 8-9. This is particularly relevant when the main target audience of an influencer includes vulnerable consumers, such as children and young people. Furthermore, point No 28 of Annex I prohibits direct exhortations towards children in all circumstances.
 
 In addition to the obligations of influencers and brands, the online platform that is used for the promotional activities is subject to its own obligations of professional diligence under the UCPD, as discussed in previous sections. This includes the obligation to take appropriate measures to enable third party traders to comply with their obligations under EU law, e.g. to provide specific and appropriate disclosure tools in the platform’s interface [(364)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr364-C_2021526EN.01000101-E0364).
 
-4.2.7. Data-driven practices and dark patterns
+### Data-driven practices and dark patterns
 
 The digital environment is increasingly characterised by the generation, accumulation and control of an enormous amount of data about consumers, which can be combined with the use of algorithms and AI to turn this into usable information for commercial purposes. Among other purposes, this data can give valuable insights to socio-demographic characteristics, such as age, gender or financial situation, as well as personal or psychological characteristics, such as interests, preferences, psychological profile and mood. This enables traders to learn more about consumers, including about their vulnerabilities.
 
@@ -2480,8 +2672,15 @@ The use of information about the vulnerabilities of specific consumers or a grou
 
 Moreover, if the practice is targeting children, then point No 28 of Annex I is particularly relevant as it prohibits direct exhortations to children. The potential adverse impacts of targeting children also warrant specific protection under the GDPR [(365)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr365-C_2021526EN.01000101-E0365).
 
-| For example:  \| — \| A trader is able to identify that a teenager is in a vulnerable mood due to events in their personal life. This information is subsequently used to target the teenager with emotion-based advertisements at a specific time. \| \| --- \| --- \|  \| — \| A trader is aware of a consumer’s history with financial services and the fact that they have been banned by a credit institution due to the inability to pay. The consumer is subsequently targeted with specific offers by a credit institution, with the aim of exploiting their financial situation. \| \| --- \| --- \|  \| — \| A trader is aware of a consumer’s purchase history with respect to games of chance and random content in a video game. The consumer is subsequently targeted with personalised commercial communications that feature similar elements, with the aim of exploiting their higher likelihood of engaging with such products. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A trader is able to identify that a teenager is in a vulnerable mood due to events in their personal life. This information is subsequently used to target the teenager with emotion-based advertisements at a specific time. 
+    
+ A trader is aware of a consumer’s history with financial services and the fact that they have been banned by a credit institution due to the inability to pay. The consumer is subsequently targeted with specific offers by a credit institution, with the aim of exploiting their financial situation. 
+    
+ A trader is aware of a consumer’s purchase history with respect to games of chance and random content in a video game. The consumer is subsequently targeted with personalised commercial communications that feature similar elements, with the aim of exploiting their higher likelihood of engaging with such products. 
+  
+
 
 Within the category of manipulative practices, the term ‘ dark pattern ’ is used to refer to a type of malicious nudging, generally incorporated into digital design interfaces. Dark patterns could be data-driven and personalised, or implemented on a more general basis, tapping into heuristics and behavioural biases, such as default effects or scarcity biases [(366)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr366-C_2021526EN.01000101-E0366).
 
@@ -2491,34 +2690,40 @@ As explained above, any manipulative practice that materially distorts or is lik
 
 Manipulative practices may include visually obscuring important information or ordering it in a way to promote a specific option (e.g. one button very visible, another hidden; one path very long, another shorter), as well as using trick questions and ambiguous language (e.g. double negatives) to confuse the consumer. Such practices are likely to qualify as a misleading action under Article 6 UCPD or as a misleading omission under Article 7 UCPD by making the information unintelligible or ambiguous. Furthermore, using emotion to steer users away from making a certain choice (e.g. ‘confirmshaming’ the consumer into feeling guilty) could amount to an aggressive practice under Article 8 UCPD for using undue influence to impair the consumer’s decision-making.
 
-| For example:  During the ordering process in an online marketplace, the consumer is asked several times to choose ‘yes’ and ‘no’: ‘Would you like to be kept informed about similar offers? Would you like to subscribe to the newsletter? Can we use your details to personalise our offer?’ Halfway through the click sequence, the buttons ‘yes’ and ‘no’ are reversed intentionally. The consumer has clicked ‘no’ several times, but now clicks ‘yes’ and accidentally subscribed to a newsletter. |
-| --- |
+> [!note]
+> For example:  During the ordering process in an online marketplace, the consumer is asked several times to choose ‘yes’ and ‘no’: ‘Would you like to be kept informed about similar offers? Would you like to subscribe to the newsletter? Can we use your details to personalise our offer?’ Halfway through the click sequence, the buttons ‘yes’ and ‘no’ are reversed intentionally. The consumer has clicked ‘no’ several times, but now clicks ‘yes’ and accidentally subscribed to a newsletter.
+
 
 Default interface settings have a significant impact on the transactional decision of an average consumer. Traders could not only influence consumers to take certain actions, but also take specific actions in their place, for example by using pre-ticked boxes, including to charge for additional services, which is prohibited under Article 22 of the CRD. Such practices can also breach the UCPD as well as data protection and privacy rules [(367)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr367-C_2021526EN.01000101-E0367).
 
 Certain practices that are often labelled as ‘dark patterns’ are already expressly prohibited in all circumstances in the Annex I to the UCPD:
 
-| — | So-called ‘ bait and switch ’ practices, which include offering products at a specified price while not disclosing the existence of reasonable grounds for not being able to provide the product or offering the product and then refusing to take orders for it or deliver it within a reasonable time, with the intention of promoting a different product instead (No 5 and 6 Annex I); |
-| --- | --- |
+> [!note]
+> So-called ‘ bait and switch ’ practices, which include offering products at a specified price while not disclosing the existence of reasonable grounds for not being able to provide the product or offering the product and then refusing to take orders for it or deliver it within a reasonable time, with the intention of promoting a different product instead (No 5 and 6 Annex I);
 
-| — | Creating urgency by falsely stating that a product will only be available for a very limited time, or that it will only be available on particular terms for a very limited time (No 7 Annex I). For example, this includes fake timers and limited stock claims on websites; |
-| --- | --- |
 
-| — | Giving inaccurate information on market conditions or on the possibility of finding the product with the intention of inducing the consumer to buy the product at less favourable conditions (No 18 Annex I); |
-| --- | --- |
+> [!note]
+> Creating urgency by falsely stating that a product will only be available for a very limited time, or that it will only be available on particular terms for a very limited time (No 7 Annex I). For example, this includes fake timers and limited stock claims on websites;
 
-| — | Claiming that the consumer has won a prize, without awarding the prizes described or a reasonable equivalent (No 19 and 31 Annex I) or falsely describing a product as ‘ free ’ (No 20 Annex I); |
-| --- | --- |
 
-| — | Making repeated intrusions during normal interactions in order to get the consumer to do or accept something (i.e. nagging) could amount to a persistent and unwanted solicitation (No 26 Annex I) [(368)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr368-C_2021526EN.01000101-E0368). |
-| --- | --- |
+> [!note]
+> Giving inaccurate information on market conditions or on the possibility of finding the product with the intention of inducing the consumer to buy the product at less favourable conditions (No 18 Annex I);
+
+
+> [!note]
+> Claiming that the consumer has won a prize, without awarding the prizes described or a reasonable equivalent (No 19 and 31 Annex I) or falsely describing a product as ‘ free ’ (No 20 Annex I);
+
+
+> [!note]
+> Making repeated intrusions during normal interactions in order to get the consumer to do or accept something (i.e. nagging) could amount to a persistent and unwanted solicitation (No 26 Annex I) [(368)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr368-C_2021526EN.01000101-E0368).
+
 
 Furthermore, various misleading practices that breach Articles 6 and 7 UCPD are also labelled as ‘dark patterns’, such as misleading free trials and subscription traps which were further discussed in section 2.9.6. In designing their interfaces, traders should follow the principle that unsubscribing from a service should be as easy as subscribing to the service, for example by using the same methods previously used to subscribe to the service or differing methods, as long as the consumers are presented with clear and free choices, proportionate and specific to the decisions they are being asked to make.
 
-| For example:  In order to unsubscribe from a digital service, the consumer is forced to take numerous non-intuitive steps in order to arrive at the cancellation link. These steps include ‘confirmshaming’, whereby the consumer is prompted, without reasoned justification, to reconsider their choice through emotional messages several times (‘We’re sorry to see you go’, ‘Here are the benefits you will lose’) and ‘visual interference’, such as prominent images that encourage the user to continue with the subscription instead of cancelling [(369)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr369-C_2021526EN.01000101-E0369). Such practices could breach Article 7 and Article 9(d) UCPD. |
-| --- |
+> [!note]
+> For example:  In order to unsubscribe from a digital service, the consumer is forced to take numerous non-intuitive steps in order to arrive at the cancellation link. These steps include ‘confirmshaming’, whereby the consumer is prompted, without reasoned justification, to reconsider their choice through emotional messages several times (‘We’re sorry to see you go’, ‘Here are the benefits you will lose’) and ‘visual interference’, such as prominent images that encourage the user to continue with the subscription instead of cancelling [(369)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr369-C_2021526EN.01000101-E0369). Such practices could breach Article 7 and Article 9(d) UCPD.
 
-4.2.8. Pricing practices
+### Pricing practices
 
 Drip pricing covers situations where traders add costs along the purchase process, for example, by adding charges which are unavoidable and should have been included in the price from the outset or otherwise arbitrarily increasing the final price. This can lead consumers to take transactional decisions they would not have taken, had the full price been provided in the first ‘invitation to purchase’. Such practice may hence amount to a misleading action or omission in breach of the UCPD.
 
@@ -2526,8 +2731,9 @@ Dynamic pricing (also called real-time pricing) means changing the price for a p
 
 Under the UCPD, traders can freely determine the prices they charge for their products as long as they adequately inform consumers about total costs and how they are calculated if the nature of the product means that the price cannot reasonably be calculated in advance (Articles 6(1)(d) and 7(4)(c) UCPD). However, in some circumstances, dynamic pricing practices could meet the definition of ‘unfair’ under the UCPD.
 
-| For example:  A dynamic pricing practice where a trader raises the price for a product during the booking process, in particular after the consumer has put it in his digital shopping cart or proceeds to payment, without giving the consumer reasonable time to complete the transaction, could be considered contrary to professional diligence or as aggressive practice under Articles 8 and 9 of the UCPD. |
-| --- |
+> [!note]
+> For example:  A dynamic pricing practice where a trader raises the price for a product during the booking process, in particular after the consumer has put it in his digital shopping cart or proceeds to payment, without giving the consumer reasonable time to complete the transaction, could be considered contrary to professional diligence or as aggressive practice under Articles 8 and 9 of the UCPD.
+
 
 Price discrimination is where a trader applies different prices to different consumers or groups of consumers for the same goods or services. The UCPD does not, as such, prohibit traders from price discrimination as long as they adequately inform the consumer about the total price or how it is calculated. However, price discrimination may be prohibited by other rules.
 
@@ -2537,14 +2743,15 @@ In addition, direct or indirect price discrimination based on the nationality of
 
 Price discrimination can take the form of personalised pricing based on online tracking and profiling the consumer’s behaviour [(375)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr375-C_2021526EN.01000101-E0375).
 
-| For example:  A consumer categorised as having ‘higher purchasing power’ could be recognised either by the computer’s IP address or other means when the consumer visits the trader’s website from its home computer. Prices proposed to this consumer could be, for example, on average 10 % higher than for a new customer or a consumer categorised as having ‘lower purchasing power’. |
-| --- |
+> [!note]
+> For example:  A consumer categorised as having ‘higher purchasing power’ could be recognised either by the computer’s IP address or other means when the consumer visits the trader’s website from its home computer. Prices proposed to this consumer could be, for example, on average 10 % higher than for a new customer or a consumer categorised as having ‘lower purchasing power’.
+
 
 The UCPD does not prevent traders from personalising their prices based on online tracking and profiling. Article 6(1)(ea) CRD, which was added by Directive (EU) 2019/2161, requires traders to inform consumers about the fact that the price was personalised on the basis of automated decision-making in case of distance and off-premises contracts. Furthermore, personalised pricing and offers may be combined with different unfair commercial practices, for example if in the context of the data-driven personalisation traders take advantage of ‘undue influence’ over the consumer under Articles 8 and 9 UCPD.
 
 Traders that personalise prices by using consumers’ personal data must also comply with the GDPR and e-Privacy Directive. This includes the requirement to only use automatic calling machines, facsimile machines (fax) or electronic mail for direct marketing if the subscriber or users have given their prior consent (Article 13 of the ePrivacy Directive), and the requirement that the data controller must stop sending direct marketing if the individual receiving it objects to its personal data being processed for that purpose, as stipulated in Article 21 GDPR. Furthermore, Articles 12-14 GDPR include information obligations regarding the processing of personal data, including the right to meaningful information on the existence of automated decision-making, and Article 22 GDPR grants the right not to be subject to a decision which produces legal effects concerning them or significantly affects them and which is based solely on automated processing of data, including profiling.
 
-4.2.9. Gaming
+### Gaming
 
 Video games, mobile games and online games feature a variety of commercial practices that may raise fairness concerns under the UCPD, in particular for vulnerable consumers such as children and teenagers, who merit special protection under Article 5(3) UCPD (see section 2.6 on vulnerable consumers).
 
@@ -2564,17 +2771,19 @@ Certain commercial practices in games, including embedded advertisements, could 
 
 A related point of concern regards gaming content with gambling elements, such as addictive interface designs involving slot machines, certain loot/mystery boxes or betting. Some Member States consider such elements to fall under gambling legislation, which may entail additional requirements going beyond the UCPD [(377)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr377-C_2021526EN.01000101-E0377), such as licencing authorisations, or banning the use of gambling elements in games altogether.
 
-| For example:  An online game uses algorithms to determine, on the basis of the playing habits of the user, its ‘risk taking score’ to personalise the timing of in-game offerings of loot boxes, the chances of obtaining a highly valued item in a loot box, the strength of adversaries in the game, all with the purpose of keeping them glued to the game and increase in-game spending. The algorithms are used to target addiction-prone players in particular. This may constitute an aggressive practice. |
-| --- |
+> [!note]
+> For example:  An online game uses algorithms to determine, on the basis of the playing habits of the user, its ‘risk taking score’ to personalise the timing of in-game offerings of loot boxes, the chances of obtaining a highly valued item in a loot box, the strength of adversaries in the game, all with the purpose of keeping them glued to the game and increase in-game spending. The algorithms are used to target addiction-prone players in particular. This may constitute an aggressive practice.
+
 
 The presence of paid random content (e.g. loot boxes, card packs, prize wheels) should be clearly disclosed to the consumer, including an explanation of the probabilities of receiving a random item. For example, loot/mystery boxes are in-game content that generally include random items that have relevance in the game (e.g. weapons, skins, game currency, advancement options) [(378)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr378-C_2021526EN.01000101-E0378). The sale of loot boxes in games must comply with the information obligations under the CRD and UCPD concerning the price and main characteristics of the product.
 
-| For example:  A national authority received commitments from a game producer about the information presented about in-game purchases, including loot boxes. The authority noted that maximum clarity and transparency is needed for consumers and parents as to whether such purchases can be made, especially in relation to loot boxes, where randomness is a main feature [(379)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr379-C_2021526EN.01000101-E0379). |
-| --- |
+> [!note]
+> For example:  A national authority received commitments from a game producer about the information presented about in-game purchases, including loot boxes. The authority noted that maximum clarity and transparency is needed for consumers and parents as to whether such purchases can be made, especially in relation to loot boxes, where randomness is a main feature [(379)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr379-C_2021526EN.01000101-E0379).
+
 
 In the area of gaming apps, in 2013-2014 the Commission and national authorities tackled unfair practices concerning games that offer in-app purchases and that are likely to appeal to or to be played by children [(380)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr380-C_2021526EN.01000101-E0380). Their common position highlighted that under No 20 of Annex I and Article 7(4)(c) UCPD and Article 6(1)(e) CRD, only games where in-app purchases are optional can be presented as ‘free’ without misleading consumers. Conversely, a game cannot be marketed as ‘free’ if the consumer cannot play the game in a way that can be reasonably expected without making in-app purchases. This is to be assessed on a case-by-case basis for each app that includes in-app purchases. It was also underlined that a game found to be in compliance with point No 20 of Annex I as concerns the use of the word ‘free’, can still be assessed under other provisions of the UCPD, such as Articles 6 to 9, to make sure that other elements, like how price information is displayed, are not misleading or aggressive. Furthermore, point No 28 of Annex I and Article 5(3) UCPD prescribe that games targeted at children, or which traders can reasonably foresee to be likely to appeal to children, must not contain direct exhortations to children to buy additional in-game items.
 
-4.2.10. Use of geo-localisation techniques
+### Use of geo-localisation techniques
 
 When shopping in/from another Member State, consumers are sometimes subject to outright refusals by traders to sell, or to price discrimination, based on the place of residence or nationality of the consumer. Such practices can take place online and when shopping over the counter. Traders may use geo-localisation techniques, e.g. on the basis of the consumer's IP address, residence address, country of issue of credit cards etc., to either deny the sale of a product to the consumer, to automatically reroute them to a local webstore or for price discrimination purposes.
 
@@ -2586,7 +2795,7 @@ In addition, Article 20 of the Services Directive obliges Member States to ensur
 
 Geo-blocking or filtering may also violate competition law [(383)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr383-C_2021526EN.01000101-E0383). For example, on 20 January 2021, the Commission fined five video game publishers and one gaming platform for their geo-blocking practices [(384)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr384-C_2021526EN.01000101-E0384).
 
-4.2.11. Consumer lock-in
+### Consumer lock-in
 
 Consumers may sometimes find themselves limited in their choice, experiencing a loss of quality of products they bought, unfavourable changes in contractual terms and/or paying inflated prices due a provider lock-in. This is facilitated by products or marketing designed to create lock-in, and markets that lack competition or transparency. This is especially true for digital markets with proprietary standards that foster a lack of interoperability.
 
@@ -2600,33 +2809,39 @@ In addition to EU consumer protection rules, EU competition rules are in place t
 
 When switching providers, Article 20 GDPR and Article 16(4) of the Digital Content Directive [(390)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr390-C_2021526EN.01000101-E0390) give individuals the right to take with them, respectively, their personal data and any content other than personal data, which was provided or created by the consumer when using the digital content or digital service supplied by the trader, thus limiting the effects of lock-in practices [(391)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr391-C_2021526EN.01000101-E0391). Furthermore, Articles 5(1) (g) and (h), and Articles 6(1) (r) and (s) of the CRD help consumers identify lock-in situations in advance by requiring the trader to inform the consumer before the conclusion of the contract of the functionality, compatibility and interoperability of goods with digital elements, digital content and digital services. Finally, Article 3 of the Geo-blocking Regulation [(392)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr392-C_2021526EN.01000101-E0392) ensures that access to the online interface (including app stores) is provided, regardless of the customer's nationality, place of residence or place of establishment.
 
-4.3. Travel and transport sector
+## Travel and transport sector
 
-4.3.1. Cross-cutting issues
+### Cross-cutting issues
 
 Unfair commercial practices may arise in the pre-booking, booking and post-booking stages of travel and transport services, such as misleading advertising and other manipulative practices, the lack of material information or providing misleading information, drip pricing practices, unfair contract terms, problems related to cancellations, insufficient assistance in case of delays or cancellations, as well as ineffective complaint handling systems.
 
 The UCPD applies not only to the trader who actually provides the travel and transport service but also to ‘ any other person acting in his name or on his behalf ’ (Article 2(b)). The provisions of the UCPD, in particular the information requirements laid down by Articles 6 and 7, are also applicable not only to airlines, hotels or car rental companies, but also to intermediaries – such as travel booking websites, comparison tools or metasearch websites – operating between them and consumers.
 
-| For example:  Both the airline and the online travel agent offering flight tickets to consumers [(393)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr393-C_2021526EN.01000101-E0393) in the name of the airline or on its behalf should inform consumers whether luggage is included in the price for the flight or whether it is subject to an extra fee. Both should also inform passengers whether flights can be rebooked or refunded. |
-| --- |
+> [!note]
+> For example:  Both the airline and the online travel agent offering flight tickets to consumers [(393)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr393-C_2021526EN.01000101-E0393) in the name of the airline or on its behalf should inform consumers whether luggage is included in the price for the flight or whether it is subject to an extra fee. Both should also inform passengers whether flights can be rebooked or refunded.
+
 
 Article 7(4) lists certain pieces of information to be regarded as material in invitations to purchase, for example, for a flight or train ticket, accommodation or a rental car, if the information is not already apparent from the context. Failing to provide this information could in some cases be regarded as a misleading omission. The types of information covered by this point include in particular:
 
-| — | the product’s main characteristics; |
-| --- | --- |
+> [!note]
+> the product’s main characteristics;
 
-| — | the trader’s identity; |
-| --- | --- |
 
-| — | the price inclusive of taxes; |
-| --- | --- |
+> [!note]
+> the trader’s identity;
 
-| — | the arrangements for payment; |
-| --- | --- |
 
-| — | the complaint handling policy. |
-| --- | --- |
+> [!note]
+> the price inclusive of taxes;
+
+
+> [!note]
+> the arrangements for payment;
+
+
+> [!note]
+> the complaint handling policy.
+
 
 Invitations to purchase are further discussed in section 2.9.5.
 
@@ -2644,8 +2859,15 @@ In particular, under Articles 6(1)(d) and 7(4)(c), the total price to be paid mu
 
 Prices for flights or hotel rooms may change very rapidly. For example, when a consumer looks for a flight ticket on the platform of an online travel agent the price may change between the moment the consumer starts searching for a ticket and the moment they decide to make a purchase. If such price changes are truly due to the dynamic nature of the market and thus outside of the control of the online travel agent, they will have an impact on the online travel agent's possibilities to ensure that the price it advertises is at all times fully correct. The professional diligence obligation in Article 5(2) the UCPD suggests that traders that are aware of the possibility of sudden price changes have to make this clear to the consumers when advertising prices.
 
-| For example:  \| — \| A trader offering package holidays mentioned the price of an insurance policy in the total price of a product. However, the insurance policy was not mandatory but optional. A national authority found this to be misleading [(395)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr395-C_2021526EN.01000101-E0395). \| \| --- \| --- \|  \| — \| Charging tourists for supplementary fuel costs without indicating how this charge was calculated and without providing consumers with proper documentation was considered to be a misleading omission, a misleading action and an aggressive practice by a national authority [(396)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr396-C_2021526EN.01000101-E0396). \| \| --- \| --- \|  \| — \| A trader offering holiday flats omitted to indicate in the price mandatory costs such as cleaning costs, city taxes and additional service charges for booking. A national court found this practice to be in breach of professional diligence and a misleading omission [(397)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr397-C_2021526EN.01000101-E0397). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ A trader offering package holidays mentioned the price of an insurance policy in the total price of a product. However, the insurance policy was not mandatory but optional. A national authority found this to be misleading [(395)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr395-C_2021526EN.01000101-E0395). 
+    
+ Charging tourists for supplementary fuel costs without indicating how this charge was calculated and without providing consumers with proper documentation was considered to be a misleading omission, a misleading action and an aggressive practice by a national authority [(396)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr396-C_2021526EN.01000101-E0396). 
+    
+ A trader offering holiday flats omitted to indicate in the price mandatory costs such as cleaning costs, city taxes and additional service charges for booking. A national court found this practice to be in breach of professional diligence and a misleading omission [(397)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr397-C_2021526EN.01000101-E0397). 
+  
+
 
 In the case where a trader offers additional (optional) services for purchase, the information on optional charges should be prominently displayed and distinguished from the main service; traders should not mislead consumers regarding the purchase of additional services. Optional costs may for instance be: the cost for a single room, non-compulsory insurance, choice of seat or checked luggage (as opposed to hand luggage) [(398)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr398-C_2021526EN.01000101-E0398). Consumers should be informed about the existence of non-mandatory costs in invitations to purchase and in any case, at the latest, at the start of the booking process. It should also be made clear that these costs are optional, and consumers should not be misled regarding their decision to purchase additional services [(399)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr399-C_2021526EN.01000101-E0399).
 
@@ -2657,7 +2879,7 @@ Apart from cases of pre-ticked boxes there may be other cases where traders who 
 
 Since such practices have been observed in particular in the air transport sector and given the existence of additional rules in that sector, examples are given under section 4.3.4.
 
-4.3.2. Package travel
+### Package travel
 
 Directive (EU) 2015/2302 on package travel and linked travel arrangements (Package Travel Directive) contains provisions on the combination of different travel services, i.e. carriage of passengers, accommodation, rental of motor vehicles [(400)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr400-C_2021526EN.01000101-E0400) and other tourist services, which are offered to travellers.
 
@@ -2667,37 +2889,43 @@ Traders are also obliged to inform travellers on optional or compulsory insuranc
 
 The Package Travel Directive does not prevent the application of the UCPD to packages and linked travel arrangements in complement to its specific rules.
 
-4.3.3. Timeshare contracts
+### Timeshare contracts
 
 Directive 2008/122/EC of the European Parliament and of the Council [(401)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr401-C_2021526EN.01000101-E0401) (Timeshare Directive) grants certain consumer protection rights regarding timeshare, long-term holiday products, resale and exchange contracts. In particular, it lays down:
 
-| — | strict rules on traders’ pre-contractual and contractual information obligations; |
-| --- | --- |
+> [!note]
+> strict rules on traders’ pre-contractual and contractual information obligations;
 
-| — | the consumer’s right to withdraw from the contract within 14 calendar days; |
-| --- | --- |
 
-| — | a ban on advance payments during the withdrawal period; |
-| --- | --- |
+> [!note]
+> the consumer’s right to withdraw from the contract within 14 calendar days;
 
-| — | a ban on advertising or selling such products as an investment. |
-| --- | --- |
+
+> [!note]
+> a ban on advance payments during the withdrawal period;
+
+
+> [!note]
+> a ban on advertising or selling such products as an investment.
+
 
 The UCPD provides protection to consumers complementary to the protection offered by the Timeshare Directive.
 
 The research undertaken to support the Commission report evaluating the Timeshare Directive [(402)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr402-C_2021526EN.01000101-E0402) points to certain recurrent problems in this sector, in particular in some popular holiday destinations in some EU Member States:
 
-| — | Misleading information before the contract is signed, giving buyers the wrong impression that the choice of available holiday places is practically unlimited or that the contract can be easily sold or exchanged. Often consumers discover only sometime after the signature of the contract that this information is incorrect. |
-| --- | --- |
+> [!note]
+> Misleading information before the contract is signed, giving buyers the wrong impression that the choice of available holiday places is practically unlimited or that the contract can be easily sold or exchanged. Often consumers discover only sometime after the signature of the contract that this information is incorrect.
 
-| — | Aggressive selling methods consisting in potential buyers being put under considerable pressure, for instance being ‘locked’ in a room where endless presentations take place and from where they are sometimes not allowed to leave unless they sign the contract. |
-| --- | --- |
+
+> [!note]
+> Aggressive selling methods consisting in potential buyers being put under considerable pressure, for instance being ‘locked’ in a room where endless presentations take place and from where they are sometimes not allowed to leave unless they sign the contract.
+
 
 The UCPD addresses these practices through its provisions on misleading actions (in particular Article 6(1)(b)) and on aggressive commercial practices (Articles 8 and 9).
 
 Furthermore, the Commission report on the Timeshare Directive pointed to recurrent consumer problems with the termination of timeshare contracts. The report concludes that this aspect can be successfully addressed at the level of national law and better enforcement of relevant EU consumer law instruments.
 
-4.3.4. Issues relevant in particular to air transport
+### Issues relevant in particular to air transport
 
 When advertising flight options, traders should ensure that statements regarding the availability of seats and flights (e.g. ‘last seat available’) are provided in a clear and truthful manner. Such statements include relevant qualifications, where necessary (e.g. ‘last seat available on this website at this amount ’). When advertising specific prices for flight options (e.g. ‘prices starting from 19.99 EUR’), the offered price must be available in quantities that are reasonable, having regard to the scale of the advertising made. Furthermore, traders should only present offers as time-limited if they will not be available at the same price afterwards.
 
@@ -2707,28 +2935,37 @@ A flight’s ‘main characteristics’ within the meaning of Articles 6(1)(b) a
 
 This is particularly relevant for airlines which sometimes organise flights from airports located at a certain distance from a big city, but use the name of that city in their marketing. In some cases, such commercial practices may mislead consumers as to the airport’s actual location and be likely to cause consumers to take transactional decisions they would not have taken otherwise. Indeed, some consumers could prefer paying a higher price in return for arriving at an airport closer to the city of destination.
 
-| For example:  Indicating a destination as ‘Barcelona’ when the airport is actually located in the city of Reus which is 100 km from Barcelona is likely to be considered as deceiving. |
-| --- |
+> [!note]
+> For example:  Indicating a destination as ‘Barcelona’ when the airport is actually located in the city of Reus which is 100 km from Barcelona is likely to be considered as deceiving.
+
 
 On top of the requirements of Articles 6(1)(d) and 7(4)(c) UCPD to display the price inclusive of unavoidable and foreseeable fees and taxes, Article 23(1) of the Air Services Regulation (EC) No 1008/2008 provides that ‘ the final price to be paid shall at all times be indicated and shall include the applicable air fare or air rate as well as all applicable taxes, and charges, surcharges and fees which are unavoidable and foreseeable at the time of publication ’.
 
 The Regulation also requires:
 
-| — | the indication of the final price to be broken down into components (e.g. air fare, taxes, airport and other charges and surcharges); |
-| --- | --- |
+> [!note]
+> the indication of the final price to be broken down into components (e.g. air fare, taxes, airport and other charges and surcharges);
 
-| — | that optional price supplements are communicated in a clear, transparent and unambiguous manner at the start of the booking process; |
-| --- | --- |
 
-| — | that the customer’s acceptance of optional price supplements must be on an ‘opt-in’ basis. |
-| --- | --- |
+> [!note]
+> that optional price supplements are communicated in a clear, transparent and unambiguous manner at the start of the booking process;
+
+
+> [!note]
+> that the customer’s acceptance of optional price supplements must be on an ‘opt-in’ basis.
+
 
 The Court has clarified that price elements that are unavoidable and foreseeable under Article 23(1) include passengers’ check-in fees whose payment cannot be avoided because there is no alternative method of checking-in free of charge, the VAT applied to fares for domestic flights, and administrative fees for purchases made by means of a credit card other than that approved by the air carrier. By contrast, optional price supplements include passengers’ check-in fees whose payment can be avoided by using a free check-in option and the VAT applied to optional supplements relating to domestic flights [(403)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr403-C_2021526EN.01000101-E0403).
 
 Where travel service providers who market their services online breach the CRD or the Air Services Regulation, aspects of the infringing practices that are not specifically regulated by Articles in these sector-specific legal instruments could be considered ‘unfair’ under the UCPD to the extent that they are likely to cause the average consumer to take a transactional decision they would not have taken otherwise. This must be assessed on a case-by-case basis.
 
-| For example:  \| — \| A trader uses pre-ticked boxes or offers additional services in an unclear or ambiguous manner by hiding the possibility not to book any further services or by making it difficult for consumers not to select the additional services. By doing so, the trader could cause consumers to accept additional services which they would not have chosen otherwise. \| \| --- \| --- \|  \| — \| The price of flight tickets does not in most cases include the price of travel insurance. The practice where consumers who do not wish to buy travel insurance are required to click on the ‘no insurance’ option when booking a flight ticket is likely to fall under Article 22 of the Consumer Rights Directive and Article 23(1) of the Air Services Regulation. Even before the entry into application of the Consumers Rights Directive, some national authorities had taken action against such practices under the UCPD. Similarly, the practice where consumers who do not wish to purchase travel insurance are required when booking a flight ticket to select a ‘no insurance’ option hidden among a list of potential countries of residence had been considered as unfair because it was incompatible with professional diligence (Article 5(2) UCPD) or misleading (Article 6 or 7). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!Example] 
+> For example:  
+ A trader uses pre-ticked boxes or offers additional services in an unclear or ambiguous manner by hiding the possibility not to book any further services or by making it difficult for consumers not to select the additional services. By doing so, the trader could cause consumers to accept additional services which they would not have chosen otherwise. 
+    
+ The price of flight tickets does not in most cases include the price of travel insurance. The practice where consumers who do not wish to buy travel insurance are required to click on the ‘no insurance’ option when booking a flight ticket is likely to fall under Article 22 of the Consumer Rights Directive and Article 23(1) of the Air Services Regulation. Even before the entry into application of the Consumers Rights Directive, some national authorities had taken action against such practices under the UCPD. Similarly, the practice where consumers who do not wish to purchase travel insurance are required when booking a flight ticket to select a ‘no insurance’ option hidden among a list of potential countries of residence had been considered as unfair because it was incompatible with professional diligence (Article 5(2) UCPD) or misleading (Article 6 or 7). 
+  
+
 
 The information requirements of the Air Services Regulation qualify as material information under Article 7(5) UCPD. They add to the UCPD requirements under Article 7(4) as regards information about the total price of the flight ticket including whether consumers need to pay a development fee at the departing/arriving airport. In addition it should be recalled that, as discussed in section 1.2.1, where sector-specific or other EU law is in place and its provisions overlap with the provisions of the UCPD, the corresponding provisions of the lex specialis will prevail.
 
@@ -2736,20 +2973,23 @@ Information about mandatory fees to be paid after the booking process, for insta
 
 If airlines or intermediaries selling flight tickets link the cost of the payment surcharge to the means of payment used, the initial price should include the cost of the most common method of payment and, as clarified the Ryanair case [(404)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr404-C_2021526EN.01000101-E0404), the administrative fees for purchases made by means of a credit card other than that approved by the air carrier. When such surcharges cannot be calculated in advance, consumers should be properly informed about the manner in which the price is calculated or about the fact that they ‘may be payable’.
 
-| For example:  If paying with an airline’s loyalty card incurs a cost of EUR 1,5, while paying with a credit card costs EUR 6, the price indicated in the invitation to purchase and at the start of the booking process should include the price of the credit card. Moreover, most consumers will probably not be able to pay with the airline’s loyalty card. |
-| --- |
+> [!note]
+> For example:  If paying with an airline’s loyalty card incurs a cost of EUR 1,5, while paying with a credit card costs EUR 6, the price indicated in the invitation to purchase and at the start of the booking process should include the price of the credit card. Moreover, most consumers will probably not be able to pay with the airline’s loyalty card.
+
 
 In addition, Article 19 of the CRD prohibits traders from charging the consumer fees for using a particular means of payment that exceed the cost borne by the trader for the use of such means. This should apply to all kind of fees which are directly linked to a means of payment, regardless of how they are presented to consumers.
 
-| For example:  Fees referred to as administration, booking or handling fees, which are commonly used in the online ticketing sector, especially by airlines and ferry companies, and also in online sales of tickets for events, should be covered by Article 19 if they can be avoided by using a specific means of payment. |
-| --- |
+> [!note]
+> For example:  Fees referred to as administration, booking or handling fees, which are commonly used in the online ticketing sector, especially by airlines and ferry companies, and also in online sales of tickets for events, should be covered by Article 19 if they can be avoided by using a specific means of payment.
+
 
 Article 23(1) of the Air Services Regulation requires that air fares and air rates available to the general public include the applicable conditions when offered or published in any form. The Court also emphasised in the Air Berlin case [(405)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr405-C_2021526EN.01000101-E0405) that Article 23(1) of the Air Services Regulation requires online booking systems to display to consumers the final price to be paid whenever prices of air services are shown.
 
 Likewise, information concerning the luggage policy, including the hand luggage allowance, luggage size and all applicable fees, should also be prominently displayed. Any additional cost or fee in that regard must be clearly indicated [(406)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr406-C_2021526EN.01000101-E0406). Changes to pre-existing luggage policies must be carefully communicated to consumers in order to avoid misleading them under in particular Article 7(1), (4) and (5) UCPD. An average consumer may have reasonable expectations on what the luggage policy entails, such as the inclusion of standard hand luggage that meets reasonable requirements in terms of its weight and dimension in the price of the ticket [(407)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr407-C_2021526EN.01000101-E0407).
 
-| For example:  A national court ordered an airline to refund a customer who was charged for taking a carry-on bag without a special ticket, and told the airline to remove the clause from its terms and conditions. The airline only allowed small bags into the cabin if they can be stowed under the seat in front, but larger bags of up to 10 kilos require a luggage fee, or a fee-paying priority boarding pass. The court ruled that the hand luggage policy generates a serious imbalance in the parties’ contractual relationship to the detriment of the consumer [(408)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr408-C_2021526EN.01000101-E0408). |
-| --- |
+> [!note]
+> For example:  A national court ordered an airline to refund a customer who was charged for taking a carry-on bag without a special ticket, and told the airline to remove the clause from its terms and conditions. The airline only allowed small bags into the cabin if they can be stowed under the seat in front, but larger bags of up to 10 kilos require a luggage fee, or a fee-paying priority boarding pass. The court ruled that the hand luggage policy generates a serious imbalance in the parties’ contractual relationship to the detriment of the consumer [(408)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr408-C_2021526EN.01000101-E0408).
+
 
 Under Article 23(1) of the Air Services Regulation, optional fees for seat selection (the alternative being random allocation of seats to different parts of the aircraft) should be communicated in a clear, transparent and unambiguous way at the start of any booking process.
 
@@ -2759,26 +2999,38 @@ Also, procedures put in place should not make it difficult to reclaim taxes and 
 
 In case of flight cancellations by the airline, the latter must provide passengers with clear information about the applicable passenger rights under the Air Passenger Rights Regulation (EC) No 261/2004, and the relevant procedures that must be followed by the consumer. The failure to provide this information in a timely and accurate manner could amount to a lack of professional diligence under Article 5(2) UCPD and may therefore be considered misleading under the UCPD. For example, information on applicable rights and procedures should be presented in a clear way giving the same prominence to the different statutory options the passenger has in the event of a flight delay/cancellation. It should be communicated to the passenger in a timely and user-friendly fashion, for example in the form of a hyperlink in email or SMS communication.
 
-| For example:  \| — \| In 2017, several enforcement authorities took action in response to mass flight cancellations by an airline as a result of crew and air traffic strikes. The airline was found to act in a misleading manner when informing the passengers of the cancellations by not providing complete and adequate information on the consumers’ rights to compensation pursuant to Regulation (EC) No 261/2004. The airline was requested by several authorities to inform consumers of the relevant rights arising from the cancellation and the procedures to be followed [(409)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr409-C_2021526EN.01000101-E0409). \| \| --- \| --- \|  \| — \| In 2020, the Commission provided additional guidelines on EU passenger rights as well as a Recommendation on vouchers in response to massive cancellations due to the COVID-19 pandemic [(410)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr410-C_2021526EN.01000101-E0410). In case of cancellations by the airline, the transport provider must reimburse or re-route the passengers. Reimbursement in the form of a voucher is subject to the agreement by the passenger. If passengers themselves decide to cancel their journeys, reimbursement of the ticket (in cash or in the form of a voucher) is not regulated by Regulation (EC) No 261/2004 and therefore depends on the terms and conditions of the air carrier [(411)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr411-C_2021526EN.01000101-E0411). \| \| --- \| --- \|  \| — \| In 2021, a consumer authority fined three airlines EUR 8,4 million in total due to breaches of the UCPD in the context of the COVID-19 pandemic. The airlines were found to breach the professional diligence rules when continuing to cancel flights for reasons of health emergency in periods when travel restrictions were lifted, proceeding to issue vouchers rather than offering passengers reimbursement for their tickets. The authority also found that the airlines provided misleading information and omissions, including through the use of procedures that encouraged or forced consumers to choose vouchers over reimbursement in money. Some of the airlines fined were found to also impose additional obstacles on voucher holders, such as requiring them to call a telephone number to redeem their vouchers [(412)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr412-C_2021526EN.01000101-E0412). \| \| --- \| --- \|  \| — \| The CPC network of consumer authorities launched a coordinated survey of a number of airlines in 2021 in respect of their flight cancellation and reimbursement practices during the COVID-19 pandemic, identifying problematic industry-wide practices. In particular, the CPC network found that reimbursement was often presented to consumers less prominently than vouchers and airlines were not proactively informing affected consumers about their rights, including information required under Regulation (EC) No 261/2004 [(413)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr413-C_2021526EN.01000101-E0413). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ In 2017, several enforcement authorities took action in response to mass flight cancellations by an airline as a result of crew and air traffic strikes. The airline was found to act in a misleading manner when informing the passengers of the cancellations by not providing complete and adequate information on the consumers’ rights to compensation pursuant to Regulation (EC) No 261/2004. The airline was requested by several authorities to inform consumers of the relevant rights arising from the cancellation and the procedures to be followed [(409)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr409-C_2021526EN.01000101-E0409). 
+    
+ In 2020, the Commission provided additional guidelines on EU passenger rights as well as a Recommendation on vouchers in response to massive cancellations due to the COVID-19 pandemic [(410)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr410-C_2021526EN.01000101-E0410). In case of cancellations by the airline, the transport provider must reimburse or re-route the passengers. Reimbursement in the form of a voucher is subject to the agreement by the passenger. If passengers themselves decide to cancel their journeys, reimbursement of the ticket (in cash or in the form of a voucher) is not regulated by Regulation (EC) No 261/2004 and therefore depends on the terms and conditions of the air carrier [(411)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr411-C_2021526EN.01000101-E0411). 
+    
+ In 2021, a consumer authority fined three airlines EUR 8,4 million in total due to breaches of the UCPD in the context of the COVID-19 pandemic. The airlines were found to breach the professional diligence rules when continuing to cancel flights for reasons of health emergency in periods when travel restrictions were lifted, proceeding to issue vouchers rather than offering passengers reimbursement for their tickets. The authority also found that the airlines provided misleading information and omissions, including through the use of procedures that encouraged or forced consumers to choose vouchers over reimbursement in money. Some of the airlines fined were found to also impose additional obstacles on voucher holders, such as requiring them to call a telephone number to redeem their vouchers [(412)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr412-C_2021526EN.01000101-E0412). 
+    
+ The CPC network of consumer authorities launched a coordinated survey of a number of airlines in 2021 in respect of their flight cancellation and reimbursement practices during the COVID-19 pandemic, identifying problematic industry-wide practices. In particular, the CPC network found that reimbursement was often presented to consumers less prominently than vouchers and airlines were not proactively informing affected consumers about their rights, including information required under Regulation (EC) No 261/2004 [(413)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr413-C_2021526EN.01000101-E0413). 
+  
+
 
 Practices related to corrections of names on tickets should be transparent and proportionate, taking into account the circumstances of the case. In addition to concerns regarding the misleading nature of the practices, the imposition of additional fees may in some cases amount to an aggressive practice under Articles 8 and 9 in particular, for example, the consumer is only informed about such fees at the airport, with the flight imminently leaving. If the practice stems from contractual terms, the Unfair Contract Terms Directive may be applicable (see section 1.2.4).
 
-| For example:  A consumer authority fined an airline for the application of a penalty to consumers - initially consisting in payment for a new ticket to be able to use the service already purchased and, subsequently, a fee of EUR 50 per route - in cases of incorrect registration of the passenger’s name at the time of booking, specifically for cases of omission of any middle names or surname or in the case of alteration/lack of some letters. The airline did not provide any advance information regarding the consequences of incomplete registration and some of the discrepancies were due to the airline’s own system, e.g. limited space available for inserting all names/surnames of passengers or misalignment between operating interfaces with websites of intermediaries [(414)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr414-C_2021526EN.01000101-E0414). |
-| --- |
+> [!note]
+> For example:  A consumer authority fined an airline for the application of a penalty to consumers - initially consisting in payment for a new ticket to be able to use the service already purchased and, subsequently, a fee of EUR 50 per route - in cases of incorrect registration of the passenger’s name at the time of booking, specifically for cases of omission of any middle names or surname or in the case of alteration/lack of some letters. The airline did not provide any advance information regarding the consequences of incomplete registration and some of the discrepancies were due to the airline’s own system, e.g. limited space available for inserting all names/surnames of passengers or misalignment between operating interfaces with websites of intermediaries [(414)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr414-C_2021526EN.01000101-E0414).
 
-4.3.5. Issues relevant in particular to car rental
+### Issues relevant in particular to car rental
 
 The provisions of the UCPD apply both to the traders offering the car rental service and to intermediaries, such as booking or comparison websites. In 2017, the Commission and national authorities obtained commitments from five car rental companies, in accordance with EU consumer law, concerning the following practices: [(415)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr415-C_2021526EN.01000101-E0415)
 
-| — | Include all charges in the total booking price: a headline price on the website should match the final price consumers have to pay, including all additional costs such as specific fuel service charges, airport fees, ‘young driver surcharges’, or the ‘one way fee’ if the return location differs from the pick-up location; |
-| --- | --- |
+> [!note]
+> Include all charges in the total booking price: a headline price on the website should match the final price consumers have to pay, including all additional costs such as specific fuel service charges, airport fees, ‘young driver surcharges’, or the ‘one way fee’ if the return location differs from the pick-up location;
 
-| — | Clearly description of the key rental services in the terms and conditions in all national languages, in particular about the main characteristics of the rental such as mileage included, fuel policy, cancellation policy and deposit requirements, etc. |
-| --- | --- |
 
-| — | Clear information in the price offer about the price and details of optional extras, in particular for insurance waivers that reduce the amount due in case of damage and notably what the driver may still have to pay. |
-| --- | --- |
+> [!note]
+> Clearly description of the key rental services in the terms and conditions in all national languages, in particular about the main characteristics of the rental such as mileage included, fuel policy, cancellation policy and deposit requirements, etc.
+
+
+> [!note]
+> Clear information in the price offer about the price and details of optional extras, in particular for insurance waivers that reduce the amount due in case of damage and notably what the driver may still have to pay.
+
 
 Traditionally, car rental companies provide vehicles with a full tank and require consumers to return the vehicle with a full tank after rental. However, consumers complained that some traders make consumers pay an additional cost for the full tank when taking possession of the vehicle and then expect the consumers to return the car with an empty tank, without providing any reimbursement if there is still fuel in the tank when the car is returned.
 
@@ -2786,66 +3038,82 @@ Under the UCPD, subject to a case-by-case assessment, such commercial practice c
 
 A commercial practice by which consumers have to pay for significantly more fuel than they actually use could also in some circumstances be contrary to the requirements of professional diligence laid down in Article 5(2) UCPD.
 
-| For example:  The duration of the rental period and the local situation could be taken into account when assessing whether the practice of charging consumers for the full tank is unfair. For example, the fact that a vehicle is rented for a short time (e.g. 2 or 3 days) or the geographical location (e.g. a car rented on a small island) could make it unlikely that the consumer will be able to empty the tank. |
-| --- |
+> [!note]
+> For example:  The duration of the rental period and the local situation could be taken into account when assessing whether the practice of charging consumers for the full tank is unfair. For example, the fact that a vehicle is rented for a short time (e.g. 2 or 3 days) or the geographical location (e.g. a car rented on a small island) could make it unlikely that the consumer will be able to empty the tank.
+
 
 Under Articles 6(1)(b) and (d) and 7 (4)(a) and (c), consumers should be clearly informed about the main characteristics and the price of the rental service. The main characteristics and the price of a car rental contract could, for example, include information about the type of vehicle, the costs, the extent of waivers and excesses and possible options (such as winter tyres and child seats).
 
-| For example:  \| — \| It could be misleading for a trader to claim ‘0 liability’ if, in fact, an excess will always apply to the consumer in the event of damage, even at a small cost. \| \| --- \| --- \|  \| — \| It could be misleading to claim ‘full insurance included’ when, for example, the insurance does not cover damage to the roof and windshield. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ It could be misleading for a trader to claim ‘0 liability’ if, in fact, an excess will always apply to the consumer in the event of damage, even at a small cost. 
+    
+ It could be misleading to claim ‘full insurance included’ when, for example, the insurance does not cover damage to the roof and windshield. 
+  
+
 
 Car rental companies must also take specific national or local requirements into account.
 
-| For example:  National law may require all vehicles to be equipped with snow tyres in winter. A company offering car rental in that Member State during the winter period should therefore provide vehicles with snow tyres. If snow tyres involve an additional cost, consumers should be informed about this non-optional cost right at the start of the booking process. |
-| --- |
+> [!note]
+> For example:  National law may require all vehicles to be equipped with snow tyres in winter. A company offering car rental in that Member State during the winter period should therefore provide vehicles with snow tyres. If snow tyres involve an additional cost, consumers should be informed about this non-optional cost right at the start of the booking process.
 
-4.3.6. Issues relevant in particular to travel booking websites
+### Issues relevant in particular to travel booking websites
 
 The UCPD is applicable not only to the traders offering the travel service, but also to intermediaries such as travel booking websites [(416)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr416-C_2021526EN.01000101-E0416), which must comply with the key provisions addressed in previous sections. Consumers need to receive material information about the traders’ identity, contact details, applicable cancellation policies and core aspects of travel safety, e.g. whether tourist accommodations are equipped with smoke and carbon monoxide detectors or whether passenger transport services are offered with vehicles that are adequately inspected and insured.
 
 In 2019, the Commission and national authorities received commitments from Airbnb, in accordance with EU consumer law concerning the following practices [(417)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr417-C_2021526EN.01000101-E0417):
 
-| — | Consumers must see the total price in the search results page, including all the applicable mandatory charges and fees (e.g. service, cleaning charges and local taxes); |
-| --- | --- |
+> [!note]
+> Consumers must see the total price in the search results page, including all the applicable mandatory charges and fees (e.g. service, cleaning charges and local taxes);
 
-| — | Clearly distinguishing if an accommodation offer is put on the market by a private host or a professional; |
-| --- | --- |
 
-| — | Providing an easily accessible link to the ODR platform [(418)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr418-C_2021526EN.01000101-E0418) on its website and all the necessary information related to dispute resolution; |
-| --- | --- |
+> [!note]
+> Clearly distinguishing if an accommodation offer is put on the market by a private host or a professional;
 
-| — | Making it clear that consumers can bring a case before the courts of their country of residence and respecting the right to sue a host in case of personal harm or other damages; |
-| --- | --- |
 
-| — | Not unilaterally changing the terms and conditions without clearly informing users in advance and without giving them the possibility to cancel the contract. |
-| --- | --- |
+> [!note]
+> Providing an easily accessible link to the ODR platform [(418)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr418-C_2021526EN.01000101-E0418) on its website and all the necessary information related to dispute resolution;
+
+
+> [!note]
+> Making it clear that consumers can bring a case before the courts of their country of residence and respecting the right to sue a host in case of personal harm or other damages;
+
+
+> [!note]
+> Not unilaterally changing the terms and conditions without clearly informing users in advance and without giving them the possibility to cancel the contract.
+
 
 In 2020, the Commission and national authorities received commitments from Booking and Expedia, in accordance with EU consumer law, including on the following practices: [(419)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr419-C_2021526EN.01000101-E0419)
 
-| — | Ensuring the clear presentation of price reductions and discounts, including not presenting prices calculated in relation to different stay dates as a discount (e.g. by using a strikethrough or terms such as ‘% off’) and making it clear if lower prices are only available to members of reward programmes; |
-| --- | --- |
+> [!note]
+> Ensuring the clear presentation of price reductions and discounts, including not presenting prices calculated in relation to different stay dates as a discount (e.g. by using a strikethrough or terms such as ‘% off’) and making it clear if lower prices are only available to members of reward programmes;
 
-| — | Making it clear when payments received by accommodation providers have influenced their rankings in search results and including information in search results if it corresponds to the search criteria (e.g. in case the results show hotels that are not available in the specified dates, then they should only be presented in an appropriate manner); |
-| --- | --- |
 
-| — | Displaying statements about the number of visitors and availability in a clear manner and including the relevant qualifications, such as ‘limited rooms on this website ’ or ‘for the same stay dates ’; |
-| --- | --- |
+> [!note]
+> Making it clear when payments received by accommodation providers have influenced their rankings in search results and including information in search results if it corresponds to the search criteria (e.g. in case the results show hotels that are not available in the specified dates, then they should only be presented in an appropriate manner);
 
-| — | Not falsely presenting an offer as time-limited if the offer will continue to be available at the same price also afterwards; |
-| --- | --- |
 
-| — | Not limiting or totally excluding liability in connection to the performance of contractual obligations, and not imposing a general and absolute obligation on the consumer to assume all possible risks. |
-| --- | --- |
+> [!note]
+> Displaying statements about the number of visitors and availability in a clear manner and including the relevant qualifications, such as ‘limited rooms on this website ’ or ‘for the same stay dates ’;
 
-4.4. Financial services and immovable property
 
-| Article 3(9)  In relation to financial services as defined in Directive 2002/65/EC and immovable property, Member States may impose requirements which are more restrictive or prescriptive than this Directive in the field which it approximates. |
-| --- |
+> [!note]
+> Not falsely presenting an offer as time-limited if the offer will continue to be available at the same price also afterwards;
 
-| Recital 9  ‘financial services and immovable property, by reason of their complexity and inherent serious risks, necessitate detailed requirements, including positive obligations on traders. For this reason, in the field of financial services and immovable property, this Directive is without prejudice to the right of Member States to go beyond its provisions to protect the economic interests of consumers’. |
-| --- |
 
-4.4.1. Cross-cutting issues
+> [!note]
+> Not limiting or totally excluding liability in connection to the performance of contractual obligations, and not imposing a general and absolute obligation on the consumer to assume all possible risks.
+
+## Financial services and immovable property
+
+> [!note]
+> Article 3(9)  In relation to financial services as defined in Directive 2002/65/EC and immovable property, Member States may impose requirements which are more restrictive or prescriptive than this Directive in the field which it approximates.
+
+
+> [!note]
+> Recital 9  ‘financial services and immovable property, by reason of their complexity and inherent serious risks, necessitate detailed requirements, including positive obligations on traders. For this reason, in the field of financial services and immovable property, this Directive is without prejudice to the right of Member States to go beyond its provisions to protect the economic interests of consumers’.
+
+### Cross-cutting issues
 
 In explanation of the rationale behind Article 3(9) of the Directive, the 2013 Commission Report on the application of the UCPD [(420)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr420-C_2021526EN.01000101-E0420) noted that:
 
@@ -2865,7 +3133,7 @@ Article 5(2)(a) UCPD on the requirements of professional diligence seems particu
 
 The most commonly reported unfair practices (within the meaning of the UCPD) in relation to both financial services [(430)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr430-C_2021526EN.01000101-E0430) and immovable property concern a lack of essential information at the advertising stage and misleading descriptions of products [(431)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr431-C_2021526EN.01000101-E0431). Online offers can lack information on the main characteristics of the consumer credit, or the initially displayed credit costs do not include all applicable charges or are not presented in a clear, intelligible and unambiguous manner, as required by Articles 7 (1), (2) and (4) of the UCPD [(432)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr432-C_2021526EN.01000101-E0432). These practices may also entail breaches of other consumer legislation, in particular the Consumer Credit Directive and the Unfair Contract Terms Directive.
 
-4.4.2. Issues specific to immovable property
+### Issues specific to immovable property
 
 Whilst immovable property is traditionally regulated at national level, some important aspects thereof are, since March 2016, regulated at EU level [(433)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr433-C_2021526EN.01000101-E0433). The UCPD’s general rules typically complement both sector-specific EU law, as well as national, sometimes stricter, rules.
 
@@ -2873,77 +3141,109 @@ There are some issues specific to the application of the Directive to this secto
 
 Under Article 2(a) of the Directive, any natural person who is acting for purposes which are outside his trade, business, craft or profession will qualify as a consumer. Consequently, the fact that a natural person buys an immovable property for investment purposes should not affect his status as a consumer, as long as this is done outside the person’s professional activities. Therefore, the Directive will apply and protect, for instance, such a buyer who is misled by a real estate developer over the purchase.
 
-| For example:  A teacher in Germany decides to buy two flats in a holiday complex in Spain in order to rent them to other people and, at a later point in time, retire in Spain. As long as they do this outside their professional activities, they will qualify as a consumer under the Directive in relation to his flats in Spain. |
-| --- |
+> [!note]
+> For example:  A teacher in Germany decides to buy two flats in a holiday complex in Spain in order to rent them to other people and, at a later point in time, retire in Spain. As long as they do this outside their professional activities, they will qualify as a consumer under the Directive in relation to his flats in Spain.
+
 
 The notion of ‘trader’ may apply to landlords. Under Article 2(b) of the Directive, any natural or legal person qualifies as a trader if they are acting for purposes relating to his trade, business, craft or profession. Consequently, the mere fact that a person lets an apartment or a house to somebody else should not make that person automatically qualify as a trader vis-à-vis their tenant. However, if that person receives an essential part of his/her income from renting apartments to other people, that person could in certain circumstances be considered a trader under the UCPD (see also section 2.2 on the concept of the trader).
 
 Finally, in view of the importance and uniqueness of the decision that consumers make when purchasing immovable property, traders should pay particular attention to complying with the information requirements in Article 6 and 7 UCPD. In the context of the Unfair Contract Terms Directive, the Court has insisted on the importance of a family home as a fundamental right [(434)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr434-C_2021526EN.01000101-E0434).
 
-| For example:  \| — \| Consumers that have bought apartments in certain property development projects have found that after the buildings were finished, the apartments were connected neither to a water supply nor to electricity. Information that this would be the case would be likely to qualify as material information in relation to the ‘main characteristics of the product’ both under Article 6(1)(b) and 7(4)(a) UCPD. The fact that an additional service would be necessary to connect the apartment to these facilitates could also be material under Article 6(1)(e). \| \| --- \| --- \|  \| — \| The surface area of an immovable property could qualify as material information under Articles 6(1)(a), 6(1)(b) and 7(4)(a). \| \| --- \| --- \|  \| — \| The price of the property including VAT and all unavoidable charges, such as the selling agent or broker’s commission, would be material information under Article 7(4)(c). \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> [!note]
+> For example:  
+ Consumers that have bought apartments in certain property development projects have found that after the buildings were finished, the apartments were connected neither to a water supply nor to electricity. Information that this would be the case would be likely to qualify as material information in relation to the ‘main characteristics of the product’ both under Article 6(1)(b) and 7(4)(a) UCPD. The fact that an additional service would be necessary to connect the apartment to these facilitates could also be material under Article 6(1)(e). 
+    
+ The surface area of an immovable property could qualify as material information under Articles 6(1)(a), 6(1)(b) and 7(4)(a). 
+    
+ The price of the property including VAT and all unavoidable charges, such as the selling agent or broker’s commission, would be material information under Article 7(4)(c).
 
-4.4.3. Issues specific to financial services
+### Issues specific to financial services
 
 Since a robust set of EU sector-specific legislation exists in this sector, the ‘safety net’ character of the UCPD is particularly apparent here [(435)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr435-C_2021526EN.01000101-E0435).
 
 Financial services are defined by Directive 2002/65/EC of the European Parliament and of the Council [(436)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr436-C_2021526EN.01000101-E0436) as ‘ any service of a banking, credit, insurance, personal pension, investment or payment nature ’ [(437)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr437-C_2021526EN.01000101-E0437). Several types of sector-specific EU legislation are of relevance for consumer protection in relation to financial services. Examples would be:
 
-| — | Directive 2014/65/EU on markets in financial instruments (MiFID 2); |
-| --- | --- |
+> [!note]
+> Directive 2014/65/EU on markets in financial instruments (MiFID 2);
 
-| — | Directive (EU) 2015/2366 on payment services; |
-| --- | --- |
 
-| — | Directive 2008/48/EC on credit agreements for consumers; |
-| --- | --- |
+> [!note]
+> Directive (EU) 2015/2366 on payment services;
 
-| — | Directive 2014/17/EU on credit agreements for consumers relating to residential immovable property; |
-| --- | --- |
 
-| — | Directive 2014/92/EU on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features; |
-| --- | --- |
+> [!note]
+> Directive 2008/48/EC on credit agreements for consumers;
 
-| — | Directive (EU) 2016/97 on insurance distribution; |
-| --- | --- |
 
-| — | Regulation (EU) 2015/751 of the European Parliament and of the Council [(438)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr438-C_2021526EN.01000101-E0438) on interchange fees for card-based payment transactions; |
-| --- | --- |
+> [!note]
+> Directive 2014/17/EU on credit agreements for consumers relating to residential immovable property;
 
-| — | Regulation (EU) No 1286/2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs). |
-| --- | --- |
+
+> [!note]
+> Directive 2014/92/EU on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features;
+
+
+> [!note]
+> Directive (EU) 2016/97 on insurance distribution;
+
+
+> [!note]
+> Regulation (EU) 2015/751 of the European Parliament and of the Council [(438)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr438-C_2021526EN.01000101-E0438) on interchange fees for card-based payment transactions;
+
+
+> [!note]
+> Regulation (EU) No 1286/2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs).
+
 
 Financial service products are often difficult to understand and can involve significant economic risks, so traders should take particular care to act with the standard of skill and care which can reasonably be expected from a professional within this field of commercial activity cf. Article 5(2)(a) UCPD.
 
-| For example:  Under Article 5(6) of the Consumer Credit Directive, creditors and, where applicable credit intermediaries should provide adequate explanations to consumers in order to place the consumer in a position enabling them to assess whether the proposed credit agreement is adapted to their needs and to their financial situation, where appropriate by explaining the pre-contractual information to be provided in accordance with Article 5(1) of the Consumer Credit Directive, the essential characteristics of the products proposed and the specific effects they may have on the consumer, including the consequences of default in payment by the consumer. |
-| --- |
+> [!note]
+> For example:  Under Article 5(6) of the Consumer Credit Directive, creditors and, where applicable credit intermediaries should provide adequate explanations to consumers in order to place the consumer in a position enabling them to assess whether the proposed credit agreement is adapted to their needs and to their financial situation, where appropriate by explaining the pre-contractual information to be provided in accordance with Article 5(1) of the Consumer Credit Directive, the essential characteristics of the products proposed and the specific effects they may have on the consumer, including the consequences of default in payment by the consumer.
+
 
 Traders should also not engage in misleading practices as set out in Articles 6 and 7 UCPD, such as:
 
-| — | lack of information in advertising on the annual percentage rate of charge (APR) and the cost of credit; |
-| --- | --- |
+> [!note]
+> lack of information in advertising on the annual percentage rate of charge (APR) and the cost of credit;
 
-| — | offers of misleading bargains for credit contracts with a low interest rate; |
-| --- | --- |
 
-| — | lack of proper information on the legal obligations related to the signing of contracts. |
-| --- | --- |
+> [!note]
+> offers of misleading bargains for credit contracts with a low interest rate;
 
-| For example:  \| — \| Traders should not exaggerate economic benefits, not omit information about financial risks to consumer and not over-rely on past performance on the financial product. \| \| --- \| --- \|  \| — \| The main characteristics of a financial product under Articles 6(1)(b) and 7(4)(a) could include information that a financial product will be calculated in a currency which is not that of the country where the contract is concluded [(439)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr439-C_2021526EN.01000101-E0439) \| \| --- \| --- \|  \| — \| Under Article 6(1)(d) and 7(4)(c), the presentation and calculation of fees and charges should include all costs incurred by the consumers, for example by including costs of the service related to fees for agents or intermediaries, or in relation to overdraft charges. The presentation and calculation of fees and charges should also clearly state that a specific low interest rate and/or charge is only applicable for a limited period of time. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+> [!note]
+> lack of proper information on the legal obligations related to the signing of contracts.
+
+
+> [!note]
+> For example:  
+ Traders should not exaggerate economic benefits, not omit information about financial risks to consumer and not over-rely on past performance on the financial product. 
+    
+ The main characteristics of a financial product under Articles 6(1)(b) and 7(4)(a) could include information that a financial product will be calculated in a currency which is not that of the country where the contract is concluded [(439)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr439-C_2021526EN.01000101-E0439) 
+    
+ Under Article 6(1)(d) and 7(4)(c), the presentation and calculation of fees and charges should include all costs incurred by the consumers, for example by including costs of the service related to fees for agents or intermediaries, or in relation to overdraft charges. The presentation and calculation of fees and charges should also clearly state that a specific low interest rate and/or charge is only applicable for a limited period of time. 
+  
+
 
 Articles 8 and 9 set out criteria for assessing aggressive commercial practices. In particular, point No 27 of Annex I to the Directive refers to an aggressive commercial practice in the field of financial services and therefore must be considered unfair in all circumstances:
 
-| No 27 of ANNEX I  ‘Requiring a consumer who wishes to claim on an insurance policy to produce documents which could not reasonably be considered relevant as to whether the claim was valid, or failing systematically to respond to pertinent correspondence, in order to dissuade a consumer from exercising his contractual rights.’ |
-| --- |
+> [!note]
+> No 27 of ANNEX I  ‘Requiring a consumer who wishes to claim on an insurance policy to produce documents which could not reasonably be considered relevant as to whether the claim was valid, or failing systematically to respond to pertinent correspondence, in order to dissuade a consumer from exercising his contractual rights.’
 
-| For example:  \| — \| In some circumstances, obstacles to switching [(440)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr440-C_2021526EN.01000101-E0440) may be considered an aggressive commercial practice and therefore unfair on the basis of Article 9(d) [(441)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr441-C_2021526EN.01000101-E0441). \| \| --- \| --- \|  \| — \| In the insurance sector, point No 27 Annex I has been applied to situations where insurers refused to pay claims by compelling consumers who wanted to apply for compensation under an insurance policy to produce documents which could not be reasonably considered relevant to establish the validity of the request. In those cases, the traders systematically failed to respond to pertinent correspondence in order to dissuade consumers from exercising their contractual rights. \| \| --- \| --- \| |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+> [!note]
+> For example:  
+ In some circumstances, obstacles to switching [(440)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr440-C_2021526EN.01000101-E0440) may be considered an aggressive commercial practice and therefore unfair on the basis of Article 9(d) [(441)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr441-C_2021526EN.01000101-E0441). 
+    
+ In the insurance sector, point No 27 Annex I has been applied to situations where insurers refused to pay claims by compelling consumers who wanted to apply for compensation under an insurance policy to produce documents which could not be reasonably considered relevant to establish the validity of the request. In those cases, the traders systematically failed to respond to pertinent correspondence in order to dissuade consumers from exercising their contractual rights. 
+  
+
 
 National authorities have extensively applied the UCPD in the field of financial services.
 
-| For example:  A national authority took legal action against certain banks for providing misleading information on the risks inherent in certain financial products, namely Lehman Brothers’ bonds [(442)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr442-C_2021526EN.01000101-E0442). When determining whether such practices were misleading, the authority took into account the fact that the consumers targeted by the banks for the sale of these bonds were ordinary current account holders not being familiar with these types of financial products. |
-| --- |
+> [!note]
+> For example:  A national authority took legal action against certain banks for providing misleading information on the risks inherent in certain financial products, namely Lehman Brothers’ bonds [(442)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021XC1229\(05\)#ntr442-C_2021526EN.01000101-E0442). When determining whether such practices were misleading, the authority took into account the fact that the consumers targeted by the banks for the sale of these bonds were ordinary current account holders not being familiar with these types of financial products.
+
 
 ---
 

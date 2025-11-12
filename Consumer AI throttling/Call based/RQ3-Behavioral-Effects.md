@@ -1,19 +1,19 @@
-# Research Question 3: Dynamic Behavioral Effects & Usage Patterns
+# Research Question 3: Dynamic ==Behavioral Effects & Usage Patterns==
 
-## Core Question
-**How do different pricing structures influence user behavior patterns, experimentation, lock-in effects, and the development of complementary ecosystems?**
+==## Core Question==
+==**How do different pricing structures influence user behavior patterns, experimentation, lock-in effects, and the development of complementary ecosystems?**==
 
-## Required Expertise
-- Behavioral economics (mental accounting, sunk cost effects, loss aversion)
-- Technology adoption research
-- Platform strategy
-- Empirical industrial organization
+==## Required Expertise==
+==- Behavioral economics (mental accounting, sunk cost effects, loss aversion)==
+==- Technology adoption research==
+==- Platform strategy==
+==- Empirical industrial organization==
 
 ---
 
 ## Executive Summary
 
-Call-based pricing models create powerful behavioral dynamics that extend far beyond simple price responsiveness. Evidence demonstrates that mental accounting, loss aversion (coefficient ~2.25), sunk cost effects, and status quo bias fundamentally reshape usage patterns[93][99]. Subscription models with usage limits exploit these biases to drive retention ("zombie subscriptions"), while per-unit pricing inhibits beneficial experimentation. Lock-in effects through switching costs create quasi-monopolies, and platform ecosystem development favors incumbents with network effects[94][142]. This research question examines second-order behavioral effects critical for long-term market dynamics.
+Call-based pricing models create powerful behavioral dynamics that extend far beyond simple price responsiveness. Evidence demonstrates that mental accounting, loss aversion (coefficient ~2.25), sunk cost effects, and status quo bias fundamentally reshape usage patterns[93][99]. Subscription models with usage limits exploit these biases to drive retention ("zombie ==subscriptions"), while per-unit pricing inhibits beneficial experimentation. Lock-in effects through switching costs create quasi-monopolies, and platform ecosystem development favors incumbents with network effects[94][142]. This research question examines second==-order behavioral effects critical for long-term market dynamics.
 
 ---
 
@@ -181,7 +181,7 @@ Call-based pricing models create powerful behavioral dynamics that extend far be
 
 **Present Bias**:
 - Overweight immediate costs; underweight future benefits
-- "$20/month" more attractive than "$240/year" despite equivalence[98]
+- "$20/month" ==more attractive than "$240/year" despite equivalence==[98]
 - Inhibits switching even when lifetime costs lower elsewhere
 
 ### Medium-Term Effects (Months-Years)
@@ -257,13 +257,13 @@ Call-based pricing models create powerful behavioral dynamics that extend far be
 - **Production**: Usage-based with volume discounts
 - **Rationale**: Reduces experimentation inhibition while maintaining alignment in production
 
-### Mitigating Lock-In
+### ==Mitigating Lock-In==
 
-**Technical**: Data portability, API standardization
-**Economic**: Reduce switching costs through compatibility layers
-**Behavioral**: Transparent switching cost disclosure to enable rational decisions
+==**Technical**: Data portability, API standardization==
+==**Economic**: Reduce switching costs through compatibility layers==
+==**Behavioral**: Transparent switching cost disclosure to enable rational decisions==
 
-### Balancing Retention and Fairness
+==### Balancing== Retention and Fairness
 
 **Subscription Psychology**: Auto-renewal with proactive usage alerts to reduce exploitation of inertia
 **Lock-In Ethics**: Design for "ease of exit" not just "ease of entry"
@@ -272,12 +272,12 @@ Call-based pricing models create powerful behavioral dynamics that extend far be
 
 ## Conclusion
 
-Call-based pricing creates **powerful behavioral dynamics** that reshape usage patterns and ecosystem development:
+==Call-based pricing creates **powerful behavioral dynamics** that reshape usage patterns and ecosystem development==:
 
-**Key Behavioral Effects**:
-1. **Mental Accounting**: Subscription vs. usage-based creates different consumption patterns
-2. **Loss Aversion**: Per-transaction pain inhibits beneficial experimentation
-3. **Lock-In**: Switching costs (financial, technical, psychological) create retention beyond rational optimization
+==**Key Behavioral Effects**:==
+1. ==**Mental Accounting**: Subscription vs. usage-based creates different consumption patterns==
+==2. **Loss Aversion**: Per-transaction pain inhibits beneficial experimentation==
+==3. **Lock-In**: Switching costs (financial, technical, psychological) create retention beyond rational optimization==
 
 **Innovation Impact**: Premium pricing stifles grassroots innovation; ecosystem lock-in favors incumbents
 

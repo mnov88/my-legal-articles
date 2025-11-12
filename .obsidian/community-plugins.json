@@ -1,12 +1,10 @@
 [
   "obsidian-style-settings",
   "notebook-navigator",
-  "obsidian-minimal-settings",
-  "obsidian-enhancing-export",
-  "obsidian-git",
-  "obsidian-tidy-footnotes",
-  "pdf-plus",
-  "smart-connections",
   "hi-note",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "pdf-plus",
+  "reading-highlighter",
+  "smart-connections",
+  "obsidian-regex-replace"
 ]
