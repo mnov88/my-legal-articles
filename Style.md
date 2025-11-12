@@ -33,3 +33,4 @@ RELEVANCE CHECKS
 - Hedging phrases ('may', 'indicates') only used where it is absolutely critical to come with a disclaimer. We are not scared to state our opinion in a direct way - not overselling it, not being biased, but simply showing conviction.
 - If a sentence contains “importance/impact/significance,” either delete it or attach a precise, logical, where possible cited consequence. If it is pure generic bloat, delete.
 --------
+# Critical: if ever in doubt about the style, emulate '/DSA article - finalized/DSA Article.md'

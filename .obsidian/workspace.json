@@ -101,12 +101,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/README.md",
+                "file": "style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "style"
             }
           }
         ],
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/README.md",
+                "file": "style.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of style"
             }
           },
           {
@@ -374,42 +374,42 @@
   },
   "active": "19edb261a5a8b8e7",
   "lastOpenFiles": [
+    "DSA article - finalized/DSA Article.md",
+    "Prompt protection/README.md",
+    "Consumer AI throttling/README.md",
+    "Consumer AI throttling/Outline/00 Throttling outline.md",
+    "Consumer AI throttling/Drafts/article.md",
+    "Pedagogics/AGENTS.md",
+    "Consumer AI throttling/Drafts",
+    "Consumer AI throttling/Materials/NotebookLM CJEU excerpts.md",
     "Data hostages/Summary-Paper.md",
     "AGENTS.md",
     "Consumer AI throttling/Materials/AI Service Pricing Models Explained.md",
     "Consumer AI throttling/Materials/Pricing Practices and Fairness in Large AI LLM Pla.md",
     "Consumer AI throttling/Materials/AI LLM Pricing and Contractual Analysis.md",
-    "Consumer AI throttling/Outline/00 Throttling outline.md",
     "Consumer AI throttling/Materials",
     "Consumer AI throttling/Materials/Detailed reports",
     "Consumer AI throttling/Materials/Legal sources",
     "Consumer AI throttling/Outline",
-    "Consumer AI throttling/README.md",
     "style.md",
     "Untitled.md",
     "Untitled 2.md",
     "DSA article - finalized/DSA Article v1.md",
-    "Consumer AI throttling/Materials/NotebookLM CJEU excerpts.md",
     "DSA article - finalized/!Citation verification Gemini.md",
     "DSA article - finalized",
     "DSA article - finalized/!Citation verifications Per.md",
     "README.md",
-    "Pedagogics/AGENTS.md",
     "Pedagogics/Research report review.md",
     "Pedagogics/style.md",
     "Pedagogics/README.md",
     "DSA article - finalized/DSA_Article_revised.md",
-    "DSA article - finalized/DSA Article.md",
     "Prompting/Style.md",
     "Consumer AI throttling/Materials/Legal sources/Legislation/UCPD Guidance.md",
     "Consumer AI throttling/Materials/Legal analysis/EU Consumer protection law and vague terms.md",
-    "Consumer AI throttling/Materials/Legal analysis/EU consumer protection law and vague AI service pricing - Claude.md",
-    "Consumer AI throttling/Materials/Legal analysis/Doctrinal analysis Perplexity.md",
     "Consumer AI throttling/Materials/Legal analysis/General contract law framework",
     "Data hostages/script.py",
     "Data hostages",
     "Consumer AI throttling/Materials/Other industries experience",
-    "Consumer AI throttling/Materials/Legal sources/Case law/Case C-38318 - Case C-38318 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Othe.html",
     "Untitled.canvas"
   ]
 }
