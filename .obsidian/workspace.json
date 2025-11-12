@@ -301,7 +301,8 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "smart-connections:Smart Connections: Open random connection": true,
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -334,8 +335,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1137,
-        "y": 31,
+        "x": 967,
+        "y": 34,
         "width": 635,
         "height": 961,
         "maximize": false,
