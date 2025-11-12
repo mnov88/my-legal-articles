@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/00 Throttling outline.md",
+                "file": "Consumer AI throttling/Outline/00 Throttling outline.md",
                 "mode": "source",
                 "source": false
               },
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/Legislation/UCPD Guidance.md",
+                "file": "Consumer AI throttling/Materials/Legal sources/Legislation/UCPD Guidance.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA Article.md",
+                "file": "DSA article - finalized/DSA Article.md",
                 "mode": "source",
                 "source": false
               },
@@ -80,9 +80,37 @@
               "icon": "lucide-file",
               "title": "AGENTS"
             }
+          },
+          {
+            "id": "404836fdcbf7879b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "style"
+            }
+          },
+          {
+            "id": "19edb261a5a8b8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consumer AI throttling/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -213,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pedagogics/AGENTS.md",
+                "file": "Consumer AI throttling/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AGENTS"
+              "title": "Outline of README"
             }
           },
           {
@@ -323,7 +351,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DSA_Article_revised.md",
+                    "file": "DSA article - finalized/DSA_Article_revised.md",
                     "mode": "source",
                     "source": false
                   },
@@ -344,44 +372,44 @@
       }
     ]
   },
-  "active": "ff0b5cecdfc22018",
+  "active": "19edb261a5a8b8e7",
   "lastOpenFiles": [
+    "Data hostages/Summary-Paper.md",
+    "AGENTS.md",
+    "Consumer AI throttling/Materials/AI Service Pricing Models Explained.md",
+    "Consumer AI throttling/Materials/Pricing Practices and Fairness in Large AI LLM Pla.md",
+    "Consumer AI throttling/Materials/AI LLM Pricing and Contractual Analysis.md",
+    "Consumer AI throttling/Outline/00 Throttling outline.md",
+    "Consumer AI throttling/Materials",
+    "Consumer AI throttling/Materials/Detailed reports",
+    "Consumer AI throttling/Materials/Legal sources",
+    "Consumer AI throttling/Outline",
+    "Consumer AI throttling/README.md",
+    "style.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "DSA article - finalized/DSA Article v1.md",
+    "Consumer AI throttling/Materials/NotebookLM CJEU excerpts.md",
+    "DSA article - finalized/!Citation verification Gemini.md",
+    "DSA article - finalized",
+    "DSA article - finalized/!Citation verifications Per.md",
+    "README.md",
+    "Pedagogics/AGENTS.md",
     "Pedagogics/Research report review.md",
     "Pedagogics/style.md",
-    "Style.md",
-    "README.md",
     "Pedagogics/README.md",
-    "Pedagogics/AGENTS.md",
-    "DSA_Article_revised.md",
-    "DSA Article.md",
-    "!Citation verifications Per.md",
-    "!Citation verification Gemini.md",
-    "Untitled 2.md",
+    "DSA article - finalized/DSA_Article_revised.md",
+    "DSA article - finalized/DSA Article.md",
     "Prompting/Style.md",
-    "Untitled 1.md",
-    "Consumer AI throttling/Legislation/UCPD Guidance.md",
-    "Consumer AI throttling/Legal analysis/EU Consumer protection law and vague terms.md",
-    "Consumer AI throttling/Legal analysis/EU consumer protection law and vague AI service pricing - Claude.md",
-    "Consumer AI throttling/Legal analysis/Doctrinal analysis Perplexity.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Document-E-Scholarship.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Document-F-Summary.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Jurisdictional approaches to indeterminate pricing Gemini.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Document-A-Legal-Provisions.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Document-B-US-Cases.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Document-C-CJEU-Cases.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework/Document-D-Other-Cases.md",
-    "Consumer AI throttling/360 Hypothesis/Summary-Paper.md",
-    "Consumer AI throttling/Legal analysis/General contract law framework",
-    "Consumer AI throttling/360 Hypothesis/H4-Transparency-Paradox.md",
+    "Consumer AI throttling/Materials/Legal sources/Legislation/UCPD Guidance.md",
+    "Consumer AI throttling/Materials/Legal analysis/EU Consumer protection law and vague terms.md",
+    "Consumer AI throttling/Materials/Legal analysis/EU consumer protection law and vague AI service pricing - Claude.md",
+    "Consumer AI throttling/Materials/Legal analysis/Doctrinal analysis Perplexity.md",
+    "Consumer AI throttling/Materials/Legal analysis/General contract law framework",
     "Data hostages/script.py",
     "Data hostages",
-    "Consumer AI throttling/Other industries experience",
-    "Consumer AI throttling/Case law/Case C-38318 - Case C-38318 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Othe.html",
-    "Clippings",
-    "Consumer AI throttling/360 Hypothesis/script.py",
-    "Consumer AI throttling/360 Hypothesis/script_1.py",
-    "Consumer AI throttling/360 Hypothesis",
-    "Consumer AI throttling/Token based/RQ2-Value-Cost-Alignment-Fairness.pdf",
+    "Consumer AI throttling/Materials/Other industries experience",
+    "Consumer AI throttling/Materials/Legal sources/Case law/Case C-38318 - Case C-38318 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Othe.html",
     "Untitled.canvas"
   ]
 }
