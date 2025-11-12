@@ -282,7 +282,8 @@
     "!Citation verifications Per.md": "!citation_verifications_per.md.json",
     "Prompting/Style revised.md": "prompting_style_revised.md.json",
     "Style revised.md": "style_revised.md.json",
-    "!Citation verification Gemini.md": "!citation_verification_gemini.md.json"
+    "!Citation verification Gemini.md": "!citation_verification_gemini.md.json",
+    "Style.md": "style.md.json"
   },
-  "lastUpdated": 1762952598560
+  "lastUpdated": 1762966548412
 }

@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA_Article_revised.md",
+                "file": "Pedagogics/AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA_Article_revised"
+              "title": "AGENTS"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA_Article_revised.md",
+                "file": "Pedagogics/AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DSA_Article_revised"
+              "title": "Outline of AGENTS"
             }
           },
           {
@@ -346,9 +346,14 @@
   },
   "active": "ff0b5cecdfc22018",
   "lastOpenFiles": [
-    "DSA Article.md",
+    "Pedagogics/Research report review.md",
+    "Pedagogics/style.md",
+    "Style.md",
+    "README.md",
+    "Pedagogics/README.md",
+    "Pedagogics/AGENTS.md",
     "DSA_Article_revised.md",
-    "Style revised.md",
+    "DSA Article.md",
     "!Citation verifications Per.md",
     "!Citation verification Gemini.md",
     "Untitled 2.md",
@@ -368,11 +373,6 @@
     "Consumer AI throttling/360 Hypothesis/Summary-Paper.md",
     "Consumer AI throttling/Legal analysis/General contract law framework",
     "Consumer AI throttling/360 Hypothesis/H4-Transparency-Paradox.md",
-    "Consumer AI throttling/Case law/Case law table.md",
-    "Consumer AI throttling/00 Throttling outline.md",
-    "Pedagogics/draft.md",
-    "Consumer AI throttling/360 analysis/The Pricing Paradox Claude.md",
-    "Consumer AI throttling/Other industries experience/Telecommunications Billing Models.md",
     "Data hostages/script.py",
     "Data hostages",
     "Consumer AI throttling/Other industries experience",
