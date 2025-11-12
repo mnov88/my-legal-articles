@@ -317,9 +317,7 @@ This document maps all research materials by topic to support efficient writing 
 **Required Addition**: 2,000-word § analyzing tension between:
 
 - AI Act Recital 106 (copyright compliance)
-
 - Article 13 documentation requirements
-
 - Trade secret secrecy requirements
 
 **Research needed**: Can businesses maintain trade secrecy while complying with AI Act?
