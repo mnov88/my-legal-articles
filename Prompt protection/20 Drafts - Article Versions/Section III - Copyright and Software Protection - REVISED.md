@@ -186,17 +186,126 @@ This identifiability barrier operates regardless of prompt complexity. Whether t
 
 The policy rationale for the identifiability requirement reinforces its application to prompts. Copyright grants monopoly rights that restrict competitors' freedom of action; such restrictions are justified only when the boundaries of the monopoly can be clearly defined. Granting copyright protection to prompts would create uncertainty about what language users may freely employ when interacting with AI systems. Every effective prompting technique would become a potential infringement trap, chilling experimentation and the cumulative learning essential to developing AI literacy. The *Levola* identifiability requirement prevents this outcome by ensuring that copyright attaches only to subject matter whose boundaries can be determined with precision.
 
----
+## E. The idea-expression dichotomy and Software Directive exclusions
 
-**[END OF FIRST HALF]**
+The principle that copyright protects expression but not ideas, procedures, or methods of operation has constitutional status in EU copyright law. Article 9(2) of the TRIPS Agreement provides that "copyright protection shall extend to expressions and not to ideas, procedures, methods of operation or mathematical concepts as such."[^40] The WIPO Copyright Treaty contains an identical provision in Article 2.[^41] The Software Directive operationalizes this principle in Article 1(2), providing that "protection in accordance with this Directive shall apply to the expression in any form of a computer program" while "ideas and principles which underlie any element of a computer program, including those which underlie its interfaces, are not protected by copyright under this Directive."[^42]
 
-*The second half will continue with:*
-- *E. The Idea-Expression Dichotomy and Software Directive Exclusions (integrated analysis of BSA, SAS Institute, Sony Datel)*
-- *F. Software Protection: Preparatory Design Material*
-- *G. Policy Justifications for Exclusion*
-- *H. National Court Practice*
-- *I. Scholarly Consensus*
-- *J. Database Protection*
-- *K. Counterarguments and Rebuttals*
-- *L. Synthesis: Three Independent Barriers*
-- *M. Exceptional Cases*
+[^40]: Agreement on Trade-Related Aspects of Intellectual Property Rights (adopted 15 April 1994, entered into force 1 January 1995) 1869 UNTS 299 ('TRIPS Agreement'), art 9(2).
+
+[^41]: WIPO Copyright Treaty (adopted 20 December 1996, entered into force 6 March 2002) 2186 UNTS 121, art 2.
+
+[^42]: Software Directive (n 2) art 1(2).
+
+This express exclusion of interfaces proves dispositive for prompts. Recital 11 elaborates that "only the expression of a computer program is protected and that ideas and principles which underlie any element of a program, including those which underlie its interfaces, are not protected by copyright."[^43] The CJEU has treated this formulation as fundamental to copyright's proper scope across all work categories.
+
+[^43]: ibid recital 11.
+
+What distinguishes an unprotectable idea, procedure, or method from a protectable expression? The CJEU has addressed this question through three decisions that converge on prompts' exclusion: *BSA v Ministerstvo kultury* on interfaces, *SAS Institute v World Programming* on functionality, and *Sony Computer Entertainment Europe v Datel Design & Development* on data inputs. Each provides an independent ground for denying protection; together they establish that prompts fall squarely within excluded categories under both the InfoSoc Directive and the Software Directive.
+
+### Interfaces excluded: BSA and the parallel to prompts
+
+The CJEU addressed interface protection in *Bezpečnostní softwarová asociace v Ministerstvo kultury*. The Court held that graphical user interfaces "do not enable the reproduction of the computer program, but merely constitute one element of that program by means of which users make use of the features of a computer program."[^44] Only source code or object code constituting the program's expression receives Software Directive protection. User-facing elements through which individuals interact with software fall outside the Directive's scope.[^45]
+
+[^44]: Case C-393/09 *Bezpečnostní softwarová asociace v Ministerstvo kultury* EU:C:2010:816, para 42.
+
+[^45]: ibid para 45.
+
+GUIs are not protected because they are user-facing interaction mechanisms, not program expressions themselves.
+
+This principle applies directly to prompts. Just as GUIs enable users to interact with software through visual elements, prompts enable users to interact with AI systems through natural language. Both are interfaces — mechanisms for communicating with existing computational systems. Neither constitutes the program itself.
+
+The parallel is exact. GUIs provide visual interfaces — inputs to programs through graphical elements. Prompts provide textual interfaces — inputs to AI programs through natural language. The Software Directive excludes interfaces under Article 1(2). If visual interfaces enabling user interaction with software are not protected as program expressions, then natural language prompts enabling user interaction with AI systems fall under the same exclusion.
+
+The *BSA* Court's reasoning applies without modification. Prompts "do not enable the reproduction" of AI models. They do not contain or express the trained neural network weights, inference algorithms, or computational processes constituting the AI system. They are instructions *to* programs, not programs themselves.
+
+### Functionality excluded: SAS Institute and prompts as specifications
+
+The Court reinforced this in *SAS Institute Inc v World Programming Ltd*, which concerned whether copyright protected the functionality, programming language, and data file formats of statistical analysis software. The Court held categorically that "neither the functionality of a computer program nor the programming language and the format of data files used in a computer program in order to exploit certain of its functions constitute a form of expression" protected under the Software Directive.[^46]
+
+[^46]: Case C-406/10 *SAS Institute Inc v World Programming Ltd* EU:C:2012:259, para 39.
+
+The reasoning proves dispositive. "To accept that the functionality of a computer program can be protected by copyright would amount to making it possible to monopolise ideas, to the detriment of technological progress and industrial development."[^47] Copyright's purpose is to protect creative expression while leaving ideas, concepts, and functional methods free for others to use and build upon. Protecting functionality would transform copyright into a patent-like monopoly without the stringent requirements of novelty, non-obviousness, and limited duration that justify patent protection.[^48]
+
+[^47]: ibid para 40.
+
+[^48]: ibid para 45.
+
+Prompts specify functionality. They describe what the AI should do, what outputs it should generate, what constraints it should observe, and what format results should take. A prompt stating "write a 500-word essay in academic style with Harvard citations addressing climate policy" specifies functionality as precisely as a software specification document stating "the program shall generate reports in PDF format containing statistical analyses with graphical visualizations." Both describe what outputs the system should produce. Neither constitutes the expression of how the system produces those outputs.
+
+The *SAS Institute* framework applies without modification. If formal programming languages — Python syntax, SQL query structures, JavaScript conventions — are unprotectable ideas and principles under Article 1(2), then natural language prompts are equally unprotectable.[^49] Both are methods for instructing computational systems. Both specify desired operations. A Python command `print("Hello, world")` and a prompt "Write 'Hello, world'" function equivalently — both instruct a computational system to produce output. The natural language formulation does not transform the instruction into protectable program expression any more than translating a programming command into English makes the command copyrightable.
+
+[^49]: ibid paras 39-40.
+
+This principle extends beyond software to all work categories. The *Levola Hengelo* case articulated the broader framework: copyright requires that "only something which is the expression of the author's own intellectual creation may be classified as a 'work'" under the InfoSoc Directive.[^50] The Court noted that "in accordance with the [TRIPS] Agreement...and with the WIPO Copyright Treaty...copyright protection may be granted to expressions, but not to ideas, procedures, methods of operation or mathematical concepts as such."[^51]
+
+[^50]: *Levola Hengelo* (n 11) para 36.
+
+[^51]: ibid para 37.
+
+Copyright's fundamental design requires that ideas remain the common property of all, while monopoly rights attach only to particular expressions of those ideas.
+
+### Data inputs excluded: Sony Datel and the RAM variable analogy
+
+The CJEU's decision in *Sony Computer Entertainment Europe Ltd v Datel Design & Development Ltd* (2024) extends this restrictive approach to data inputs that control program behavior. The Court held that "the content of the variables which are stored temporarily in a console's RAM memory during the playing of a video game does not itself constitute a form of expression of the computer program which is protected by copyright."[^52] Variables stored in RAM — data values that directly affect how the program executes and what outputs it generates — are not protected as program expressions even when they control system operation.[^53]
+
+[^52]: Case C-159/23 *Sony Computer Entertainment Europe Ltd v Datel Design & Development Ltd* EU:C:2024:649, para 33.
+
+[^53]: ibid para 34.
+
+The Court reasoned that treating such data as protected program expression would impermissibly extend copyright to functional elements beyond the program code itself.[^54]
+
+[^54]: ibid para 35.
+
+The parallel to prompts is direct and dispositive.
+
+Prompts function as inputs to AI systems that control how the system processes information and generates outputs — precisely analogous to RAM variables that control video game behavior. RAM variables are data inputs to existing programs. Prompts are textual inputs to existing AI programs. RAM variables control program behavior. Prompts control AI behavior. RAM variables affect outputs generated. Prompts affect outputs generated. RAM variables are not program expressions. Prompts are not program expressions.
+
+If data inputs that directly affect program operation are not protected as program expressions, then textual prompts that control AI operation fall under the same exclusion. Both are functional inputs to existing programs rather than expressions of the programs themselves.
+
+### Application to prompts: the unified framework
+
+The Software Directive and CJEU case law converge on a unified framework excluding prompts from protection through three independent grounds.
+
+First, prompts are interfaces under Article 1(2) and *BSA*. They provide natural language mechanisms for communicating with AI systems, not the systems themselves. Just as GUIs enable visual interaction with software, prompts enable textual interaction with AI programs. The Software Directive expressly excludes interfaces from protection.
+
+Second, prompts specify functionality under *SAS Institute*. They describe what outputs AI should generate, not expressions of how it generates them. Protecting functional specifications would monopolize ideas, precisely what *SAS Institute* prohibits. Programming languages that provide formal methods for instructing computers are unprotectable; natural language prompts that provide informal methods for instructing AI fall under the same exclusion.
+
+Third, prompts are data inputs under *Sony Datel*. They function as textual control parameters for existing programs, not as program expressions. RAM variables controlling game behavior are unprotected; prompts controlling AI behavior receive identical treatment.
+
+Each ground independently suffices to exclude prompts from Software Directive protection. Together, they establish that prompts cannot be protected as computer programs or preparatory design material.
+
+This framework reinforces the general copyright analysis in Parts A through D. Prompts fail as literary works under the InfoSoc Directive through originality failure and identifiability problems. They fail as computer programs under the Software Directive because they are interfaces, functional specifications, and data inputs — all expressly excluded categories.
+
+The failures converge on the same fundamental reason. Prompts are functional instructions — ideas about how to use AI systems, methods of operation, procedures for eliciting outputs — rather than creative expressions warranting monopoly protection.
+
+This is not an oversight or gap in the law. It reflects deliberate policy choices about preserving the public domain of methods of communication with computational systems, functional specifications, and building blocks necessary for competition and cumulative innovation. The Commission's preparatory work for the Software Directive emphasized that copyright's advantage is leaving "latitude to create similar or even identical programs" through independent development.[^55] Extending protection to prompts would eliminate that latitude by monopolizing methods of AI interaction.
+
+[^55]: Commission, 'Proposal for a Council Directive on the legal protection of computer programs' COM(88) 816 final, 8.
+
+### Recipes, operating instructions, and game rules: the functional instruction pattern
+
+Prompts belong to a broader category of functional instructions that copyright doctrine consistently excludes from protection. French courts held in 1974 that cooking recipes "do not in themselves constitute an intellectual work, but rather a savoir-faire" because they are a "succession of instructions, a method."[^56] Copyright may protect creative literary description accompanying recipes — vivid prose, personal anecdotes, evocative explanations — but not the functional list of ingredients or procedural steps, which remain free for all to use.[^57]
+
+[^56]: Cour de Cassation [1974] Bulletin civil IV n° 267.
+
+[^57]: CA Paris 25 February 1974 (Société Albin Michel) [1974] RIDA 161.
+
+The CJEU's *Levola Hengelo* decision reinforced this distinction. Advocate General Wathelet's opinion emphasized that "copyright does not protect the recipe as such (the idea)" because "copyright protection extends to original expressions and not to ideas, procedures, methods of operation."[^58] At paragraph 59, he noted that "it is perfectly legitimate...to use a recipe in order to prepare a dish, and to be inspired by a work in order to create another work."[^59] The parallel to prompts is direct: just as recipes are functional instructions for producing dishes, prompts are functional instructions for producing AI outputs. Protecting the functional instructions themselves — rather than any creative literary expression in which they might be clothed — would monopolize methods and ideas.
+
+[^58]: *Levola Hengelo* (n 11) (Opinion of AG Wathelet) para 40.
+
+[^59]: ibid para 59.
+
+German courts have consistently held that simple operating manuals — "Press button A, then B" — constitute unprotectable procedures, with copyright attaching only to substantial creative expression in the arrangement or explanation of functional information.[^60] The abstract rules of a game constitute unprotectable methods and procedures, though the creative literary expression of those rules in a rulebook may be protected.[^61] Anyone can create a game with identical rules by expressing those rules differently.
+
+[^60]: *Bedienungsanleitung* (n 20).
+
+[^61]: *BSA* (n 44) para 49.
+
+The relevant parallel is to functional specifications in software development. The CJEU held in *SAS Institute* that program specifications — documents describing what software should do, what functions it should perform, and how it should respond to inputs — are not protected as expressions of computer programs.[^62] The functionality described remains unprotectable. Only the creative expression within specification documents — unique phrasing, creative explanations beyond functional necessity — might qualify for protection as literary works separate from the program itself.[^63]
+
+[^62]: *SAS Institute* (n 46) para 45.
+
+[^63]: ibid para 46.
+
+Prompts bear the same relationship to AI systems that specifications bear to software: they describe what the AI should do, what functions it should perform, what constraints it should observe, and what outputs it should generate. The fact that prompts are written in natural language rather than formal specification languages does not alter their functional character. They remain instructions about methods and procedures of operation rather than literary expressions for their own sake.
