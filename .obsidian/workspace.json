@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt protection/Current outline plan.md",
+                "file": "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current outline plan"
+              "title": "Section VI - Trade Secrets - Draft"
             }
           }
         ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -266,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of Section VI - Trade Secrets - Draft"
             }
           },
           {
@@ -396,15 +396,22 @@
       }
     ]
   },
-  "active": "d0620996c7c53946",
+  "active": "74c2461efca82e28",
   "lastOpenFiles": [
-    "Prompt protection/Current outline plan.md",
-    "Untitled 2.md",
+    "Prompt protection/20 Drafts - Article Versions/Section V - Patent Protection - Draft.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
     "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
+    "Prompt protection/20 Drafts - Article Versions/Section II - Economic Foundation - Draft.md",
+    "Prompt protection/20 Drafts - Article Versions/Section IV - Software and Database Protection - Draft - BACKUP-2025-11-13.md",
+    "Untitled 2.md",
+    "Prompt protection/20 Drafts - Article Versions/v1.2 - Second claude revision.md",
+    "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft - BACKUP-2025-11-13.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft - BACKUP-2025-11-13.md",
+    "Prompt protection/20 Drafts - Article Versions/v1.3 - Claude update of Claude.md",
+    "Prompt protection/Current outline plan.md",
     "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
     "Prompt protection/Style.md",
     "Prompt protection/README.md",
-    "Prompt protection/20 Drafts - Article Versions/Section V - Patent Protection - Draft.md",
     "Prompt protection/00 Core/Article Outline.md",
     "DSA article - finalized/DSA_Article_revised.md",
     "Prompt protection/20 Drafts - Article Versions/Section IV - Software and Database Protection - Draft.md",
@@ -417,14 +424,7 @@
     "style.md",
     "Consumer AI throttling/README.md",
     "Consumer AI throttling/Drafts/article.md",
-    "Untitled 1.md",
-    "Prompt protection/20 Drafts - Article Versions/v1.4 - Claude update of its update.md",
-    "Prompt protection/20 Drafts - Article Versions/v2.0 - Claude Cursor.md",
-    "Prompt protection/20 Drafts - Article Versions/v1.2 - Second claude revision.md",
-    "Prompt protection/20 Drafts - Article Versions/v1.3 - Claude update of Claude.md",
     "Prompt protection/20 Drafts - Article Versions",
-    "Prompt protection/10 Synthesis & Overviews/Full overview ChatGPT.md",
-    "Prompt protection/10 Synthesis & Overviews/Full overview Claude.md",
     "Prompt protection/10 Synthesis & Overviews",
     "Prompt protection/05 Evidence - Technical & Empirical",
     "Prompt protection/04 Research - EU Law Frameworks",
