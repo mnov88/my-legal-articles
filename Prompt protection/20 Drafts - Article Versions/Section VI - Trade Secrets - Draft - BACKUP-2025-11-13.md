@@ -12,7 +12,7 @@ The Directive implements the EU's obligations under Article 39 of the TRIPS Agre
 
 [^111]: Trade Secrets Directive (n 109) art 2(1).
 
-The definition remained essentially unchanged from the European Commission's November 2013 proposal through final adoption in June 2016, demonstrating consensus that the TRIPS Article 39 formulation provides an appropriate international standard.[^112] The three requirements are cumulative – failure to satisfy any single element defeats trade secret status entirely. Recital 14 emphasizes that the definition "should cover know-how, business information and technological information where there is both a legitimate interest in keeping them confidential and a legitimate expectation that such confidentiality will be preserved."[^113]
+This definition remained essentially unchanged from the European Commission's November 2013 proposal through final adoption in June 2016, demonstrating consensus that the TRIPS Article 39 formulation provides an appropriate international standard.[^112] The three requirements are cumulative – failure to satisfy any single element defeats trade secret status entirely. Recital 14 emphasizes that the definition "should cover know-how, business information and technological information where there is both a legitimate interest in keeping them confidential and a legitimate expectation that such confidentiality will be preserved."[^113]
 
 [^112]: European Commission, 'Proposal for a Directive on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure' COM(2013) 813 final.
 
@@ -78,9 +78,9 @@ The German courts' framework supports this distinction. The Higher Regional Cour
 
 [^129]: OLG Düsseldorf (n 119) para 47.
 
-The third-party disclosure framework yields a bright-line rule for prompts: only prompts used exclusively through enterprise AI services with robust contractual confidentiality provisions can potentially satisfy the secrecy requirement. Prompts submitted through consumer-tier services without such protections fail Article 2(1)(a) and cannot qualify as trade secrets under EU law.
+This analysis yields a bright-line rule for prompts: only prompts used exclusively through enterprise AI services with robust contractual confidentiality provisions can potentially satisfy the secrecy requirement. Prompts submitted through consumer-tier services without such protections fail Article 2(1)(a) and cannot qualify as trade secrets under EU law.
 
-The rule reflects the structural reality that cloud AI architecture requires third-party disclosure. Trade secret law accommodates such disclosure where contractual safeguards substitute for exclusive physical control. The accommodation is conditional – the contractual protections must be documented, the enterprise service tier must be deliberately selected rather than defaulting to consumer services, and internal controls must ensure employees comply with the requirement to use only protected services.
+The rule reflects the structural reality that cloud AI architecture requires third-party disclosure. Trade secret law accommodates such disclosure where contractual safeguards substitute for exclusive physical control. But the accommodation is conditional – the contractual protections must be documented, the enterprise service tier must be deliberately selected rather than defaulting to consumer services, and internal controls must ensure employees comply with the requirement to use only protected services.
 
 Businesses maintaining prompt libraries as trade secrets must therefore implement strict policies: prohibit use of consumer AI services for any prompts containing confidential information; require use only of enterprise services with verified contractual confidentiality provisions; document service agreements and maintain evidence of their terms; train employees on the distinction between consumer and enterprise tiers; monitor compliance through technical controls and audit procedures; and enforce violations through disciplinary measures demonstrating that policies are implemented in practice, not merely stated on paper.
 
@@ -94,7 +94,7 @@ The second element – that information "has commercial value because it is secr
 
 [^132]: ibid.
 
-AI prompts present a challenge for the commercial value element because their utility depends fundamentally on the underlying large language model they instruct. A prompt engineered for ChatGPT produces value only when processed by OpenAI's GPT-4 or similar models; the same prompt applied to a different architecture may produce inferior results or fail entirely. The dependency raises whether prompts possess independent commercial value or merely derivative value flowing primarily from access to proprietary AI models.
+AI prompts present a challenge for the commercial value element because their utility depends fundamentally on the underlying large language model they instruct. A prompt engineered for ChatGPT produces value only when processed by OpenAI's GPT-4 or similar models; the same prompt applied to a different architecture may produce inferior results or fail entirely. This dependency raises whether prompts possess independent commercial value or merely derivative value flowing primarily from access to proprietary AI models.
 
 The argument against independent commercial value proceeds from model dependency. The pharmaceutical company example – prompts enabling 60% faster drug candidate identification – produces value only because Claude processes them effectively; Claude's capabilities derive from Anthropic's investment in model development rather than from the user's prompt engineering work. A prompt for a specific AI model is worthless without access to that model. This distinguishes prompts from paradigmatic trade secrets like chemical formulas or manufacturing processes, which have value independent of any third party's proprietary assets. If a prompt's value derives primarily from the model rather than the prompt itself, and if disclosure would not harm the holder's competitive position because competitors lack access to the same model configuration, the commercial value element might fail.[^133]
 
@@ -179,45 +179,3 @@ Technical measures: encrypt prompts in transit and at rest; implement authentica
 This comprehensive framework parallels protections German courts require for traditional trade secrets but adapted to accommodate cloud AI's distributed architecture. The requirement is straightforward doctrinally – reasonable steps must be "under the circumstances," and the circumstances of AI prompt use include technical necessity of third-party processing – but demanding practically, requiring substantial investment in legal, organizational, and technical infrastructure.
 
 The conclusion is that contractual protections with enterprise AI providers, combined with rigorous internal controls, can satisfy Article 2(1)(c)'s reasonable steps requirement. However, the accommodation is conditional and demanding. Businesses must document enterprise service agreements, implement comprehensive internal protection measures, train employees, monitor compliance, and enforce violations. The Dutch principle – "policy without practice fails" – requires demonstrating that stated protections are implemented and enforced in reality, not merely documented on paper.
-
-## E. Synthesis: conditional protection under enterprise frameworks
-
-The CJEU's decision in *Dun & Bradstreet Austria GmbH v Bundeswettbewerbsbehörde* provides authoritative guidance on whether algorithmic information can qualify for trade secret protection under Directive 2016/943.[^142] The Court addressed whether trade secret claims can justify withholding information about automated decision-making logic from data subjects under GDPR transparency obligations. The Court held that controllers must provide "meaningful information about the logic involved" to data subjects, but need not disclose algorithms themselves where doing so would reveal trade secrets.[^143] Austrian law creating a blanket exemption for trade secrets was impermissible; instead, controllers claiming trade secret protection must provide allegedly protected information to supervisory authorities or courts for case-by-case proportionality assessment balancing commercial confidentiality against transparency rights.[^144]
-
-[^142]: Case C-203/22 *Dun & Bradstreet Austria GmbH v Bundeswettbewerbsbehörde* EU:C:2025:144.
-
-[^143]: ibid para 53.
-
-[^144]: ibid paras 58–60.
-
-*Dun & Bradstreet* confirms two principles relevant to prompts. First, algorithmic information – including logical instructions controlling AI system behavior – can in principle qualify as trade secrets; the Court did not categorically exclude computational instructions from protection. Second, trade secret protection is not absolute and must yield to competing fundamental rights and regulatory transparency where proportionality requires. Businesses cannot invoke trade secrecy to avoid disclosure obligations under the GDPR, the AI Act, or sector-specific regulations where transparency outweighs commercial confidentiality.[^145]
-
-[^145]: EUIPO, 'Trade Secrets Litigation Trends in the European Union' (2023) 47–49 (noting developments needed to clarify trade secrets role in data economy and algorithmic transparency contexts).
-
-Applied to prompts, this framework yields a qualified answer. Prompts can qualify as trade secrets, but only sophisticated prompts subjected to rigorous protection measures, and even then subject to potential displacement by regulatory transparency requirements.
-
-The three cumulative requirements create distinct barriers. Under Article 2(1)(a)'s secrecy element, prompts submitted through consumer-tier AI services fail because terms of service authorize provider use for training, defeating the requirement that information be "not readily accessible" to specialists in the field. Only prompts used exclusively through enterprise AI services with contractual prohibitions on provider use or disclosure can potentially satisfy secrecy – the third-party disclosure is unavoidable given cloud architecture, but contractual protections function analogously to employee NDAs in preserving information as "not generally known."[^146]
-
-[^146]: OLG Düsseldorf (n 119) para 47 (requiring "executed confidential disclosure agreements" with third parties).
-
-Under Article 2(1)(b)'s commercial value element, simple prompts that any competent user could develop through brief experimentation fail because they lack the economic value required for protection. Sophisticated prompts representing substantial documented investment – months of optimization, quantified performance improvements, integration into proprietary systems – satisfy this requirement because their disclosure would enable competitors to appropriate development results without incurring equivalent costs. The causal link – "because it is secret" – requires that disclosure would harm competitive position, distinguishing valuable prompt compilations from widely known techniques.[^147]
-
-[^147]: European Commission, 'Impact Assessment' (n 131) 19 (explaining commercial value requires that unauthorized acquisition, use, or disclosure would harm holder's interests).
-
-Under Article 2(1)(c)'s reasonable steps element, cloud AI's distributed architecture creates structural tension. Trade secret law developed assuming holders could maintain exclusive physical or digital control; cloud AI inverts this by requiring third-party disclosure as a condition of use. However, the "under the circumstances" qualifier establishes context-specific proportionality rather than absolute control. Enterprise service agreements prohibiting provider use or disclosure, combined with comprehensive internal measures – access controls, encryption, classification systems, employee training, monitoring, enforcement – can satisfy this requirement. The Dutch principle that "policy without practice fails" demands demonstrable implementation, not merely formal documentation.[^148]
-
-[^148]: Rechtbank Midden-Nederland (n 121).
-
-These three requirements interact to exclude most prompts while potentially protecting a narrow category. Simple prompts fail all three elements. Intermediate prompts representing modest optimization face challenges under reasonable steps proportionality – protective measures may exceed value. Sophisticated prompts representing substantial investment can qualify if, and only if, used exclusively through enterprise services with documented contractual protections and subject to comprehensive internal controls.
-
-The resolution faces unresolved tensions requiring CJEU clarification or legislative guidance. No preliminary ruling has directly interpreted Directive 2016/943's three-part test for algorithmic information. National courts have developed divergent approaches – Germany's nine-factor proportionality framework differs from the Netherlands' stringent practice requirement and France's procedural protections. Cross-border uncertainty will persist until the CJEU addresses whether third-party disclosure with contractual safeguards satisfies secrecy and reasonable steps requirements.[^149]
-
-[^149]: As of November 2025, no CJEU preliminary ruling under TFEU art 267 has addressed core definitional questions under Directive 2016/943 regarding algorithmic or computational information.
-
-More fundamentally, the intersection between trade secret protection and AI transparency requirements under the AI Act remains incompletely theorized. The AI Act imposes transparency obligations on high-risk AI systems including technical documentation, training data disclosure, and deployment logs.[^150] Recital 75 acknowledges that trade secret information "should be safeguarded" but provides no detailed operational guidance on balancing commercial confidentiality against regulatory transparency.[^151] *Dun & Bradstreet* establishes the framework – case-by-case balancing by authorities or courts – but implementing this for AI Act compliance will require either Commission guidance or judicial decisions establishing when transparency obligations override trade secret protection.
-
-[^150]: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence [2024] OJ L184/1 ('AI Act') arts 11–13, 53.
-
-[^151]: ibid recital 75.
-
-AI prompts can qualify as trade secrets under current EU law. The qualification is conditional – requiring sophisticated prompts, enterprise service frameworks, rigorous protective measures, and acceptance that regulatory transparency may require disclosure where fundamental rights or public interest outweigh commercial confidentiality. Trade secret protection for prompts exists doctrinally, but it is demanding, contested, and ultimately provisional pending authoritative interpretation.
