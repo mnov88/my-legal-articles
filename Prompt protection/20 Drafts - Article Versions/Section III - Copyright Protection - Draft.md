@@ -132,7 +132,7 @@ The merger doctrine – though not articulated under that label in EU law – op
 
 The Court's analysis in *BSA* applies directly: where "the idea and the expression become indissociable," protection must be denied because "to accept that the functionality...can be protected by copyright would amount to making it possible to monopolise ideas, to the detriment of technological progress and industrial development."[^33] Even complex multi-clause prompts face this constraint. A prompt specifying "Write a 500-word essay in academic style with Harvard citations addressing climate policy" contains functional specifications that can be expressed only in limited ways. The word count, style designation, citation format, and topic are ideas about what should be created; the particular words chosen to convey these specifications represent the only practical means of communicating them to an AI system.
 
-[^33]: *BSA* (n 43) para 50.
+[^33]: *BSA* (n 49) para 50.
 
 ## D. The Idea-Expression Dichotomy
 
@@ -194,7 +194,7 @@ Third, game rules. The abstract rules of a game constitute unprotectable methods
 
 The relevant parallel is to functional specifications in software development. The CJEU held in *SAS Institute* that program specifications – documents describing what software should do, what functions it should perform, and how it should respond to inputs – are not protected as expressions of computer programs.[^50] The functionality described remains unprotectable; only the creative expression within specification documents (unique phrasing, creative explanations beyond functional necessity) might qualify for protection as literary works separate from the program itself.[^51]
 
-[^50]: *SAS Institute* (n 35) para 45.
+[^50]: *SAS Institute* (n 38) para 45.
 
 [^51]: ibid para 46.
 
