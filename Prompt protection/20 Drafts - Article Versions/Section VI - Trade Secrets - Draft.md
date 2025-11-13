@@ -83,3 +83,99 @@ This analysis yields a bright-line rule for prompts: only prompts used exclusive
 The rule reflects the structural reality that cloud AI architecture requires third-party disclosure. Trade secret law accommodates such disclosure where contractual safeguards substitute for exclusive physical control. But the accommodation is conditional – the contractual protections must be documented, the enterprise service tier must be deliberately selected rather than defaulting to consumer services, and internal controls must ensure employees comply with the requirement to use only protected services.
 
 Businesses maintaining prompt libraries as trade secrets must therefore implement strict policies: prohibit use of consumer AI services for any prompts containing confidential information; require use only of enterprise services with verified contractual confidentiality provisions; document service agreements and maintain evidence of their terms; train employees on the distinction between consumer and enterprise tiers; monitor compliance through technical controls and audit procedures; and enforce violations through disciplinary measures demonstrating that policies are implemented in practice, not merely stated on paper.
+
+## C. Commercial Value Derived from Secrecy
+
+The second element – that information "has commercial value because it is secret" – requires both that information possess commercial value and that this value derive causally from secrecy rather than from other characteristics.[^130] The Commission's Impact Assessment explained that information has commercial value "whether actual or potential" when "its unauthorized acquisition, use or disclosure is likely to harm the interests of the person lawfully controlling it."[^131] The causal link – "because it is secret" – distinguishes trade secrets from other valuable information; information retaining value even if publicly disclosed does not meet this requirement.[^132]
+
+[^130]: Trade Secrets Directive (n 109) art 2(1)(b).
+
+[^131]: European Commission, 'Impact Assessment accompanying the Proposal for a Directive on the protection of undisclosed know-how and business information (trade secrets)' SWD(2013) 471 final, 19.
+
+[^132]: ibid.
+
+AI prompts present a challenge for the commercial value element because their utility depends fundamentally on the underlying large language model they instruct. A prompt engineered for ChatGPT produces value only when processed by OpenAI's GPT-4 or similar models; the same prompt applied to a different architecture may produce inferior results or fail entirely. This dependency raises whether prompts possess independent commercial value or merely derivative value flowing primarily from access to proprietary AI models.
+
+The argument against independent commercial value proceeds from model dependency. The pharmaceutical company example – prompts enabling 60% faster drug candidate identification – produces value only because Claude processes them effectively; Claude's capabilities derive from Anthropic's investment in model development rather than from the user's prompt engineering work. A prompt for a specific AI model is worthless without access to that model. This distinguishes prompts from paradigmatic trade secrets like chemical formulas or manufacturing processes, which have value independent of any third party's proprietary assets. If a prompt's value derives primarily from the model rather than the prompt itself, and if disclosure would not harm the holder's competitive position because competitors lack access to the same model configuration, the commercial value element might fail.[^133]
+
+[^133]: OLG Düsseldorf (n 119) para 52 (holding that unauthorized use must harm holder's competitive position for commercial value requirement to be met).
+
+However, three considerations support finding independent commercial value for sophisticated prompts.
+
+First, commercial prompt marketplaces demonstrate market recognition of prompts as valuable assets independent of any particular user's access to AI models. PromptBase, launched June 2022, reports over 370,000 users and more than 220,000 prompts available for purchase at prices ranging from $1.99 to $4.99.[^134] FlowGPT offers millions of prompts with community ratings and verification.[^135] ChatX pays up to 39 CAD per successful prompt submission.[^136] Prompts sold on these platforms derive value from their effectiveness across multiple users, each of whom has independent access to the underlying AI service; the prompt's value thus transcends any single user's model access and resides in the optimized formulation itself.
+
+[^134]: PromptBase, 'About PromptBase' <https://promptbase.com/about> accessed 10 November 2025.
+
+[^135]: FlowGPT, 'Community Prompts' <https://flowgpt.com> accessed 10 November 2025.
+
+[^136]: ChatX, 'Prompt Marketplace' <https://chatx.ai/marketplace> accessed 10 November 2025.
+
+Second, specialized prompts that significantly improve output quality or efficiency provide measurable economic benefits. The pharmaceutical example – 60% faster drug candidate identification – represents quantifiable time savings worth potentially millions of euros in accelerated research. The legal analytics firm example – €2.3 million invested in eighteen months of prompt engineering – demonstrates substantial documented development costs that create economic value competitors could misappropriate by copying rather than independently investing.[^137] German courts require objective proof that information has economic value, considering factors including value to the company, development costs, type of information, and importance to competitive position.[^138] Documented investment in prompt development and quantified performance improvements satisfy this standard.
+
+[^137]: See generally Sharon K. Sandeen, 'The Reasonable Secrecy Requirement' in Rochelle C. Dreyfuss and Katherine J. Strandburg (eds), *The Law and Theory of Trade Secrecy: A Handbook of Contemporary Research* (Edward Elgar 2011) 105, 115–118.
+
+[^138]: OLG Düsseldorf (n 119) para 49.
+
+Third, system prompts embedded in proprietary AI applications – instructions that customize how an AI model behaves within a specific application context – can represent substantial engineering investment and provide differentiation among competing products using the same underlying AI model. The automotive manufacturer example – proprietary system prompts customizing Anthropic's models for supply chain optimization – illustrates prompts as valuable business assets independent of mere model access.
+
+The better view distinguishes between simple prompts that any competent user could develop through brief experimentation and sophisticated prompts representing substantial investment in development, testing, and refinement. The distinction parallels established trade secret doctrine protecting customer lists: publicly available contact information does not qualify as a trade secret, but a curated compilation of customers derived from substantial effort, investment, and analysis qualifies as a protectable compilation with commercial value deriving from the compilation itself rather than individual data points.[^139] Similarly, individual prompting techniques may be publicly known, but a refined prompt representing months of optimization, A/B testing, and fine-tuning constitutes a valuable compilation whose "precise configuration and assembly" – Article 2(1)(a)'s language – has commercial value because competitors lack this optimized formulation.
+
+[^139]: Case C-30/14 *Ryanair Ltd v PR Aviation BV* EU:C:2015:10, para 29 (addressing database compilations); applied by analogy to trade secret compilations.
+
+The causal link – "because it is secret" – requires that disclosure would harm the holder's competitive advantage. For AI prompts, this test distinguishes between prompts whose disclosure would enable competitors to immediately replicate valuable outputs and prompts providing minimal competitive benefit. Prompts that codify novel applications, combine techniques in non-obvious ways, or represent substantial optimization work satisfy this requirement because their disclosure allows competitors to appropriate the results of investment without incurring equivalent development costs. Prompts that merely implement widely known techniques or achieve results competitors have independently achieved fail this test – the value does not derive from secrecy because disclosure provides no competitive advantage.
+
+The commercial value element therefore operates as a filter, excluding trivial or widely known prompts while potentially protecting sophisticated prompts representing substantial investment and providing genuine competitive advantages to their holders.
+
+## D. Reasonable Steps under the Circumstances
+
+The third element – that information "has been subject to reasonable steps under the circumstances, by the person lawfully in control of the information, to keep it secret" – requires trade secret holders to exercise what Recital 13 characterizes as a "duty of care as regards the preservation of the confidentiality of their valuable trade secrets."[^140] The "under the circumstances" qualifier establishes that the requirement is context-specific and proportionate, not absolute.[^141]
+
+[^140]: Trade Secrets Directive (n 109) recital 13.
+
+[^141]: European Commission, 'Impact Assessment' (n 131) 21–22.
+
+National courts have developed detailed frameworks for assessing reasonable steps under their implementations of Directive 2016/943. German courts apply the Geschäftsgeheimnisgesetz through a comprehensive three-level framework requiring measures at legal, organizational, and technical levels.[^142] Legal measures include non-disclosure agreements with employees, confidentiality provisions in employment contracts, and contractual restrictions with business partners. Organizational measures include access restrictions, need-to-know policies, classification systems identifying confidential information, employee training on confidentiality obligations, and exit procedures for departing employees. Technical measures include passwords, encryption, access controls, authentication systems, and monitoring for unauthorized access.[^143]
+
+[^142]: Ansgar Ohly, '"Volenti Non Fit Iniuria": The Lawfulness of the Defendant's Acquisition of a Trade Secret as a Defense in Trade Secret Litigation' in Rochelle C. Dreyfuss and Katherine J. Strandburg (eds), *The Law and Theory of Trade Secrecy* (Edward Elgar 2011) 495, 510–515.
+
+[^143]: OLG Düsseldorf (n 119) paras 45–50.
+
+The Higher Regional Court of Düsseldorf established nine factors for proportionality assessment: type of trade secret, specific circumstances of use, value and development costs, nature of information, importance to company, size of company, usual confidentiality measures in the company, type of labeling or marking, and contractual provisions with employees and partners.[^144] This framework emphasizes proportionality – small and medium enterprises need not implement the same expensive security measures as large corporations, but measures must be reasonable given the information's value and the circumstances of its use.
+
+[^144]: ibid para 49.
+
+French courts applying Code de Commerce provisions implementing the Directive emphasize that measures must be specific and targeted rather than blanket designations.[^145] Generic "all information confidential" declarations in employment contracts are insufficient; holders must specifically identify and mark confidential information, document protection measures taken, and implement both technical restrictions and contractual protections.[^146] The Paris Court of Appeal's decisions require demonstrable, implemented protection rather than merely stated policies.[^147]
+
+[^145]: Pascal Kamina, *Film Copyright in the European Union* (2nd edn, Cambridge University Press 2016) 234–237 (discussing French trade secret framework).
+
+[^146]: CA Paris (n 122).
+
+[^147]: ibid.
+
+Dutch courts apply the Wet bescherming bedrijfsgeheimen with particular strictness, exemplified in the pithy formulation that "policy without practice fails the reasonable steps test."[^148] Stated confidentiality policies that employees routinely violate without consequence demonstrate that reasonable steps have not been taken in practice, regardless of written policies. This approach focuses on actual implementation and enforcement rather than formal documentation.
+
+[^148]: Rechtbank Midden-Nederland (n 121).
+
+Applied to AI prompts, these requirements create significant challenges because the fundamental architecture of cloud AI services requires transmitting prompts across networks to third-party providers. The legal analytics firm maintaining NDAs, restricting internal access, and encrypting its prompt library satisfied legal and organizational measures but necessarily transmitted prompts to OpenAI's servers thousands of times daily. The pharmaceutical company's scientists using consumer ChatGPT accounts clearly failed by disclosing prompts without contractual safeguards. The automotive manufacturer storing prompts in encrypted files accessible to only three senior engineers potentially satisfied reasonable steps if, and only if, using Anthropic's enterprise service with contractual confidentiality protections.
+
+The decisive question is whether use of enterprise AI services with contractual confidentiality provisions, combined with internal controls, constitutes "reasonable steps under the circumstances" or whether transmitting prompts to third-party servers fundamentally defeats the requirement. National court guidance on third-party service providers suggests that contractual confidentiality provisions can suffice. The German courts' emphasis on "executed confidential disclosure agreements" implies that properly documented contractual protections with service providers satisfy reasonable steps even though the provider necessarily accesses the information.[^149]
+
+[^149]: OLG Düsseldorf (n 119) para 47.
+
+However, cloud AI services present a structural challenge distinct from traditional third-party relationships. Trade secret law developed in contexts where holders could maintain physical or exclusive digital control over secret information – formulas in locked laboratories, customer lists on access-controlled servers. Cloud AI inverts this model by requiring disclosure to third parties as a condition of using the information at all. The prompt cannot function without transmission to the AI provider's infrastructure; there is no equivalent to maintaining a chemical formula in a secured laboratory while using it in-house.
+
+The resolution depends on whether contractual protections can substitute for exclusive physical control. German courts' proportionality framework suggests they can: the nine-factor test includes "specific circumstances of use" as a factor, indicating that if information's use necessarily requires third-party involvement, reasonable steps must be assessed relative to that constraint rather than requiring impossible exclusive control.[^150] The approach recognizes that in some contexts – cloud computing, outsourced manufacturing, collaborative research – third-party involvement is inherent to using the information, and contractual protections combined with internal controls can satisfy the reasonable steps requirement.
+
+[^150]: ibid para 49.
+
+For AI prompts, reasonable steps therefore require a comprehensive protection program acknowledging the necessity of third-party disclosure while minimizing associated risks:
+
+Legal measures: use exclusively enterprise AI services with documented contractual confidentiality protections; execute non-disclosure agreements with employees and contractors; include confidentiality provisions in employment contracts specifically identifying prompts as confidential; maintain agreements with AI service providers and document their confidentiality terms.
+
+Organizational measures: implement access controls limiting which employees can create and submit prompts; establish classification systems identifying which prompts contain trade secret information; provide employee training on proper use of AI services and the distinction between consumer and enterprise tiers; institute monitoring and audit procedures detecting unauthorized disclosure; establish incident response plans addressing breaches; enforce policies through disciplinary action demonstrating implementation in practice.
+
+Technical measures: encrypt prompts in transit and at rest; implement authentication systems controlling prompt access; sanitize prompts to remove unnecessary sensitive information before submission; monitor AI service usage for compliance; maintain audit logs of prompt submissions; establish technical controls preventing use of consumer AI services on company devices.
+
+This comprehensive framework parallels protections German courts require for traditional trade secrets but adapted to accommodate cloud AI's distributed architecture. The requirement is straightforward doctrinally – reasonable steps must be "under the circumstances," and the circumstances of AI prompt use include technical necessity of third-party processing – but demanding practically, requiring substantial investment in legal, organizational, and technical infrastructure.
+
+The conclusion is that contractual protections with enterprise AI providers, combined with rigorous internal controls, can satisfy Article 2(1)(c)'s reasonable steps requirement. However, the accommodation is conditional and demanding. Businesses must document enterprise service agreements, implement comprehensive internal protection measures, train employees, monitor compliance, and enforce violations. The Dutch principle – "policy without practice fails" – requires demonstrating that stated protections are implemented and enforced in reality, not merely documented on paper.
