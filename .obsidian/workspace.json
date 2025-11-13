@@ -157,12 +157,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt protection/00 Core/Topic mapping.md",
+                "file": "Prompt protection/02 Research - IP Protection Regimes/A - Copyright/Copyright - Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic mapping"
+              "title": "Copyright - Claude"
             }
           }
         ],
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt protection/00 Core/Topic mapping.md",
+                "file": "Prompt protection/02 Research - IP Protection Regimes/A - Copyright/Copyright - Claude.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topic mapping"
+              "title": "Outline of Copyright - Claude"
             }
           },
           {
@@ -429,11 +429,13 @@
   },
   "active": "033a07253188ab3f",
   "lastOpenFiles": [
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
+    "Prompt protection/00 Core/Article Outline.md",
+    "Prompt protection/00 Core/Topic mapping.md",
     "Prompt protection/Current outline plan.md",
     "Prompt protection/Style.md",
     "Prompt protection/README.md",
     "Prompt protection/00 Core/00 Prompt protection questions.md",
-    "Prompt protection/00 Core/Article Outline.md",
     "style.md",
     "Consumer AI throttling/README.md",
     "Consumer AI throttling/Drafts/article.md",
@@ -457,8 +459,6 @@
     "Prompt protection/03 Research - Contract Law & Warranties/Warranty disclaimers Perplexity Californian.md",
     "Prompt protection/03 Research - Contract Law & Warranties/Warranty disclaimers Irenalnd California google.md",
     "Prompt protection/03 Research - Contract Law & Warranties/Guarantees in generative AI - google.md",
-    "Prompt protection/03 Research - Contract Law & Warranties/Continental European Service Conformity Standards - Claude.md",
-    "Prompt protection/03 Research - Contract Law & Warranties/AI Contracts Performance and Disclaimers.md",
     "Prompt protection/03 Research - Contract Law & Warranties",
     "Prompt protection/02 Research - IP Protection Regimes/B - Trade Secrets",
     "Prompt protection/02 Research - IP Protection Regimes/A - Copyright",
