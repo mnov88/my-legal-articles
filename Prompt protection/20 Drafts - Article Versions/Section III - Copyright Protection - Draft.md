@@ -98,9 +98,17 @@ However, three obstacles undermine copyright protection even for elaborate syste
 
 First, the prompt remains fundamentally a set of instructions – procedures and methods for the AI to follow – and such functional specifications are excluded from copyright protection under TRIPS Article 9(2) and the Software Directive regardless of length or complexity. This is examined in detail in subsection D below.
 
-Second, originality requires that creative choices not be "dictated by technical considerations, rules or constraints which leave no room for creative freedom,"[^26] yet system prompts are precisely constrained by the functional requirements of effective AI interaction. Choices about tone, vocabulary, and protocols respond to technical optimization rather than reflecting artistic personality. The prompt's structure and content are dictated by functional requirements – what specifications will generate the desired AI behavior – rather than by creative literary or artistic choices.
+Second, originality requires that creative choices not be "dictated by technical considerations, rules or constraints which leave no room for creative freedom,"[^26] yet system prompts are precisely constrained by the functional requirements of effective AI interaction.
 
 [^26]: *Football Dataco* (n 5) para 39.
+
+The CJEU's decision in *Brompton Bicycle v Chedech* provides the critical framework. The Court held at paragraph 24 that "where the realisation of a subject matter has been dictated by technical considerations, rules or other constraints which have left no room for creative freedom, that subject matter cannot be regarded as being original."[^26a] The Court continued at paragraph 25 that even where "certain aesthetic elements...co-exist with certain technical functionalities," copyright protection may apply provided the author "express[es] his or her creativity in an original manner by making free and creative choices, which allows the author to stamp his or her 'personal touch' on that subject matter."[^26b] The test asks whether creative freedom exists despite functional constraints.
+
+[^26a]: Case C-833/18 *Brompton Bicycle Ltd v Chedech/Get2Get* EU:C:2020:461, para 24.
+
+[^26b]: ibid para 25.
+
+Applied to prompts, the balance tips decisively toward functional constraint. Choices about tone, vocabulary, and protocols respond to technical optimization – what specifications will generate the desired AI behavior – rather than to creative literary or artistic choices. The prompt engineer learns through experimentation which phrasings trigger particular AI responses, which parameter values optimize output quality, and which structural patterns improve consistency. These choices reflect skill and accumulated knowledge about AI system behavior, but they are dictated by the functional goal of effective communication with the AI rather than by expressive choices reflecting the author's personality.
 
 Third, the question becomes whether the prompt's selection and arrangement of specifications reflects sufficient originality. Here the analogy to databases proves instructive – as the CJEU held in *Football Dataco*, mere compilation of functional elements without creative selection principle fails the originality test.[^27]
 
@@ -119,6 +127,12 @@ This argument founders on a critical distinction.
 Prompts fall on the functional side of the line the CJEU has drawn between creative expression and utilitarian specification. The distinction is not one of length but of purpose and constraint. Where the purpose of text is to convey instructions efficiently and accurately, the range of expression narrows to the point where idea and expression merge; protecting the resulting text would monopolize the underlying method or procedure, violating the fundamental principle that copyright extends only to expression, not to ideas, procedures, or methods of operation.[^30]
 
 [^30]: TRIPS Agreement (n 14) art 9(2).
+
+The merger doctrine – though not articulated under that label in EU law – operates through the CJEU's framework. When limited ways exist to express a particular instruction, protecting any formulation would monopolize the instruction itself. Consider specific examples. Instructing an AI to "increase brightness" can be expressed as "make brighter," "brighten," "enhance luminosity," or "raise brightness level" – but these are functionally equivalent formulations differing only in trivial word choice. Similarly, requesting "formal tone" could be phrased as "professional tone," "business-appropriate style," or "corporate register," but each communicates the same functional constraint to the AI. Specifying "use active voice" admits only minimal variation: "employ active voice," "write in active voice," "prefer active constructions." Protecting any of these formulations would enable monopolization of the underlying instruction – precisely what the idea-expression dichotomy forbids.
+
+The Court's analysis in *BSA* applies directly: where "the idea and the expression become indissociable," protection must be denied because "to accept that the functionality...can be protected by copyright would amount to making it possible to monopolise ideas, to the detriment of technological progress and industrial development."[^30a] Even complex multi-clause prompts face this constraint. A prompt specifying "Write a 500-word essay in academic style with Harvard citations addressing climate policy" contains functional specifications that can be expressed only in limited ways. The word count, style designation, citation format, and topic are ideas about what should be created; the particular words chosen to convey these specifications represent the only practical means of communicating them to an AI system.
+
+[^30a]: *BSA* (n 43) para 50.
 
 ## D. The Idea-Expression Dichotomy
 
@@ -162,6 +176,14 @@ First, recipes. French courts held that cooking recipes "do not in themselves co
 
 [^41]: Opinion of AG Wathelet in *Levola Hengelo BV v Smilde Foods BV*, Case C-310/17, EU:C:2018:156, para 59.
 
+Advocate General Wathelet's opinion in *Levola Hengelo* articulates the principle with clarity. At paragraph 40, he emphasized that "copyright does not protect the recipe as such (the idea)" because "copyright protection extends to original expressions and not to ideas, procedures, methods of operation."[^41a] The distinction between the functional instructions contained in a recipe and the creative expression in which those instructions may be conveyed proves critical – one can copyright the literary work that describes how to make a dish, but not the method of making it.[^41b] At paragraph 59, the Advocate General noted that "it is perfectly legitimate...to use a recipe in order to prepare a dish, and to be inspired by a work in order to create another work."[^41c] The parallel to prompts is direct: just as recipes are functional instructions for producing dishes, prompts are functional instructions for producing AI outputs. Protecting the functional instructions themselves – rather than any creative literary expression in which they might be clothed – would monopolize methods and ideas.
+
+[^41a]: ibid para 40.
+
+[^41b]: ibid.
+
+[^41c]: ibid para 59.
+
 Second, operating instructions. The German Bundesgerichtshof has consistently held that simple operating manuals – "Press button A, then B" – constitute unprotectable procedures, with copyright attaching only to substantial creative expression in the arrangement or explanation of functional information.[^42]
 
 [^42]: *Bedienungsanleitung* (n 21).
@@ -177,6 +199,16 @@ The relevant parallel is to functional specifications in software development. T
 [^45]: ibid para 46.
 
 Prompts bear the same relationship to AI systems that specifications bear to software: they describe what the AI should do, what functions it should perform, what constraints it should observe, and what outputs it should generate. The fact that prompts are written in natural language rather than formal specification languages does not alter their functional character – they remain instructions about methods and procedures of operation rather than literary expressions for their own sake.
+
+A critical reinforcement comes from the CJEU's recent decision in *Sony Computer Entertainment Europe Ltd v Datel Design & Development Ltd* (2024). The Court held that "the content of the variables which are stored temporarily in a console's RAM memory during the playing of a video game does not itself constitute a form of expression of the computer program which is protected by copyright."[^45a] Variables stored in RAM – data inputs that control program behavior – do not constitute program expressions even when they directly affect system operation.[^45b] The Court reasoned that treating such data as protected program expression would impermissibly extend copyright to functional elements beyond the program code itself.[^45c]
+
+[^45a]: Case C-159/23 *Sony Computer Entertainment Europe Ltd v Datel Design & Development Ltd* EU:C:2024:649, para 33.
+
+[^45b]: ibid para 34.
+
+[^45c]: ibid para 35.
+
+The analogy to prompts is direct. Prompts function as inputs to AI systems, controlling how the system processes information and generates outputs – precisely parallel to variables stored in RAM that control video game behavior. If RAM variables that directly affect program operation are not protected as program expressions, then textual prompts that control AI operation should equally fall outside protection. Both are functional inputs to existing programs rather than expressions of the programs themselves.
 
 ## E. Scholarly Consensus
 
@@ -204,11 +236,17 @@ Professor Rita Matulionyte and Dr Ana Ramalho observe that prompts function as "
 
 [^52]: Rita Matulionyte and Ana Ramalho, 'Artificial Intelligence and Copyright: An EU Perspective' in Jyh-An Lee, Reto M Hilty and Kung-Chung Liu (eds), *Artificial Intelligence & Intellectual Property* (Oxford University Press 2024) 187, 201.
 
-Professor Andres Guadamuz draws attention to the non-deterministic nature of AI systems, arguing that prompts cannot qualify as preparatory design material under the Software Directive because they do not "lead to a computer program at a later stage" but rather trigger probabilistic processes that generate variable outputs.[^53] This distinguishes prompts from traditional preparatory materials like pseudocode or architectural diagrams, which serve as blueprints from which programmers write source code implementing the design.[^54]
+Professor Andres Guadamuz and Ana Sampaio both emphasize the non-deterministic nature of AI systems as a fundamental barrier to treating prompts as protectable preparatory design material. Guadamuz argues that prompts cannot qualify under the Software Directive because they do not "lead to a computer program at a later stage" but rather trigger probabilistic processes that generate variable outputs.[^53] Sampaio articulates the point with precision: "the same prompt to the same model will not deliver the same results," fundamentally distinguishing prompts from preparatory design material, which must be sufficiently precise to enable deterministic program implementation.[^53a]
 
 [^53]: Andres Guadamuz, 'The Monkey Selfie: Copyright Lessons for Originality in Photographs and AI Works' (2018) 5 Internet Policy Review 1, 12.
 
-[^54]: ibid.
+[^53a]: Ana Sampaio, 'Are Prompts Copyrightable?' (Kluwer Copyright Blog, 14 June 2023) <http://copyrightblog.kluweriplaw.com/2023/06/14/are-prompts-copyrightable> accessed 10 November 2025.
+
+This non-determinism proves critical. Traditional preparatory design materials – pseudocode, flowcharts, UML diagrams, architectural specifications – serve as blueprints from which programmers deterministically implement software. A well-specified pseudocode algorithm enables multiple programmers to produce functionally equivalent implementations.[^53b] Prompts operate differently. The same prompt submitted to the same AI model at different times produces varying outputs due to probabilistic sampling, temperature parameters, and stochastic inference processes. This variability undermines the claim that prompts constitute "preparatory design work...such that a computer program can result from it at a later stage" within the meaning of Recital 7 to the Software Directive.[^53c] Prompts do not lead to programs; they trigger existing programs to generate variable outputs.
+
+[^53b]: Software Directive (n 2) recital 7.
+
+[^53c]: ibid.
 
 The scholarly literature reinforces the restrictive approach to functional texts established by the CJEU. Where the purpose of text is to convey instructions efficiently and accurately, the range of expression narrows to the point where idea and expression merge. Protecting such text would monopolize the underlying method or procedure, violating the fundamental principle that copyright extends only to expression, not to ideas, procedures, or methods of operation.
 
