@@ -6,7 +6,7 @@ Why it matters: PromptBase market data, prompt engineering salaries
 Scope: EU IP frameworks (copyright, software/database, patents, trade secrets)
 Methodology: Doctrinal analysis, CJEU case law
 Roadmap
-Links: [[00 Prompt protection questions]], [[README]]
+Links: [[00 Prompt protection questions]], [[README 1]]
 II. Economic Foundation [1,000 words - TIGHTENED]
 Keep essential justifications only:
 
