@@ -472,7 +472,9 @@ The analysis has established multiple grounds for denying copyright protection t
 
 **The argument:** Denying copyright protection eliminates incentives to invest in prompt engineering. Developing effective prompts requires substantial time, expertise, and experimentation. Without protection, competitors can freely copy optimized prompts, appropriating the fruits of another's investment and undermining incentives for prompt development. Copyright's purpose is to incentivize creative production through temporary monopolies. Extending that logic to prompts would reward prompt engineering investment.
 
-**The rebuttal:** Three reasons defeat this argument.
+**The rebuttal:** 
+
+Three reasons defeat this argument.
 
 First, the CJEU has definitively rejected investment-based protection in *Football Dataco*. The Court held that "the fact that the setting up of the database required...significant labour and skill of its author...cannot as such justify the protection of it by copyright" where creative choices rather than labor determine originality.[^100] EU copyright law deliberately excludes the "sweat of the brow" doctrine. Accepting the economic incentive argument would resurrect investment-based protection the CJEU expressly rejected.
 
