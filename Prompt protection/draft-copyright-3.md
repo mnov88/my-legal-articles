@@ -58,15 +58,11 @@ Originality requires "free and creative choices" rather than choices "dictated b
 
 [^106]: *Football Dataco* (n 5) para 39.
 
-The analogy to elaborate operating instructions proves instructive. A 400-page user manual for complex machinery involves countless choices about what to explain, how to structure explanations, and what terminology to use, yet German courts hold that routine functional instructions lack originality regardless of length because they respond to functional rather than creative imperatives.[^107] French courts hold that detailed recipes with extensive instructions remain unprotected as "know-how" rather than creative works.[^108]
+The analogy to elaborate operating instructions proves instructive. A 400-page user manual for complex machinery involves countless choices about what to explain, how to structure explanations, and what terminology to use, yet German courts hold that routine functional instructions lack originality regardless of length because they respond to functional rather than creative imperatives.[^107] French courts hold that detailed recipes with extensive instructions remain unprotected as "know-how."[^108] Length and complexity do not transform functional instructions into protectable expression.
 
 [^107]: *Bedienungsanleitung* (n 20).
 
 [^108]: Cour de Cassation [1974] (n 56).
-
-Where idea and expression merge — where functional requirements narrow the range of possible expressions — protection must be denied to avoid monopolizing ideas. The *BSA* Court's warning applies: "to accept that the functionality...can be protected by copyright would amount to making it possible to monopolise ideas, to the detriment of technological progress and industrial development."[^109] Length and complexity do not transform functional monopolies into protectable expression.
-
-[^109]: *BSA* (n 44) para 50.
 
 ### Technological neutrality argument
 
