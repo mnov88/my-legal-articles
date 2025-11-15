@@ -1,10 +1,10 @@
 # III. Copyright and Software Protection: Instructions Excluded as Functional Subject Matter
 
-The most intuitive protection pathway for textual content is copyright, potentially supplemented by specialized protection for computer programs under the Software Directive. This Part demonstrates that both frameworks converge on the same conclusion: prompts constitute functional instructions—ideas, procedures, and methods of operation—that copyright law deliberately excludes from protection. The analysis proceeds systematically through the harmonized originality standard, its application to prompts of varying complexity, the identifiability requirement, and the idea-expression dichotomy as operationalized through both the InfoSoc Directive and the Software Directive. The convergence is not coincidental—it reflects fundamental policy choices about preserving the public domain of functional language, communication methods, and building blocks necessary for innovation and competition.
+The most intuitive protection pathway for textual content is copyright, potentially supplemented by specialized protection for computer programs under the Software Directive. This Part demonstrates that both frameworks converge on the same conclusion: prompts constitute functional instructions—ideas, procedures, and methods of operation—that copyright law deliberately excludes from protection. The analysis proceeds systematically through the harmonized originality standard, its application to prompts of varying complexity, and the idea-expression dichotomy as operationalized through both the InfoSoc Directive and the Software Directive. The convergence is not coincidental—it reflects fundamental policy choices about preserving the public domain of functional language, communication methods, and building blocks necessary for innovation and competition.
 
 ## A. The Harmonized Originality Standard
 
-The starting point for copyright analysis under EU law is the harmonized originality standard articulated by the Court of Justice of the European Union in *Infopaq International A/S v Danske Dagblades Forening*. The Court held that "copyright within the meaning of Article 2(a) of Directive 2001/29 is liable to apply only in relation to a subject-matter which is original in the sense that it is its author's own intellectual creation."[^1] This formulation—drawn from Article 1(3) of the Software Directive and Article 3(1) of the Database Directive—has been extended by the CJEU to all categories of works protected under the Information Society Directive.[^2] No other criteria may be applied to determine eligibility for copyright protection; Member States cannot demand aesthetic merit, cultural value, or qualitative thresholds beyond originality as the author's own intellectual creation.[^3]
+The CJEU held in *Infopaq International A/S v Danske Dagblades Forening* that copyright applies "only in relation to a subject-matter which is original in the sense that it is its author's own intellectual creation."[^1] This formulation—drawn from the Software Directive and Database Directive—has been extended to all work categories under the InfoSoc Directive.[^2] Member States cannot demand aesthetic merit, cultural value, or qualitative thresholds beyond this standard.[^3]
 
 [^1]: Case C-5/08 *Infopaq International A/S v Danske Dagblades Forening* EU:C:2009:465, para 37.
 
@@ -12,41 +12,27 @@ The starting point for copyright analysis under EU law is the harmonized origina
 
 [^3]: *Infopaq* (n 1) para 38.
 
-What does this standard require? The CJEU clarified in *Painer v Standard Verlags* that "an intellectual creation is an author's own if it reflects the author's personality," which occurs when "the author was able to express his creative abilities in the production of the work by making free and creative choices."[^4] Originality demands that the author stamp the work with their "personal touch" through decisions that are neither dictated by technical considerations nor compelled by functional constraints leaving no room for creative freedom.[^5]
+In *Painer v Standard Verlags*, the Court clarified that an intellectual creation reflects the author's personality when "the author was able to express his creative abilities in the production of the work by making free and creative choices."[^4] The author must stamp the work with a "personal touch" through decisions neither dictated by technical considerations nor compelled by functional constraints.[^5] *Football Dataco* confirmed that the threshold is low but not nonexistent: "significant labour and skill" cannot justify protection absent creative choices reflecting personality.[^6] EU law rejects the "sweat of the brow" doctrine—investment alone generates no copyright.[^7]
 
 [^4]: Case C-145/10 *Eva-Maria Painer v Standard VerlagsGmbH and Others* EU:C:2011:798, para 89.
 
 [^5]: Case C-604/10 *Football Dataco Ltd and Others v Yahoo! UK Ltd and Others* EU:C:2012:115, para 38.
 
-The threshold is deliberately low but not nonexistent. As the Court held in *Football Dataco*, "the fact that the setting up of the database required, irrespective of the creation of the data which it contains, significant labour and skill of its author" cannot justify protection "if that labour and that skill do not express any originality in the selection or arrangement of that data."[^6] EU copyright law has explicitly rejected the "sweat of the brow" doctrine; investment and effort alone cannot generate copyright protection absent creative choices reflecting the author's personality.[^7]
-
-[^6]: *Football Dataco* (n 5) para 42.
+[^6]: ibid para 42.
 
 [^7]: ibid para 41.
 
-The CJEU consolidated these principles in *Cofemel v G-Star Raw*, confirming at paragraph 29 that "a subject matter can be classified as a 'work' within the meaning of Directive 2001/29 only if it is an original subject matter in that it is the author's own intellectual creation."[^8] Critically, at paragraph 30, the Court held that "the assessment of the originality of a subject matter is therefore primarily based on whether that subject matter reflects the personality of its author, as an expression of his or her free and creative choices."[^9] This established a uniform, harmonized standard across all Member States.
+*Cofemel v G-Star Raw* established that originality assessment focuses on "whether that subject matter reflects the personality of its author, as an expression of his or her free and creative choices."[^8] This creates a uniform, harmonized standard across Member States. Member States cannot apply alternative criteria—no aesthetic requirements, no applied art distinctions, no utilitarian function tests.[^9] The test is exclusive. For prompts, this means no accommodation for technological novelty, economic value, or development investment. Member States cannot lower the threshold for AI-related subject matter.
 
-[^8]: Case C-683/17 *Cofemel v G-Star Raw* EU:C:2019:721, para 29.
+[^8]: Case C-683/17 *Cofemel v G-Star Raw* EU:C:2019:721, para 30.
 
-[^9]: ibid para 30.
+[^9]: ibid paras 30-32.
 
-*Cofemel* forecloses any argument that prompts merit protection under criteria other than originality or that Member States might establish special regimes for AI-related subject matter. At paragraphs 30-32, the Court emphasized that Member States cannot apply alternative criteria—no aesthetic merit requirements, no applied art distinctions, no utilitarian function tests.[^10] The originality test is exclusive and admits no exceptions for technological novelty or economic value considerations. This uniformity principle proves critical for prompts: if Member States cannot lower the originality threshold for established work categories, they certainly cannot do so for emerging technologies. The harmonized standard applies with full force to prompts, without accommodation for their functional utility or the investment required to develop them.
+*Levola Hengelo BV v Smilde Foods* synthesized two cumulative conditions.[^10] First, originality—the author's own intellectual creation through free and creative choices. Second, "only something which is the expression of the author's own intellectual creation may be classified as a 'work.'"[^11] Copyright requires not merely originality but also that subject matter constitute *expression* rather than *ideas, procedures, or methods*. The originality standard and the idea-expression dichotomy function as independent filters, each capable of defeating protection.
 
-[^10]: ibid paras 30-32.
+[^10]: Case C-310/17 *Levola Hengelo BV v Smilde Foods BV* EU:C:2018:899.
 
-Two cumulative conditions must be satisfied for subject matter to qualify as a "work" under EU copyright law, as the CJEU synthesized in *Levola Hengelo BV v Smilde Foods*.[^11] First, the subject matter must be original in the sense just described—the author's own intellectual creation resulting from free and creative choices. Second, and critically for prompts, "only something which is the expression of the author's own intellectual creation may be classified as a 'work'" under the InfoSoc Directive.[^12]
-
-[^11]: Case C-310/17 *Levola Hengelo BV v Smilde Foods BV* EU:C:2018:899.
-
-[^12]: ibid para 36.
-
-This second requirement imposes an identifiability constraint, examined in detail in Part D below. For present purposes, the key principle is that copyright requires not merely originality but also that the subject matter constitute *expression* rather than *ideas, procedures, or methods*. The originality standard and the idea-expression dichotomy function as two independent filters, each capable of defeating protection.
-
-The Copyright Term Directive adds a temporal dimension relevant to policy analysis. Article 1(1) provides that "the rights of an author of a literary or artistic work within the meaning of Article 2 of the Berne Convention shall run for the life of the author and for 70 years after his death."[^13] This extraordinarily long term—justified by Recital 5 as necessary to "protect works for two generations after the author's death" given increased human longevity—sits uncomfortably with functional subject matter that may become technologically obsolete within months or years as AI models evolve and prompting conventions change.[^14] The mismatch between copyright's default term and the useful life of functional instructions constitutes a policy consideration that counsels against extending copyright protection to prompts, as examined further in Part G below.
-
-[^13]: Directive 2006/116/EC of the European Parliament and of the Council of 12 December 2006 on the term of protection of copyright and certain related rights [2006] OJ L372/12, art 1(1).
-
-[^14]: ibid recital 5.
+[^11]: ibid para 36.
 
 ## B. Application of originality standard to prompts
 

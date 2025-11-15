@@ -30,51 +30,39 @@ The CJEU has interpreted these provisions expansively. In *SAS Institute*, the C
 
 Applied to prompts: when users experiment with AI systems to discover which instructions produce desired outputs, they engage in precisely the interface exploration that Articles 5(3) and 6 protect. Technical research on prompt extraction demonstrates that prompts can be reverse-engineered from outputs by analyzing response patterns—this constitutes lawful reverse engineering under both the Software Directive and Directive 2016/943 on trade secrets (which permits reverse engineering of lawfully acquired products). Granting copyright protection to prompts would create legal barriers to this interface learning that EU policy deliberately protects.
 
+### Access to justice and AI literacy concerns
+
+Copyright protection for prompts would create severe access-to-justice problems. How would small businesses or individuals determine whether their prompting techniques infringe protected prompts with 70-year protection terms? Unlike patents with searchable registries and clear claims, copyright arises automatically without notice or registration. Prompt libraries would become legal minefields. Every effective technique—requesting "formal tone," specifying "step-by-step reasoning," using "chain-of-thought prompting"—could be someone's protected expression. Users would face unavoidable uncertainty about whether routine AI interaction infringes copyright.
+
+This would chill AI literacy development. Educators share prompting techniques; researchers publish effective strategies; communities collaboratively develop best practices. Copyright protection would restrict this cumulative learning essential to democratizing AI access. The policy mismatch is stark: copyright's 70-year monopoly applied to functional techniques whose value lies in widespread adoption and iterative improvement.
+
 ### Term mismatch and innovation policy
 
-Copyright's 70-year post mortem auctoris term creates perverse incentives when applied to functional instructions. The Copyright Term Directive justifies this extraordinarily long term as necessary to "protect works for two generations after the author's death" given increased human longevity.[^76] This rationale makes sense for creative literary and artistic works whose cultural value persists across generations. It makes no sense for functional instructions that become obsolete as AI models evolve.
+The Copyright Term Directive grants protection for "the life of the author and for 70 years after his death."[^76] Recital 5 justifies this extraordinarily long term as necessary to "protect works for two generations after the author's death" given increased human longevity.[^77] This rationale assumes cultural value persisting across generations—wholly inappropriate for functional instructions becoming technologically obsolete within months.
 
-[^76]: Copyright Term Directive (n 13) recital 5.
+[^76]: Directive 2006/116/EC of the European Parliament and of the Council of 12 December 2006 on the term of protection of copyright and certain related rights [2006] OJ L372/12, art 1(1).
+
+[^77]: ibid recital 5.
 
 Prompts optimized for GPT-4 may fail entirely on GPT-5. System prompts carefully tuned to one model architecture require complete redesign when architectures change. Applying 70-year monopolies to ephemeral functional content creates structural barriers to AI adoption and iteration. Users would face uncertainty about whether decades-old prompt formulations remain protected, chilling experimentation and the cumulative learning essential to prompt engineering. Copyright's default rules assume valuable works justify long protection to incentivize creation. Functional instructions with six-month useful lives invert that logic.
 
 ## H. Scholarly consensus on prompt copyrightability
 
-Academic commentary on prompt copyrightability has converged on the conclusion that prompts likely fail the originality threshold and idea-expression barrier under EU law.
+Academic commentary on prompt copyrightability has converged substantially, though not unanimously, on skepticism toward protection under EU law.
 
-Professor Xiyin He, writing in *GRUR International*, argues that "judicial recognition of text-to-image copyrightability at the current stage is dangerous" because "the practice is not in accordance with our traditional understanding of originality."[^74] He emphasizes that prompts constitute "merely unprotectable ideas" rather than expressions.[^75] The functional nature of prompts — their purpose of instructing AI systems how to generate outputs — places them squarely within the category of methods and procedures excluded from copyright protection under TRIPS Article 9(2) and Software Directive Article 1(2).[^76]
+Professor Xiyin He argues that prompts constitute "merely unprotectable ideas" rather than expressions, placing them squarely within methods and procedures excluded under TRIPS Article 9(2) and Software Directive Article 1(2).[^78] Professors Gervais and Hugenholtz identify the transferability problem: "The hard question is whether those creative choices...of the prompt is 'transferable' into the product...This gets dangerously close to owning the underlying idea."[^79] They conclude that denying protection should be the default position. Quintais and Hugenholtz emphasize that where subject matter has been dictated by technical considerations leaving no room for creative freedom, originality cannot be found.[^80] Matulionyte and Ramalho argue that protecting prompts would "grant exclusive rights over methods of operation," violating copyright's fundamental idea-expression distinction.[^81] Guadamuz and Sampaio emphasize non-determinism: "the same prompt to the same model will not deliver the same results," distinguishing prompts from preparatory design material requiring deterministic precision.[^82]
 
-[^74]: Xiyin He, 'Human Authorship and AI-Generated Works: A Chinese Perspective' (2024) 55 IIC 321, 335.
+[^78]: Xiyin He, 'Human Authorship and AI-Generated Works: A Chinese Perspective' (2024) 55 IIC 321, 335-336.
 
-[^75]: ibid 336.
-
-[^76]: ibid.
-
-Professors Daniel Gervais and P Bernt Hugenholtz identify the critical problem: "The hard question is whether those creative choices — the originality, if any — of the prompt is 'transferable' into the product or output of the AI machine. This gets dangerously close to owning the underlying idea, and thus goes against a fundamental principle of international copyright law."[^77] They conclude that "if the originality of the instructions is not sufficiently reflected in the machine's product, there is no protected work in the output. That should be the default position."[^78] Extending copyright protection to prompts would enable monopolization of methods for interacting with AI systems and foreclose the competitive experimentation essential to technological development.[^79]
-
-[^77]: Daniel Gervais and P Bernt Hugenholtz, 'The AI-nundrum: Machines, Learning and Intellectual Property' (Kluwer Copyright Blog, 18 July 2023) <http://copyrightblog.kluweriplaw.com/2023/07/18/the-ai-nundrum-machines-learning-and-intellectual-property> accessed 10 November 2025.
-
-[^78]: ibid.
-
-[^79]: ibid.
-
-Professor João Pedro Quintais and Professor P Bernt Hugenholtz argue that current EU copyright rules are "generally suitable and sufficiently flexible to deal with the challenges posed by AI-assisted output" when properly applied, emphasizing that where subject matter has been dictated by technical considerations leaving no room for creative freedom, originality cannot be found.[^80] Technical constraints inherent in prompt engineering — conforming to AI model requirements, optimizing for effective inference — leave no room for creative freedom of the kind required by the CJEU's originality standard.[^81]
+[^79]: Daniel Gervais and P Bernt Hugenholtz, 'The AI-nundrum: Machines, Learning and Intellectual Property' (Kluwer Copyright Blog, 18 July 2023) <http://copyrightblog.kluweriplaw.com/2023/07/18/the-ai-nundrum-machines-learning-and-intellectual-property> accessed 10 November 2025.
 
 [^80]: João Pedro Quintais and P Bernt Hugenholtz, 'The New Copyright Directive: A Complete (EU) Copyright Codification?' (2020) 51 IIC 28, 45–47.
 
-[^81]: ibid.
+[^81]: Rita Matulionyte and Ana Ramalho, 'Artificial Intelligence and Copyright: An EU Perspective' in Jyh-An Lee, Reto M Hilty and Kung-Chung Liu (eds), *Artificial Intelligence & Intellectual Property* (Oxford University Press 2024) 187, 201.
 
-Professors Rita Matulionyte and Ana Ramalho observe that prompts function as "instructions for the AI system" and argue that protecting them would "grant exclusive rights over methods of operation," violating the fundamental principle that copyright extends to expression but not to ideas, procedures, or methods.[^82]
+[^82]: Andres Guadamuz, 'The Monkey Selfie: Copyright Lessons for Originality in Photographs and AI Works' (2018) 5 Internet Policy Review 1, 12; Ana Sampaio, 'Are Prompts Copyrightable?' (Kluwer Copyright Blog, 14 June 2023) <http://copyrightblog.kluweriplaw.com/2023/06/14/are-prompts-copyrightable> accessed 10 November 2025.
 
-[^82]: Rita Matulionyte and Ana Ramalho, 'Artificial Intelligence and Copyright: An EU Perspective' in Jyh-An Lee, Reto M Hilty and Kung-Chung Liu (eds), *Artificial Intelligence & Intellectual Property* (Oxford University Press 2024) 187, 201.
-
-Professor Andres Guadamuz and Ana Sampaio both emphasize the non-deterministic nature of AI systems as a fundamental barrier to treating prompts as protectable preparatory design material. Guadamuz argues that prompts cannot qualify under the Software Directive because they do not "lead to a computer program at a later stage" but rather trigger probabilistic processes that generate variable outputs.[^83] Sampaio articulates the point with precision: "the same prompt to the same model will not deliver the same results," fundamentally distinguishing prompts from preparatory design material, which must be sufficiently precise to enable deterministic program implementation.[^84]
-
-[^83]: Guadamuz (n 38) 12.
-
-[^84]: Sampaio (n 39).
-
-The scholarly literature reinforces the restrictive approach to functional texts established by the CJEU. Where the purpose of text is to convey instructions efficiently and accurately, the range of expression narrows to the point where idea and expression merge. Protecting such text would monopolize the underlying method or procedure in violation of the fundamental principle that copyright extends only to expression, not to ideas, procedures, or methods of operation.
+This scholarly consensus is not universal. Some commentators argue that complex system prompts exhibit genuine creativity warranting protection, and that denying protection eliminates incentives for prompt engineering investment. These arguments merit serious consideration and are addressed in Part K below.
 
 ## J. Database protection for prompt collections
 
