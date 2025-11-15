@@ -66,61 +66,45 @@ This scholarly consensus is not universal. Some commentators argue that complex 
 
 ## J. Database protection for prompt collections
 
-While individual prompts fail both ordinary copyright and software protection, collections of prompts raise distinct questions under the Database Directive. The Directive establishes two forms of protection: copyright protection for original databases under Article 3, and a sui generis right protecting investment in databases under Article 7.[^85]
+While individual prompts fail copyright and software protection, collections raise distinct questions under the Database Directive's two protection forms: Article 3 copyright and Article 7 sui generis right.[^83]
 
-[^85]: Database Directive (n 2) arts 3, 7.
+[^83]: Database Directive (n 2) arts 3, 7.
 
-Article 1(2) defines "database" as "a collection of independent works, data or other materials arranged in a systematic or methodical way and individually accessible by electronic or other means."[^86] A collection of prompts clearly satisfies this definition — individual prompts constitute independent textual materials that can be arranged systematically by category, function, or effectiveness and accessed individually in digital repositories.
+Article 1(2) defines "database" as "a collection of independent works, data or other materials arranged in a systematic or methodical way and individually accessible."[^84] Prompt collections satisfy this definition.
 
-[^86]: ibid art 1(2).
+[^84]: ibid art 1(2).
 
-Database copyright protection requires that "by reason of the selection or arrangement of their contents," databases "constitute the author's own intellectual creation."[^87] The CJEU held in *Football Dataco* that originality demands "free and creative choices" in selection or arrangement that stamp the author's "personal touch" on the database.[^88] Where "the setting up of the database is dictated by technical considerations, rules or constraints which leave no room for creative freedom," the originality requirement fails.[^89]
+Database copyright requires that selection or arrangement "constitute the author's own intellectual creation."[^85] *Football Dataco* demands "free and creative choices" reflecting the author's "personal touch"—failing where choices are "dictated by technical considerations, rules or constraints which leave no room for creative freedom."[^86] Selection based on effectiveness (customer service versus creative writing prompts) reflects functional optimization, not creative choices. Arrangement alphabetically or by task type follows conventional schemes. *Football Dataco*'s rejection of "sweat of the brow" proves dispositive: investment does not generate protection absent creative selection or arrangement.[^87] Even if copyright applied, Article 3(2) provides that protection "shall not extend to" contents—users could extract individual prompts without infringing.[^88]
 
-[^87]: ibid art 3(1).
+[^85]: ibid art 3(1).
 
-[^88]: *Football Dataco* (n 5) para 38.
+[^86]: *Football Dataco* (n 5) paras 38-39.
 
-[^89]: ibid para 39.
+[^87]: ibid para 42.
 
-Applied to prompt collections, this standard proves difficult to satisfy. If prompts are selected based on effectiveness for different tasks — customer service versus creative writing versus technical documentation — the selection principle reflects functional optimization rather than creative choices expressing personality. If prompts are arranged alphabetically, by task type, or by effectiveness metrics, the arrangement follows conventional organizational schemes rather than reflecting creative ability.
+[^88]: Database Directive (n 2) art 3(2).
 
-The rejection of "sweat of the brow" protection in *Football Dataco* proves dispositive: "the fact that the setting up of the database required...significant labour and skill of its author...cannot as such justify the protection of it by copyright...if that labour and that skill do not express any originality in the selection or arrangement of that data."[^90] Investment in prompt engineering, testing, and optimization does not generate database copyright protection absent creative selection or arrangement principles.
+Article 7 provides sui generis protection independent of originality. Article 7(1) grants database makers demonstrating "substantial investment in either the obtaining, verification or presentation of the contents" the right to prevent extraction or reutilization of substantial parts.[^89] This regime might apply to prompt collections involving substantial investment.
 
-[^90]: ibid para 42.
+[^89]: ibid art 7(1).
 
-Even where database copyright might apply to a prompt collection exhibiting genuinely creative selection or arrangement, Article 3(2) expressly provides that "the copyright protection of databases...shall not extend to their contents and shall be without prejudice to any rights subsisting in those contents themselves."[^91] Database copyright protects the structure — creative selection and arrangement — but not the data elements within the collection. Users could extract and reuse individual prompts without infringing database copyright, which protects only against extraction or reuse of substantial portions reflecting the protected selection or arrangement.
+*British Horseracing Board v William Hill* dramatically narrowed protection through the creation/obtaining distinction.[^90] The Court held that "resources used to seek out existing independent materials and collect them" qualify as protected investment, but "not the resources used for the creation of materials which make up the contents of a database."[^91] British Horseracing Board's £4 million annual investment in creating horse racing data—determining race dates, creating runner lists—did not qualify for protection because it was investment in creating data, not obtaining it.[^92]
 
-[^91]: Database Directive (n 2) art 3(2).
+[^90]: Case C-203/02 *British Horseracing Board Ltd v William Hill Organization Ltd* EU:C:2004:695.
 
-The sui generis right established in Article 7 provides an alternative protection mechanism independent of originality requirements. Article 7(1) grants database makers who demonstrate "qualitatively and/or quantitatively a substantial investment in either the obtaining, verification or presentation of the contents" the right "to prevent extraction and/or re-utilization of the whole or of a substantial part...of the contents of that database."[^92] This protection regime — created precisely because the CJEU's restrictive originality standard left commercially valuable databases unprotected by copyright — might apply to prompt collections involving substantial investment.
+[^91]: ibid para 31.
 
-[^92]: ibid art 7(1).
+[^92]: ibid paras 33-34.
 
-The CJEU's interpretation in *British Horseracing Board v William Hill* dramatically narrowed sui generis protection through a critical distinction between investment in creating data versus investment in obtaining existing data.[^93] The Court held that "the resources used to seek out existing independent materials and collect them in the database" qualifies as protected investment, but "not the resources used for the creation of materials which make up the contents of a database."[^94] British Horseracing Board invested £4 million annually in creating horse racing data — determining race dates, creating lists of runners and riders — but the Court ruled this was investment in creating data, not obtaining data, and therefore did not qualify for sui generis protection.[^95]
+This creates a fundamental obstacle. Most prompt engineering involves creating prompts through iterative testing and refinement—investment in creation, not obtaining. The primary source of value in prompt libraries constitutes creation of data rather than obtaining existing data.
 
-[^93]: Case C-203/02 *British Horseracing Board Ltd v William Hill Organization Ltd* EU:C:2004:695.
+Two narrow pathways might provide protection. First, substantial investment in verification—systematically testing prompts across AI systems, quality control, effectiveness validation—could constitute protected investment.[^93] Second, substantial investment in sophisticated presentation systems—advanced search frameworks, metadata systems, recommendation algorithms—might qualify as presentation investment. Both require documented, substantial resource expenditure beyond routine administration.
 
-[^94]: ibid para 31.
+[^93]: Database Directive (n 2) art 7(1); Thomas Aplin and Jennifer Davis, *Intellectual Property Law: Text, Cases, and Materials* (4th edn, Oxford University Press 2020) 374-377.
 
-[^95]: ibid paras 33–34.
+The practical conclusion: collections where investment focuses on creating original prompts receive no protection. Collections with substantial documented investment in collecting third-party prompts, rigorous verification protocols, or sophisticated presentation systems might qualify. Protection prevents only extraction of substantial portions, not independent creation or use of individual prompts. The term is fifteen years.[^94] This narrow pathway rewards aggregation over innovation. Most businesses developing prompt libraries focus investment on prompt creation, placing them outside the *British Horseracing Board* framework.
 
-This distinction creates a fundamental obstacle for prompt collections. Most prompt engineering involves creating new prompts through iterative testing, trial-and-error refinement, and development of effective formulations. This is investment in creation, not obtaining. Under *British Horseracing Board*, such creative investment does not qualify for sui generis protection. The labour of developing effective prompts, testing variations, and optimizing formulations — the primary source of value in prompt libraries — constitutes creation of data rather than obtaining existing data.
-
-Two narrow pathways might provide sui generis protection. First, investment in "verification" or "presentation" of contents qualifies even where obtaining investment is absent.[^96] If a prompt library maker invests substantially in systematically testing prompts across multiple AI systems, quality control verification, effectiveness validation, and reliability assurance, this verification activity could constitute protected investment. The investment must be documented and substantial — cursory testing is insufficient.
-
-[^96]: Database Directive (n 2) art 7(1).
-
-Second, investment in sophisticated presentation systems — advanced search and categorization frameworks, metadata systems, recommendation algorithms, or technical interfaces requiring substantial resources — might qualify as presentation investment.[^97] The presentation must involve genuine technical sophistication and documented resource expenditure beyond routine database administration.
-
-[^97]: Thomas Aplin and Jennifer Davis, *Intellectual Property Law: Text, Cases, and Materials* (4th edn, Oxford University Press 2020) 374–377.
-
-The practical conclusion for prompt collections is nuanced. Collections where investment primarily focuses on creating original prompts receive no sui generis protection under current CJEU interpretation. Collections where substantial documented investment has been made in systematically collecting prompts created by third parties, in rigorous verification and testing protocols, or in sophisticated presentation systems might qualify. Protection extends only to preventing extraction and reutilization of substantial portions of the collection, not to preventing independent creation or use of individual prompts. The term is fifteen years from completion.[^98]
-
-[^98]: Database Directive (n 2) art 10(1).
-
-This pathway remains narrow and creates perverse incentives — it rewards aggregation over innovation, protecting compilation investment while leaving creative development unprotected. German courts applying corresponding national law have required claimants to quantify investment and demonstrate that extraction would unfairly benefit from that investment.[^99] Most businesses developing prompt libraries focus investment on prompt creation rather than verification of existing prompts, placing them outside the *British Horseracing Board* framework.
-
-[^99]: Matthias Leistner, 'The Protection of Databases' in Ansgar Ohly (ed), *Common Principles of European Intellectual Property Law* (Mohr Siebeck 2012) 139–158.
+[^94]: Database Directive (n 2) art 10(1).
 
 ---
 
