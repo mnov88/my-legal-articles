@@ -639,7 +639,11 @@
     "Prompt protection/draft-copyright-1.md": "prompt_protection_draft-copyright-1.md.json",
     "Critical update plan -- chapter III.md": "critical_update_plan_--_chapter_iii.md.json",
     "Prompt protection/Critical update plan -- chapter III.md": "prompt_protection_critical_update_plan_--_chapter_iii.md.json",
-    "Prompting case law.md": "prompting_case_law.md.json"
+    "Prompting case law.md": "prompting_case_law.md.json",
+    "C-5-08.md": "c-5-08.md.json",
+    "C-5-08 Infopaq.md": "c-5-08_infopaq.md.json",
+    "C-145-10 Painer.md": "c-145-10_painer.md.json",
+    "C-604-10 Football Dataco.md": "c-604-10_football_dataco.md.json"
   },
-  "lastUpdated": 1763215318241
+  "lastUpdated": 1763321098138
 }

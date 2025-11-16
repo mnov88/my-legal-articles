@@ -56,49 +56,21 @@
             }
           },
           {
-            "id": "74c2461efca82e28",
+            "id": "5f4480ad01840aaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section VI - Trade Secrets - Draft"
-            }
-          },
-          {
-            "id": "1fc145ef95c667ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "3f13e93f6c04b0e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter-III-Copyright-Protection-COMPLETE"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "d06a7e7c145beda4",
@@ -336,13 +308,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter-III-Copyright-Protection-COMPLETE"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -466,10 +438,15 @@
       }
     ]
   },
-  "active": "3f13e93f6c04b0e8",
+  "active": "5f4480ad01840aaa",
   "lastOpenFiles": [
-    "Prompt protection/Critical update plan -- chapter III.md",
+    "Untitled.md",
+    "Prompt protection/00 Core/Article Outline.md",
+    "C-604-10 Football Dataco.md",
+    "C-145-10 Painer.md",
+    "C-5-08 Infopaq.md",
     "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
+    "Prompt protection/Critical update plan -- chapter III.md",
     "Prompt protection/README.md",
     "Prompt protection/README 1.md",
     "Prompt protection/draft-copyright-1.md",
@@ -490,10 +467,6 @@
     "Prompt protection/20 Drafts - Article Versions/Section IV - Software and Database Protection - Draft - BACKUP-2025-11-13.md",
     "Prompt protection/20 Drafts - Article Versions/v1.2 - Second claude revision.md",
     "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft - BACKUP-2025-11-13.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft - BACKUP-2025-11-13.md",
-    "Prompt protection/20 Drafts - Article Versions/v1.3 - Claude update of Claude.md",
-    "Prompt protection/Current outline plan.md",
-    "Prompt protection/Style.md",
     "Prompt protection/20 Drafts - Article Versions",
     "Prompt protection/10 Synthesis & Overviews",
     "Prompt protection/05 Evidence - Technical & Empirical",
