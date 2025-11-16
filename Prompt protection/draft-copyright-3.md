@@ -4,11 +4,11 @@ The foregoing analysis demonstrates multiple converging grounds for exclusion. W
 
 ### Economic incentive argument
 
-**The argument:** Denying copyright protection eliminates incentives to invest in prompt engineering. Developing effective prompts requires substantial time, expertise, and experimentation. Without protection, competitors can freely copy optimized prompts, appropriating the fruits of another's investment and undermining incentives for prompt development. Copyright's purpose is to incentivize creative production through temporary monopolies. Extending that logic to prompts would reward prompt engineering investment.
+The strongest affirmative argument contends that denying copyright protection eliminates incentives to invest in prompt engineering. Developing effective prompts requires substantial time, expertise, and experimentation. Without protection, competitors can freely copy optimized prompts, appropriating the fruits of another's investment and undermining incentives for prompt development. Copyright's purpose is to incentivize creative production through temporary monopolies. Extending that logic to prompts would reward prompt engineering investment.
 
-**Strength of this argument:** This argument has considerable force. Investment in prompt engineering is real and substantial. The concern about free-riding on optimization efforts is legitimate. Copyright's traditional purpose is to incentivize creation through temporary monopolies, and this logic has intuitive appeal for prompts.
+This argument has considerable force. Investment in prompt engineering is real and substantial. The concern about free-riding on optimization efforts is legitimate. Copyright's traditional purpose is to incentivize creation through temporary monopolies, and this logic has intuitive appeal for prompts.
 
-**Why it ultimately fails:** Three reasons defeat this argument despite its surface plausibility.
+Three reasons defeat this argument despite its surface plausibility.
 
 First, the CJEU has definitively rejected investment-based protection in *Football Dataco*. The Court held that "the fact that the setting up of the database required...significant labour and skill of its author...cannot as such justify the protection of it by copyright" where creative choices rather than labor determine originality.[^100] EU copyright law deliberately excludes the "sweat of the brow" doctrine. Accepting the economic incentive argument would resurrect investment-based protection the CJEU expressly rejected.
 
@@ -22,11 +22,11 @@ Third, the term mismatch demonstrates structural unsuitability. Copyright's 70-y
 
 ### Creative expression argument
 
-**The argument:** Elaborate system prompts exhibit genuine literary creativity warranting copyright protection independent of functional considerations. A 400-word system prompt may employ distinctive phrasing, unique organizational structure, and creative linguistic choices reflecting the author's personality and style. The author selects specific words from among alternatives, chooses particular explanatory approaches, and structures specifications in non-obvious sequences — precisely the "free and creative choices" the CJEU identified as hallmarks of originality in *Painer* and *Football Dataco*. If an 11-word newspaper excerpt can be protected under *Infopaq* when it reflects the author's intellectual creation, surely a 400-word carefully crafted prompt can be protected when it exhibits creative linguistic choices.
+A second argument maintains that elaborate system prompts exhibit genuine literary creativity warranting copyright protection independent of functional considerations. A 400-word system prompt may employ distinctive phrasing, unique organizational structure, and creative linguistic choices reflecting the author's personality and style. The author selects specific words from among alternatives, chooses particular explanatory approaches, and structures specifications in non-obvious sequences — precisely the "free and creative choices" the CJEU identified as hallmarks of originality in *Painer* and *Football Dataco*. If an 11-word newspaper excerpt can be protected under *Infopaq* when it reflects the author's intellectual creation, surely a 400-word carefully crafted prompt can be protected when it exhibits creative linguistic choices.
 
-**Strength of this argument:** Elaborate system prompts do involve linguistic choices. A 400-word prompt reflects decisions about phrasing, organization, and terminology. The author selects among alternatives. If an 11-word excerpt can be protected per *Infopaq*, the argument for 400-word prompts has surface plausibility.
+Elaborate system prompts do involve linguistic choices. A 400-word prompt reflects decisions about phrasing, organization, and terminology. The author selects among alternatives. If an 11-word excerpt can be protected per *Infopaq*, the argument for 400-word prompts has surface plausibility.
 
-**Why it ultimately fails:** This argument conflates linguistic sophistication with creative expression and mischaracterizes the nature of prompts.
+This argument conflates linguistic sophistication with creative expression and mischaracterizes the nature of prompts.
 
 First, prompts are instructions about what to produce, not creative works in their own right. The distinction between literary expression and functional instruction proves decisive. *Infopaq* protected newspaper text communicating information through creative journalistic expression, where the journalist exercised creative freedom in word choice, narrative structure, and presentation unconstrained by functional optimization. System prompts make linguistic choices dictated by effectiveness concerns.
 
@@ -46,13 +46,13 @@ The Court's analysis in *BSA* applies directly: where "the idea and the expressi
 
 ### Complexity threshold argument
 
-**The argument:** While simple prompts like "Summarise" clearly lack originality, sufficiently complex prompts cross the originality threshold by virtue of their length, elaboration, and non-obviousness. Copyright law establishes a low bar — "no aesthetic or qualitative criteria should be applied" per *Cofemel*.[^105] A multi-paragraph system prompt specifying tone, vocabulary, citation formats, rhetorical strategies, prohibited topics, accuracy standards, and refinement protocols surely exceeds the minimal creativity threshold. The author makes numerous choices reflecting personality and creativity even if the overall purpose remains functional.
+A third argument posits that while simple prompts like "Summarise" clearly lack originality, sufficiently complex prompts cross the originality threshold by virtue of their length, elaboration, and non-obviousness. Copyright law establishes a low bar — "no aesthetic or qualitative criteria should be applied" per *Cofemel*.[^105] A multi-paragraph system prompt specifying tone, vocabulary, citation formats, rhetorical strategies, prohibited topics, accuracy standards, and refinement protocols surely exceeds the minimal creativity threshold. The author makes numerous choices reflecting personality and creativity even if the overall purpose remains functional.
 
 [^105]: *Cofemel* (n 8) para 30.
 
-**Strength of this argument:** *Cofemel* established that "no aesthetic or qualitative criteria should be applied." The originality threshold is deliberately low. Multiple choices accumulate across a long prompt. This argument merits serious consideration.
+*Cofemel* established that "no aesthetic or qualitative criteria should be applied." The originality threshold is deliberately low. Multiple choices accumulate across a long prompt. This argument merits serious consideration.
 
-**Why it ultimately fails:** This argument conflates quantity with creativity and complexity with originality.
+This argument conflates quantity with creativity and complexity with originality.
 
 Originality requires "free and creative choices" rather than choices "dictated by technical considerations, rules or constraints which have left no room for creative freedom."[^106] System prompts, no matter how lengthy or detailed, consist of functional specifications responsive to technical requirements for effective AI interaction. The specifications are not arbitrary creative choices but optimized instructions. Their inclusion and formulation reflect functional necessity rather than artistic expression.
 
@@ -66,11 +66,11 @@ The analogy to elaborate operating instructions proves instructive. A 400-page u
 
 ### Technological neutrality argument
 
-**The argument:** Copyright law should not discriminate based on technological context. Literary works receive protection regardless of whether they appear in printed books, digital files, or physical inscriptions. If a 400-word passage describing desired characteristics of written content would be protected when appearing in a writing guide or editorial manual, it should receive the same protection when functioning as a system prompt. Denying protection to prompts while protecting functionally similar text in non-AI contexts creates unprincipled technological distinctions undermining copyright's purpose.
+A fourth argument asserts that copyright law should not discriminate based on technological context. Literary works receive protection regardless of whether they appear in printed books, digital files, or physical inscriptions. If a 400-word passage describing desired characteristics of written content would be protected when appearing in a writing guide or editorial manual, it should receive the same protection when functioning as a system prompt. Denying protection to prompts while protecting functionally similar text in non-AI contexts creates unprincipled technological distinctions undermining copyright's purpose.
 
-**Strength of this argument:** Copyright law should not arbitrarily discriminate based on technological context. This principle is sound and important.
+Copyright law should not arbitrarily discriminate based on technological context. This principle is sound and important.
 
-**Why it ultimately fails:** This argument misidentifies the relevant distinction, which concerns function rather than technology.
+This argument misidentifies the relevant distinction, which concerns function rather than technology.
 
 Copyright law discriminates based on whether text serves creative or functional purposes. Recipes, operating instructions, game rules, and functional specifications receive limited or no protection precisely because they embody methods, procedures, and instructions rather than creative literary expression. The distinction is not between prompts (technological) and other text (non-technological) but between functional instructions (unprotected) and creative expression (protected).
 
@@ -86,13 +86,13 @@ Denying prompt protection maintains rather than undermines copyright's principle
 
 Two independent barriers defeat prompt protection under EU law. Each alone suffices; together they are dispositive.
 
-**First, originality failure.** Prompts fail the harmonized originality standard because choices are dictated by functional constraints rather than reflecting free and creative choices expressing personality.[^110] *Brompton Bicycle* confirms that predominant functional constraint defeats originality even where some creative freedom exists.[^111] Prompt engineering choices—parameter specifications, keyword placement, structural conventions—respond to technical optimization rather than artistic expression. National court practice across Member States consistently excludes functional instructions absent substantial creative expression beyond functional necessity.
+First, originality failure. Prompts fail the harmonized originality standard because choices are dictated by functional constraints rather than reflecting free and creative choices expressing personality.[^110] *Brompton Bicycle* confirms that predominant functional constraint defeats originality even where some creative freedom exists.[^111] Prompt engineering choices—parameter specifications, keyword placement, structural conventions—respond to technical optimization rather than artistic expression. National court practice across Member States consistently excludes functional instructions absent substantial creative expression beyond functional necessity.
 
 [^110]: *Infopaq* (n 1) para 37; *Painer* (n 4) para 89; *Football Dataco* (n 5) paras 38-39.
 
 [^111]: *Brompton Bicycle* (n 29) para 24.
 
-**Second, idea-expression exclusion.** Prompts constitute instructions about what to create—specifications of ideas, methods, and procedures—rather than expression of creative works. They fall squarely within categories TRIPS Article 9(2) and Software Directive Article 1(2) exclude from protection.[^112] *BSA*, *SAS Institute*, and *Sony Datel* establish that prompts are interfaces, functional specifications, and data inputs—all expressly excluded under both the InfoSoc Directive and the Software Directive.[^113] Protecting prompts would monopolize methods of AI interaction, violating the fundamental principle that copyright extends to expression but not to underlying ideas, procedures, or methods.
+Second, idea-expression exclusion. Prompts constitute instructions about what to create—specifications of ideas, methods, and procedures—rather than expression of creative works. They fall squarely within categories TRIPS Article 9(2) and Software Directive Article 1(2) exclude from protection.[^112] *BSA*, *SAS Institute*, and *Sony Datel* establish that prompts are interfaces, functional specifications, and data inputs—all expressly excluded under both the InfoSoc Directive and the Software Directive.[^113] Protecting prompts would monopolize methods of AI interaction, violating the fundamental principle that copyright extends to expression but not to underlying ideas, procedures, or methods.
 
 [^112]: TRIPS Agreement (n 14) art 9(2); Software Directive (n 2) art 1(2).
 
