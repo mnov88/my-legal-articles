@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompting case law.md",
+                "file": "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompting case law"
+              "title": "Chapter-III-Copyright-Protection-COMPLETE"
             }
           }
         ],
@@ -336,13 +336,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompting case law.md",
+                "file": "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompting case law"
+              "title": "Outline of Chapter-III-Copyright-Protection-COMPLETE"
             }
           },
           {
@@ -468,19 +468,20 @@
   },
   "active": "3f13e93f6c04b0e8",
   "lastOpenFiles": [
+    "Prompt protection/README.md",
+    "Prompt protection/README 1.md",
+    "Prompt protection/draft-copyright-1.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
+    "Prompting case law.md",
+    "github",
     "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
     "Prompt protection/00 Core/Topic Map - Detailed Arguments.md",
     "Prompt protection/Critical update plan -- chapter III.md",
     "Prompt protection/draft-copyright-2.md",
     "Pedagogics/Untitled 4.md",
     "Pedagogics/draft_13_edited.md",
-    "Prompt protection/README.md",
-    "Prompt protection/README 1.md",
-    "Prompt protection/draft-copyright-1.md",
     "Prompt protection/draft-copyright-3.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
     "Untitled 2.md",
-    "Prompting case law.md",
     "Untitled 3.md",
     "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
     "Prompt protection/20 Drafts - Article Versions/Section V - Patent Protection - Draft.md",
@@ -493,7 +494,6 @@
     "Prompt protection/20 Drafts - Article Versions/v1.3 - Claude update of Claude.md",
     "Prompt protection/Current outline plan.md",
     "Prompt protection/Style.md",
-    "Prompt protection/00 Core/Article Outline.md",
     "Prompt protection/20 Drafts - Article Versions",
     "Prompt protection/10 Synthesis & Overviews",
     "Prompt protection/05 Evidence - Technical & Empirical",
@@ -503,7 +503,6 @@
     "Prompt protection/02 Research - IP Protection Regimes/A - Copyright",
     "Prompt protection/02 Research - IP Protection Regimes",
     "Prompt protection/01 Research - Economic Foundation",
-    "Prompt protection/00 Core",
     "Untitled.canvas"
   ]
 }
