@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C‑833-18 Brompton Bicycle.md",
+                "file": "Prompt protection/Case law/C‑833-18 Brompton Bicycle.md",
                 "mode": "source",
                 "source": false
               },
@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-393-09 BSA.md",
+                "file": "Prompt protection/Case law/C-393-09 BSA.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-406-10 SAS.md",
+                "file": "Prompt protection/Case law/C-406-10 SAS.md",
                 "mode": "source",
                 "source": false
               },
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-159-23 Sony.md",
+                "file": "Prompt protection/Case law/C-159-23 Sony.md",
                 "mode": "source",
                 "source": false
               },
@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-128-11 UsedSoft.md",
+                "file": "Prompt protection/Case law/C-128-11 UsedSoft.md",
                 "mode": "source",
                 "source": false
               },
@@ -132,7 +132,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-203-02 British Horseracing Board.md",
+                "file": "Prompt protection/Case law/C-203-02 British Horseracing Board.md",
                 "mode": "source",
                 "source": false
               },
@@ -146,7 +146,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dutch case.md",
+                "file": "Prompt protection/Case law/Dutch case.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,12 +160,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-5-08 Infopaq.md",
+                "file": "Prompt protection/draft-copyright-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C-5-08 Infopaq"
+              "title": "draft-copyright-3"
             }
           }
         ],
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-5-08 Infopaq.md",
+                "file": "Prompt protection/draft-copyright-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C-5-08 Infopaq"
+              "title": "Outline of draft-copyright-3"
             }
           },
           {
@@ -540,33 +540,34 @@
   },
   "active": "7605ca68a1f57795",
   "lastOpenFiles": [
-    "Czech case.md",
-    "Dutch case.md",
-    "C-203-02 British Horseracing Board.md",
-    "C-128-11 UsedSoft.md",
-    "C-159-23 Sony.md",
-    "C-406-10 SAS.md",
-    "C-393-09 BSA.md",
-    "C‑833-18 Brompton Bicycle.md",
-    "Prompt protection/00 Core/Article Outline.md",
-    "C-310-17 Smilde Foods.md",
-    "C-683-17 Cofemel.md",
-    "C-604-10 Football Dataco.md",
-    "C-145-10 Painer.md",
-    "C-5-08 Infopaq.md",
+    "Prompt protection/draft-copyright-2.md",
+    "Prompt protection/draft-copyright-1.md",
+    "Prompt protection/draft-copyright-3.md",
     "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
     "Prompt protection/Critical update plan -- chapter III.md",
+    "Prompt protection/Case law/C-5-08 Infopaq.md",
+    "Prompt protection/Case law",
+    "Prompt protection/Case law/Czech case.md",
+    "Prompt protection/Case law/Dutch case.md",
+    "Prompt protection/Case law/C-203-02 British Horseracing Board.md",
+    "Prompt protection/Case law/C-128-11 UsedSoft.md",
+    "Prompt protection/Case law/C-159-23 Sony.md",
+    "Prompt protection/Case law/C-406-10 SAS.md",
+    "Prompt protection/Case law/C-393-09 BSA.md",
+    "Prompt protection/Case law/C‑833-18 Brompton Bicycle.md",
+    "Prompt protection/00 Core/Article Outline.md",
+    "Prompt protection/Case law/C-310-17 Smilde Foods.md",
+    "Prompt protection/Case law/C-683-17 Cofemel.md",
+    "Prompt protection/Case law/C-604-10 Football Dataco.md",
+    "Prompt protection/Case law/C-145-10 Painer.md",
     "Prompt protection/README.md",
     "Prompt protection/README 1.md",
-    "Prompt protection/draft-copyright-1.md",
     "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
     "Prompting case law.md",
     "github",
     "Prompt protection/00 Core/Topic Map - Detailed Arguments.md",
-    "Prompt protection/draft-copyright-2.md",
     "Pedagogics/Untitled 4.md",
     "Pedagogics/draft_13_edited.md",
-    "Prompt protection/draft-copyright-3.md",
     "Prompt protection/20 Drafts - Article Versions",
     "Prompt protection/10 Synthesis & Overviews",
     "Prompt protection/05 Evidence - Technical & Empirical",
@@ -575,7 +576,6 @@
     "Prompt protection/02 Research - IP Protection Regimes/B - Trade Secrets",
     "Prompt protection/02 Research - IP Protection Regimes/A - Copyright",
     "Prompt protection/02 Research - IP Protection Regimes",
-    "Prompt protection/01 Research - Economic Foundation",
     "Untitled.canvas"
   ]
 }
