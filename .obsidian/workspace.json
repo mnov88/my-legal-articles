@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
+                "file": "Prompt protection/draft-copyright-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section III - Copyright and Software Protection - REVISED"
+              "title": "draft-copyright-3"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
+                "file": "Prompt protection/draft-copyright-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section III - Copyright and Software Protection - REVISED"
+              "title": "Outline of draft-copyright-3"
             }
           },
           {
@@ -372,13 +372,14 @@
   "active": "0701b4eab6bfe388",
   "lastOpenFiles": [
     "Prompt protection/draft-copyright-1.md",
-    "Prompt protection/draft-copyright-3.md",
-    "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
+    "Prompt protection/draft-copyright-2.md",
     "Copyright full.md",
+    "Prompt protection/draft-copyright-3.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
+    "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
     "DSA article - finalized/DSA_Article_revised.md",
     "Prompt protection/00 Core/Article Outline.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
-    "Prompt protection/draft-copyright-2.md",
     "Prompt protection/Critical update plan -- chapter III.md",
     "Prompt protection/Case law/C-5-08 Infopaq.md",
     "Prompt protection/Case law",
@@ -396,7 +397,6 @@
     "Prompt protection/Case law/C-145-10 Painer.md",
     "Prompt protection/README.md",
     "Prompt protection/README 1.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
     "Prompting case law.md",
     "github",
     "Prompt protection/20 Drafts - Article Versions",
