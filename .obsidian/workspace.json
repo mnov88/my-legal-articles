@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Copyright full.md",
+                "file": "DSA article - finalized/DSA_Article_revised.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copyright full"
+              "title": "Outline of DSA_Article_revised"
             }
           },
           {
@@ -360,8 +360,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 967,
-        "y": 34,
+        "x": 1137,
+        "y": 31,
         "width": 635,
         "height": 961,
         "maximize": false,
@@ -369,10 +369,10 @@
       }
     ]
   },
-  "active": "0701b4eab6bfe388",
+  "active": "5df7b87b5446d64a",
   "lastOpenFiles": [
-    "Prompt protection/draft-copyright-3.md",
     "Copyright full.md",
+    "Prompt protection/draft-copyright-3.md",
     "Prompt protection/00 Core/Article Outline.md",
     "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
     "Prompt protection/draft-copyright-2.md",
