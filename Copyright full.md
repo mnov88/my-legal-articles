@@ -98,7 +98,7 @@ The *Infopaq* holding that 11-word excerpts may be protected might suggest 400-w
 
 [^26]: TRIPS Agreement (n 14) art 9(2).
 
-## E. The idea-expression dichotomy and Software Directive exclusions
+## C. The idea-expression dichotomy and Software Directive exclusions
 
 Even if prompts could satisfy originality requirements—which Part B demonstrates they cannot—they face independent exclusion under the idea-expression dichotomy as operationalized through both the InfoSoc Directive and the Software Directive.
 
