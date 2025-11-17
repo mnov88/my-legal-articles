@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/Section II - Economic Foundation - Draft.md",
+                "file": "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section II - Economic Foundation - Draft"
+              "title": "Section VI - Trade Secrets - Draft"
             }
           }
         ],
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/README.md",
+                "file": "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Section VI - Trade Secrets - Draft"
             }
           },
           {
@@ -389,8 +389,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1137,
-        "y": 31,
+        "x": 967,
+        "y": 34,
         "width": 635,
         "height": 961,
         "maximize": false,
@@ -398,16 +398,16 @@
       }
     ]
   },
-  "active": "67d9ed75004d8a05",
+  "active": "0701b4eab6bfe388",
   "lastOpenFiles": [
+    "Prompt protection/20 Drafts - Article Versions/Section II - Economic Foundation - Draft.md",
+    "Consumer AI throttling/README.md",
     "Consumer AI throttling/style.md",
     "Prompt protection/Style.md",
-    "Consumer AI throttling/README.md",
     "Consumer AI throttling/Outline/00 Throttling outline.md",
     "Consumer AI throttling/Drafts/article.md",
     "Untitled.md",
     "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
-    "Prompt protection/20 Drafts - Article Versions/Section II - Economic Foundation - Draft.md",
     "Prompt protection/20 Drafts - Article Versions/Section V - Patent Protection - Draft.md",
     "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
     "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
