@@ -10,3 +10,6 @@ Stage: all initial research completed. We have:
 5. Economics, legal and other discussion
 
 Publication goal: ECRL, highest academic standard. 10-12.000 words MAXIMUM. OSCOLA.
+Whenever citing case law, find in [[Consumer AI throttling/Materials/Legal sources/Case law]], quote precise text and ensure alignment with the judgement.
+Same applies to legislation and guidance, [[Consumer AI throttling/Materials/Legal sources/Legislation]].
+CRITICAL: all drafts must adhere to [[Consumer AI throttling/style.md]]
