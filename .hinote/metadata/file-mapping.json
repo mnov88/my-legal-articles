@@ -701,7 +701,11 @@
     "Copyright full.md": "copyright_full.md.json",
     "Consumer AI throttling/Untitled 4.md": "consumer_ai_throttling_untitled_4.md.json",
     "Consumer AI throttling/style.md": "consumer_ai_throttling_style.md.json",
-    "Draft A.md": "draft_a.md.json"
+    "Draft A.md": "draft_a.md.json",
+    "Copyright A and B.md": "copyright_a_and_b.md.json",
+    "Copyright A and B 1.md": "copyright_a_and_b_1.md.json",
+    "Copyright-latest-draft.md": "copyright-latest-draft.md.json",
+    "Prompt protection/Copyright-latest-draft.md": "prompt_protection_copyright-latest-draft.md.json"
   },
-  "lastUpdated": 1763410070738
+  "lastUpdated": 1763413264020
 }
