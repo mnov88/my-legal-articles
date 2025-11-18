@@ -20,6 +20,17 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 - Loves telenovela "Birdissima Grande"
 - Considers herself intellectually and morally superior to everyone
 - Main target of rage: Amber (a genuinely primitive, horrible, villain who allededly stole Ms Bird's estranged husband, Philip)
+- Uses profanity and sexual innuendos constantly ("69!!")
+- Can be extremely crude - "would shock a sailor"
+- Speaks in long monologues or short outbursts
+- Blissfully unaware of others' lack of interest ("main character syndrome")
+- Can be petty, hold grudges, propose oversimplified solutions
+- Provides blunt but actually useful advice (despite often causing problems herself)
+- Easily dismissive of anything she's not interested in, even when unreasonable ("Slavery, yes horrible. But the extra income alone...")
+- Has wide range of skills from blue-collar work to advanced degrees
+- Often clashes with Biscuit due to fundamental personality differences
+- Collects blenders obsessively (has 47 of them, each "different")
+- Despite chaos, genuinely cares about Mugsy and Biscuit
 
 **Amber** (white chicken)
 
@@ -31,11 +42,18 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 
 **Mugsy** (French bulldog)
 
-- Married to Biscuit
 - Dramatic, loyal, gets worked up easily but deeply loves his husband
 - Takes things seriously that shouldn't be serious
 - Collects bowties obsessively
 - More impulsive than Biscuit
+- Married to Biscuit (they call each other "my love")
+- Loves drama and strong emotional reactions
+- Can be clumsy, slightly braggy, jealous (though knows Biscuit would never cheat)
+- Loves gossip, can be goofy or dismissive of legitimate concerns
+- Occasionally narcissistic
+- Type "B" personality
+- Can turn protective and genuinely helpful when plot demands, especially if Biscuit is threatened
+- Has 93 bowties (avid collector)
 
 **Biscuit** (corgi)
 
@@ -56,7 +74,22 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 - Ms. Bird's most treasured possession
 - Temperature drops when she's involved
 
-**Supporting:** Dogga (Biscuit's super lazy colleague female dog, gives advice, causes chaos), Judge Roberta Henderson, Dr. Miranda Finch (Ms. Bird's therapist), Phillip (Amber's useless husband)
+**Supporting:**
+
+**Amber:** Ms. Bird's mortal enemy, a genuinely stupid chicken who allegedly stole Ms. Bird's estranged husband, Phillip.
+
+**Dogga Barkinson (female):** Biscuit's utterly incompetent, comically lazy colleague.
+
+**Mr. Bumble:** Biscuit's boss. Well-meaning but ultimately DMV-protecting archetype (once scolded Biscuit for turning in work too early).
+
+**Olga, Colga, Lolga:** Three Communist cat sisters who mostly keep to themselves. Ms. Bird finds them annoying/stupid.
+
+**Mata Hari:** If story takes a villain turn, James Bond-type with Amber as incompetent sidekick.
+
+**Note:** Only use supporting characters when they serve the story. Don't force them in.
+
+  
+**Key Relationship Dynamics:** - Biscuit and Mugsy are deeply in love, never cruel or condescending to each other - Ms. Bird is their friend despite causing constant chaos - All three are actually very intelligent characters
 
 ---
 
@@ -74,14 +107,13 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 
 **2. Limit Scenes, Mine Deep**
 
-- 3-5 major scenes maximum per story
+- 2-4 major scenes maximum per story
 - Depth over breadth - one detailed scene beats five summarized
 - Each major scene needs multiple distinct beats when complex, fewer when building tension
 - Never event-dump or list situations
 
-**3. Stakes Must Be Clear and Immediate**
+**3. Stakes Must Be Clear**
 
-- Establish what characters want/fear in opening
 - Make us CARE through specific, petty, or emotional stakes
 - Connect everything back to opening setup
 
@@ -124,7 +156,7 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 
 **8. Character-Specific Voices**
 
-- Ms. Bird: crude but creative profanity, specific references, dark jokes about serious topics ("liquify a brick," "spread you on toast")
+- Ms. Bird: crude but creative profanity, specific references, dark jokes about serious topics ("I will spread you on toast!")
 - Amber: confident wrongness ("I'm PARTICIPATING"), basic vocabulary, chicken-brain logic
 - Mugsy: dramatic declarations, passionate about small things
 - Biscuit: anxious qualifications, worrying aloud
@@ -159,7 +191,6 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 **12. Setup & Payoff**
 
 - Plant details early, pay off later
-- Never pay off immediately - let it breathe
 - Multiple setups can combine into one payoff
 
 ---
@@ -174,22 +205,15 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 - Uncomfortable/specific humor is the goal
 - Sexual content exists but isn't gratuitous
 
-**14. Amber Always Fails Spectacularly**
+**14. Amber Always Fails Spectacularly When She is Plotting**
 
 - Her schemes collapse due to basic incompetence
 - She misreads situations completely
 - Fails in increasingly absurd ways
-- Occasionally shows accidental humanity in defeat
 
-**15. Annabelle Ambiguity**
 
-- Things happen around her, never confirmed why
-- Escalate her "activity" across scenes
-- Other characters react but don't explain
-- Temperature drops, heads tilt, objects move
-- NEVER make it definitively supernatural or not
 
-**16. Ms. Bird's Relationships**
+**15. Ms. Bird's Relationships**
 
 - Usually "wins" but everyone's damaged
 - Genuine vulnerability rare but powerful when shown
@@ -200,7 +224,6 @@ Puppytown - an urban neighborhood where anthropomorphic animals live. This is tr
 
 - NEVER detail Mugsy and Biscuit's sex life (they're married, that's all we need)
 - No mundane bureaucracy comedy (DMV, HOA meetings, jury duty)
-- No making disabilities or identity the joke
 
 ---
 ## TONE
