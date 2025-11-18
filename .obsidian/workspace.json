@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt protection/Copyright-latest-draft.md",
+                "file": "Copyright A and B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Copyright-latest-draft"
+              "title": "Copyright A and B"
             }
           }
         ],
@@ -295,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt protection/Copyright-latest-draft.md",
+                "file": "Copyright A and B.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copyright-latest-draft"
+              "title": "Outline of Copyright A and B"
             }
           },
           {
@@ -427,10 +427,11 @@
   },
   "active": "ed28d31eae6b8d0b",
   "lastOpenFiles": [
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
     "Prompt protection/Copyright-latest-draft.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
     "Copyright A and B.md",
+    "DSA article - finalized/DSA_Article_revised.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
     "Draft A.md",
     "Prompt protection/Style.md",
     "Prompt protection/20 Drafts - Article Versions/v2.0 - Claude Cursor.md",
@@ -447,7 +448,6 @@
     "Prompt protection/draft-copyright-3.md",
     "Prompt protection/draft-copyright-1.md",
     "Prompt protection/draft-copyright-2.md",
-    "DSA article - finalized/DSA_Article_revised.md",
     "Prompt protection/00 Core/Article Outline.md",
     "Prompt protection/Critical update plan -- chapter III.md",
     "Prompt protection/Case law/C-5-08 Infopaq.md",
