@@ -125,9 +125,23 @@
               "icon": "lucide-file",
               "title": "Untitled 4"
             }
+          },
+          {
+            "id": "c09c4690646e9317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "d06a7e7c145beda4",
@@ -309,13 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "Untitled 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 4"
+              "title": "Outline of Untitled 5"
             }
           },
           {
@@ -430,8 +444,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 967,
-        "y": 34,
+        "x": 1137,
+        "y": 31,
         "width": 635,
         "height": 961,
         "maximize": false,
@@ -439,14 +453,15 @@
       }
     ]
   },
-  "active": "d0d39f2209122d47",
+  "active": "c09c4690646e9317",
   "lastOpenFiles": [
-    "Copyright A and B.md",
     "Untitled 4.md",
+    "Untitled 5.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
+    "Copyright A and B.md",
     "Prompt protection/Copyright-latest-draft.md",
     "DSA article - finalized/DSA_Article_revised.md",
     "Prompt protection/20 Drafts - Article Versions/Section III - Copyright and Software Protection - REVISED.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
     "Draft A.md",
     "Prompt protection/Style.md",
     "Prompt protection/20 Drafts - Article Versions/v2.0 - Claude Cursor.md",
@@ -467,7 +482,6 @@
     "Prompt protection/Critical update plan -- chapter III.md",
     "Prompt protection/Case law/C-5-08 Infopaq.md",
     "Prompt protection/Case law",
-    "Prompt protection/Case law/Czech case.md",
     "github",
     "Prompt protection/20 Drafts - Article Versions",
     "Prompt protection/10 Synthesis & Overviews",
