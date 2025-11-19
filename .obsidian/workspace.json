@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       },
       {
         "id": "d06a7e7c145beda4",
@@ -337,13 +337,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 9.md",
+                "file": "Untitled 8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 9"
+              "title": "Outline of Untitled 8"
             }
           },
           {
@@ -467,11 +467,11 @@
       }
     ]
   },
-  "active": "49ae8b412a604ef4",
+  "active": "d2101ee0ccebd69a",
   "lastOpenFiles": [
-    "Untitled 8.md",
-    "Untitled 9.md",
     "Untitled 7.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
     "Copyright A and B.md",
     "Untitled 4.md",
     "Untitled 5.md",
