@@ -444,8 +444,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1137,
-        "y": 31,
+        "x": 967,
+        "y": 34,
         "width": 635,
         "height": 961,
         "maximize": false,
@@ -453,7 +453,7 @@
       }
     ]
   },
-  "active": "c09c4690646e9317",
+  "active": "30b35ab29aee2758",
   "lastOpenFiles": [
     "Untitled 4.md",
     "Untitled 5.md",
