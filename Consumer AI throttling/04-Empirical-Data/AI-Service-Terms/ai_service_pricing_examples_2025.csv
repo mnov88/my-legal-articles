@@ -1,0 +1,16 @@
+Provider/Service,Pricing Model,Price,What's Included,Category
+OpenAI GPT-4,Token-based,"$0.03/1K input tokens, $0.06/1K output tokens","API access, variable usage",LLM API
+OpenAI GPT-4o,Token-based,"$0.005/1K input tokens, $0.015/1K output tokens","API access, faster/cheaper than GPT-4",LLM API
+Anthropic Claude 3.5 Sonnet,Token-based + Subscription,$20-200/month (with weekly rate limits),API + web interface access,LLM API/SaaS
+Google Gemini 2.5 Pro,Token-based,Token-based pricing (varies),Access to Gemini models,LLM API
+GitHub Copilot Pro,Subscription,$10/month,Unlimited completions & chats with GPT-5 mini,Coding Assistant
+GitHub Copilot Free,Freemium,"$0/month (50 chat requests, 2K completions)",Limited monthly access,Coding Assistant
+Cursor Pro,Subscription,$20/month,500 fast premium requests + overages,Coding Assistant
+Cursor Business,Subscription,$40/user/month,Higher limits for teams,Coding Assistant
+Midjourney Basic,Subscription,$10/month (~200 images),3.3 GPU hours/month,Image Generation
+Midjourney Standard,Subscription,$30/month (~900 images),15 GPU hours/month,Image Generation
+DALL-E 3 (API),Usage-based,$0.016-0.040/image,Per-image generation cost,Image Generation API
+DALL-E 3 (ChatGPT Plus),Subscription,$20/month (part of ChatGPT Plus),ChatGPT Plus subscription includes DALL-E,Image Generation SaaS
+Stable Diffusion API,Usage-based,$0.005+/image,Varies by plan and model,Image Generation API
+AWS (Various models),Usage-based,Pay-per-request,Flexible infrastructure pricing,Cloud/LLM Infrastructure
+Anthropic Claude Max,Subscription,$200/month,"Higher usage limits, premium features",LLM SaaS

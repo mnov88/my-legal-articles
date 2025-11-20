@@ -1,0 +1,375 @@
+# Interpreted Article References
+
+Total unique articles referenced: 8
+
+## Article 1
+
+Total references: 17
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| Case C‑92/11 | RWE Vertrieb AG v Verbraucherzentrale Nordrhein-Westfalen eV | 62011CJ0092 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0092) |
+| C-92-11 | N/A | 62011CJ0092_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0092_1) |
+| Case C‑34/13 | Monika Kušionová v SMART Capital, a.s. | 62013CJ0034 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0034) |
+| C-34-13 | N/A | 62013CJ0034_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0034_1) |
+| Case C-51/17 | OTP Bank Nyrt. and OTP Faktoring Követeléskezelő Zrt v Teréz Ilyés and Emil Kiss | 62017CJ0051 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0051) |
+| Case C-125/18 | Marc Gómez del Moral Guasch v Bankia SA | 62018CJ0125 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0125) |
+| Case C-266/18 | Aqua Med sp. z o.o.v Irena Skóra | 62018CJ0266 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0266) |
+| Joined Cases C-419/18 and C-483/18 | Profi Credit Polska S.A. v Bogumiła Włostowska and Others and Profi Credit Polska S.A. v OH | 62018CJ0419 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0419) |
+| Case C-779/18 | Mikrokasa S.A. w Gdyni and Revenue Niestandaryzowany Sekurytyzacyjny Fundusz Inwestycyjny Zamknięty w Warszawie v XO | 62018CJ0779 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0779) |
+| Joined Cases C-84/19, C-222/19 and C-252/19 | Profi Credit Polska S.A. and Others v QJ and Others | 62019CJ0084 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0084) |
+| Case C-329/19 | Condominio di Milano, via Meda v Eurothermo SpA | 62019CJ0329 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0329) |
+| Case C-243/20 | DP and SG v Trapeza Peiraios AE | 62020CJ0243 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0243) |
+| Case C-567/20 | A.H. v Zagrebačka banka d.d. | 62020CJ0567 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0567) |
+| Case C-485/21 | „S. V.“ OOD v E. Ts. D. | 62021CJ0485 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0485) |
+| Case C-593/22 | FS and WU v First Bank SA | 62022CJ0593 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0593) |
+| Case C-176/23 | UG v SC Raiffeisen Bank SA | 62023CJ0176 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0176) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+
+## Article 2
+
+Total references: 15
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-541-99 | &lt;TXT_I1&gt; &lt;p&gt;In Joined Cases C-541/99 and C-542/99,&lt;/p&gt; &lt;p&gt;REFERENCE to the Court under Article 177 of the EC Treaty (now Article 234 EC) by the Giudice di pace di Viadana (Italy) for a preliminary ruling in the proceedings pending before that court between&lt;/p&gt; &lt;p&gt;Cape Snc&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;Idealservice Srl (C-541/99),&lt;/p&gt; &lt;p&gt;and between&lt;/p&gt; &lt;p&gt;Idealservice MN RE Sas&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;OMAI Srl (C-542/99),&lt;/p&gt; &lt;p&gt;on the interpretation of Article 2(b) of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29),&lt;/p&gt; &lt;p&gt;THE COURT (Third Chamber),&lt;/p&gt; &lt;p&gt;composed of: F. Macken (Rapporteur), President of the Chamber, C. Gulmann and J.-P. Puissochet, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: J. Mischo,&lt;/p&gt; &lt;p&gt;Registrar: D. Louterman-Hubeau, Head of Division,&lt;/p&gt; &lt;p&gt;after considering the written observations submitted on behalf of:&lt;/p&gt; &lt;p&gt;- the Italian Government, by U. Leanza and G. Castellani Pastoris, acting as Agents, assisted by D. Del Gaizo, avvocato dello Stato,&lt;/p&gt; &lt;p&gt;- the Spanish Government, by S. Ortiz Vamonde, acting as Agent,&lt;/p&gt; &lt;p&gt;- the French Government, by K. Rispal-Bellanger and R. Loosli-Surrans, acting as Agents,&lt;/p&gt; &lt;p&gt;- Commission of the European Communities, by M. França and P. Stancanelli, acting as Agents,&lt;/p&gt; &lt;p&gt;having regard to the Report for the Hearing,&lt;/p&gt; &lt;p&gt;after hearing the oral observations of Idealservice Srl, represented by R. Chiericati, avvocatessa, of the Italian Government, represented by D. Del Gaizo, and the Commission, represented by M. França and P. Stancanelli, at the hearing on 17 May 2001,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 14 June 2001,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61999CJ0541 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61999CJ0541) |
+| Case C-110/14 | Horațiu Ovidiu Costea v SC Volksbank România SA | 62014CJ0110 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0110) |
+| C-110-14 | N/A | 62014CJ0110_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0110_1) |
+| Case C-348/14 | Maria Bucura v SC Bancpost SA | 62014CJ0348 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0348) |
+| Case C-147/16 | Karel de Grote – Hogeschool Katholieke Hogeschool Antwerpen VZW v Susan Romy Jozef Kuijpers | 62016CJ0147 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62016CJ0147) |
+| Case C-590/17 | Henri Pouvin and Marie Dijoux, v Electricité de France (EDF) | 62017CJ0590 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0590) |
+| Joined Cases C-698/18 and C-699/18 | SC Raiffeisen Bank SA and BRD Groupe Societé Générale SA v JB and KC | 62018CJ0698 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0698) |
+| Case C-329/19 | Condominio di Milano, via Meda v Eurothermo SpA | 62019CJ0329 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0329) |
+| Case C-455/21 | OZ v Lyoness Europe AG | 62021CJ0455 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0455) |
+| Case C-485/21 | „S. V.“ OOD v E. Ts. D. | 62021CJ0485 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0485) |
+| Case C-570/21 | I.S. and K.S. v YYY. S.A. | 62021CJ0570 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0570) |
+| Case C-139/22 | AM and PM v mBank S.A. | 62022CJ0139 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0139) |
+| Case C-347/23 | LB and JL v Getin Noble Bank S.A. | 62023CJ0347 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0347) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+| Case C-410/23 | I. SA v S. J. | 62023CJ0410 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0410) |
+
+## Article 3
+
+Total references: 50
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-106/89 | &lt;TXT_I1&gt; &lt;p&gt;In Joined Cases C-240/98 to C-244/98,&lt;/p&gt; &lt;p&gt;REFERENCE to the Court under Article 177 of the EC Treaty (now Article 234 EC) by the Juzgado de Primera Instancia No 35 de Barcelona, Spain, for a preliminary ruling in the proceedings pending before that court between&lt;/p&gt; &lt;p&gt;Océano Grupo Editorial SA&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;Rocío Murciano Quintero (C-240/98)&lt;/p&gt; &lt;p&gt;and between&lt;/p&gt; &lt;p&gt;Salvat Editores SA&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;José M. Sánchez Alcón Prades (C-241/98),&lt;/p&gt; &lt;p&gt;José Luis Copano Badillo (C-242/98),&lt;/p&gt; &lt;p&gt;Mohammed Berroane (C-243/98),&lt;/p&gt; &lt;p&gt;Emilio Viñas Feliu (C-244/98),&lt;/p&gt; &lt;p&gt;on the interpretation of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29),&lt;/p&gt; &lt;p&gt;THE COURT,&lt;/p&gt; &lt;p&gt;composed of: G.C. Rodríguez Iglesias, President, L. Sevón (President of Chamber), P.J.G. Kapteyn, C. Gulmann, J.-P. Puissochet, G. Hirsch, P. Jann (Rapporteur), H. Ragnemalm, M. Wathelet, V. Skouris and F. Macken, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: A. Saggio,&lt;/p&gt; &lt;p&gt;Registrar: H.A. Rühl, Principal Administrator,&lt;/p&gt; &lt;p&gt;after considering the written observations submitted on behalf of:&lt;/p&gt; &lt;p&gt;- Océano Grupo Editorial SA and Salvat Editores SA, by A. Estany Segalas, of the Barcelona Bar,&lt;/p&gt; &lt;p&gt;- the Spanish Government, by S. Ortíz Vaamonde, Abogado del Estado, acting as Agent,&lt;/p&gt; &lt;p&gt;- the French Government, by K. Rispal-Bellanger, Head of Subdirectorate in the Legal Directorate of the Ministry of Foreign Affairs, and R. Loosli-Surrans, Chargé de Mission in that Directorate, acting as Agents,&lt;/p&gt; &lt;p&gt;- Commission of the European Communities, by J.L. Iglesias Buhigues, Legal Adviser, and M. Desantes Real, a national civil servant on secondment to the Commission's Legal Service, acting as Agents,&lt;/p&gt; &lt;p&gt;having regard to the Report for the Hearing,&lt;/p&gt; &lt;p&gt;after hearing the oral observations of Océano Grupo Editorial SA, Salvat Editores SA, the Spanish Government, the French Government and the Commission at the hearing on 26 October 1999,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 16 December 1999,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61998CJ0240 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61998CJ0240) |
+| C-237/02 | &lt;TXT_I1&gt; &lt;p&gt;In Case C-237/02,&lt;/p&gt; &lt;p&gt;REFERENCE to the Court under Article 234 EC by the Bundesgerichtshof (Germany) for a preliminary ruling in the proceedings pending before that court between &lt;/p&gt; &lt;p&gt;Freiburger Kommunalbauten GmbH Baugesellschaft &amp;amp; Co. KG &lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;Ludger Hofstetter, &lt;/p&gt; &lt;p&gt;Ulrike Hofstetter, &lt;/p&gt; &lt;p&gt;on the interpretation of Article 3(1) of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29),&lt;/p&gt; &lt;p&gt;THE COURT (Fifth Chamber),&lt;/p&gt; &lt;p&gt;composed of: P. Jann (Rapporteur), acting for the President of the Fifth Chamber, C.W.A. Timmermans, A. Rosas, A. La Pergola and S. von Bahr, Judges, &lt;/p&gt; &lt;p&gt;Advocate General: L.A. Geelhoed,&lt;/p&gt; &lt;p&gt;Registrar: R. Grass,&lt;/p&gt; &lt;p&gt;after considering the written observations submitted on behalf of:&lt;/p&gt; &lt;p&gt;– Freiburger Kommunalbauten GmbH Baugesellschaft &amp;amp; Co. KG, by U. Jeutter, Rechtsanwalt,&lt;/p&gt; &lt;p&gt;– Mr and Mrs Hofstetter, by D. Fiebelkorn, Rechtsanwältin,&lt;/p&gt; &lt;p&gt;– the German Government, by W.-D. Plessing, acting as Agent,&lt;/p&gt; &lt;p&gt;– the Commission of the European Communities, by M. França and H. Kreppel, acting as Agents,&lt;/p&gt; &lt;p&gt;having regard to the report of the Judge-Rapporteur,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on &lt;/p&gt; &lt;p&gt;25 September 2003,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment&lt;/p&gt; &lt;/TXT_I1&gt; | 62002CJ0237 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62002CJ0237) |
+| Case C-137/08. | VB Pénzügyi Lízing Zrt. v Ferenc Schneider. | 62008CJ0137 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0137) |
+| C-137-08 | N/A | 62008CJ0137_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0137_1) |
+| Case C-243/08. | Pannon GSM Zrt. v Erzsébet Sustikné Győrfi. | 62008CJ0243 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0243) |
+| Case C‑472/10 | Nemzeti Fogyasztóvédelmi Hatóság v Invitel Távközlési Zrt | 62010CJ0472 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0472) |
+| C-472-10 | N/A | 62010CJ0472_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0472_1) |
+| Case C‑92/11 | RWE Vertrieb AG v Verbraucherzentrale Nordrhein-Westfalen eV | 62011CJ0092 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0092) |
+| C-92-11 | N/A | 62011CJ0092_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0092_1) |
+| Case C‑415/11 | Mohamed Aziz v Caixa d´Estalvis de Catalunya, Tarragona i Manresa (Catalunyacaixa) | 62011CJ0415 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0415) |
+| C-415-11 | N/A | 62011CJ0415_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0415_1) |
+| Case C‑226/12 | Constructora Principado SA v José Ignacio Menéndez Álvarez | 62012CJ0226 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0226) |
+| Joined Cases C-482/13, C-484/13, C-485/13 and C-487/13 | Unicaja Banco, SA v José Hidalgo Rueda and Others and Caixabank SA v Manuel María Rueda Ledesma and Others | 62013CJ0482 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0482) |
+| C-482-13 | N/A | 62013CJ0482_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0482_1) |
+| Case C-348/14 | Maria Bucura v SC Bancpost SA | 62014CJ0348 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0348) |
+| Case C-421/14 | Banco Primus SA v Jesús Gutiérrez García | 62014CJ0421 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0421) |
+| Joined Cases C-154/15 and C-307/15 | Francisco Gutiérrez Naranjo v Cajasur Banco SAU, Ana María Palacios Martínez v Banco Bilbao Vizcaya Argentaria SA (BBVA), Banco Popular Español SA v Emilio Irles López and Teresa Torres Andreu | 62015CJ0154 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0154) |
+| Case C-191/15 | Verein für Konsumenteninformation v Amazon EU Sàrl | 62015CJ0191 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0191) |
+| Case C-186/16 | Ruxandra Paula Andriciuc and Others v Banca Românească SA | 62016CJ0186 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62016CJ0186) |
+| Case C-38/17 | GT v HS | 62017CJ0038 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0038) |
+| Case C-51/17 | OTP Bank Nyrt. and OTP Faktoring Követeléskezelő Zrt v Teréz Ilyés and Emil Kiss | 62017CJ0051 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0051) |
+| Case C-621/17 | Gyula Kiss and CIB Bank Zrt. v Emil Kiss and Gyuláné Kiss | 62017CJ0621 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0621) |
+| Case C-34/18 | Ottília Lovasné Tóth v ERSTE Bank Hungary Zrt. | 62018CJ0034 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0034) |
+| Case C-272/18 | Verein für Konsumenteninformation v TVP Treuhand- und Verwaltungsgesellschaft für Publikumsfonds mbH & Co KG | 62018CJ0272 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0272) |
+| Joined Cases C-419/18 and C-483/18 | Profi Credit Polska S.A. v Bogumiła Włostowska and Others and Profi Credit Polska S.A. v OH | 62018CJ0419 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0419) |
+| Joined Cases C-84/19, C-222/19 and C-252/19 | Profi Credit Polska S.A. and Others v QJ and Others | 62019CJ0084 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0084) |
+| Joined Cases C-224/19 and C-259/19 | CY and Others v Caixabank SA and Banco Bilbao Vizcaya Argentaria SA | 62019CJ0224 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0224) |
+| Case C-609/19 | BNP Paribas Personal Finance SA v VE | 62019CJ0609 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0609) |
+| Case C-738/19 | A v B and C | 62019CJ0738 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0738) |
+| Joined Cases C-776/19 to C-782/19 | VB and Others v BNP Paribas Personal Finance SA and AV and Others v BNP Paribas Personal Finance SA and Procureur de la République | 62019CJ0776 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0776) |
+| Case C-212/20 | M.P. and B.P. v „A.” prowadzący działalność za pośrednictwem „A.” S.A. | 62020CJ0212 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0212) |
+| Case C-395/21 | D.V. v M.A. | 62021CJ0395 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0395) |
+| Case C-405/21 | FV v NOVA KREDITNA BANKA MARIBOR d.d. | 62021CJ0405 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0405) |
+| Case C-565/21 | Caixabank SA v X | 62021CJ0565 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0565) |
+| Case C-598/21 | SP and CI v Všeobecná úverová banka a.s. | 62021CJ0598 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0598) |
+| Case C-600/21 | QE v Caisse régionale de Crédit mutuel de Loire-Atlantique et du Centre Ouest | 62021CJ0600 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0600) |
+| Case C-139/22 | AM and PM v mBank S.A. | 62022CJ0139 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0139) |
+| Case C-263/22 | Ocidental – Companhia Portuguesa de Seguros de Vida SA v LP | 62022CJ0263 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0263) |
+| Case C-265/22 | ZR and PI v Banco Santander, SA | 62022CJ0265 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0265) |
+| Case C-321/22 | ZL and Others v Provident Polska S.A. | 62022CJ0321 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0321) |
+| Case C-531/22 | Getin Noble Bank S.A. and Others v TL | 62022CJ0531 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0531) |
+| Case C-714/22 | S.R.G. v Profi Credit Bulgaria EOOD | 62022CJ0714 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0714) |
+| Case C-176/23 | UG v SC Raiffeisen Bank SA | 62023CJ0176 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0176) |
+| Case C-300/23 | NB v Kutxabank SA | 62023CJ0300 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0300) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+| Case C-410/23 | I. SA v S. J. | 62023CJ0410 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0410) |
+| Case C-699/23 | FG v Caja Rural de Navarra SCC | 62023CJ0699 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0699) |
+| Case C-749/23 | innogy Energie, s.r.o. v QS | 62023CJ0749 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0749) |
+| Joined Cases C-6/24 and C-231/24 | Abanca Corporación Bancaria SA v WE and VX | 62024CJ0006 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0006) |
+| Case C-280/24 | A. B. v Slovenská sporiteľňa, a.s. | 62024CJ0280 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0280) |
+
+## Article 4
+
+Total references: 39
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-144/99 | &lt;TXT_I1&gt; &lt;p&gt;In Case C-144/99,&lt;/p&gt; &lt;p&gt;Commission of the European Communities, represented by P. van Nuffel, acting as Agent, assisted by M. van der Woude and L. Dommering-van Rongen, Advocaten, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;applicant,&lt;/p&gt; &lt;p&gt;v&lt;/p&gt; &lt;p&gt;Kingdom of the Netherlands, represented by M.A. Fierstra and J. van Bakel, acting as Agents,&lt;/p&gt; &lt;p&gt;defendant,&lt;/p&gt; &lt;p&gt;APPLICATION for a declaration that, by failing to adopt the laws, regulations and administrative provisions necessary for the full transposition into Netherlands law of Articles 4(2) and 5 of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29), the Kingdom of the Netherlands has failed to fulfil its obligations under Article 189 of the EC Treaty (now Article 249 EC) and under that Directive,&lt;/p&gt; &lt;p&gt;THE COURT (Fifth Chamber),&lt;/p&gt; &lt;p&gt;composed of: A. La Pergola, President of the Chamber, M. Wathelet, D.A.O. Edward, P. Jann (Rapporteur) and L. Sevón, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: A. Tizzano,&lt;/p&gt; &lt;p&gt;Registrar: R. Grass,&lt;/p&gt; &lt;p&gt;having regard to the report of the Judge-Rapporteur,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 23 January 2001,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61999CJ0144 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61999CJ0144) |
+| Case C-484/08. | Caja de Ahorros y Monte de Piedad de Madrid v Asociación de Usuarios de Servicios Bancarios (Ausbanc). | 62008CJ0484 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0484) |
+| C-484-08 | N/A | 62008CJ0484_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0484_1) |
+| Case C-453/10 | Jana Pereničová and Vladislav Perenič v SOS financ spol. s r. o. | 62010CJ0453 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0453) |
+| C-453-10 | N/A | 62010CJ0453_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0453_1) |
+| Case C‑26/13 | Árpád Kásler and Hajnalka Káslerné Rábai v OTP Jelzálogbank Zrt | 62013CJ0026 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0026) |
+| C-26-13 | N/A | 62013CJ0026_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0026_1) |
+| Case C-143/13 | Bogdan Matei and Ioana Ofelia Matei v SC Volksbank România SA | 62013CJ0143 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0143) |
+| C-143-13 | N/A | 62013CJ0143_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0143_1) |
+| Case C-96/14 | Jean-Claude Van Hove v CNP Assurances SA | 62014CJ0096 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0096) |
+| C-96-14 | N/A | 62014CJ0096_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0096_1) |
+| Case C-348/14 | Maria Bucura v SC Bancpost SA | 62014CJ0348 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0348) |
+| Case C-421/14 | Banco Primus SA v Jesús Gutiérrez García | 62014CJ0421 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0421) |
+| Case C-186/16 | Ruxandra Paula Andriciuc and Others v Banca Românească SA | 62016CJ0186 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62016CJ0186) |
+| Case C-38/17 | GT v HS | 62017CJ0038 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0038) |
+| Case C-51/17 | OTP Bank Nyrt. and OTP Faktoring Követeléskezelő Zrt v Teréz Ilyés and Emil Kiss | 62017CJ0051 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0051) |
+| Case C-448/17 | EOS KSI Slovensko s.r.o. v Ján Danko and Margita Danková | 62017CJ0448 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0448) |
+| Case C-511/17 | Györgyné Lintner v UniCredit Bank Hungary Zrt. | 62017CJ0511 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0511) |
+| Case C-621/17 | Gyula Kiss and CIB Bank Zrt. v Emil Kiss and Gyuláné Kiss | 62017CJ0621 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0621) |
+| Case C-125/18 | Marc Gómez del Moral Guasch v Bankia SA | 62018CJ0125 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0125) |
+| Joined Cases C-84/19, C-222/19 and C-252/19 | Profi Credit Polska S.A. and Others v QJ and Others | 62019CJ0084 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0084) |
+| Joined Cases C-224/19 and C-259/19 | CY and Others v Caixabank SA and Banco Bilbao Vizcaya Argentaria SA | 62019CJ0224 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0224) |
+| Case C-609/19 | BNP Paribas Personal Finance SA v VE | 62019CJ0609 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0609) |
+| Case C-738/19 | A v B and C | 62019CJ0738 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0738) |
+| Joined Cases C-776/19 to C-782/19 | VB and Others v BNP Paribas Personal Finance SA and AV and Others v BNP Paribas Personal Finance SA and Procureur de la République | 62019CJ0776 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0776) |
+| Case C-395/21 | D.V. v M.A. | 62021CJ0395 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0395) |
+| Case C-565/21 | Caixabank SA v X | 62021CJ0565 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0565) |
+| Case C-598/21 | SP and CI v Všeobecná úverová banka a.s. | 62021CJ0598 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0598) |
+| Case C-600/21 | QE v Caisse régionale de Crédit mutuel de Loire-Atlantique et du Centre Ouest | 62021CJ0600 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0600) |
+| Case C-139/22 | AM and PM v mBank S.A. | 62022CJ0139 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0139) |
+| Case C-263/22 | Ocidental – Companhia Portuguesa de Seguros de Vida SA v LP | 62022CJ0263 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0263) |
+| Case C-265/22 | ZR and PI v Banco Santander, SA | 62022CJ0265 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0265) |
+| Case C-450/22 | Caixabank SA and Others v Asociación de Usuarios de Bancos, Cajas de Ahorro y Seguros de España (Adicae) and Others | 62022CJ0450 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0450) |
+| Case C-714/22 | S.R.G. v Profi Credit Bulgaria EOOD | 62022CJ0714 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0714) |
+| Case C-300/23 | NB v Kutxabank SA | 62023CJ0300 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0300) |
+| Case C-337/23 | N/A | 62023CJ0337 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0337) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+| Case C-699/23 | FG v Caja Rural de Navarra SCC | 62023CJ0699 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0699) |
+| Case C-280/24 | A. B. v Slovenská sporiteľňa, a.s. | 62024CJ0280 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0280) |
+
+## Article 5
+
+Total references: 20
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-144/99 | &lt;TXT_I1&gt; &lt;p&gt;In Case C-144/99,&lt;/p&gt; &lt;p&gt;Commission of the European Communities, represented by P. van Nuffel, acting as Agent, assisted by M. van der Woude and L. Dommering-van Rongen, Advocaten, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;applicant,&lt;/p&gt; &lt;p&gt;v&lt;/p&gt; &lt;p&gt;Kingdom of the Netherlands, represented by M.A. Fierstra and J. van Bakel, acting as Agents,&lt;/p&gt; &lt;p&gt;defendant,&lt;/p&gt; &lt;p&gt;APPLICATION for a declaration that, by failing to adopt the laws, regulations and administrative provisions necessary for the full transposition into Netherlands law of Articles 4(2) and 5 of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29), the Kingdom of the Netherlands has failed to fulfil its obligations under Article 189 of the EC Treaty (now Article 249 EC) and under that Directive,&lt;/p&gt; &lt;p&gt;THE COURT (Fifth Chamber),&lt;/p&gt; &lt;p&gt;composed of: A. La Pergola, President of the Chamber, M. Wathelet, D.A.O. Edward, P. Jann (Rapporteur) and L. Sevón, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: A. Tizzano,&lt;/p&gt; &lt;p&gt;Registrar: R. Grass,&lt;/p&gt; &lt;p&gt;having regard to the report of the Judge-Rapporteur,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 23 January 2001,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61999CJ0144 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61999CJ0144) |
+| Case C-70/03. | Commission of the European Communities v Kingdom of Spain. | 62003CJ0070 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62003CJ0070) |
+| Case C‑92/11 | RWE Vertrieb AG v Verbraucherzentrale Nordrhein-Westfalen eV | 62011CJ0092 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0092) |
+| C-92-11 | N/A | 62011CJ0092_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0092_1) |
+| Case C-348/14 | Maria Bucura v SC Bancpost SA | 62014CJ0348 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0348) |
+| Case C-621/17 | Gyula Kiss and CIB Bank Zrt. v Emil Kiss and Gyuláné Kiss | 62017CJ0621 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0621) |
+| Case C-34/18 | Ottília Lovasné Tóth v ERSTE Bank Hungary Zrt. | 62018CJ0034 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0034) |
+| Case C-125/18 | Marc Gómez del Moral Guasch v Bankia SA | 62018CJ0125 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0125) |
+| Joined Cases C-419/18 and C-483/18 | Profi Credit Polska S.A. v Bogumiła Włostowska and Others and Profi Credit Polska S.A. v OH | 62018CJ0419 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0419) |
+| Joined Cases C-224/19 and C-259/19 | CY and Others v Caixabank SA and Banco Bilbao Vizcaya Argentaria SA | 62019CJ0224 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0224) |
+| Case C-212/20 | M.P. and B.P. v „A.” prowadzący działalność za pośrednictwem „A.” S.A. | 62020CJ0212 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0212) |
+| Case C-565/21 | Caixabank SA v X | 62021CJ0565 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0565) |
+| Case C-263/22 | Ocidental – Companhia Portuguesa de Seguros de Vida SA v LP | 62022CJ0263 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0263) |
+| Case C-265/22 | ZR and PI v Banco Santander, SA | 62022CJ0265 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0265) |
+| Case C-300/23 | NB v Kutxabank SA | 62023CJ0300 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0300) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+| Case C-699/23 | FG v Caja Rural de Navarra SCC | 62023CJ0699 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0699) |
+| Case C-749/23 | innogy Energie, s.r.o. v QS | 62023CJ0749 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0749) |
+| Case C-39/24 | Justa v Banco Bilbao Vizcaya Argentaria SA | 62024CJ0039 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0039) |
+| Case C-280/24 | A. B. v Slovenská sporiteľňa, a.s. | 62024CJ0280 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0280) |
+
+## Article 6
+
+Total references: 75
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-106/89 | &lt;TXT_I1&gt; &lt;p&gt;In Joined Cases C-240/98 to C-244/98,&lt;/p&gt; &lt;p&gt;REFERENCE to the Court under Article 177 of the EC Treaty (now Article 234 EC) by the Juzgado de Primera Instancia No 35 de Barcelona, Spain, for a preliminary ruling in the proceedings pending before that court between&lt;/p&gt; &lt;p&gt;Océano Grupo Editorial SA&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;Rocío Murciano Quintero (C-240/98)&lt;/p&gt; &lt;p&gt;and between&lt;/p&gt; &lt;p&gt;Salvat Editores SA&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;José M. Sánchez Alcón Prades (C-241/98),&lt;/p&gt; &lt;p&gt;José Luis Copano Badillo (C-242/98),&lt;/p&gt; &lt;p&gt;Mohammed Berroane (C-243/98),&lt;/p&gt; &lt;p&gt;Emilio Viñas Feliu (C-244/98),&lt;/p&gt; &lt;p&gt;on the interpretation of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29),&lt;/p&gt; &lt;p&gt;THE COURT,&lt;/p&gt; &lt;p&gt;composed of: G.C. Rodríguez Iglesias, President, L. Sevón (President of Chamber), P.J.G. Kapteyn, C. Gulmann, J.-P. Puissochet, G. Hirsch, P. Jann (Rapporteur), H. Ragnemalm, M. Wathelet, V. Skouris and F. Macken, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: A. Saggio,&lt;/p&gt; &lt;p&gt;Registrar: H.A. Rühl, Principal Administrator,&lt;/p&gt; &lt;p&gt;after considering the written observations submitted on behalf of:&lt;/p&gt; &lt;p&gt;- Océano Grupo Editorial SA and Salvat Editores SA, by A. Estany Segalas, of the Barcelona Bar,&lt;/p&gt; &lt;p&gt;- the Spanish Government, by S. Ortíz Vaamonde, Abogado del Estado, acting as Agent,&lt;/p&gt; &lt;p&gt;- the French Government, by K. Rispal-Bellanger, Head of Subdirectorate in the Legal Directorate of the Ministry of Foreign Affairs, and R. Loosli-Surrans, Chargé de Mission in that Directorate, acting as Agents,&lt;/p&gt; &lt;p&gt;- Commission of the European Communities, by J.L. Iglesias Buhigues, Legal Adviser, and M. Desantes Real, a national civil servant on secondment to the Commission's Legal Service, acting as Agents,&lt;/p&gt; &lt;p&gt;having regard to the Report for the Hearing,&lt;/p&gt; &lt;p&gt;after hearing the oral observations of Océano Grupo Editorial SA, Salvat Editores SA, the Spanish Government, the French Government and the Commission at the hearing on 26 October 1999,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 16 December 1999,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61998CJ0240 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61998CJ0240) |
+| Case C-70/03. | Commission of the European Communities v Kingdom of Spain. | 62003CJ0070 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62003CJ0070) |
+| Case C-243/08. | Pannon GSM Zrt. v Erzsébet Sustikné Győrfi. | 62008CJ0243 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0243) |
+| Case C-453/10 | Jana Pereničová and Vladislav Perenič v SOS financ spol. s r. o. | 62010CJ0453 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0453) |
+| C-453-10 | N/A | 62010CJ0453_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0453_1) |
+| Case C‑472/10 | Nemzeti Fogyasztóvédelmi Hatóság v Invitel Távközlési Zrt | 62010CJ0472 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0472) |
+| C-472-10 | N/A | 62010CJ0472_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0472_1) |
+| Case C‑618/10 | Banco Español de Crédito, SA v Joaquín Calderón Camino | 62010CJ0618 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0618) |
+| C-618-10 | N/A | 62010CJ0618_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0618_1) |
+| Case C‑397/11 | Erika Jőrös v Aegon Magyarország Hitel Zrt. | 62011CJ0397 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0397) |
+| Case C‑472/11 | Banif Plus Bank Zrt v Csaba Csipai and Viktória Csipai | 62011CJ0472 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0472) |
+| Case C‑488/11 | Dirk Frederik Asbeek Brusse and Katarina de Man Garabito v Jahani BV | 62011CJ0488 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0488) |
+| Case C‑470/12 | Pohotovosť s. r. o. v Miroslav Vašuta | 62012CJ0470 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0470) |
+| C-470-12 | N/A | 62012CJ0470_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0470_1) |
+| Case C‑26/13 | Árpád Kásler and Hajnalka Káslerné Rábai v OTP Jelzálogbank Zrt | 62013CJ0026 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0026) |
+| C-26-13 | N/A | 62013CJ0026_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0026_1) |
+| Joined Cases C-482/13, C-484/13, C-485/13 and C-487/13 | Unicaja Banco, SA v José Hidalgo Rueda and Others and Caixabank SA v Manuel María Rueda Ledesma and Others | 62013CJ0482 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0482) |
+| C-482-13 | N/A | 62013CJ0482_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0482_1) |
+| Case C-8/14 | BBVA SA v Pedro Peñalva López and Others | 62014CJ0008 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0008) |
+| Case C-32/14 | ERSTE Bank Hungary Zrt v Attila Sugár | 62014CJ0032 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0032) |
+| Case C-348/14 | Maria Bucura v SC Bancpost SA | 62014CJ0348 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0348) |
+| Case C-377/14 | Ernst Georg Radlinger and Helena Radlingerová v Finway a.s. | 62014CJ0377 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0377) |
+| Case C-421/14 | Banco Primus SA v Jesús Gutiérrez García | 62014CJ0421 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0421) |
+| Case C-119/15 | Biuro podróży 'Partner' Sp. z o.o, Sp. komandytowa w Dąbrowie Górniczej v Prezes Urzędu Ochrony Konkurencji i Konsumentów | 62015CJ0119 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0119) |
+| Joined Cases C-154/15 and C-307/15 | Francisco Gutiérrez Naranjo v Cajasur Banco SAU, Ana María Palacios Martínez v Banco Bilbao Vizcaya Argentaria SA (BBVA), Banco Popular Español SA v Emilio Irles López and Teresa Torres Andreu | 62015CJ0154 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0154) |
+| Case C-598/15 | Banco Santander, SA v Cristobalina Sánchez López | 62015CJ0598 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0598) |
+| Case C-38/17 | GT v HS | 62017CJ0038 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0038) |
+| Case C-51/17 | OTP Bank Nyrt. and OTP Faktoring Követeléskezelő Zrt v Teréz Ilyés and Emil Kiss | 62017CJ0051 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0051) |
+| Joined Cases C-70/17 and C-179/17 | Abanca Corporación Bancaria SA v Alberto García Salamanca Santos and Bankia SA v Alfonso Antonio Lau Mendoza and Verónica Yuliana Rodríguez Ramírez | 62017CJ0070 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0070) |
+| Case C-118/17 | Zsuzsanna Dunai v ERSTE Bank Hungary Zrt | 62017CJ0118 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0118) |
+| Case C-511/17 | Györgyné Lintner v UniCredit Bank Hungary Zrt. | 62017CJ0511 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0511) |
+| Case C-125/18 | Marc Gómez del Moral Guasch v Bankia SA | 62018CJ0125 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0125) |
+| Case C-260/18 | Kamil Dziubak and Justyna Dziubak v Raiffeisen Bank International AG, prowadzący działalność w Polsce w formie oddziału pod nazwą Raiffeisen Bank International AG Oddział w Polsce, anciennement Raiffeisen Bank Polska SA | 62018CJ0260 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0260) |
+| Joined Cases C-349/18 to C-351/18 | Nationale Maatschappij der Belgische Spoorwegen (NMBS) v Mbutuku Kanyeba and Others | 62018CJ0349 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0349) |
+| Joined Cases C-419/18 and C-483/18 | Profi Credit Polska S.A. v Bogumiła Włostowska and Others and Profi Credit Polska S.A. v OH | 62018CJ0419 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0419) |
+| Joined Cases C-453/18 and C-494/18 | Bondora AS v Carlos V. C. and XY | 62018CJ0453 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0453) |
+| Joined Cases C-698/18 and C-699/18 | SC Raiffeisen Bank SA and BRD Groupe Societé Générale SA v JB and KC | 62018CJ0698 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0698) |
+| Joined Cases C-224/19 and C-259/19 | CY and Others v Caixabank SA and Banco Bilbao Vizcaya Argentaria SA | 62019CJ0224 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0224) |
+| Case C-269/19 | Banca B. SA v A.A.A. | 62019CJ0269 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0269) |
+| Joined Cases C-776/19 to C-782/19 | VB and Others v BNP Paribas Personal Finance SA and AV and Others v BNP Paribas Personal Finance SA and Procureur de la République | 62019CJ0776 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0776) |
+| Case C-869/19 | L v Unicaja Banco SA | 62019CJ0869 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0869) |
+| Case C-932/19 | JZ v OTP Jelzálogbank Zrt. and Others | 62019CJ0932 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0932) |
+| Case C-19/20 | I.W. and R.W. v Bank BPH S.A. | 62020CJ0019 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0019) |
+| Case C-212/20 | M.P. and B.P. v „A.” prowadzący działalność za pośrednictwem „A.” S.A. | 62020CJ0212 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0212) |
+| Case C-385/20 | EL and TP v Caixabank SA | 62020CJ0385 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0385) |
+| Joined Cases C-80/21 to C-82/21 | E.K. and Others v D.B.P. and Others | 62021CJ0080 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0080) |
+| Case C-170/21 | Profi Credit Bulgaria v T.I.T. | 62021CJ0170 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0170) |
+| Case C-215/21 | Zulima v Servicios prescriptor y medios de pagos EFC SAU | 62021CJ0215 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0215) |
+| Case C-395/21 | D.V. v M.A. | 62021CJ0395 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0395) |
+| Case C-484/21 | F C C and M A B v Caixabank SA | 62021CJ0484 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0484) |
+| Case C-520/21 | Arkadiusz Szcześniak v Bank M. SA | 62021CJ0520 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0520) |
+| Case C-561/21 | GP and BG v Banco Santander, SA | 62021CJ0561 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0561) |
+| Case C-598/21 | SP and CI v Všeobecná úverová banka a.s. | 62021CJ0598 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0598) |
+| Case C-625/21 | VB v GUPFINGER Einrichtungsstudio GmbH | 62021CJ0625 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0625) |
+| Case C-705/21 | MJ v AxFina Hungary Zrt. | 62021CJ0705 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0705) |
+| Joined Cases C-810/21 to C-813/21 | Caixabank SA and Others v WE and Others | 62021CJ0810 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0810) |
+| Case C-6/22 | M.B. and Others v X S.A. | 62022CJ0006 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0006) |
+| Case C-28/22 | TL and WE v Liquidator of Getin Noble Bank S.A., formerly Getin Noble Bank S.A. | 62022CJ0028 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0028) |
+| Case C-35/22 | CAJASUR Banco S.A. v JO and IM | 62022CJ0035 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0035) |
+| Case C-140/22 | SM and Others v mBank S.A. | 62022CJ0140 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0140) |
+| Case C-263/22 | Ocidental – Companhia Portuguesa de Seguros de Vida SA v LP | 62022CJ0263 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0263) |
+| Case C-287/22 | YQ and RJ v Getin Noble Bank S.A. | 62022CJ0287 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0287) |
+| Case C-321/22 | ZL and Others v Provident Polska S.A. | 62022CJ0321 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0321) |
+| Joined Cases C-498/22 to C-500/22 | Novo Banco SA - Sucursal en España and Others v C.F.O. and Others | 62022CJ0498 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0498) |
+| Case C-531/22 | Getin Noble Bank S.A. and Others v TL | 62022CJ0531 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0531) |
+| Case C-645/22 | R. A. and Others v „Luminor Bank AS“,agissant par intermédiaire de „Luminor Bank AS“ Lietuvos skyrius | 62022CJ0645 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0645) |
+| Case C-714/22 | S.R.G. v Profi Credit Bulgaria EOOD | 62022CJ0714 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0714) |
+| Case C-173/23 | Eventmedia Soluciones SL v Air Europa Líneas Aéreas SAU | 62023CJ0173 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0173) |
+| Case C-300/23 | NB v Kutxabank SA | 62023CJ0300 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0300) |
+| Case C-337/23 | N/A | 62023CJ0337 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0337) |
+| Case C-351/23 | GR REAL s. r. o. v PO and RT | 62023CJ0351 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0351) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+| Case C-582/23 | R.S. v C. S.A. and Others | 62023CJ0582 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0582) |
+| Case C-630/23 | ZH and KN v AxFina Hungary Zrt. | 62023CJ0630 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0630) |
+| Case C-230/24 | MF v Banco Santander SA | 62024CJ0230 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0230) |
+
+## Article 7
+
+Total references: 62
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-106/89 | &lt;TXT_I1&gt; &lt;p&gt;In Joined Cases C-240/98 to C-244/98,&lt;/p&gt; &lt;p&gt;REFERENCE to the Court under Article 177 of the EC Treaty (now Article 234 EC) by the Juzgado de Primera Instancia No 35 de Barcelona, Spain, for a preliminary ruling in the proceedings pending before that court between&lt;/p&gt; &lt;p&gt;Océano Grupo Editorial SA&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;Rocío Murciano Quintero (C-240/98)&lt;/p&gt; &lt;p&gt;and between&lt;/p&gt; &lt;p&gt;Salvat Editores SA&lt;/p&gt; &lt;p&gt;and&lt;/p&gt; &lt;p&gt;José M. Sánchez Alcón Prades (C-241/98),&lt;/p&gt; &lt;p&gt;José Luis Copano Badillo (C-242/98),&lt;/p&gt; &lt;p&gt;Mohammed Berroane (C-243/98),&lt;/p&gt; &lt;p&gt;Emilio Viñas Feliu (C-244/98),&lt;/p&gt; &lt;p&gt;on the interpretation of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29),&lt;/p&gt; &lt;p&gt;THE COURT,&lt;/p&gt; &lt;p&gt;composed of: G.C. Rodríguez Iglesias, President, L. Sevón (President of Chamber), P.J.G. Kapteyn, C. Gulmann, J.-P. Puissochet, G. Hirsch, P. Jann (Rapporteur), H. Ragnemalm, M. Wathelet, V. Skouris and F. Macken, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: A. Saggio,&lt;/p&gt; &lt;p&gt;Registrar: H.A. Rühl, Principal Administrator,&lt;/p&gt; &lt;p&gt;after considering the written observations submitted on behalf of:&lt;/p&gt; &lt;p&gt;- Océano Grupo Editorial SA and Salvat Editores SA, by A. Estany Segalas, of the Barcelona Bar,&lt;/p&gt; &lt;p&gt;- the Spanish Government, by S. Ortíz Vaamonde, Abogado del Estado, acting as Agent,&lt;/p&gt; &lt;p&gt;- the French Government, by K. Rispal-Bellanger, Head of Subdirectorate in the Legal Directorate of the Ministry of Foreign Affairs, and R. Loosli-Surrans, Chargé de Mission in that Directorate, acting as Agents,&lt;/p&gt; &lt;p&gt;- Commission of the European Communities, by J.L. Iglesias Buhigues, Legal Adviser, and M. Desantes Real, a national civil servant on secondment to the Commission's Legal Service, acting as Agents,&lt;/p&gt; &lt;p&gt;having regard to the Report for the Hearing,&lt;/p&gt; &lt;p&gt;after hearing the oral observations of Océano Grupo Editorial SA, Salvat Editores SA, the Spanish Government, the French Government and the Commission at the hearing on 26 October 1999,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 16 December 1999,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61998CJ0240 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61998CJ0240) |
+| C-372/99 | &lt;TXT_I1&gt; &lt;p&gt;In Case C-372/99,&lt;/p&gt; &lt;p&gt;Commission of the European Communities, represented by P. Stancanelli, acting as Agent, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;applicant,&lt;/p&gt; &lt;p&gt;v&lt;/p&gt; &lt;p&gt;Italian Republic, represented initially by U. Leanza, acting as Agent, assisted by P.G. Ferri, Avvocato dello Stato, and, subsequently, by U. Leanza, assisted by G. de Bellis, Avvocato dello Stato, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;defendant,&lt;/p&gt; &lt;p&gt;APPLICATION for a declaration that, by failing to adopt the measures necessary to:&lt;/p&gt; &lt;p&gt;- apply the provisions of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29) to all contracts concluded between consumers and sellers or suppliers;&lt;/p&gt; &lt;p&gt;- transpose the third sentence of Article 5 of that directive, and&lt;/p&gt; &lt;p&gt;- transpose in full Articles 6(2) and 7(3) of that directive,&lt;/p&gt; &lt;p&gt;the Italian Republic has failed to fulfil its obligations under that directive,&lt;/p&gt; &lt;p&gt;THE COURT (Fifth Chamber),&lt;/p&gt; &lt;p&gt;composed of: P. Jann (Rapporteur), President of the Chamber, D.A.O. Edward and A. La Pergola, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: S. Alber,&lt;/p&gt; &lt;p&gt;Registrar: R. Grass,&lt;/p&gt; &lt;p&gt;having regard to the report of the Judge-Rapporteur,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 20 September 2001,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61999CJ0372 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61999CJ0372) |
+| Case C‑472/10 | Nemzeti Fogyasztóvédelmi Hatóság v Invitel Távközlési Zrt | 62010CJ0472 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0472) |
+| C-472-10 | N/A | 62010CJ0472_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62010CJ0472_1) |
+| Case C‑472/11 | Banif Plus Bank Zrt v Csaba Csipai and Viktória Csipai | 62011CJ0472 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62011CJ0472) |
+| Case C‑470/12 | Pohotovosť s. r. o. v Miroslav Vašuta | 62012CJ0470 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0470) |
+| C-470-12 | N/A | 62012CJ0470_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0470_1) |
+| Case C-567/13 | Nóra Baczó and János István Vizsnyiczai v Raiffeisen Bank Zrt | 62013CJ0567 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0567) |
+| C-567-13 | N/A | 62013CJ0567_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0567_1) |
+| Case C-8/14 | BBVA SA v Pedro Peñalva López and Others | 62014CJ0008 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0008) |
+| Case C-32/14 | ERSTE Bank Hungary Zrt v Attila Sugár | 62014CJ0032 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0032) |
+| Case C‑169/14 | Juan Carlos Sánchez Morcillo and María del Carmen Abril García v Banco Bilbao Vizcaya Argentaria SA | 62014CJ0169 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0169) |
+| C-169-14 | N/A | 62014CJ0169_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0169_1) |
+| Case C-377/14 | Ernst Georg Radlinger and Helena Radlingerová v Finway a.s. | 62014CJ0377 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0377) |
+| Joined Cases C-381/14 and C-385/14 | Jorge Sales Sinués and Youssouf Drame Ba v Caixabank SA and Catalunya Caixa SA (Catalunya Banc S.A.) | 62014CJ0381 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0381) |
+| Case C-421/14 | Banco Primus SA v Jesús Gutiérrez García | 62014CJ0421 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0421) |
+| Case C-119/15 | Biuro podróży 'Partner' Sp. z o.o, Sp. komandytowa w Dąbrowie Górniczej v Prezes Urzędu Ochrony Konkurencji i Konsumentów | 62015CJ0119 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0119) |
+| Case C-598/15 | Banco Santander, SA v Cristobalina Sánchez López | 62015CJ0598 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0598) |
+| Case C-51/17 | OTP Bank Nyrt. and OTP Faktoring Követeléskezelő Zrt v Teréz Ilyés and Emil Kiss | 62017CJ0051 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0051) |
+| Joined Cases C-70/17 and C-179/17 | Abanca Corporación Bancaria SA v Alberto García Salamanca Santos and Bankia SA v Alfonso Antonio Lau Mendoza and Verónica Yuliana Rodríguez Ramírez | 62017CJ0070 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0070) |
+| Case C-176/17 | Profi Credit Polska S.A. w Bielsku Białej v Mariusz Wawrzosek | 62017CJ0176 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62017CJ0176) |
+| Case C-125/18 | Marc Gómez del Moral Guasch v Bankia SA | 62018CJ0125 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0125) |
+| Case C-266/18 | Aqua Med sp. z o.o.v Irena Skóra | 62018CJ0266 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0266) |
+| Joined Cases C-419/18 and C-483/18 | Profi Credit Polska S.A. v Bogumiła Włostowska and Others and Profi Credit Polska S.A. v OH | 62018CJ0419 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0419) |
+| Joined Cases C-453/18 and C-494/18 | Bondora AS v Carlos V. C. and XY | 62018CJ0453 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0453) |
+| Joined Cases C-698/18 and C-699/18 | SC Raiffeisen Bank SA and BRD Groupe Societé Générale SA v JB and KC | 62018CJ0698 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0698) |
+| Joined Cases C-224/19 and C-259/19 | CY and Others v Caixabank SA and Banco Bilbao Vizcaya Argentaria SA | 62019CJ0224 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0224) |
+| Case C-495/19 | Kancelaria Medius SA v RN | 62019CJ0495 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0495) |
+| Case C-600/19 | MA v Ibercaja Banco, SA | 62019CJ0600 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0600) |
+| Joined Cases C-693/19 and C-831/19 | SPV Project 1503 Srl and Others v YB and Others v YX and ZW | 62019CJ0693 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0693) |
+| Case C-725/19 | IO v Impuls Leasing România IFN SA | 62019CJ0725 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0725) |
+| Joined Cases C-776/19 to C-782/19 | VB and Others v BNP Paribas Personal Finance SA and AV and Others v BNP Paribas Personal Finance SA and Procureur de la République | 62019CJ0776 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0776) |
+| Case C-19/20 | I.W. and R.W. v Bank BPH S.A. | 62020CJ0019 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0019) |
+| Case C-132/20 | BN and Others v Getin Noble Bank S.A. | 62020CJ0132 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0132) |
+| Case C-385/20 | EL and TP v Caixabank SA | 62020CJ0385 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0385) |
+| Joined Cases C-80/21 to C-82/21 | E.K. and Others v D.B.P. and Others | 62021CJ0080 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0080) |
+| Case C-215/21 | Zulima v Servicios prescriptor y medios de pagos EFC SAU | 62021CJ0215 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0215) |
+| Case C-395/21 | D.V. v M.A. | 62021CJ0395 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0395) |
+| Case C-484/21 | F C C and M A B v Caixabank SA | 62021CJ0484 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0484) |
+| Case C-520/21 | Arkadiusz Szcześniak v Bank M. SA | 62021CJ0520 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0520) |
+| Case C-561/21 | GP and BG v Banco Santander, SA | 62021CJ0561 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0561) |
+| Case C-598/21 | SP and CI v Všeobecná úverová banka a.s. | 62021CJ0598 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0598) |
+| Case C-625/21 | VB v GUPFINGER Einrichtungsstudio GmbH | 62021CJ0625 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0625) |
+| Case C-705/21 | MJ v AxFina Hungary Zrt. | 62021CJ0705 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0705) |
+| Joined Cases C-810/21 to C-813/21 | Caixabank SA and Others v WE and Others | 62021CJ0810 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0810) |
+| Case C-6/22 | M.B. and Others v X S.A. | 62022CJ0006 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0006) |
+| Case C-28/22 | TL and WE v Liquidator of Getin Noble Bank S.A., formerly Getin Noble Bank S.A. | 62022CJ0028 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0028) |
+| Case C-139/22 | AM and PM v mBank S.A. | 62022CJ0139 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0139) |
+| Case C-140/22 | SM and Others v mBank S.A. | 62022CJ0140 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0140) |
+| Case C-287/22 | YQ and RJ v Getin Noble Bank S.A. | 62022CJ0287 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0287) |
+| Case C-321/22 | ZL and Others v Provident Polska S.A. | 62022CJ0321 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0321) |
+| Case C-450/22 | Caixabank SA and Others v Asociación de Usuarios de Bancos, Cajas de Ahorro y Seguros de España (Adicae) and Others | 62022CJ0450 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0450) |
+| Case C-531/22 | Getin Noble Bank S.A. and Others v TL | 62022CJ0531 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0531) |
+| Case C-714/22 | S.R.G. v Profi Credit Bulgaria EOOD | 62022CJ0714 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0714) |
+| Case C-724/22 | Investcapital Ltd v G.H.R. | 62022CJ0724 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0724) |
+| Case C-173/23 | Eventmedia Soluciones SL v Air Europa Líneas Aéreas SAU | 62023CJ0173 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0173) |
+| Case C-300/23 | NB v Kutxabank SA | 62023CJ0300 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0300) |
+| Case C-351/23 | GR REAL s. r. o. v PO and RT | 62023CJ0351 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0351) |
+| Case C-582/23 | R.S. v C. S.A. and Others | 62023CJ0582 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0582) |
+| Case C-749/23 | innogy Energie, s.r.o. v QS | 62023CJ0749 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0749) |
+| Case C-230/24 | MF v Banco Santander SA | 62024CJ0230 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0230) |
+| Case C-396/24 | mBank S.A. and Others v BL and Others | 62024CJ0396 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62024CJ0396) |
+
+## Article 8
+
+Total references: 11
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| Case C-484/08. | Caja de Ahorros y Monte de Piedad de Madrid v Asociación de Usuarios de Servicios Bancarios (Ausbanc). | 62008CJ0484 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0484) |
+| C-484-08 | N/A | 62008CJ0484_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0484_1) |
+| Case C‑470/12 | Pohotovosť s. r. o. v Miroslav Vašuta | 62012CJ0470 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0470) |
+| C-470-12 | N/A | 62012CJ0470_1 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0470_1) |
+| Case C-125/18 | Marc Gómez del Moral Guasch v Bankia SA | 62018CJ0125 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0125) |
+| Case C-243/20 | DP and SG v Trapeza Peiraios AE | 62020CJ0243 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0243) |
+| Case C-395/21 | D.V. v M.A. | 62021CJ0395 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0395) |
+| Case C-405/21 | FV v NOVA KREDITNA BANKA MARIBOR d.d. | 62021CJ0405 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0405) |
+| Case C-139/22 | AM and PM v mBank S.A. | 62022CJ0139 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0139) |
+| Case C-531/22 | Getin Noble Bank S.A. and Others v TL | 62022CJ0531 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62022CJ0531) |
+| Case C-365/23 | SIA 'A' v C and Others | 62023CJ0365 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62023CJ0365) |
+
+## General Interpretations
+
+Cases that interpret the regulation generally, without reference to specific articles.
+
+Total references: 17
+
+| Case Number | Parties | CELEX | Link |
+|------------|---------|-------|------|
+| C-478/99 | &lt;TXT_I1&gt; &lt;p&gt;In Case C-478/99,&lt;/p&gt; &lt;p&gt;Commission of the European Communities, represented by L. Parpala and P. Stancanelli, acting as Agents, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;applicant,&lt;/p&gt; &lt;p&gt;v&lt;/p&gt; &lt;p&gt;Kingdom of Sweden, represented by L. Nordling and A. Kruse, acting as Agents, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;defendant,&lt;/p&gt; &lt;p&gt;supported by&lt;/p&gt; &lt;p&gt;Kingdom of Denmark, represented by J. Molde, acting as Agent, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;and by&lt;/p&gt; &lt;p&gt;Republic of Finland, represented by T. Pynnä and E. Bygglin, acting as Agents, with an address for service in Luxembourg,&lt;/p&gt; &lt;p&gt;interveners,&lt;/p&gt; &lt;p&gt;APPLICATION for a declaration that, by failing to adopt the laws, regulations and administrative provisions necessary to implement in its national legal system the annex referred to in Article 3(3) of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29), the Kingdom of Sweden has failed to fulfil its obligations under that directive,&lt;/p&gt; &lt;p&gt;THE COURT (Fifth Chamber),&lt;/p&gt; &lt;p&gt;composed of: P. Jann (Rapporteur), President of the Chamber, D.A.O. Edward and M. Wathelet, Judges,&lt;/p&gt; &lt;p&gt;Advocate General: L.A. Geelhoed,&lt;/p&gt; &lt;p&gt;Registrar: H.A. Rühl, Principal Administrator,&lt;/p&gt; &lt;p&gt;having regard to the Report for the Hearing,&lt;/p&gt; &lt;p&gt;after hearing oral argument from the parties at the hearing on 25 October 2001,&lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 31 January 2002,&lt;/p&gt; &lt;p&gt;gives the following&lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 61999CJ0478 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:61999CJ0478) |
+| C-473/00 | &lt;TXT_I1&gt; &lt;p&gt;In Case C-473/00, &lt;/p&gt; &lt;p&gt;REFERENCE to the Court under Article 234 EC by the Tribunal d'instance de Vienne (France) for a preliminary ruling in the proceedings pending before that court between &lt;/p&gt; &lt;p&gt;Cofidis SA &lt;/p&gt; &lt;p&gt;and &lt;/p&gt; &lt;p&gt;Jean-Louis Fredout, &lt;/p&gt; &lt;p&gt;on the interpretation of Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts (OJ 1993 L 95, p. 29), &lt;/p&gt; &lt;p&gt;THE COURT &lt;/p&gt; &lt;p&gt;(Fifth Chamber), &lt;/p&gt; &lt;p&gt;composed of: M. Wathelet, President of the Chamber, C.W.A. Timmermans, D.A.O. Edward, A. La Pergola and P. Jann (Rapporteur), Judges, &lt;/p&gt; &lt;p&gt;Advocate General: A. Tizzano, &lt;/p&gt; &lt;p&gt;Registrar: L. Hewlett, Principal Administrator, &lt;/p&gt; &lt;p&gt;after considering the written observations submitted on behalf of: &lt;/p&gt; &lt;p&gt;- Cofidis SA, by B. Célice, avocat, &lt;/p&gt; &lt;p&gt;- the French Government, by G. de Bergues and R. Loosli-Surrans, acting as Agents, &lt;/p&gt; &lt;p&gt;- the Austrian Government, by H. Dossi, acting as Agent, &lt;/p&gt; &lt;p&gt;- the Commission of the European Communities, by D. Martin and M. França, acting as Agents, &lt;/p&gt; &lt;p&gt;having regard to the Report for the Hearing, &lt;/p&gt; &lt;p&gt;after hearing the oral observations of Cofidis SA, represented by B. Soltner, avocat; Mr Fredout, represented by J. Franck, avocat; the French Government, represented by R. Loosli-Surrans; and the Commission, represented by M. França, at the hearing on 17 January 2002, &lt;/p&gt; &lt;p&gt;after hearing the Opinion of the Advocate General at the sitting on 18 April 2002, &lt;/p&gt; &lt;p&gt;gives the following &lt;/p&gt; &lt;p&gt;Judgment &lt;/p&gt; &lt;/TXT_I1&gt; | 62000CJ0473 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62000CJ0473) |
+| Case C-168/05. | Elisa María Mostaza Claro v Centro Móvil Milenium SL. | 62005CJ0168 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62005CJ0168) |
+| Case C-40/08. | Asturcom Telecomunicaciones SL v Cristina Rodríguez Nogueira. | 62008CJ0040 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62008CJ0040) |
+| Case C‑413/12 | Asociación de Consumidores Independientes de Castilla y León v Anuntis Segundamano España SL | 62012CJ0413 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62012CJ0413) |
+| Case C‑280/13 | Barclays Bank SA v Sara Sánchez García and Alejandro Chacón Barrera | 62013CJ0280 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0280) |
+| Case C-537/13 | Birutė Šiba v Arūnas Devėnas | 62013CJ0537 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62013CJ0537) |
+| Case C-49/14 | Finanmadrid EFC SA v VA and Others | 62014CJ0049 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62014CJ0049) |
+| Case C-168/15 | Milena Tomášová v Slovenská republika - Ministerstvo spravodlivosti SR and Pohotovosť s.r.o. | 62015CJ0168 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62015CJ0168) |
+| Joined Cases C-96/16 and C-94/17 | Banco Santander SA v Mahamadou Demba and Mercedes Godoy Bonet and Rafael Ramón Escobedo Cortés v Banco de Sabadell SA | 62016CJ0096 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62016CJ0096) |
+| Case C-290/16 | Air Berlin plc & Co. Luftverkehrs KG v Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.V. | 62016CJ0290 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62016CJ0290) |
+| Case C-407/18 | Aleš Kuhar and Jožef Kuhar v Addiko Bank d.d. | 62018CJ0407 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62018CJ0407) |
+| Case C-287/19 | DenizBank AG v Verein für Konsumenteninformation | 62019CJ0287 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62019CJ0287) |
+| Case C-192/20 | Prima banka Slovensko a.s. v HD | 62020CJ0192 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0192) |
+| Case C-472/20 | Lombard Pénzügyi és Lízing Zrt. v PN | 62020CJ0472 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62020CJ0472) |
+| Case C-200/21 | TU and SU v BRD Groupe Societé Générale SA and Next Capital Solutions Limited | 62021CJ0200 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0200) |
+| Case C-335/21 | Vicente v Delia | 62021CJ0335 | [Link](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0335) |
+

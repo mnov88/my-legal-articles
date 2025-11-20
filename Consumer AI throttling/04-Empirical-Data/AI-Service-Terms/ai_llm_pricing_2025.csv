@@ -1,0 +1,23 @@
+Service,Tier,Price_USD,Usage_Limits_Description
+ChatGPT,Free,$0,"GPT-5 basic access, rate-limited; around 30-50 messages; ~8K-16K tokens context"
+ChatGPT,Plus,$20/month,"GPT-5 full features, multimodal; no clear limit stated; ~128K tokens context; priority access during peak times; faster responses"
+ChatGPT,Pro,$200/month,"GPT-5 unlimited access; advanced ""pro"" models; much higher limits on advanced tools (Sora, deep research); ~256K+ tokens context"
+ChatGPT,Team,$25-30/user/month,All Plus features; team collaboration tools; admin controls; privacy (data not used for training)
+ChatGPT,Enterprise,Custom pricing,"Advanced security, enterprise-grade privacy, integrations, dedicated support"
+Claude AI,Free,$0,Access to Claude 3.5 Sonnet; limited usage with 5-hour reset periods; message caps that reset every 5 hours with restrictions during peak times
+Claude AI,Pro,$20/month ($17/month annually),5x more usage than free plan; priority access during peak times; access to all models including Claude 3 Opus; early access to new features
+Claude AI,Team,$30/user/month (min 5 users),Significantly higher usage limits than Pro; team collaboration features; centralized billing and administration; enhanced security controls
+Claude AI,Max Expanded,$100/month,5x more usage than Claude Pro; priority access to new features; enhanced performance during high-traffic periods
+Claude AI,Max Ultimate,$200/month,20x more usage than Claude Pro; maximum priority access; preferential treatment during peak times
+Claude AI,Enterprise,Custom pricing,Maximum usage limits; SSO; advanced security and compliance; dedicated customer support; custom integrations
+Google Gemini,Free (Standard),$0,Access to Gemini 2.5 Flash; core chat and image reasoning; limited daily caps
+Google Gemini,AI Plus (~$5/month rollout),~$5/month,Larger usage allowance; newer models; moderate speed boost
+Google Gemini,AI Pro (formerly Advanced),$19.99/month or $199.99/year,Gemini 2.5 Pro; Deep Research; NotebookLM; 2TB storage; 1-month trial
+Google Gemini,AI Ultra,$249.99/month,Extended context; premium multimodal and video generation; 50% launch discount
+Perplexity AI,Free (Standard),$0,Unlimited basic searches; 5 Pro searches per day; basic file attachments; follow-up questions (up to 5 every 4 hours)
+Perplexity AI,Pro,$20/month or $200/year,"Unlimited Pro searches; access to premium AI models (Claude 3.7 Sonnet, GPT-4); $5 monthly API credit; unlimited file uploads; ~300 daily Pro searches"
+Perplexity AI,Enterprise Pro,$40/user/month,Everything in Pro; team management; internal knowledge search; dedicated support; organizational features
+Perplexity AI,Max,$200/month,"Unlimited Labs usage; priority access to new features; top-tier models (OpenAI o3-pro, Claude Opus 4)"
+Microsoft Copilot,Free,$0,Basic conversational AI; limited features
+Microsoft Copilot,Pro (Consumer),$20/month,Priority access to GPT-4 Turbo models; Copilot Vision; 100 image boosts/day; approx. 18 requests per minute
+Microsoft Copilot,Copilot for M365 (Business/Enterprise),$30/user/month,"Deep organizational intelligence via Microsoft Graph; integration with Word, Excel, Outlook, Teams, PowerPoint; enterprise-grade security"
