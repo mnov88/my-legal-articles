@@ -49,39 +49,39 @@ Brussels, 19.11.2025 SWD(2025) 836 final
 | 1.2.2.4.               | The processing of personal data for the development and operation of AI 39                                                                 |  |
 | 1.2.2.5.               | The exercise of the individual's right of access 40                                                                                        |  |
 
-| 1.2.2.6.<br>Controller's information requirements 40                                                                                       |  |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--|
-| 1.2.2.7.<br>Requirements for automated individual decision-making 41                                                                       |  |
-| 1.2.2.8.<br>Data breach notification to supervisory authorities 41                                                                         |  |
-| 1.2.2.9.<br>Notion of high risk and the lists of processing activities requiring and not requiring data<br>protection impact assessment 42 |  |
-| 1.2.3.<br>Estimated impacts 42                                                                                                             |  |
-| 1.3.<br>Modernising the cookies policy: addressing consent fatigue and better alignment with data<br>protection rules 44                   |  |
-| 1.3.1.<br>Analysis of the problems and opportunities 44                                                                                    |  |
-| 1.3.2.<br>Simplification measures and impacts 48                                                                                           |  |
-| 1.3.2.1.<br>Consent fatigue and cumbersome cookie banners 48                                                                               |  |
-| 1.3.2.2.<br>Express choices with one click 48                                                                                              |  |
-| 1.3.2.3.<br>Standards for machine-readable preferences 49                                                                                  |  |
-| 1.3.2.4.<br>Browsers signals 49                                                                                                            |  |
-| 1.3.3.<br>Estimated impacts 49                                                                                                             |  |
-| 1.3.4.<br>Preserving the objectives of the rules and other impacts 54                                                                      |  |
-| 2.<br>Incident reporting 56                                                                                                                |  |
-| 2.1.<br>Analysis of the problems and opportunities 56                                                                                      |  |
-| 2.2.<br>Simplification measures and impacts 59                                                                                             |  |
-| 2.3.<br>Estimated impacts 61                                                                                                               |  |
-| 2.4.<br>Preserving the objectives of the rules and other impacts 66                                                                        |  |
-| 3.<br>Targeted amendments to the Artificial Intelligence Act 68                                                                            |  |
-| 3.1.<br>Analysis of the problems and opportunities 68                                                                                      |  |
-| 3.2.<br>Simplification measures and impacts 73                                                                                             |  |
-| 3.3.<br>Estimated impacts 76                                                                                                               |  |
-| 3.4.<br>Preserving the objectives of the rules and other impacts 81                                                                        |  |
-| 4.<br>Repeal of the Platform-to-Business Regulation 83                                                                                     |  |
-| 4.1.<br>Analysis of the problems and opportunities 83                                                                                      |  |
-| 4.2.<br>Simplification measures and impacts 85                                                                                             |  |
-| 4.3.<br>Estimated impacts 86                                                                                                               |  |
-| Conclusion 88                                                                                                                              |  |
-| ANNEXES 89                                                                                                                                 |  |
-| Annex I - Stakeholder consultations 89                                                                                                     |  |
-| Annex II – Summary of cost savings estimates 132                                                                                           |  |
+| 1.2.2.6.<br>Controller's information requirements 40                                                                                       |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 1.2.2.7.<br>Requirements for automated individual decision-making 41                                                                       |     |
+| 1.2.2.8.<br>Data breach notification to supervisory authorities 41                                                                         |     |
+| 1.2.2.9.<br>Notion of high risk and the lists of processing activities requiring and not requiring data<br>protection impact assessment 42 |     |
+| 1.2.3.<br>Estimated impacts 42                                                                                                             |     |
+| 1.3.<br>Modernising the cookies policy: addressing consent fatigue and better alignment with data<br>protection rules 44                   |     |
+| 1.3.1.<br>Analysis of the problems and opportunities 44                                                                                    |     |
+| 1.3.2.<br>Simplification measures and impacts 48                                                                                           |     |
+| 1.3.2.1.<br>Consent fatigue and cumbersome cookie banners 48                                                                               |     |
+| 1.3.2.2.<br>Express choices with one click 48                                                                                              |     |
+| 1.3.2.3.<br>Standards for machine-readable preferences 49                                                                                  |     |
+| 1.3.2.4.<br>Browsers signals 49                                                                                                            |     |
+| 1.3.3.<br>Estimated impacts 49                                                                                                             |     |
+| 1.3.4.<br>Preserving the objectives of the rules and other impacts 54                                                                      |     |
+| 2.<br>Incident reporting 56                                                                                                                |     |
+| 2.1.<br>Analysis of the problems and opportunities 56                                                                                      |     |
+| 2.2.<br>Simplification measures and impacts 59                                                                                             |     |
+| 2.3.<br>Estimated impacts 61                                                                                                               |     |
+| 2.4.<br>Preserving the objectives of the rules and other impacts 66                                                                        |     |
+| 3.<br>Targeted amendments to the Artificial Intelligence Act 68                                                                            |     |
+| 3.1.<br>Analysis of the problems and opportunities 68                                                                                      |     |
+| 3.2.<br>Simplification measures and impacts 73                                                                                             |     |
+| 3.3.<br>Estimated impacts 76                                                                                                               |     |
+| 3.4.<br>Preserving the objectives of the rules and other impacts 81                                                                        |     |
+| 4.<br>Repeal of the Platform-to-Business Regulation 83                                                                                     |     |
+| 4.1.<br>Analysis of the problems and opportunities 83                                                                                      |     |
+| 4.2.<br>Simplification measures and impacts 85                                                                                             |     |
+| 4.3.<br>Estimated impacts 86                                                                                                               |     |
+| Conclusion 88                                                                                                                              |     |
+| ANNEXES 89                                                                                                                                 |     |
+| Annex I - Stakeholder consultations 89                                                                                                     |     |
+| Annex II – Summary of cost savings estimates 132                                                                                           |     |
 
 | Annex III - Competitiveness Check 134                                      |  |
 |----------------------------------------------------------------------------|--|
