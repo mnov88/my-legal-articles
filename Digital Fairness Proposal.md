@@ -192,7 +192,7 @@ The General Data Protection Regulation is the cornerstone for the protection of 
 
 ### **1.1. One Data Act**
 
-**Diverse stakeholders across sectors such as civil society, health, energy, manufacturing and mobility[^18] have underlined that in recent years, the EU has created many legislative acts related to data sharing which has led to uncertainties about how the acts interact with each other. This feedback echoes the findings from an assessment of the implementation of the rules, to an extent that a consolidation of at least some of them appears warranted. In the Digital Omnibus, the single market rules on data are consolidated in one legal act – the Data Act. Further simplification measures are also proposed, including for giving legal certainty and stimulating data-driven innovation.**
+**Diverse stakeholders across sectors such as civil society, health, energy, manufacturing and mobility[^18] have underlined that in recent years, the EU has created many legislative acts related to data sharing which has led to uncertainties about how the acts interact with each other. ==This feedback echoes the findings from an assessment of the implementation of the rules, to an extent that a consolidation of at least some of them appears warranted. In the Digital Omnibus, the single market rules on data are consolidated in one legal act – the Data Act. Further simplification measures are also proposed, including for giving legal certainty and stimulating data-driven innovation==.**
 
 ### **1.1.1. Analysis of problems and opportunities**
 
