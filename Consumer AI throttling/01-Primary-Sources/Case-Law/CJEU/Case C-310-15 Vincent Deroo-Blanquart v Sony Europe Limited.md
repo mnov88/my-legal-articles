@@ -1,4 +1,27 @@
-   62015CJ0310 
+---
+case-name: Vincent Deroo-Blanquart v Sony Europe Limited
+aliases:
+  - Deroo-Blanquart v Sony
+  - C-310-15
+  - C-310/15
+case-number: C-310-15
+year: "2016"
+topics:
+  - bundled offers
+  - price disclosure
+  - material information
+  - misleading omissions
+  - transparency
+summary: Combined offers that omit material price information can be misleading under the UCPD; full price-relevant information must be provided pre-purchase.
+relevance: RELEVANT - Omitting material information (e.g., "priority only matters during peak times" or "premium users may also experience degradation") could constitute misleading omission under UCPD.
+legal-sources-interpreted:
+  - UCPD
+articles-interpreted:
+  - UCPD Art. 5
+  - UCPD Art. 7
+---
+
+   62015CJ0310
 
 JUDGMENT OF THE COURT (Eighth Chamber)
 

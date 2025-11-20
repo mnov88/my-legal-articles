@@ -1,3 +1,30 @@
+---
+case-name: Vicente v Delia
+aliases:
+  - Vicente v Delia
+  - C-335-21
+  - C-335/21
+case-number: C-335-21
+year: "2022"
+topics:
+  - withdrawal clause
+  - penalty clause
+  - lawyer fees
+  - transparency
+  - misleading omissions
+summary: Penalty clause in lawyer-client contract for withdrawal without lawyer's knowledge/advice must be reviewed for unfairness; fee-scale reference insufficient for transparency if not disclosed pre-contract.
+relevance: RELEVANT - Penalty for withdrawal without knowledge/advice; fee-scale reference insufficient for transparency if not disclosed pre-contract. Similar to undisclosed throttling triggers or penalties.
+legal-sources-interpreted:
+  - UTD
+  - UCPD
+articles-interpreted:
+  - UTD Art. 3(1)
+  - UTD Art. 4(2)
+  - UTD Art. 6(1)
+  - UTD Art. 7(1)
+  - UCPD Art. 7
+---
+
    62021CJ0335 
 
  JUDGMENT OF THE COURT (Ninth Chamber)

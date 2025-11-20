@@ -1,4 +1,30 @@
-   62011CJ0092 
+---
+case-name: RWE Vertrieb AG v Verbraucherzentrale Nordrhein-Westfalen e.V.
+aliases:
+  - RWE Vertrieb
+  - C-92-11
+  - C-92/11
+case-number: C-92-11
+year: "2013"
+topics:
+  - unilateral price variation
+  - objective verifiable criteria
+  - trader discretion
+  - transparency
+  - method disclosure
+summary: Variation clauses must state reasons and method transparently, use objective verifiable criteria, and not rest on trader discretion; notice/termination alone is insufficient.
+relevance: HIGHLY RELEVANT - If service quality degrades at trader's discretion (resource allocation decisions during congestion), must use transparent, objective, verifiable criteria—not subjective trader decisions. "Best effort" may fail this test.
+legal-sources-interpreted:
+  - UTD
+articles-interpreted:
+  - UTD Art. 1(2)
+  - UTD Art. 3
+  - UTD Art. 5
+  - UTD Annex point 1(j)
+  - UTD Annex point 2(b)
+---
+
+   62011CJ0092
 
 JUDGMENT OF THE COURT (First Chamber)
 

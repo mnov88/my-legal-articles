@@ -1,3 +1,28 @@
+---
+case-name: innogy Energie s.r.o. v QS
+aliases:
+  - innogy Energie
+  - C-749-23
+  - C-749/23
+case-number: C-749-23
+year: "2025"
+topics:
+  - transparency
+  - flat-rate penalties
+  - proportionality
+  - economic consequences disclosure
+  - consumer information duties
+summary: A flat-rate penalty for termination or non-payment can be unfair if untethered to real loss; transparency must let an average consumer gauge economic consequences.
+relevance: RELEVANT - Premium fees must be tethered to actual benefit delivered; transparency must enable consumers to gauge economic consequences of paying for priority that may not materialize during low-demand periods.
+legal-sources-interpreted:
+  - UTD
+articles-interpreted:
+  - UTD Art. 3
+  - UTD Art. 5
+  - UTD Art. 7
+  - UTD Annex point 1(e)
+---
+
 Provisional text
 
 JUDGMENT OF THE COURT (Ninth Chamber)

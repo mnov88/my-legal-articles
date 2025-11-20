@@ -1,3 +1,25 @@
+---
+case-name: Justa v Banco Bilbao Vizcaya Argentaria SA
+aliases:
+  - Justa v Banco Bilbao
+  - C-39-24
+  - C-39/24
+case-number: C-39-24
+year: "2025"
+topics:
+  - loan arrangement fees
+  - transparency
+  - plain language
+  - pre-contract information
+summary: Arrangement fee term satisfies transparency if consumer can assess economic consequences, understand nature of services supplied, and ascertain no overlap in costs/services—without requiring detailed service description or time breakdown.
+relevance: RELEVANT - Transparency requires consumer ability to assess economic consequences and understand nature of services; detailed breakdown not required, but consumer must comprehend what's being paid for. Similar standard for AI service tiers.
+legal-sources-interpreted:
+  - UTD
+articles-interpreted:
+  - UTD Art. 3(1)
+  - UTD Art. 4(2)
+  - UTD Art. 5
+---
 
 
 Provisional text

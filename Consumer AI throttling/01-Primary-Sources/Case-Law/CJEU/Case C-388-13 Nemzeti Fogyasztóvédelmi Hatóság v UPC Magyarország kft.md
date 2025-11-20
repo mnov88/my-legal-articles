@@ -1,4 +1,27 @@
-   62013CJ0388 
+---
+case-name: Nemzeti Fogyasztóvédelmi Hatóság v UPC Magyarország Kft
+aliases:
+  - UPC Magyarország
+  - C-388-13
+  - C-388/13
+case-number: C-388-13
+year: "2015"
+topics:
+  - erroneous information
+  - misleading practices
+  - telecom service
+  - after-sales service
+summary: A single instance of communicating erroneous information to one consumer constitutes a misleading commercial practice under UCPD if it contains false information and causes the consumer to make a decision he would not otherwise have made.
+relevance: TANGENTIAL - Erroneous information as misleading practice; single instance affecting one consumer still prohibited. Relevant to accuracy of speed/performance claims.
+legal-sources-interpreted:
+  - UCPD
+articles-interpreted:
+  - UCPD Art. 2(d)
+  - UCPD Art. 5
+  - UCPD Art. 6(1)
+---
+
+   62013CJ0388
 
 JUDGMENT OF THE COURT (First Chamber)
 
