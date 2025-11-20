@@ -1,0 +1,6 @@
+Business Type,Typical Gross Margin,Main COGS Components,Cost Scalability,Pricing Challenge,Optimal Pricing Strategy
+Traditional SaaS,75-90%,"Hosting, storage, support, professional services",Near-zero marginal cost per user,Minimal - predictable costs,Subscription (per-user or tiered)
+AI-Native SaaS (LLM-based),50-60%,"Cloud compute (inference), hosting, LLM API costs, support",High variable cost per interaction (5-10x traditional),High - unpredictable token consumption patterns,Hybrid (subscription + usage limits)
+Image Generation Service,50-70%,"GPU compute, storage, model inference, bandwidth",High compute cost per generation,Medium - GPU cost variations,Tiered subscription or usage-based
+Coding Assistant,60-75%,"LLM API costs, hosting, user support",Variable cost per completion/interaction,Medium - balancing user experience vs costs,Subscription with fair use policies
+LLM API Provider (Infrastructure),40-55%,"Data center costs, GPU infrastructure, training, electricity",High fixed infrastructure + variable inference,"High - capital intensive, price competition",Usage-based (token/API call)
