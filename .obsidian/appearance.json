@@ -1,11 +1,10 @@
 {
   "textFontFamily": "IBM Plex Sans,Inter",
-  "cssTheme": "Minimal",
-  "baseFontSize": 16,
+  "cssTheme": "",
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "theme": "system",
+  "theme": "obsidian",
   "enabledCssSnippets": [
-    "serif-font-dividers"
-  ],
-  "translucency": true
+    "marker"
+  ]
 }

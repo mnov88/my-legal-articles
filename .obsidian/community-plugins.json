@@ -6,5 +6,7 @@
   "reading-highlighter",
   "smart-connections",
   "obsidian-regex-replace",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings"
 ]

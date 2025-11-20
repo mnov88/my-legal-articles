@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 6"
+              "title": "Case C-410-23 I- SA v S- J-"
             }
           }
         ],
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 6"
+              "title": "Outline of Case C-410-23 I- SA v S- J-"
             }
           },
           {
@@ -284,7 +284,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled 6.md"
+                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -359,6 +359,7 @@
   },
   "active": "1fd2ab2cc6931b45",
   "lastOpenFiles": [
+    "Untitled 6.md",
     "Digital Fairness Proposal.md",
     "DFA Explanatory memo.md",
     "Untitled 14.md",
@@ -395,7 +396,6 @@
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-335-21 Vicente v Delia.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-310-15 Vincent Deroo-Blanquart v Sony Europe Limited.md",
-    "Consumer AI throttling/01-Primary-Sources/Legislation/32019L0770.md",
     "Consumer AI throttling/06-Index-Files",
     "!Archive",
     "Consumer AI throttling/05-Drafts",

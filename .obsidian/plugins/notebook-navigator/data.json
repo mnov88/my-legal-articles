@@ -1,19 +1,7 @@
 {
   "fileVisibility": "supported",
-  "hiddenTags": [],
-  "vaultProfiles": [
-    {
-      "id": "default",
-      "name": "Default",
-      "fileVisibility": "supported",
-      "hiddenFolders": [],
-      "hiddenTags": [],
-      "hiddenFiles": [],
-      "navigationBanner": null,
-      "shortcuts": []
-    }
-  ],
-  "vaultProfile": "default",
+  "excludedFolders": [],
+  "excludedFiles": [],
   "autoRevealActiveFile": true,
   "autoRevealIgnoreRightSidebar": true,
   "multiSelectModifier": "cmdCtrl",
@@ -30,6 +18,7 @@
   "dateFormat": "MMM d, yyyy",
   "timeFormat": "h:mm a",
   "skipAutoScroll": false,
+  "navigationBanner": null,
   "showSectionIcons": true,
   "showShortcuts": true,
   "showRecentNotes": true,
@@ -37,22 +26,6 @@
   "collapseBehavior": "all",
   "smartCollapse": true,
   "colorIconOnly": false,
-  "toolbarVisibility": {
-    "navigation": {
-      "shortcuts": true,
-      "expandCollapse": true,
-      "hiddenItems": true,
-      "rootReorder": true,
-      "newFolder": true
-    },
-    "list": {
-      "search": true,
-      "descendants": true,
-      "sort": true,
-      "appearance": true,
-      "newNote": true
-    }
-  },
   "showNoteCount": true,
   "separateNoteCounts": true,
   "navIndent": 16,
@@ -75,9 +48,9 @@
   "showAllTagsFolder": true,
   "showUntagged": false,
   "tagSortOrder": "alpha-asc",
+  "hiddenTags": [],
   "keepEmptyTagsProperty": false,
   "defaultFolderSort": "modified-desc",
-  "revealFileOnListChanges": true,
   "listPaneTitle": "header",
   "noteGrouping": "date",
   "filterPinnedByFolder": false,
@@ -88,8 +61,6 @@
   "slimItemHeightScaleText": true,
   "showQuickActions": true,
   "quickActionRevealInFolder": true,
-  "quickActionAddTag": true,
-  "quickActionAddToShortcuts": true,
   "quickActionPinNote": true,
   "quickActionOpenInNewTab": true,
   "useFrontmatterMetadata": false,
@@ -100,16 +71,15 @@
   "frontmatterModifiedField": "",
   "frontmatterDateFormat": "",
   "saveMetadataToFrontmatter": false,
+  "iconizeFormat": false,
   "fileNameRows": 1,
   "showFileDate": true,
   "alphabeticalDateMode": "modified",
   "showFileTags": true,
   "showFileTagAncestors": true,
   "colorFileTags": true,
-  "prioritizeColoredFileTags": true,
   "showFileTagsInSlimMode": false,
   "showParentFolder": true,
-  "parentFolderClickRevealsFile": false,
   "showParentFolderColor": true,
   "showFilePreview": true,
   "skipHeadingsInPreview": true,
@@ -278,6 +248,7 @@
       }
     ]
   },
+  "shortcuts": [],
   "checkForUpdatesOnStart": true,
   "confirmBeforeDelete": true,
   "customVaultName": "",
@@ -294,7 +265,6 @@
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
   "tagAppearances": {},
-  "navigationSeparators": {},
   "recentColors": [],
   "lastShownVersion": "",
   "latestKnownRelease": "1.8.6",
@@ -302,5 +272,39 @@
   "lastReleaseCheckAt": 1763652017667,
   "rootFolderOrder": [],
   "rootTagOrder": [],
-  "iconizeFormat": false
+  "vaultProfiles": [
+    {
+      "id": "default",
+      "name": "Default",
+      "fileVisibility": "supported",
+      "hiddenFolders": [],
+      "hiddenTags": [],
+      "hiddenFiles": [],
+      "navigationBanner": null,
+      "shortcuts": []
+    }
+  ],
+  "vaultProfile": "default",
+  "toolbarVisibility": {
+    "navigation": {
+      "shortcuts": true,
+      "expandCollapse": true,
+      "hiddenItems": true,
+      "rootReorder": true,
+      "newFolder": true
+    },
+    "list": {
+      "search": true,
+      "descendants": true,
+      "sort": true,
+      "appearance": true,
+      "newNote": true
+    }
+  },
+  "revealFileOnListChanges": true,
+  "quickActionAddTag": true,
+  "quickActionAddToShortcuts": true,
+  "prioritizeColoredFileTags": true,
+  "parentFolderClickRevealsFile": false,
+  "navigationSeparators": {}
 }
