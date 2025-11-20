@@ -49,39 +49,39 @@ Brussels, 19.11.2025 SWD(2025) 836 final
 | 1.2.2.4.               | The processing of personal data for the development and operation of AI 39                                                                 |  |
 | 1.2.2.5.               | The exercise of the individual's right of access 40                                                                                        |  |
 
-| 1.2.2.6.<br>Controller's information requirements 40                                                                                       |     |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | --- |
-| 1.2.2.7.<br>Requirements for automated individual decision-making 41                                                                       |     |
-| 1.2.2.8.<br>Data breach notification to supervisory authorities 41                                                                         |     |
-| 1.2.2.9.<br>Notion of high risk and the lists of processing activities requiring and not requiring data<br>protection impact assessment 42 |     |
-| 1.2.3.<br>Estimated impacts 42                                                                                                             |     |
-| 1.3.<br>Modernising the cookies policy: addressing consent fatigue and better alignment with data<br>protection rules 44                   |     |
-| 1.3.1.<br>Analysis of the problems and opportunities 44                                                                                    |     |
-| 1.3.2.<br>Simplification measures and impacts 48                                                                                           |     |
-| 1.3.2.1.<br>Consent fatigue and cumbersome cookie banners 48                                                                               |     |
-| 1.3.2.2.<br>Express choices with one click 48                                                                                              |     |
-| 1.3.2.3.<br>Standards for machine-readable preferences 49                                                                                  |     |
-| 1.3.2.4.<br>Browsers signals 49                                                                                                            |     |
-| 1.3.3.<br>Estimated impacts 49                                                                                                             |     |
-| 1.3.4.<br>Preserving the objectives of the rules and other impacts 54                                                                      |     |
-| 2.<br>Incident reporting 56                                                                                                                |     |
-| 2.1.<br>Analysis of the problems and opportunities 56                                                                                      |     |
-| 2.2.<br>Simplification measures and impacts 59                                                                                             |     |
-| 2.3.<br>Estimated impacts 61                                                                                                               |     |
-| 2.4.<br>Preserving the objectives of the rules and other impacts 66                                                                        |     |
-| 3.<br>Targeted amendments to the Artificial Intelligence Act 68                                                                            |     |
-| 3.1.<br>Analysis of the problems and opportunities 68                                                                                      |     |
-| 3.2.<br>Simplification measures and impacts 73                                                                                             |     |
-| 3.3.<br>Estimated impacts 76                                                                                                               |     |
-| 3.4.<br>Preserving the objectives of the rules and other impacts 81                                                                        |     |
-| 4.<br>Repeal of the Platform-to-Business Regulation 83                                                                                     |     |
-| 4.1.<br>Analysis of the problems and opportunities 83                                                                                      |     |
-| 4.2.<br>Simplification measures and impacts 85                                                                                             |     |
-| 4.3.<br>Estimated impacts 86                                                                                                               |     |
-| Conclusion 88                                                                                                                              |     |
-| ANNEXES 89                                                                                                                                 |     |
-| Annex I - Stakeholder consultations 89                                                                                                     |     |
-| Annex II – Summary of cost savings estimates 132                                                                                           |     |
+| 1.2.2.6.<br>Controller's information requirements 40                                                                                       |  |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--|
+| 1.2.2.7.<br>Requirements for automated individual decision-making 41                                                                       |  |
+| 1.2.2.8.<br>Data breach notification to supervisory authorities 41                                                                         |  |
+| 1.2.2.9.<br>Notion of high risk and the lists of processing activities requiring and not requiring data<br>protection impact assessment 42 |  |
+| 1.2.3.<br>Estimated impacts 42                                                                                                             |  |
+| 1.3.<br>Modernising the cookies policy: addressing consent fatigue and better alignment with data<br>protection rules 44                   |  |
+| 1.3.1.<br>Analysis of the problems and opportunities 44                                                                                    |  |
+| 1.3.2.<br>Simplification measures and impacts 48                                                                                           |  |
+| 1.3.2.1.<br>Consent fatigue and cumbersome cookie banners 48                                                                               |  |
+| 1.3.2.2.<br>Express choices with one click 48                                                                                              |  |
+| 1.3.2.3.<br>Standards for machine-readable preferences 49                                                                                  |  |
+| 1.3.2.4.<br>Browsers signals 49                                                                                                            |  |
+| 1.3.3.<br>Estimated impacts 49                                                                                                             |  |
+| 1.3.4.<br>Preserving the objectives of the rules and other impacts 54                                                                      |  |
+| 2.<br>Incident reporting 56                                                                                                                |  |
+| 2.1.<br>Analysis of the problems and opportunities 56                                                                                      |  |
+| 2.2.<br>Simplification measures and impacts 59                                                                                             |  |
+| 2.3.<br>Estimated impacts 61                                                                                                               |  |
+| 2.4.<br>Preserving the objectives of the rules and other impacts 66                                                                        |  |
+| 3.<br>Targeted amendments to the Artificial Intelligence Act 68                                                                            |  |
+| 3.1.<br>Analysis of the problems and opportunities 68                                                                                      |  |
+| 3.2.<br>Simplification measures and impacts 73                                                                                             |  |
+| 3.3.<br>Estimated impacts 76                                                                                                               |  |
+| 3.4.<br>Preserving the objectives of the rules and other impacts 81                                                                        |  |
+| 4.<br>Repeal of the Platform-to-Business Regulation 83                                                                                     |  |
+| 4.1.<br>Analysis of the problems and opportunities 83                                                                                      |  |
+| 4.2.<br>Simplification measures and impacts 85                                                                                             |  |
+| 4.3.<br>Estimated impacts 86                                                                                                               |  |
+| Conclusion 88                                                                                                                              |  |
+| ANNEXES 89                                                                                                                                 |  |
+| Annex I - Stakeholder consultations 89                                                                                                     |  |
+| Annex II – Summary of cost savings estimates 132                                                                                           |  |
 
 | Annex III - Competitiveness Check 134                                      |  |
 |----------------------------------------------------------------------------|--|
@@ -101,16 +101,6 @@ The European Council Conclusions of 20 March 2025 further called for the Commiss
 
 In its resolution on "the implementation and streamlining of EU internal market rules to strengthen the single market", voted on 11 September in plenary[^8] , the European Parliament
 
-[^1]: Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
-
-[^2]: Von der Leyen, U. (2024) *Europe's Choice: Political Guidelines for the Next European Commission 2024-2029*. Available at: [e6cd4328-673c-4e7a-8683-f63ffb2cf648\\_en](https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en?filename=Political%20Guidelines%202024-2029_EN.pdf)
-
-[^3]: Draghi, M. (2024) *The future of European competitiveness*. Available at: [The Draghi report on EU](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)  [competitiveness](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)
-
-[^4]: Letta, E. (2024) *Much more than a market*. Available at[: Enrico Letta - Much more than a market \(April 2024\)](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)
-
-[^5]: European Council, Conclusions, EUCO 1/25, Brussels, 20 March 2025, paragraph. 13. 6 European Council, Conclusions, EUCO 12/25, Brussels, 26 June 2025, paragraph 30. 7 European Council, Conclusions, EUCO 18/25, Brussels, 23 October 2025, paragraphs 33 and 35. 8 European Parliament, Resolution on the implementation and streamlining of EU internal market rules to strengthen the single market, 11 September 2025 (2025/2009/INI).
-
 emphasised the need for simplification to facilitate business compliance without compromising the EU's core policy objectives.
 
 ### **1.2. The Commission's digital simplification agenda**
@@ -128,8 +118,6 @@ For these reasons, the amendments focus on unlocking opportunities in the use of
 In addition, the amendments to the Regulation (EU) 2024/1689 (the Artificial Intelligence Act), presented in a separate legal proposal part of the Digital Omnibus, seek to facilitate the smooth and effective application of the rules for safe and trustworthy development and use of AI.
 
 The Digital Omnibus also proposes a very clear solution for streamlining cybersecurity incident reporting, bringing under the umbrella of a single reporting mechanism all related reporting obligations.
-
-[^9]: Eurostat (2025) *Statistics explained : ICT sector – value added, employment and R&D*. Available at: [ICT sector](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D)  [- value added, employment and R&D - Statistics Explained - Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D)
 
 Finally, the proposal repeals outdated rules in the area of platform regulation, superseded by more recent regulations.
 
@@ -184,14 +172,6 @@ Several consultations were carried out in the preparation of the proposal. Each 
 
 A Call for Evidence on the Digital Omnibus was further published from 16 September to 14 October 2025[13.](#page-7-4) Its aim was to give the opportunity to stakeholders to comment on a consolidated proposal for the scope of the Digital Omnibus. 512 responses were received, submitted by diverse stakeholder groups, not least businesses and business associations, civil society, academics, authorities as well as individual contributions from citizens.
 
-[^10]: European Commission (2025) *Call for evidence and public consultation on the Apply AI Strategy*. Available at: [Apply AI Strategy – strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
-
-[^11]: European Commission (2025) *Call for evidence and public consultation on the revision of the Cybersecurity Act.* Available at: [The EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)
-
-[^12]: European Commission (2025) *Call for evidence and public consultation on the European Data Union Strategy*. Available at: [European Data Union Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_en)
-
-[^13]: European Commission (2025) *Call for evidence on the digital package and omnibus*. Available at: [Simplification – digital package and omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus_en)
-
 Executive Vice-President Henna Virkkunen hosted two implementation dialogues on the key topics addressed in the Digital Omnibus: the first on data policy[^14] (1 July 2025), and the second on cybersecurity policy[^15] (15 September). Commissioner McGrath hosted an implementation dialogue on the application of the General Data Protection Regulation[^16] (16 July 2025).
 
 The Commission's services also conducted several 'reality checks' - deep-dive focus groups with businesses and representatives of civil society organised between 15 September and 6 October 2025 to discuss the practical implementation challenges experienced on a day-to-day basis and estimate compliance costs.
@@ -201,14 +181,6 @@ With a view of consulting specifically small and medium-sized enterprises (SMEs)
 Finally, the Commission's services received numerous position papers and hosted bilateral meetings with a variety of stakeholders. The Commission's services also engaged with Member States in roundtables or in the context of various Council Working Parties.
 
 A detailed overview of these stakeholder consultations is included in Annex I. Annex II presents a summary of the cost savings estimates for the proposals. Additionally, an SME Check (Annex III) and Competitiveness Check (Annex IV) underline more specific impacts on small and medium-sized enterprises and European competitiveness altogether. Last, Annex V presents a detailed list of reporting obligations identified in the entirety of the digital acquis, used as starting point for the scoping of the simplification measures.
-
-[^14]: European Commission (2025) *Implementation dialogue – data policy*. Available at : [Implementation dialogue –](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)  [data policy - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)
-
-[^15]: European Commission (2025) *Implementation dialogue on cybersecurity policy with Executive Vice-President Henna Virkkunen*. Available at[: Implementation dialogue on cybersecurity policy with Executive Vice-President](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)  [Henna Virkkunen - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)
-
-[^16]: European Commission (2025) *Implementation dialogue on the application of the general data protection regulation with Commissioner Michael McGrath*. Available at: [Implementation dialogue on the application of](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)  [the general data protection regulation with Commissioner Michael McGrath - European Commission](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)
-
-[^17]: EEN is the world's largest support network for small and medium-sized enterprises, and is implemented by the European Commission's European Innovation Council and SMEs Executive Agency (EISMEA).
 
 ## **1. THE DATA ACQUIS**
 
@@ -228,8 +200,6 @@ The General Data Protection Regulation is the cornerstone for the protection of 
 
 **The rules.** The FFDR aims to ensure the free flow of data other than personal data within the Union by laying down rules relating to data localisation requirements, the availability of data to competent authorities and the porting of data for professional users. The Regulation inter alia prohibits unjustified data localisation requirements and encourages switching as well as data portability between data-processing services through self-regulatory codes of conduct. In addition, each Member State designates a Single Information Point and a Point of Contact for cross-border cooperation.
 
-[^18]: The European Commission organised six stakeholder workshops in Spring and Summer 2025 inviting European level associations and individual stakeholders to roundtable discussion to address aspects such as simplification and investigate on the current state of play in the realm of data. These stakeholder workshops were organised with representatives from civil society, health sector, mobility sector, technology providers, business associations, energy and manufacturers sector.
-
 **The main issues.** The FFDR has applied since 28 May 2019, with limited uptake and modest stakeholder interest. While it sought, among other things, to facilitate cloud switching through self-regulatory codes, these mechanisms have been superseded by the binding framework in the Data Act.
 
 Although the FFDR envisages Single Points of Contacts and Single Information Points as an information/coordination backbone, awareness of the FFDR and such tools is uneven. About half of the respondents to the public consultation for the Data Union Strategy report only some, little or no familiarity, and uncertainty dominates assessments[^19]. Moreover, 62 % of respondents to the public consultation (comprising companies, including SMEs, nongovernmental organisations and national public authorities) stated that they did not know whether the rules of the FFDR needed to be modified in order to reduce data localisation requirements. Public authorities showed particularly strong uncertainty relative to the other stakeholder groups. This general uncertainty is mirrored by the fact that fewer than 4 in 10 respondents to the public consultation see any FFDR objective already fully met; the weakest scores concern trust in/security of (cross-border) data storage/processing and practical switching/porting.
@@ -244,8 +214,6 @@ Additionally, stakeholders have experienced several practical issues with the FF
 
 **The rules.** The Data Governance Act seeks to increase trust in data sharing, strengthen mechanisms to increase data availability by setting out common rules for data intermediation and altruistic data sharing. Additionally, the Data Governance Act establishes safeguards for international access and transfer of data.
 
-[^19]: See Annex I, Chapter II, for a more detailed overview of the types of respondents that can be referred to
-
 throughout the section. 20 See Annex I, Chapter III.
 
 Rules for data intermediation services focus on neutrality and transparency, ensuring individuals and companies control how their data is shared. Providers must operate through a separate legal entity, complete a notification procedure, and may use an official label once approved.
@@ -257,12 +225,6 @@ The Data Governance Act further established the European Data Innovation Board (
 **The main issues.** While common rules for data intermediaries are important for stimulating the re-use and sharing of data in trusted environments, current requirements and obligations have not led to the market stimulation that was initially expected. According to the Impact Assessment and support study accompanying the Proposal for a Regulation on Data Governance, the European market was expected to include 100–150 data intermediation service providers; however, only 27 have registered to date[21.](#page-11-0)
 
 While the delayed set up of competent authorities in a range of Member States[^22] can partially explain the low level of uptake, feedback from the implementation of the rules shows that certain rules need targeted amendments to increase their effectiveness and facilitate scaling up of data intermediaries. For instance, stakeholders express the need to clarify (e.g. the commercial element in the definition of data intermediation service, the interplay between the definition in Article 2(11) and Article 10, the exemption of 'closed groups') and streamline definitions, including with regard to the Data Act. Furthermore, as highlighted in an evaluation conducted on behalf of the European Commission covering the DGA, ODD and FFDR, which is expected to be published by the end of the year, the DISP (data intermediation service provider) market remains immature and awareness of this type of service is limited. Surveyed DISPs for the forthcoming study indicate that some provisions are burdensome and weigh on business-model sustainability. While neutrality and user trust are acknowledged as essential, prohibitions on data enrichment and cross-sector analytics, notably under Article 12(c) and (e), are reported to constrain innovation and commercial viability[23.](#page-11-2)
-
-[^21]: European Commission (2025) *EU register of data intermediation services*. Available at: [https://digital](https://digital-strategy.ec.europa.eu/en/policies/data-intermediary-services?utm_source=chatgpt.com)[strategy.ec.europa.eu/en/policies/data-intermediary-services](https://digital-strategy.ec.europa.eu/en/policies/data-intermediary-services?utm_source=chatgpt.com)
-
-[^22]: On 23 May 2024, the Commission launched infringement proceedings against 18 Member States for failure to notify competent authorities. As of November 2025, 6 Member States have not notified competent authorities. Available at: [https://digital-strategy.ec.europa.eu/en/news/commission-calls-18-member-states-comply-eu-data](https://digital-strategy.ec.europa.eu/en/news/commission-calls-18-member-states-comply-eu-data-governance-act)[governance-act](https://digital-strategy.ec.europa.eu/en/news/commission-calls-18-member-states-comply-eu-data-governance-act) .
-
-[^23]: Study supporting the evaluation of the Free Flow of Non-Personal Data Regulation, Open Data Directive and Data Governance Act, Interim report, 19 September 2025 (forthcoming), p. 168.
 
 When it comes to data sharing mechanisms under the Data Governance Act, the rules on data intermediation services were thus especially singled out for being able to benefit from greater alignment, simplification and clarity to increase their uptake.
 
@@ -289,10 +251,6 @@ Start-ups, small enterprises, enterprises that qualify as medium-sized enterpris
 
 Furthermore, given the rules for the re-use of public sector data are currently largely governed in a Directive, the national transposition rules differ across Member States. Stakeholders, including representatives of public sector bodies, ministries and competent bodies as well as companies wanting to re-use data and documents have identified the lack of harmonisation as a factor that makes re-use more complicated and burdensome, even more so in cross-border scenarios. Namely, charging practices differ across Member States, as well as their transposition of what data cannot be made openly available due to personal data protection concerns. This was underlined for example by participants to the reality check on the re-use of public sector data organised by the Commission's services[25.](#page-13-1)
 
-[^24]: Study supporting the evaluation of the Free Flow of Non-Personal Data Regulation, Open Data Directive and Data Governance Act, Interim report, 19 September 2025 (forthcoming), p. 127-128.
-
-[^25]: See Annex I, Chapter IV.
-
 **The objectives.** The objective is to harmonise and bring under a single instrument the rules on the re-use of data and documents held by public sector bodies, currently regulated under the Open Data Directive and Chapter II of the Data Governance Ac for protected data. Public sector bodies and re-users should be provided with more clarity with streamlined definitions. Moreover, to prevent a reinforcement of existing market imbalances, public sector bodies shall receive the possibility to introduce specific conditions for the re-use of information by very large entities.
 
 ## *The Data Act*
@@ -317,10 +275,6 @@ Furthermore, given the rules for the re-use of public sector data are currently 
 To address the described practical issues, the Omnibus proposes to repeal the FFDR, while upholding the principle of free flow of non-personal data within the Union enshrined in the FFDR. The principle remains paramount for a digital single market and the data economy in the Union. It should thus be maintained and included in the Data Act as a horizontal regulation that covers rules on non-personal data.
 
 **Cost savings.** This measure preserves the main cost-saving channel for businesses, i.e. the ability to place non-personal data in the most efficient EU location. This reduces parallel legal analysis and thus lowers costs even though it is to be noted that the instrument has not been effectively used. However, public authorities would be relieved from burdensome monitoring activities that do not meet any demand (Single Information Point and Single Point of Contact). Using an EU-wide central cost assumption of EUR 62,712 per FTE (derived from Eurostat's 2024 hourly labour cost[^26] and an assumption of 1,872 annual productive hours[27\)](#page-15-3), this leads – assuming a saving of 0.5 FTE from the monitoring relief, based on Commission estimates – to savings for public authorities of EUR 31,356 per Member State annually and EUR 846,612 annually across the EU. Table 1 outlines the anticipated cost savings and underlying assumptions for the calculations.
-
-[^27]: Eurostat (2025) *People in the EU worked on average 36 hours per week*. Available at[: People in the EU worked](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250514-1#:%7E:text=In%202024%2C%20the%20actual%20weekly,from%2037.0%20hours%20in%202014.)  [on average 36 hours per week - News articles - Eurostat](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250514-1#:%7E:text=In%202024%2C%20the%20actual%20weekly,from%2037.0%20hours%20in%202014.)
-
-[^26]: Eurostat (2025) *EU hourly labour costs ranged from €11 to €55 in 2024*. Available at: [EU hourly labour costs](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-1?)  [ranged from €11 to €55 in 2024 - News articles - Eurostat](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-1?)
 
 *Table 1: Estimated cost savings for changes to the Free Flow of Non-Personal Data Regulation*
 
@@ -367,8 +321,6 @@ Certain provisions that have proven to be ineffective, such as the obligation fo
 
 **Cost savings.** The proposed amendments consist of several factors that can lead to savings: First, data intermediation services can choose not to register their services which will save them administrative fees with the competent authority.
 
-[^28]: See Annex I, Chapter IV.
-
 Secondly, the deletion of the requirement for data intermediation service providers to offer services through a separate legal entity is expected to create the biggest impact. This can be broken into one-off costs and recurrent overhead costs.
 
 In terms of one-off costs, the current average formation cost alone (without taking into account the often-required original share capital) across the EU varies between EUR 250- EUR 4,000.[^29] An average of EUR 2,125 across the EU can thereby be assumed.
@@ -378,10 +330,6 @@ Annual overhead costs result from separate corporate overhead structures (board,
 Assuming a potential total maximum of 150 data intermediaries in the EU according to the Impact Assessment accompanying the Data Governance Act, this could result in savings up to EUR 318,750 of one-off costs and in terms of recurrent costs up to EUR 6,000,000. Table 2 presents the cost savings and underlying assumptions.
 
 Moreover, the proposed amendment could incentivize new players to provide data intermediation services by reducing market-entry barriers, thereby accelerating the development of this ecosystem of providers. Estimating that the average fixed cost of operating a data intermediation service amounts to around EUR 250,000 per year[^31], removing the requirement to provide such services through a separate legal entity would therefore lower fixed operating costs by roughly 17% (40,000 in annual overhead costs + 2,125 in one-off formation cost)/250,000 = 0.1685). To approximate the potential market impact, a range of entry-cost elasticities could be applied, reflecting how the number of market entrants typically reacts to changes in fixed costs. In digital and professional-service markets, where barriers are mostly related to administration rather than infrastructure, companies tend to be more receptive. On
-
-[^29]: Legal Bison (2025) *Company Formation in Europe*. Available at: [Company Formation in Europe - LegalBison](https://legalbison.com/company-registration-europe/) <sup>30</sup> Indicative EU-average overhead for a stand-alone entity of around 50 employees, excluding statutory audit and one-off incorporation costs. Basket and mid-case assumptions: payroll administration approximately EUR 15 000 [EUR 25 per payslip × 50 × 12]; bookkeeping and annual accounts approximately EUR 3 500; routine tax/VAT filings approximately EUR 1 200; data-protection/compliance support approximately EUR 3 000; insurance (professional indemnity and cyber) approximately EUR 8 000; corporate secretarial/registered office approximately EUR 500; banking and membership fees approximately EUR 900; routine legal advice approximately EUR 4 000; incidental translations or notarials approximately EUR 500; plus a modest variance buffer across Member States. Central estimate: approximately EUR 40 000 per year. Figures are stylised and may vary by Member States.
-
-[^31]: This is an indicative EU-average stylised composition of fixed operating costs. Fixed operating costs are baseline, volume-independent expenditures. Basket and mid-case assumptions: (i) Core management and support staff: approximately EUR 150 000 (two administrative/operations FTEs at EUR 60 000 each and 0.5 FTE compliance at EUR 30 000); (ii) Base infrastructure and security tooling: approximately EUR 40 000; (iii) Facilities and connectivity: approximately EUR 15 000 (office space, utilities and business-grade internet); (iv) Software maintenance and support contracts: approximately EUR 15 000; (v) Depreciation or amortisation of set-up assets: approximately EUR 20 000; (vi) Other fixed items: approximately EUR 10 000 (training, limited travel and equipment refresh). Total: approximately EUR 250 000 per year. These figures are indicative and may vary by Member State, labour market conditions, architectural choices, and security requirements.
 
 this basis, a cost elasticity range of -0.8 to -1.4 is assumed, meaning that a 10% cost decrease could raise entry by about 8-14 %. Applied to a 17% cost reduction, this implies an increase in entrants of around 13-22 % bringing the total from the DGA baseline of 150 to roughly 171– 186 DISPs, or an additional 21 to 36 new providers EU-wide.
 
@@ -413,11 +361,7 @@ Data holders might incur increased legal and compliance expenses as they need to
 
 Importantly, EU users and data recipients remain safeguarded under the proposed rule, as the existing mechanism, including the need for data holders to substantiate refusals and notify competent authorities, remains intact. This ensures the Data Act's balance is maintained and its policy objectives can be fully achieved.
 
-[^32]: Study to support an impact assessment on enhancing the use of data in Europe, European Commission, 2022, p.
-
 <sup>271. 33</sup> API: A system access point or library function that has a well-defined syntax and is accessible from application programs or user code to provide well-defined functionality. Source: NIST Computer Security Resource Center (CSRC), "Application Programming Interface (API) — Glossary." Available at: [https://csrc.nist.gov/glossary/term/application\\_programming\\_interface](https://csrc.nist.gov/glossary/term/application_programming_interface?utm_source=chatgpt.com) (accessed 8 November 2025)
-
-[^34]: Ibid, p. 254. 35 Ibid, p. 265. 36 SWD(2025) 131 final, p. 5.
 
 #### *Stakeholder views*
 
@@ -433,8 +377,6 @@ The Digital Omnibus proposes to narrow the scope of Chapter V of the Data Act fr
 
 The exclusive focus on public emergencies minimises complexities such as the need to customise data infrastructure and extensive contract negotiations for a wider scope of situations, potentially affecting the estimates for one-off costs[39.](#page-23-3) The same goes for the need for detailed data processing activities, such as cataloguing, metadata reporting, and quality assessments,
 
-[^37]: Study to support an impact assessment on enhancing the use of data in Europe, European Commission, 2022, page 227. 38 Ibid*.,* p. 227. 39 Ibid., p 223.
-
 which were more intensive under the broader B2G system. The shift to a more centralised and standardised approach streamlines these tasks, and companies need to put less effort in assessing and normalising data for public interest purposes, potentially reducing the anticipated costs of EUR 78,06 million for these activities[40.](#page-24-0) In addition, under the previous broad nature of "exceptional need", data holders were estimated to have to establish teams of 1 to 5 FTEs with technical and legal knowledge to deal with B2G requests, representing an annual cost at the EU level of EUR 20,5 million[41.](#page-24-1) By restricting data requests to public emergencies, the framework alleviates the burden, particularly in verifying conditions such as market availability of data or whether the absence of other viable measures to obtain the data exist, thus reducing operational resources and time required for this verification. This translates into further cost savings and enhances legal certainty. All calculations and assumptions for the above are presented in Table 3.
 
 Finally, this approach also leads to cost reductions for competent authorities. For instance, it simplifies the management of data sharing mandates across Member States, easing coordination, especially in complex cross-border scenarios that would otherwise require extensive communication between competent authorities to ensure compliance with diverse legal requirements.
@@ -447,8 +389,6 @@ Finally, this approach also leads to cost reductions for competent authorities. 
 | Narrow the<br>scope of<br>Chapter V<br>Data Act from<br>"exceptional<br>need" to<br>"public | EUR  | One-off infrastructure costs<br>(e.g.<br>set up API): EUR 552,5 million<br>at EU level. Assuming a 5%<br>reduction due to less need for<br>customization of the data<br>infrastructure42.                   | 0.05×552,500,000=<br>27,625,000 | One-off<br>≈<br>EUR 27,625<br>million    | Recurring<br>≈ EUR<br>19,7<br>million per<br>year |
 | emergencies"                                                                                |      | (e.g.<br>Recurrent annual expenses<br>personnel, data management<br>agreements, clean data): 98,5<br>million EUR, estimated at 9<br>FTEs. Assuming a 20%<br>reduction<br>due to streamlined<br>processes43. | 0.2×98,500,000=19<br>,700,000   |                                          |                                                   |
 
-[^40]: Ibid*.,* p 227. 41 Ibid*.,* p. 227. 42 Commission estimate. 43 Ibid.
-
 ### *Stakeholder views*
 
 Businesses have criticized the broad and unclear scope of 'exceptional need' in Chapter V of the Data Act, fearing it could impose undue burdens and ambiguity. This was particularly reflected in the Call for Evidence to the Digital Omnibus, particularly by large companies and business associations. They call for a more precise framework to ensure that data requests are legitimate, necessary and justified. Member States echo the need for clarity and seek to reduce bureaucratic burden and legal uncertainty. The statistical community will be able to rely on the revised Statistics Regulation, rather than the Data Act for accessing privately held data, as it offers a fair, clear and predictable approach more in line with their long-term objectives and operational requirements. Nevertheless, in public emergencies, statistical bodies can still invoke the Data Act. This aligns with the principle of Chapter V being activated as a mechanism to specifically address public emergencies.
@@ -460,10 +400,6 @@ The Digital Omnibus proposes to introduce a specific lighter regime for data pro
 While the right to switch providers of data processing services introduced in the Data Act remains untouched, this new specific lighter regime for custom-made data processing services takes account of the additional costs and administrative burden connected to the need to reopen and renegotiate contracts for the provision of custom-made services. This includes removing pre-commercial, commercial, technical, contractual and organisational obstacles, which, *inter alia* inhibit customers from terminating their contract after the notice period. This new specific lighter regime for custom-made data processing services would save providers the additional costs and administrative burden connected to the need to reopen and renegotiate contracts concluded before the entry into force of the Data Act. The Omnibus therefore proposes to exempt from the switching provisions custom-made services other than Infrastructure-as-a-Service (IaaS) if these are provided to a customer based on a contract concluded before 12 September 2025. For reasons of financial planning and certainty for investors, some providers of data processing services, especially SMEs and SMCs, may prefer to use fixed-term contracts. The customer's right to switch, including when a service is provided based on a fixed-term contract could create the risk that a portion of such contracts are terminated prematurely. This could put the business model of SaaS providers, especially SMEs and SMCs, under significant financial strain and uncertainty. Therefore, the Digital Omnibus proposes to clarify that data
 
 purposes of an individual customer, and where those data processing services are not offered at broad commercial scale via the service catalogue of the provider of data processing services.
-
-[^44]: This is distinct from the existing specific regime for custom-built services under Article 31(1) of the Data Act, which applies to data processing services of which the majority of main features has been custom-built to accommodate the specific needs of an individual customer or where all components have been developed for the
-
-[^45]: United Nations Commission on International Trade Law (2019) *Notes on the Main Issues of Cloud Computing Contracts*. Available at: [19-09103\\_eng.pdf.](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/19-09103_eng.pdf)
 
 processing services provided on the basis of fixed-term contract may include provisions for proportionate early-termination penalties as a way of recouping upfront investments in the case of early termination.
 
@@ -520,8 +456,6 @@ However, when SMEs grow beyond 249 employees, they become "large enterprises" an
 
 28
 
-[^46]: Schulze Brock, P., Katsinis, A., Lagüera Gonzalez J., Di Bella, L., Odenthal L., Hell M., Lozar B., Secades Casino B. (2025) *Annual Report on European SMEs 2024/2025, SME performance review*. Publications Office of the European Union, Luxembourg. Available at: <https://publications.jrc.ec.europa.eu/repository/handle/JRC142263>
-
 regulations. According to a 2022 study[47,](#page-30-0) one of the main difficulties for SMCs concerns complying with regulations and administrative requirements.
 
 As many reports have highlighted, this transition in business size disproportionately affects SMCs across every sector, as they lose access to the exemptions available to SMEs, despite not yet having the resources of the largest companies. Consequently, compliance costs rise sharply as SMEs face the same obligations and enforcement standards as multinational corporations.
@@ -536,10 +470,6 @@ The following measures are proposed to be extended to SMC privileges:
 - For the Open Data Directive, the provision that documents should be made available for re-use to start-ups and SMEs free of charge and, where charges are necessary, they should be in principle limited to the marginal costs (Recital 36) should be extended to SMCs;
 - Furthermore, the special focus on SMEs when identifying high-value datasets (Article 14 (2)(b)) and when evaluating the scope and social and economic impact of the Directive (Article 18 (2)(a)) should be extended to SMCs.
 
-[^47]: European Commission (2022) *Study to map, measure and portray the EU mid-cap landscape – Final report*, Publications Office of the European Union. Available at: **<https://data.europa.eu/doi/10.2873/546623>**
-
-[^48]: Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplification measures.
-
 **Cost savings.** According to the Commission's impact assessment (SWD(2025) 501 final)[^49], based on a 2022 study[^50], around 38,000 companies would be SMCs defined as 250-749 employees.
 
 The Impact Assessment for the Data Governance Act[^51] assumed an average fee of around EUR 500 per application to re-use public sector data, with public sector bodies able to make the data available free of charge or at a discounted price. This fee could be waived for SMCs, depending on Member States' implementation.
@@ -549,12 +479,6 @@ Assuming, on average, between 0.25 and 1 application per firm per year, this cor
 The assumption range follows a simplified approach derived from the methodology used in the Impact Assessment accompanying the Data Governance Act. These figures are indicative lower and upper-bound estimates, intended to reflect varying degrees of data-re-use activity across sectors and Member States.
 
 By making SMCs eligible for reduced-cost access under the DGA, Member States could achieve annual savings within this range while broadening the number of organisations able to re-use protected public sector data and strengthening the overall uptake of data-sharing mechanisms.
-
-[^49]: European Commission, Commission Staff Working Document – Impact Assessment Accompanying the Proposal for a Directive amending Directives 2014/65/EU and (EU) 2022/2557 and the Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium-sized enterprises to small mid-cap enterprises and further simplification measures, SWD(2025) 501 final, Brussels, 21 May 2025.
-
-[^50]: European Commission (2022) *Study to map, measure and portray the EU mid-cap landscape – Final report*, Publications Office of the European Union. Available at: <https://data.europa.eu/doi/10.2873/546623>
-
-[^51]: European Commission, Commission Staff Working Document: Impact Assessment Report Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on European Data Governance (Data Governance Act), SWD(2020) 295 final, Brussels, 25 November 2020.
 
 *Table 5: Estimated cost savings for SMCs under changes to the Data Governance Act*
 
@@ -591,8 +515,6 @@ While some of those concerns can be best tackled through non-legislative measure
 
 **The rules.** The GDPR protects individuals when their personal data is processed. It is at the centre of the legal framework that guarantees the fundamental right to data protection, as enshrined in the Charter of Fundamental Rights of the European Union and in the Treaties. The GDPR has the dual function of protecting an individual's right to data protection and ensuring the free movement of personal data within the Union, and it applies to organisations in both the public and the private sector.
 
-[^52]: European Data Protection Board (2025) *The Helsinki Statement on enhanced clarity, support and engagement*. Available at: [The Helsinki Statement on enhanced clarity, support and engagement | European Data Protection](https://www.edpb.europa.eu/our-work-tools/our-documents/statements/helsinki-statement-enhanced-clarity-support-and-engagement_en)  [Board](https://www.edpb.europa.eu/our-work-tools/our-documents/statements/helsinki-statement-enhanced-clarity-support-and-engagement_en)
-
 Personal data means any information relating to an identified or identifiable individual. The GDPR gives individuals control over their personal data. The GDPR creates obligations for controllers and processors, the entities responsible for the processing of personal data. The GDPR includes also an obligation to maintain records of personal data processing with an exception for certain processing activities by small and medium-sized companies and organisations with less than 250 employees. The Commission has proposed to simplify this obligation for those entities as well as for small mid-cap companies and organisations with the same number of employees, as a part of its Omnibus IV proposal[^53], which is currently being discussed by the co-legislators.
 
 The GDPR establishes key principles that apply to the processing of personal data, namely lawfulness, fairness and transparency, purpose limitation, data minimisation, accuracy, storage limitation, integrity and confidentiality. Certain types of personal data, known as special categories of personal data, are afforded special protection under the GDPR.
@@ -601,29 +523,11 @@ Under the GDPR, the monitoring and enforcement of the application is a responsib
 
 **The main issues.** Complying with the GDPR involves both costs and benefits for businesses. In addition to initial implementation costs, companies encounter operational compliance costs, such as those related to monitoring, reporting[^54] and training. The overall impact depends on the nature of the business model in question.[^55] According to some reports[^56], the overall spending on data privacy around the world has remained relatively constant or even slightly increased over the past four years (2021-2024) for companies with more than 250 employees, while for companies with less than 250 employees it has generally decreased. In this context, it is noteworthy that 96% of respondents from the organisations surveyed have assessed that,
 
-[^53]: Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplification measures.
-
-[^54]: The GDPR does not as such place any reporting obligations on businesses. However, the GDPR obliges them, for instance, to maintain records of processing, carry out data protection impact assessments for high-risk processing activities and to notify data breaches to supervisory authorities.
-
-[^55]: Commission Nationale de l'Informatique et des Libertés (2024) *The economic impact of GDPR, 5 years on*. Available at: [The economic impact of GDPR, 5 years on | CNIL](https://www.cnil.fr/en/economic-impact-gdpr-5-years)
-
-[^56]: Cisco (2025) *2025 Data Privacy Benchmark Study*. Available at: [Cisco Data Privacy Benchmark Study - Cisco.](https://www.cisco.com/c/en/us/about/trust-center/data-privacy-benchmark-study.html) This report draws upon data gathered in autumn 2024 from an anonymous survey of security and privacy professionals. The survey included 2600+ respondents in 12 countries (5 Europe, 4 Asia, and 3 Americas), including EU Member States France, Germany, Italy, and Spain.
-
 overall, the benefits from privacy investment outweigh the costs. This has been explained by the fact that compliance with privacy laws is usually considered as a business advantage as it enhances the organisation's reputation and customer trust.[^57] However, it is in general difficult to quantify the benefits of the GDPR as they are not directly visible in the market.[^58] Compliance with the GDPR may also have "residual" positive effects. It has for instance been assessed that the GDPR has helped avoid between EUR 585 million and 1.4 billion in losses due to the fact that compliance with data protection rules contributes to combatting underinvestment in cybersecurity. These gains have been assessed to represent only a small portion of the total benefits of the GDPR in the field of cybersecurity.[^59]
 
 The overall satisfaction with the effects of data protection laws is echoed in the feedback received from European stakeholders on the application of the GDPR. The participants of the Implementation Dialogue on the application of the GDPR, organised on 16 July 2025, were asked about challenges they have encountered in the application of the GDPR and suggestions for its improvement. The participants comprised of EU-level umbrella organisations representing different sectors of the industry and civil society, including members of the GDPR multi-stakeholder Expert Group ensuring a balanced representation of business and civil society[^60]. The vast majority of stakeholders were of the opinion that the GDPR provides a balanced legal framework, which is, in principle, fit for purpose.
 
 However, challenges were identified in particular in relation to the consistent interpretation and enforcement of the GDPR by supervisory authorities and stakeholders emphasised the need to reinforce legal certainty by introducing measures to reduce legal fragmentation and improve the consistent application of the GDPR. The need for greater consistency in the application and enforcement of the GDPR has been recognised also by data protection authorities and the European Data Protection Board. [^61] In practice, the need for more harmonised and consistent interpretation of the GDPR is evidenced, for example, by the lack of fully harmonised lists established by DPAs at national level which stipulate when a Data Protection Impact Assessment is required and the low number of lists indicating when Data Protection Impact Assessment is not required (whitelists) [^62].
-
-[^57]: For instance, 95% of respondents consider that privacy remains core to customer service and that customers will not buy from a company if their data is not properly protected and 90% is of the respondents are of the view that strong privacy laws make customers more comfortable sharing their data in AI applications.
-
-[^58]: Commission Nationale de l'Informatique et des Libertés (2024) *The economic impact of GDPR, 5 years on*. Available at [: The economic impact of GDPR, 5 years on | CNIL](https://www.cnil.fr/en/economic-impact-gdpr-5-years)
-
-[^59]: Commission Nationale de l'Informatique et des Libertés (2025) *Cybersecurity economics and the benefits of GDPR*. Available at: [Cybersecurity economics and the benefits of GDPR](https://www.cnil.fr/sites/cnil/files/2025-06/cybersecurity-economics-gdpr.pdf)
-
-[^60]: The GDPR Multi-stakeholder Expert Group is an advisory body established by the Commission. It provides feedback and expertise from a wide range of stakeholders on the GDPR's application, including challenges they face in relation to its application.
-
-[^61]: EDPB, The Helsinki Statement on enhanced clarity, support and engagement, 3 July 2025. 62 See the EDPB Opinion's on the different draft lists of Member States requirements for when a DPIA is required and is not required (whitelists). [Opinions | European Data Protection Board.](https://www.edpb.europa.eu/our-work-tools/consistency-findings/opinions_en?f%5B0%5D=opinions_publication_type%3A61&f%5B1%5D=opinions_topics%3A138)
 
 Stakeholders also called for more clarity to certain key aspects central to the interpretation of the GDPR, such as the definition of personal data[^63] in light of the recent case law of the European Court of Justice, in order to ensure a common and harmonised understanding of this core concept throughout the EU.
 
@@ -633,13 +537,7 @@ Some of the concerns raised by stakeholders can be addressed through targeted le
 
 **The objectives.** The proposed amendments aim to harmonise, clarify and simplify GDPR provisions, without affecting the core principles and requirements of the GDPR or undermining
 
-[^63]: CJEU, Case C-413/23 P *EDPS v SRB,* 4 September 2025.
-
-[^64]: DLA Piper GDPR fines and data breach survey, January 2025, available at [dla-piper-fines-and-data-breach](https://inform-new.dlapiper.com/125/10919/uploads/dla-piper-fines-and-data-breach-survey-2025.pdf?intIaContactId=qRD8dhRev0b3b%2f2KYpUcZw%3d%3d&intExternalSystemId=1)[survey-2025.pdf.](https://inform-new.dlapiper.com/125/10919/uploads/dla-piper-fines-and-data-breach-survey-2025.pdf?intIaContactId=qRD8dhRev0b3b%2f2KYpUcZw%3d%3d&intExternalSystemId=1) 65 E.g. the total number of data breach notifications between 25 May 2018 and 27 January 2025 in the Netherlands
-
 was 171,140, in Germany 167,454, in Poland 70,204, in Denmark 53,802, in Ireland 42,334, in Sweden 35,827, in Finland 34,355, in France 24,329, in Spain 11,711 and in Italy 11,096. *Ibid.*
-
-[^66]: This is partly due to the fact that companies of different sizes and from different sectors experience varying levels of compliance costs, the costs incurred may include both direct and indirect costs (due to non-compliance) and compliance may involve not only costs caused by initial compliance efforts but also long-term costs (which may be outbalanced to some degree by 'compliance savings'), which are extremely difficult to calculate. In addition, given the constantly evolving digital environment, the economic impacts of the GDPR are intertwined with broader technological developments and regulatory changes, making it challenging to attribute specific effects solely to the GDPR.
 
 the high level of data protection. They would increase legal certainty and facilitate operators' compliance, taking into account the need to support operators' responsible use of personal data to boost economic growth and innovation and to maintain individual's trust in and willingness to engage with digital technologies.
 
@@ -704,8 +602,6 @@ The GDPR provides for rules governing the processing of personal data when the d
 
 The GDPR requires data controllers to notify a personal data breach to the competent supervisory authority, unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons (Article 33). It is proposed that this threshold is aligned with that for communicating a personal data breach to the data subject (Article 34), so that one uniform threshold, namely that of 'high risk', applies. In the case of a data breach that is not likely to result in a high risk to the rights and freedoms of natural persons, the controller is not required to notify the competent supervisory authority. It is also proposed that controllers use a single-entry point, to be established by amending Directive (EU) 2022/2555, when they notify data breaches to the supervisory authority[68.](#page-42-2) In addition, it is proposed that the European Data Protection Board prepare a common template for notifying data breaches to the competent supervisory authority and a common list of circumstances in which a personal data breach is likely to result in a high risk to the rights and freedoms of a natural person. The proposed amendments would make it easier for controllers to notify a breach through a single channel,
 
-[^68]: See also Chapter 2 of this Staff Working Document.
-
 including in cases where a data breach is only one of the elements of a broader incident to be reported. They could also significantly reduce controllers' administrative burden by not requiring them to notify data breaches which are likely to cause only a low risk to data subjects. Furthermore, they could alleviate the workload of data protection authorities, allowing them to concentrate their resources especially on high-risk data breaches. The changes would also harmonise at EU level the notion of "high risk" in the context of data breach notifications and thereby bring more clarity to controllers.
 
 ## **1.2.2.9. Notion of high risk and the lists of processing activities requiring and not requiring data protection impact assessment**
@@ -734,8 +630,6 @@ The withdrawal of the proposal for an ePrivacy Regulation leaves the current rul
 
 **The rules**. The ePrivacy Directive (Directive 2002/58/EC) sets out a framework for privacy in the digital age, and more specifically for the confidentiality of communications and the protection of access to terminal equipment to protect the right to privacy of users. In this context, Article 5(3) ePrivacy Directive establishes rules on storing of information and the gaining of access to information already stored in the terminal equipment, including by use of cookies and similar technologies. The aim of the provision is to protect users' devices ("terminal equipment") and to protect any information (personal or non-personal data) stored on or
 
-[^69]: See Article 5(3) Directive 2002/58/EC (ePrivacy Directive).
-
 accessed from the user's device. As a general rule, Article 5(3) requires (i) clear and comprehensive information on and (ii) consent for storing information on or accessing stored information on the user's devices. While exemptions to this general consent requirement exist (e**.**g**.** no consent is needed for cookies that are strictly necessary to provide the service requested by the user or that are technically necessary for the provision of the service), consent of the user is necessary in most cases. These rules date from the early 2000s, were amended in 2009, and are a *lex specialis* to the GDPR when personal data is being processed. Article 5(3) only regulates access to the information (based on consent in most cases) on the user's device ('terminal equipment'), while processing of personal data obtained are governed by the GDPR (in line with Article 6 GDPR).
 
 **The main issues.** Today, the rules on cookies laid out by the ePrivacy Directive are outdated and inadequate for contemporary privacy and data needs. To obtain the user's consent, many entities currently use cookie banners to comply with the consent requirement. The design of these banners and their wide-spread use cause nuisance known as 'consent fatigue' among users.
@@ -746,11 +640,7 @@ Moreover, the effectiveness of the current regime is questionable. In a 2022 eva
 
 45
 
-[^70]: IAB Europe (2025) *Optimisation over reform: understanding EU consumers' perception and knowledge of the ad-funded internet and related privacy rights issues*. Available at: [IAB-Europe-Ad-Funding-Online-Services-](https://iabeurope.eu/wp-content/uploads/IAB-Europe-Ad-Funding-Online-Services-Report-2025-FINAL.pdf)
-
 [Report-2025-FINAL.pdf.](https://iabeurope.eu/wp-content/uploads/IAB-Europe-Ad-Funding-Online-Services-Report-2025-FINAL.pdf) 71 BEUC (2023) *Connected, but unfairly treated: consumer survey results on the fairness of the online environment.*  Available at: [BEUC-X-2023-113\\_Fairness\\_of\\_the\\_digital\\_environment\\_survey\\_results.pdf.](https://www.beuc.eu/sites/default/files/publications/BEUC-X-2023-113_Fairness_of_the_digital_environment_survey_results.pdf) Less than half (43%) of respondents to the study reported that they feel in full control.
-
-[^72]: European Commission, Evaluation and review of Directive 2002/58 on privacy and the electronic communication sector, 2022. 73 Ibid.
 
 the use of websites and mobile applications, audience measurement, preserving the security of the device or the offered service.
 
@@ -764,25 +654,13 @@ While civil society organisations and consumer protection organisations underlin
 
 **Costs for businesses.** Implementation and compliance with the current rule can be costly. The cost for businesses to set up cookie banners vary depending on the solutions the entity opts for. In 2014, at the time of evaluation and impact assessment to review the Directive, average compliance costs were estimated around EUR 900 per website (including the costs associated with legal advice, updates to privacy policies, and technical updates to websites).[^75] Considering an average inflation rate of 2% per year from 2014-2025, we can estimate an average cost of
 
-[^74]: See Annex I, Chapter IV. 75 European Commission, Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC (Regulation on Privacy and Electronic Communications) {COM(2017) 10 final}, part 1/3, p. 37.
-
 EUR 1,200 per website over the lifespan of three years[^76], resulting in yearly costs of EUR 400. During the 'reality check' focus group on Art. 5(3) ePrivacy Directive, one business association reported that the average yearly cost of maintaining a cookie banner for a middle-sized publisher amounts to EUR 100,000–500,000. Another stakeholder from the e-commerce industry estimated that it incurred yearly personnel costs of around EUR 2.0 million to comply with ePrivacy rules(not only focusing on Article 5(3)). The estimates of costs reported by SMEs in a dedicated SME panel conducted by the Commission[^77] indicated yearly costs between EUR 100 to EUR 2,000 per year.
 
 Taken together, this data would lead to confirm the EUR 400 as an average annual cost estimate. Assuming a total of 10 million active websites in the Union and estimating that about 41% display a cookie banner[^78], the estimate cost over a year amounts to EUR 1.64 billion - and 4.92 billion over a period of 3 years.
 
 **An indication of scale: productivity estimates.** Out of the total EU population of 450.4 million[^79], roughly 75% use the internet to find information about goods and services[^80] and thus visit websites. Assuming that an average user visits 100 websites a month[^81] of which 85% use cookie banners[82,](#page-48-6) spending an average of 3,5 seconds[^83] per banner, this would result in approximately 334 million hours spent on cookie banners per year. Considering the average hourly wage across the EU[84,](#page-48-8) this equates to costs of roughly EUR 11.2 billion per year. This value of lost productivity time would apply if internet users would browse websites predominantly for professional reasons and during working hours. However, as people visit websites mostly during their free time, such loss of productivity needs to adjust the value to the monetary value that individuals can award to leisure time. Calculating that value is not impossible and done notably when calculating the value of investments in transport systems, e.g. to calculate what the monetary value cutting commuters' travel time would have. Depending on a range of factors (reason for travel, mode of transport), transport planning departments allocate between 30% and 70% of after-tax wage as the monetary value of leisure
 
-[^76]: The three years are an assumption of the average lifespan of a website, according to Deloitte, Evaluation and review of Directive 2002/58 on privacy and the electronic communication sector, cited in European Commission, Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC (Regulation on Privacy and Electronic Communications) {COM(2017) 10 final}, part 1/3, p. 37.
-
-[^77]: See Annex I, Chapter III. 78 Deloitte, Evaluation and review of Directive 2002/58 on privacy and the electronic communication sector, cited in European Commission, Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC
-
 <sup>(</sup>Regulation on Privacy and Electronic Communications) {COM(2017) 10 final}, Annexes to the report, p.14. 79 Eurostat (2025) *Population change – Demographic balance and crude rates at national level*. Available at : [\[demo\\_gind\] Population change - Demographic balance and crude rates at national level](https://ec.europa.eu/eurostat/databrowser/view/demo_gind__custom_17386652/bookmark/table?lang=en&bookmarkId=1c4b8145-a6e5-48a5-afe4-e2b4e983c485&c=1752064755805)
-
-[^80]: Eurostat (2025) *Individuals – internet activities.* Available at: [\[isoc\\_ci\\_ac\\_i\] Individuals - internet activities](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_18724002/default/table)
-
-[^81]: Legiscope (2024) *Europeans Spend 575 Million Hours Clicking Cookie Banners Every Year*. Available at: [Europeans Spend 575 Million Hours Clicking Cookie Banners Every Year.](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html) 82 Ibid.
-
-[^83]: Estimates start as low as two seconds. Legiscope (2024) assumes 5 seconds. 84 Eurostat (2025) *Labour cost levels by NACE Rev. 2 activity.* Available at: [\[lc\\_lci\\_lev\] Labour cost levels by](https://ec.europa.eu/eurostat/databrowser/view/lc_lci_lev/default/table?lang=en)  [NACE Rev. 2 activity](https://ec.europa.eu/eurostat/databrowser/view/lc_lci_lev/default/table?lang=en)
 
 time[85.](#page-49-3) That suggests that the gained value is in the order of EUR 3.36 billion to EUR 5.6 billion.
 
@@ -804,8 +682,6 @@ In order to enhance user control over their data and device, and to avoid the us
 
 48
 
-[^85]: See different studies referenced in this US Department of Transportation memo: Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis, https://www.transportation.gov/sites/dot.gov/files/docs/Value%20of%20Travel%20Time%20Memorandum.pdf
-
 controller to respect this choice and, in case of refusal, prohibits asking the user again for a period of 6 months.
 
 The Impact Assessment for the ePrivacy Regulation proposal already found that citizens do not have time to read long and complex privacy statements and find it difficult to understand what their consent implies.[^86] Ideas to allow internet users to set their cookie consent preferences go back to the 2009 amendment to the ePrivacy Directive (cf. Recital 66 of Directive 2009/136/EC), are reflected in Article 21(5) of the GDPR as well as in the 2017 proposal of the Commission on a Regulation on Privacy and Electronic Communications (COM(2017)10). The proposal creates an obligation on controllers to respect the machine-readable expression of consent preferences via their online interfaces.
@@ -824,11 +700,7 @@ Given the pivotal role of web browsers in the users' navigation online, they can
 
 While the proposed amendments will not lead to the complete disappearance of cookie banners, it is expected that they will significantly reduce and simplify their use.
 
-[^87]: Cf. definition in Article 3 lit. (m) Regulation (EU) 2022/2065 ('Digital Services Act').
-
 49
-
-[^86]: Impact Assessment accompanying the ePrivacy Regulation Proposal part 1, p. 5.
 
 Since the proposal will lay down that processing of personal data from the device will be lawful for certain specific low-risk purposes, there will be less instances in which providers of websites and mobile applications will have to rely on consent. For an estimated 60% of used cookies[88,](#page-51-0) consent will not be required any longer. For providers of websites that do not use cookies based on consent, the cost of EUR 1,200 per website will be saved over the three-year life span of the website, thus resulting in significant reduction of burden.
 
@@ -842,19 +714,7 @@ Where cookies requiring consent are used, cookie banners can be designed in a le
 
 As concerns European productivity cost, judging from a conservative point of view, the cost will be decreased since i) less cookie banners will be used on the market, ii) cookie banners will be more transparent and less complex demanding less time from users to understand and make their choices; iii) users' choices will need to be respected for a certain time, prohibiting the repeated request for consent, and iv) users will be able to set cookie preferences centrally.
 
-[^88]: Deloitte (2020) *Cookie Benchmark Study*. Available at: [Cookie Benchmark Study: April 2020 | PDF | Http](https://www.scribd.com/document/553861305/deloitte-nl-risk-cookie-benchmark-study)  [Cookie | Privacy.](https://www.scribd.com/document/553861305/deloitte-nl-risk-cookie-benchmark-study) The study assumes that roughly 30% of cookies on a website are used for tracking for advertising purposes. Conservatively, we have calculated with 40% in which consent would still be necessary.
-
-[^89]: Eurostat (2025) *E-government activities of individuals via websites.* Available at: [\[isoc\\_ciegi\\_ac\] E-government](https://ec.europa.eu/eurostat/databrowser/view/isoc_ciegi_ac/default/table?lang=en)  [activities of individuals via websites.](https://ec.europa.eu/eurostat/databrowser/view/isoc_ciegi_ac/default/table?lang=en) 70% of citizens interacted with public authorities online in one year, leading to 315 million users across these websites. Since these users would not be confronted with cookie banners anymore, assuming that they visit the site only once a year, it would lead to savings of productivity cost of EUR 10.2 million (315 million x 3,5 seconds x EUR 33.5 average wage).
-
-[^90]: The assumption is higher for public sector websites, since those websites are assumed to particularly rely on cookies for purposes that will be included in the whitelist.
-
-[^91]: 50% of current cost in EU (4,9 billion). 92 See Annex I, Chapter III.
-
 In a 2016 survey, 60% of EU citizens said that they have changed their privacy settings of their internet browser[^93]. We assume that those users would also make use of centralised browser settings to set cookie preferences, amounting to approximately 200 million users. Given that these would not need to read and interact with cookie banners anymore, it would lead to reducing time spend interacting with cookie banners by 198 million hours per year, thus saving – when adjusting with leisure value of 30% - the equivalent of EUR 500 million per year.[^94]
-
-[^93]: Commission Staff Working Document Impact Assessment Accompanying the document Proposal for Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC (Regulation on Privacy and Electronic Communications) {COM(2017) 10 final} part 3, p. 15.
-
-[^94]: 200 million users x (85 websites a month with cookie banners x 3,5 seconds per banner x 12 months) x average hourly wage of EUR 33,5.
 
 *Table 6: Estimated cost savings from the changes made to the cookies regime*
 
@@ -864,8 +724,6 @@ In a 2016 survey, 60% of EU citizens said that they have changed their privacy s
 | Cost savings<br>for public<br>sector                 | EUR  | 1m<br>public sector<br>websites<br>all of which<br>provide cookie banners<br>95 In the future, at<br>today.<br>least 80% of the<br>cookies placed in the<br>public sector context<br>(assuming substantial<br>use for statistical<br>purposes)<br>will no longer<br>need consent.                                                                                    | 0,8 x (1.000.000 x EUR 400)                                                                                                                                                                                                                                                            | EUR 320 million per<br>year                                               |
 | Productivity<br>cost savings<br>per year             | EUR  | The average user visits<br>100 websites a month,<br>of which 85% use<br>cookie banners,<br>spending an average of<br>3.5 seconds per banner.<br>This would result in<br>approximately 334<br>million hours spent on<br>cookie banners per year.<br>With an average wage<br>of EUR 33.5, and 30-<br>70% of after tax wage<br>as the monetary value<br>of leisure time | Yearly cost per user [(85 x<br>3,5sec<br>x<br>12months)/3600seconds] x<br>EUR<br>33,5<br>= EUR 33.2<br>Yearly cost in total for the EU<br>33.2 x (450,000,000 x 0.75) =<br>33.2 x<br>337,500,000 = 11.2bn<br>11.2bn x 0,3=3.36bn<br>11.2bn x 0,7= 5.6 bn<br>Median: (3.36+5.6)/2= 4.48 | EUR<br>3.36bn to<br>EUR<br>5.6bn, median;<br>EUR 4.48 billion per<br>year |
 | Cost savings<br>for users<br>using cookie<br>consent | EUR  | 50 million users to use<br>browser settings, 3,5<br>seconds per banner, 100<br>websites a month 85%<br>of which use cookie                                                                                                                                                                                                                                           | 50 million x (3,5 seconds x 85<br>websites x 12 months) x EUR<br>10,05<br>leisure value per hour                                                                                                                                                                                       | ~<br>EUR 500 million per<br>year                                          |
-
-[^95]: Based on: Commission staff working document, Executive summary of the impact assessment for the proposal of a Directive on accessibility of public sector websites, SWD(2012) 402 final of 3.12.2012, which estimated the number of 'government websites' at 380.500 and 'public sector websites' at 761.000.
 
 | preferences | banners, EUR average   |  |
 |-------------|------------------------|--|
@@ -880,10 +738,6 @@ Stakeholders across sectors indicated that privacy and data protection concerns 
 In the responses to the Data Union Strategy Public Consultation, civil society and consumer protection organisations generally opposed the loosening of the consent requirement in Article 5(3) of the ePrivacy Directive as they feared a reduction in the protection of the right to privacy. However, the proposal does not aim to allow the access to the terminal equipment for unlawful purposes but only for low-privacyimpact purposes and aims at tackling the identified issues. The possibility to accept or refuse the placing of cookies and by including a basis for central setting of cookie preferences users' rights will be safeguarded and strengthened. According to a Eurobarometer Survey on ePrivacy conducted in 2016[97,](#page-54-1) 69% think that default settings of your browser should stop your information from being shared. This option was not retained as it would go against the aim of making sufficient data available. To provide strong safeguards and a true choice, rather the option of providing for a mechanism to set cookie preferences centrally has been chosen. The proposal responds to challenges identified by civil society organisations in a stakeholder workshop of promoting rights-compliant innovation and of improving consent management. However, not all civil society organisations are opposed to introducing a more flexible, risk-based approach as long as the dangers of very intrusive tracking technologies would be taken into account and still necessitate consent. Furthermore, they generally support centralised consent setting as such a solution would empower the user to exercise a better control over their data and counterbalance the claimed practice of businesses to design their cookie banners and policies in a complex manner by design.
 
 During the aforementioned 'reality check' on the cookie policy framework under Article 5(3) of the ePrivacy Directive, several stakeholders favoured a risk-based approach with more consent-exemptions for low-risk activities such as fraud prevention, web analytics, security purposes, contextual advertising, improving the customer journey, and purposes not involving personal data. Moreover, they stressed that personalised advertisement could not be considered low-risk and should therefore remain subject to consent. Among the stakeholders, there was a divide whether audience measurement, which could include processing for offering personalised content, should be white-listed as well. While one business association argued this served the public interest (e.g. supporting enforcement of online child protection
-
-[^96]: The European Commission organised six stakeholder workshops in Spring and Summer 2025 inviting European level associations and individual stakeholders to roundtable discussion to address aspects such as simplification and investigate on the current state of play in the realm of data. These stakeholder workshops were organised with representatives from civil society, health sector, mobility sector, technology providers, business associations, energy and manufacturers sector.
-
-[^97]: European Commission (2016) *Eurobarometer on ePrivacy*. Available at [: Eurobarometer on ePrivacy | Shaping](https://digital-strategy.ec.europa.eu/en/library/eurobarometer-eprivacy)  [Europe's digital future](https://digital-strategy.ec.europa.eu/en/library/eurobarometer-eprivacy)
 
 rules, allocation of press subsidies), a civil society representative underlined its privacy-intrusiveness, especially in publishing.
 
@@ -911,8 +765,6 @@ Moreover, moving the current rules from a Directive to a Regulation will further
 
 All in all, the proposed amendments will contribute and strengthen the policy goal of guaranteeing a strong legal framework, for users and society as a whole. They preserve the right to privacy as well as the right to data protection enshrined under the Charter, while also taking into consideration the needs of businesses.
 
-[^98]: BEUC (2023) *Connected, but unfairly treated: consumer survey results on the fairness of the online environment.*  Available at: [BEUC-X-2023-113\\_Fairness\\_of\\_the\\_digital\\_environment\\_survey\\_results.pdf.](https://www.beuc.eu/sites/default/files/publications/BEUC-X-2023-113_Fairness_of_the_digital_environment_survey_results.pdf)
-
 # **2. INCIDENT REPORTING**
 
 **The Digital Omnibus will introduce a single-entry point (SEP) through which entities can simultaneously fulfil their incident reporting obligations under multiple legal acts. Through fostering a "report once, share many" principle, the single-entry point will reduce administrative burdens for entities, while ensuring effective and secure flow of information about security incidents to the recipients defined in the respective legislation.**
@@ -922,22 +774,6 @@ Under the current EU cybersecurity regulatory framework, the same event may lead
 ### **2.1. Analysis of the problems and opportunities**
 
 **The rules and main issues.** Multiple EU legal instruments contain reporting requirements for incidents relevant to cybersecurity. The **NIS2 Directive** serves as a horizontal framework for regulating the cybersecurity of essential and important entities in 18 critical sectors, including by setting an obligation to report significant incidents to the CSIRT or, as applicable, to the competent authority under NIS2. The Directive has several interlinkages with the **CER Directive**, which sets out obligations for critical entities in 11 sectors[^105] regarding their resilience. In particular, the NIS2 Directive applies to all entities that are identified as critical entities under the CER Directive. Regarding incident reporting, the CER Directive requires critical entities to notify to the CER competent authority incidents that significantly disrupt or have the potential to significantly disrupt the provision of essential services. Under the **GDPR**, controllers are required to notify personal data breaches to the competent supervisory authority under GDPR. The **Cyber Resilience Act**[^106] (CRA) sets out rules for the cybersecurity of
-
-[^99]: Directive (EU) 2022/2555.
-
-[^100]: Regulation (EU) 2022/2554.
-
-[^101]: Commission Delegated Regulation (EU) 2024/1366.
-
-[^102]: Commission Implementing Regulation (EU) 2023/203, Commission Delegated Regulation (EU) 2022/1645
-
-[^103]: Regulation (EU) 2016/679.
-
-[^104]: Directive (EU) 2022/2557.
-
-[^105]: Each of the 11 sectors in scope of the CER Directive are also in scope of the NIS2 Directive.
-
-[^106]: Regulation (EU) 2024/2847.
 
 products with digital elements in the internal market, including notification obligations. For example, the CRA requires manufacturers to notify any actively exploited vulnerability contained in the product with digital elements that it becomes aware of, as well as to notify any severe incident having an impact on the security of the product with digital elements. Each of these notifications are to be made to the CSIRT designated as coordinator and are made available simultaneously to the European Union Agency for Cybersecurity (ENISA). The CRA requires ENISA to establish a single reporting platform, which is, among other types of notifications, used for the purposes of the abovementioned notifications.
 
@@ -951,16 +787,6 @@ As regards providers of publicly available electronic communications services, t
 
 For example, for DORA, incident reporting templates are defined in a Commission Implementing Regulation[^111], while for NIS2, the Commission has an empowerment to adopt
 
-[^107]: Regulation (EU) 910/2014 as amended by Regulation (EU) 2024/1183 and Directive (EU) 2022/2555.
-
-[^108]: In particular, where the entity provides financial services in parallel with other types of services subject to the NIS2 Directive, the NIS2 Directive applies in parallel.
-
-[^109]: Directive 2002/58/EC.
-
-[^110]: After a repeal of Article 4 of the ePrivacy Directive, the reporting of data breaches would continue to be carried out under the GDPR framework.
-
-[^111]: Commission Implementing Regulation (EU) 2025/302.
-
 implementing acts to further specify the type of information, the format and the procedure of notification[112.](#page-59-0) Under legal acts including the GDPR[^113], CER[^114], the legal act mandates certain contents for the incident notification, although an EU-wide template has not been defined. The abovementioned legal acts, using varying terminologies and criteria, require entities to notify information related to aspects such as an overall description or assessment of the incident, the cause of the incident, the severity and impact of the incident, and mitigating measures that the entity has taken to address the incident. The Digital Omnibus provides a basis for creating common EU-wide reporting templates for CER and for the GDPR. However, as regards instruments which take the form of delegated and implementing acts such as NCCS and relevant instruments for the aviation sector, separate amendments of the respective acts would be needed in order to create common reporting templates for incidents notified under those acts, and for ensuring the use of the single-entry point for those acts.
 
 In addition to the Digital Omnibus, the upcoming revision of the Cybersecurity Act will contribute to streamlining the EU cybersecurity legislative framework. While the Digital Omnibus will introduce a single-entry point for incident notifications, the Cybersecurity Act will address other areas with simplification potential. Coherent implementation of the Digital Omnibus and the simplification-related provisions of the Cybersecurity Act will contribute to reducing administrative burden for entities, while guaranteeing a high level of cybersecurity in the Union.
@@ -972,14 +798,6 @@ In addition to the Digital Omnibus, the upcoming revision of the Cybersecurity A
 Stakeholder contributions related to the implementation of EU cybersecurity legislation have widely called for streamlining of incident reporting mechanisms. Business stakeholders of various sizes and sectors called in the Call for Evidence for the Digital Omnibus for a general principle of "one incident, one report, one mechanism", while highlighting the need to streamline duplicated incident reporting requirements. Frequent reference was made to the overlapping requirements between NIS2, DORA, the Cyber Resilience Act, and the GDPR. Recommended solutions varied as to their level (with some urging for a stronger role for ENISA, at European level, and others favoring an approach at national level), and the extent to which reporting templates, timelines and thresholds should be aligned.
 
 Notably, the European Cybersecurity Organisation – European public-private partnership on cybersecurity – called for designating one point of reporting for all cybersecurity incidents, as well as for standardising templates and data formats[115.](#page-59-3) Likewise, one of the main findings of the Implementation Dialogue on Cybersecurity Policies held by Executive Vice-President Henna Virkkunen on 15 September 2025 was that many companies (of all sectors) face hindrances in their compliance with incident reporting, and would support a more streamlined solution.
-
-[^112]: Article 23(11) of the NIS2 Directive. Required contents of reports on significant incidents under the NIS2 Directive are defined in Article 23(4) of the Directive.
-
-[^113]: Article 33(3) of GDPR.
-
-[^114]: Article 15(2) of the CER Directive.
-
-[^115]: ECSO (2024) *Streamlining Regulatory Obligations of EU Cybersecurity Policies*. Available at: [Streamlining](https://ecs-org.eu/?publications=streamlining-regulatory-obligations)  [Regulatory Obligations of EU Cybersecurity Policies - ECSO](https://ecs-org.eu/?publications=streamlining-regulatory-obligations)
 
 Consumer protection organisations also expressed support for a more streamlined approach which would benefit users, notably in a reality check on cybersecurity incident reporting organised by Commission services on 2 October 2025.
 
@@ -1005,8 +823,6 @@ The single-entry point is expected to be particularly beneficial for operators t
 
 Operators that are subject to multiple Union legal acts are particularly likely to report incidents to multiple authorities, resulting in a multiplication of reporting burden in cases where the same incident is reported through different channels. In the case of operators that are active in multiple Member States, an incident that spreads across different entities in the same group may additionally result in multiple incident reporting obligations under the same legal act, such as
 
-[^116]: Ibid.
-
 the NIS2 Directive or GDPR as per the EDPB's Guidelines[117.](#page-62-1) As another example, under the NIS2 Directive, providers of public electronic communications networks and providers of publicly available electronic communications services fall under the jurisdiction of all Member States in which they provide their services, including as regards incident reporting obligations under the Directive. More broadly, the single-entry point would particularly benefit SMEs, which often lack administrative capacity to navigate multiple reporting regimes. In such cases, reporting duties usually fall under the responsibilities of incident response teams, and the time spent on several notifications represents an opportunity cost in terms of the effectiveness of incident management.
 
 All in all, the presence of multiple reporting platforms, which in the context of many legal acts are replicated at national level in each Member State, and require providing comparable information via multiple templates, represents untapped potential for savings.
@@ -1017,29 +833,15 @@ The establishment of a single-entry point for reporting would result in signific
 
 **Costs for developing the single-entry point.** Notifying incidents via single-entry points is recognised as a potential means to decrease the administrative burden for entities[118,](#page-62-2) and contributes to reducing the number of reporting platforms that must be maintained by relevant national authorities. However, if single-entry points for each Member State are developed at the national level, the cost could range from EUR 150,000–200,000 and up to EUR 1.3–1.5 million[^119] per Member State to achieve EU-wide coverage. With a moderate estimate of an average cost of EUR 550,000 per Member State, the total cost of development of national single-entry points across the Union would reach EUR 15,000,000. Wherever no national platform is yet in place, a single-entry point at the EU level is expected to bring savings by reducing administrative overheads related to establishing, maintaining and operating separate reporting platforms for different legal acts. The additional costs foreseen to operate and maintain the single-entry points would be estimated to equal to 2–4 FTEs per Member State. Overall, these costs reflect the additional complexity of mandating national incident singleentry points and legislative revisions. Therefore, even the establishment of national single-entry points, which should be seen as a cost-reducing measure, would result in higher costs than putting in place a European-wide single-entry point.
 
-[^117]: European Data Protection Board, Guidelines 9/2022 on personal data breach notification under GDPR, 28 March 2023.
-
-[^118]: See Recital 106 of the NIS2 Directive.
-
-[^119]: In the past (ENISA evaluation Report, 2017) the cost for implementing platform integration / adaptation aimed at producing real-time situational awareness and dynamic (live) threat reports was estimated to cost around EUR 869 208 to 1.3 million for the initial set-up and require around 4 FTE for management and maintenance. Similarly, discussions with the developer of a national cybersecurity platform highlighted the need of around 4 FTE for platform management.
-
 At an EU level, the estimated initial cost for the development of the single-entry point is EUR 6 million, while maintaining the single-entry point would require 8 FTEs within ENISA[^120]. The cost of onboarding each additional legal act into the single-entry point is estimated at EUR 500,000. Compared to the implementation of national single-entry points within each Member State, the overall implementation cost of a single-entry point at the EU level would be significantly lower, as only one centralised single-entry point would be developed and maintained at EU level.
 
 **Cost savings from streamlined reporting though the single-entry point.** According to one study[^121], 40% of the more than 4,000 surveyed organisations active in European markets face at least one incident annually. 44% of those experience more than 4 incidents, resulting in a weighted average of 1.18 incidents per entity per year. Assuming that the full process of reporting one incident takes 12 hours of staff time[^122], the staff costs for incident reporting would be approximately EUR 440[123.](#page-63-3) This estimate can be taken as comparatively conservative, since it omits the costs of other associated internal compliance processes to report an incident, such as in-house IT tools or external legal support on how to comply with different regulatory authorities. In an SME Panel consultation run by the Commission in September-October 2025[^124], responding SMEs estimated that the overall cost of reporting an incident could range between EUR 500 and EUR 35,000 (when taking into account additional implied costs), depending on the nature of the incident and on the company profile. However, when directly asked about the costs of incident reporting, stakeholders consulted as part of the 'reality check' carried out on 2 October 2025 raised the different expenses associated with the aforementioned aspects of incident reporting, but were unable to produce a quantified estimation.
 
 At the same time, it is estimated that at least 160,000 entities are regulated under NIS2[^125], while approximately 1 million entities meet the definition of data controller under the GDPR and are established or operating in more than one Member State[126.](#page-63-6) Consequently, assuming that all
 
-[^120]: The cost estimates are similar to the cost estimates for the development of a centralised reporting solution under DORA, provided by the European Supervisory Authorities (ESAs). See Report on the feasibility for further centralisation of reporting of major ICT-related incidents, p. 56. Available at [https://www.esma.europa.eu/press-](https://www.esma.europa.eu/press-news/esma-news/esas-publish-study-feasibility-further-centralisation-major-ict-related)
-
 [news/esma-news/esas-publish-study-feasibility-further-centralisation-major-ict-related.](https://www.esma.europa.eu/press-news/esma-news/esas-publish-study-feasibility-further-centralisation-major-ict-related) 121 Cloudflare (18 June 2024) *European Businesses Anticipate More Cybersecurity Attacks, But Feel Unprepared for Them. Press release.* Available at [https://www.cloudflare.com/press-releases/2024/european-businesses-](https://www.cloudflare.com/press-releases/2024/european-businesses-anticipate-more-cybersecurity-attacks-but-feel/)
 
 [anticipate-more-cybersecurity-attacks-but-feel/.](https://www.cloudflare.com/press-releases/2024/european-businesses-anticipate-more-cybersecurity-attacks-but-feel/) 122 Staff time required for reporting an incident is understood to include tasks including an internal assessment by the entity whether the incident is reportable and under which legal bases; collecting data required for filling the applicable incident reporting templates; and submitting the reports. These tasks may involve more than one staff member in the entity, making this assumption a conservative one. Moreover, where incident reporting takes place in multiple stages, staff time is required at each stage in the process.
-
-[^123]: Based on an average mid-level compliance or cybersecurity staff salary of EUR 60 000 – EUR 80 000 per year, the hourly wage of a professional is calculated at EUR 36.5 (annual salary of EUR 70 000, with 48 working weeks a year at 40 hours/week).
-
-[^124]: See Annex I, Chapter III. 125 Based on an extrapolation of the number of essential and important entities notified by Member States pursuant to Article 3 of the NIS2 Directive by September 2025, it is estimated that 160 000 entities fall under the scope of NIS2. Considering that the single-entry point also covers other Union legal acts, the estimate should be considered conservative.
-
-[^126]: The Impact Assessment for the GDPR (SEC(2012)72) estimated the number of data controllers established and processing data cross-border at 927,272.
 
 entities under the NIS2, DORA and CER are also data controllers, at least 160,000 entities fall under the scope of multiple legal acts covered by the single-entry point, while even a larger number of entities would benefit from easier cross-border reporting of incidents.
 
@@ -1059,11 +861,7 @@ The below Table 7 presents the overview estimated savings, based on the outlined
 |                  |                     | NIS2. It is assumed that all entities subject to | EUR 440 per notification. |
 | DORA             | 21,000130           | NIS2<br>are<br>also<br>subject<br>to<br>GDPR.    |                           |
 
-[^127]: European Court of Auditors (2019) *Challenges to effective EU cybersecurity policy*, available at [https://www.eca.europa.eu/lists/ecadocuments/brp\\_cybersecurity/brp\\_cybersecurity\\_en.pdf.](https://www.eca.europa.eu/lists/ecadocuments/brp_cybersecurity/brp_cybersecurity_en.pdf); ENISA (2024) *EU Cybersecurity Index 2024: EU-level insights and next steps*, available at [https://www.enisa.europa.eu/sites/default/files/202506/The%20EU%20Cubersecurity%20Index%202024\\_en\\_0](https://www.enisa.europa.eu/sites/default/files/202506/The%20EU%20Cubersecurity%20Index%202024_en_0.pdf)
-
 [<sup>.</sup>pdf.](https://www.enisa.europa.eu/sites/default/files/202506/The%20EU%20Cubersecurity%20Index%202024_en_0.pdf) 128 CIRAS (2025) *CIRAS Incident reporting dashboard 2024*. Available at:<https://ciras.enisa.europa.eu/>129 This sum should also not be aggregated to the EUR 41.5 million estimate presented above, which builds from different assumptions. Were all incidents reported, it would be included within the same total.
-
-[^130]: Impact Assessment Report accompanying the Proposal for a Regulation of the European Parliament and of the Council on digital operational resilience for the financial sector (DORA), p. 8. SWD(2020) 198 final. Available a[t https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0198.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0198)
 
 | CER  | 5,000131      | Consequently, the number of entities subject<br>to multiple reporting obligations is estimated<br>at 160,000.                                                                                     |                                                                                               |
 |------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -1077,15 +875,7 @@ The below Table 7 presents the overview estimated savings, based on the outlined
 |-----------------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|----------------|-----------------------------------------------------------|
 | Incident<br>reporting | EUR  | Current level of incident<br>reporting continues: 1340<br>incidents at an estimated<br>price of EUR 440, halved<br>through the introduction<br>of a Single-Entry Point135 | 0,5 x (1340 incidents<br>x EUR 440) | One-off<br>N/A | Recurring<br>≈ EUR<br>294,800 per<br>year                 |
 
-[^131]: Impact Assessment Report accompanying the Proposal for a Directive of the European Parliament and of the Council on the resilience of critical entities. SWD(2020) 358 final. Available at [https://eur-lex.europa.eu/legal-](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0358)
-
 [content/EN/TXT/PDF/?uri=CELEX:52020SC0358.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0358) 132 Schulze Brock, P., Katsinis, A., Lagüera Gonzalez J., Di Bella, L., Odenthal L., Hell M., Lozar B., Secades Casino B. (2025) *Annual Report on European SMEs 2024/2025, SME performance review*. Publications Office of the European Union, Luxembourg. Available at: [https://publications.jrc.ec.europa.eu/repository/handle/JRC142263.](https://publications.jrc.ec.europa.eu/repository/handle/JRC142263) According to the Joint Research Centre, as of 2023, there were 25,851,156 companies in the EU. In turn, according to the impact assessment of the GDPR, "it can be assumed that approximately 42% of the total number of companies can be practically considered as data controllers within the meaning of the Directive", hence 42% of 26 million is approximately 11 million entities.
-
-[^133]: This number is the result of extrapolation of calculations made in the GDPR impact assessment to estimate the number of companies/ data controllers active in more than one Member State.
-
-[^134]: These estimates are conservative and refer to results from the SME consultation carried out for the GDPR impact assessment, dating from 2012.
-
-[^135]: N.B. The assumption is mutually exclusive with the assumption presented in the below row. Therefore, the estimated cost savings presented on each row should be regarded as separate estimates based on differing assumptions, rather than as cumulative savings.
 
 | Incident<br>reporting                                          | EUR | All incidents are reported<br>(N.B.<br>savings<br>as regards<br>reporting under GDPR in<br>multiple Member States<br>are not included in the<br>calculations): 188 800<br>incidents at an estimated<br>price of EUR 440, halved<br>through the introduction<br>of a Single-Entry Point                                                                                           | 0,5 x (188 800<br>incidents x EUR<br>440)                                                                         | N/A                           | ≈ EUR<br>41,536,000<br>per year                                                   |
 |----------------------------------------------------------------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------|
@@ -1096,8 +886,6 @@ The below Table 7 presents the overview estimated savings, based on the outlined
 The stakeholders consulted from the private sector and civil society expressed strong support for a single-entry point solution, converging on the need to streamline the notification of incidents under various legislations as well as the templates and data. However, they presented different preferences regarding the organisation of incident reporting channels, and the role ENISA should have in this mechanism.
 
 In response to the Open Public Consultation for the revision of the Cybersecurity Act[^136] carried out in April–June 2025, the Commission received feedback from 194 respondents, of which 79 were companies or businesses, and 54 were business associations. Among other themes, the consultation addressed simplification of cybersecurity legislation. On average, these types of respondents rated the effectiveness of a single reporting platform at EU level for the compliance with reporting obligations from all relevant EU legislation with the score of 4.62 on a scale of 1–6. Of the 105 respondents that answered the question, 45 (43%) gave the maximum score of 6. By contrast, companies, businesses and business associations gave an average score of 4.30 for a single reporting platform at EU level for the compliance with reporting obligations from NIS2, with 32 of the 107 respondents answering the question (30%) giving the maximum score. Finally, as regards a single reporting platform at national level for the compliance with reporting obligations stemming from
-
-[^136]: European Commission (2025) *Call for evidence and public consultation on the revision of the Cybersecurity Act*. Available at: [https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/public-consultation_en)[Cybersecurity-Act/public-consultation\\_en.](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/public-consultation_en)
 
 relevant EU legislation, these types of respondents gave an average score of 4.78, with 55 of 122 respondents (45%) giving the maximum score.
 
@@ -1114,10 +902,6 @@ Taking note of this, the SEP proposal is expected to incur minimal additional co
 The proposed measures will fully preserve the rights and competences of the authorities empowered by the respective legal framework to receive incident reports channelled through the single-entry point.
 
 Moreover, the system will support a more effective application of the underlying reporting obligations. Complex reporting requirements and limited awareness are among the perceived drivers for underreporting of cybersecurity incidents[137.](#page-67-1) A single-entry point for incident notifications would contribute to addressing these issues, thereby incentivising more comprehensive reporting of incidents. In turn, receiving a larger number of incident reports enables the recipients of the reports to gain a fuller and more accurate picture of the landscape of incidents, which enables better drawing of lessons from incidents. Over time, the process is expected to result in increased cyber resilience of the critical sectors concerned, thereby enhancing Europe's security[138.](#page-67-2) Furthermore, as a larger number of incidents are reported
-
-[^137]: ENISA (2024) *EU Cybersecurity Index 2024: EU-level insights and next steps*, p. 6. Available at: [The EU](https://www.enisa.europa.eu/publications/the-eu-cybersecurity-index-2024)  [Cybersecurity Index 2024 | ENISA](https://www.enisa.europa.eu/publications/the-eu-cybersecurity-index-2024)
-
-[^138]: See also Recital 101 of the NIS2 Directive.
 
 through a single-entry point, cost savings arising from simpler incident reporting vis-à-vis separate entry points will increase.
 
@@ -1141,11 +925,7 @@ The rules for high-risk AI systems are the most comprehensive body of rules in t
 
 The AI Act also sets out a regime for the supervision, monitoring and enforcement of its rules on AI systems. In line with its regulatory design as a product safety legislation, much of the AI Act's supervision and enforcement will take place at the national level. For this purpose, Member States have to establish or to designate national competent authorities and lay down
 
-[^139]: COM(2025) 165 final.
-
 <sup>140</sup>COM(2025) 723 final. 141 <https://ai-act-service-desk.ec.europa.eu/>142 C(2023)3215.
-
-[^143]: C(2025)3871.
 
 rules to empower those authorities and provide for penalties. The deadline for Member States to notify the Commission of the designated authorities and laws on penalties was 2 August 2025, with the objective that the infrastructure related to the governance and the conformity assessment system should be operational well before 2 August 2026 [144.](#page-70-0) Many Member States have not been able to meet this deadline, and these delays suggest that the governance and conformity assessment system may not be operational on time.
 
@@ -1154,20 +934,6 @@ A key feature of the AI Act is its regulatory design as a horizontal product saf
 **Main issues.** Most of the AI Act has not yet entered into application, and even those parts that have entered into application have only done so recently [^145]. Therefore, there are no reliable calculations for compliance costs arising from the existing framework for businesses. Moreover, the AI Act only introduces rules for certain AI applications, so the cost of compliance with the AI Act varies greatly.
 
 In the impact assessment accompanying the proposal for the AI Act (hereafter: the 'initial AI Act impact assessment') [^146] estimated that the theoretical maximum compliance costs and administrative burden amount to around EUR 10 000 for companies that follow standard business procedures. This is applicable only to those companies that are provide high-risk AI systems (estimated at no more than 5-15% of all AI applications [^147]). There would also be between EUR 3,000-7,500 of verification costs for a subset of such high-risk applications [148.](#page-70-4) Compliance costs would significantly increase if harmonised standards were not available to demonstrate compliance. This is especially true for smaller companies with limited legal resources. The application of harmonised standards is voluntary, and companies can seek compliance with the AI Act without them. However, standards do provide clear guidance and a presumption of compliance, and they can in certain cases enable self-assessment (thus avoiding the costs of seeking an external conformity assessment). In a survey of AI Pact signatories [^149], 20% of respondents estimated that their compliance costs would be at least 80% higher, while 26.67% estimated that their compliance costs would increase by 20-50% in the absence of harmonised standards or similar tools for compliance with the high-risk AI systems [150.](#page-70-6) The costs for business from the delayed establishment of national competent authorities is expected
-
-[^144]: Recital 179 AI Act.
-
-[^145]: The general provisions (definitions, prohibited practices and obligations regarding AI literacy) on 2 February 2025 and the obligations for providers of general-purpose AI models on 2 August 2025.
-
-[^146]: SWD(2021) 84 final.
-
-[^147]: SWD(2021) 84 final, pp. 67, 68.
-
-[^148]: SWD(2021) 84 final, p. 69.
-
-[^149]: Described in detail below, in the section 'Stakeholder views'.
-
-[^150]: Following a survey of signatories of the AI Pact, which is described in detail in the section on 'Stakeholder views'.
 
 to be mostly indirect. The most significant cost could arise from a delay in designating conformity assessment bodies as a result of the delayed establishment of notifying authorities. This is because such a delay could delay companies being able to place products on the market or oblige them to incur extra cost by switching to conformity assessment bodies in other Member States.
 
@@ -1178,10 +944,6 @@ Additional compliance costs arise from obligations that were only introduced dur
 #### *Stakeholder views*
 
 The Commission has run a **public consultation [^151] to identify implementation challenges with the AI Act**. This was launched as part of a consultation that would feed into the preparation of the Apply AI Strategy and of the Digital Omnibus. The public consultation shows that companies developing AI identified the **lack of available standards, guidance documents, or other tools to support compliance as the main obstacle to implementing the AI Act** (62 replies), followed by uncertainty about the scope and which rules will apply to them (52 replies) [^152]. When asked which aspects cause particular difficulty in the implementation so far, respondents identified a **lack of harmonised standards, the capacity of notified bodies, and the potential for fragmented interpretations and enforcement across the EU**, as well as the complex interplay between the AI Act and other EU regulations, with potential overlaps and conflicts between these frameworks [^153]. Similar responses were given by organisations using AI (including academic/research institutions, companies/businesses, public authorities), which also consider as the most significant challenge to AI Act implementation the lack of available standards, guidance
-
-[^151]: European Commission, *Call for evidence and public consultation on the Apply AI Strategy*, 2025, [Apply AI](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)  [Strategy – strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
-
-[^152]: Page 9 of the Summary report[: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent/public-consultation_en) [Apply-AI-Strategy-strengthening-the-AI-continent/public-consultation\\_en](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent/public-consultation_en) <sup>153</sup> Ibid, p. 10.
 
 documents, or other tools to support compliance (69 replies), as well as uncertainty about the scope and which rules will apply (57 replies) [154.](#page-72-0)
 
@@ -1196,8 +958,6 @@ The Commission acknowledges the need to pay particular attention to the needs of
 The following concerns were expressed regarding the implementation timeline:
 
 • The main stakeholder concern, particularly by businesses of all sizes, business associations and public authorities, is the **challenge of meeting the implementation timeline for the high-risk AI system rules –** in view of the delayed availability of standards, other guidance tools and competent authorities' enforcement capacity. In the Apply AI Consultation, 77.5% of companies developing AI named this their main implementation challenge and 52.50% respondents to the
-
-[^154]: Ibid, p. 11. 155 See Annex I, Chapter I. 156 See Annex I, Chapter IV. 157 European Commission (2025) *AI Pact*,<https://digital-strategy.ec.europa.eu/en/policies/ai-pact>158 See Annex I, Chapter III.
 
 - AI Pact signatories'survey. It was also the most frequent response to the call for evidence. At the same time, NGOs (especially consumer associations), as well as some standardisation bodies and citizens, argued that the implementation work should not slow down, lest companies be discouraged from investing in compliance with the new rules.
 - Moreover, in the call for evidence, many stakeholders (in particular businesses) were concerned about facing **retroactive requirements**, due to the technical complexity of implementation. In particular, stakeholders expressed concern about the cost and technical difficulty of retroactively applying technical solutions that enable the marking of AI system outputs as artificially generated or manipulated, as required by Article 50(2) of the AI Act.
@@ -1218,8 +978,6 @@ The following views were expressed regarding measures in support of compliance a
 
 • Extending the **processing of special categories of personal data for the purposes of training and testing all AI systems and models** was frequently mentioned in the call for evidence as a possibility to facilitate compliance with data protection law. Businesses called for the threshold for the use of that legal basis to be aligned with that of the GDPR (i.e. that the data processing should be 'necessary' rather than 'strictly necessary').
 
-[^159]: At the time of negotiations, this was also a strong request by the European Parliament.
-
 • Stakeholders (particularly businesses and business associations) called for an **additional focus on sandboxing**. This was a call that was brought forward by smaller and larger businesses alike.
 
 The following concerns were expressed on the complexity of the interplay of the AI Act with other EU law:
@@ -1234,27 +992,17 @@ First, the Commission proposes to **align the application timelines for certain 
 
 Second, it is necessary **to simplify certain obligations** with a view to ensuring that the burden of complying with them is proportionate to their objectives. **Certain privileges for SMEs should be extended to SMCs** in line with the objectives set out in the Commission's proposal for a regulation of the European Parliament and of the Council as regards the extension of certain mitigating measures available for SMEs to SMCs and further simplification measures [^160]. In other words, simplified technical documentation, a quality management system that takes account of their size, to receive special consideration of their interests in the calculation of fines for violations, special consideration of their needs in the preparation of voluntary codes of conduct and guidelines, and additional regulatory privileges should be considered. In addition,
 
-[^160]: COM(2025) 501 final.
-
 an existing privilege granted to microenterprises, namely simplified quality management, should be extended to all SMEs. In the light of the finding that the horizontal obligation to ensure a sufficient level of AI literacy does not achieve its objective but does cause serious compliance concerns, the **obligation on companies to ensure a sufficient level of AI literacy should be replaced with an obligation on the Commission and Member States**, to encourage providers and deployers to ensure that their staff and other users have an adequate level of AI literacy. The obligation for deployers of high-risk AI systems to assign human oversight only to staff with the necessary training, competence and support remains [161.](#page-75-0) Moreover, there should be **flexibility for providers of high-risk AI systems to implement a post-market monitoring system** that works for their organisation. The Commission should accordingly not adopt harmonised conditions that prevent such flexibility but should rather offer voluntary guidance for those who seek it. Providers of **AI systems that are exempted from classification as highrisk should not be obliged to register** in the EU database for high-risk AI systems – so as to remove an administrative burden that is not justified because these AI systems do not pose significant risk.
 
 Third, it is crucial to **improve the effectiveness of the governance system.** The AI Act already foresees that the AI Office assumes the supervisory role for large and capable general-purpose AI models, and general-purpose AI systems built on these models in certain cases. This is due to the complex and evolving nature of these models, for which there are few experts, rendering it most efficient to centralise the oversight at the AI Office rather than requiring 27 Member States to build such capabilities. As general-purpose AI models proliferate and an increasing number of systems are built on these models, including AI agents, the **AI Office's powers should be reinforced to oversee AI systems built on general-purpose AI models**, to ensure their effectiveness. This will not only reduce fragmentation of governance but also contribute to a coherent application of rules for AI systems, including prohibitions, high-risk and transparency, offering guidance for national authorities who oversee other AI systems. It will allow the respective providers to only deal with one regulatory authority; it would thus reduce cost on the side of the providers as well for national authorities (for example, only one authority would be responsible for the post market monitoring instead of 27). However, this should not apply for AI systems related to products covered under Union harmonisation legislation listed in Annex I of the AI Act, for which the oversight should remain with the sectoral market surveillance authorities in the Member States. Where AI systems constitute or are embedded in VLOPs or VLOSEs within the meaning of Regulation (EU) 2022/2065 (Digital Services Act), the oversight should also be allocated to the Commission's AI Office, to make a coherent and synergetic application of the AI Act and Digital Services Act easier. Finally, the existing mechanism of the AI Act to **facilitate cooperation of market surveillance authorities and authorities or bodies that supervise or enforce EU law protecting fundamental rights** should be strengthened in order to enable the smooth functioning of the AI Act governance, while also ensuring that operators do not face duplicate requests for information.
 
 Fourth, the scope of the **measures that support stakeholders in the compliance** should be extended. Article 10(5) of the AI Act **allows providers of high-risk AI systems to** 
 
-[^161]: Article 26(2) AI Act.
-
 **exceptionally use sensitive personal data –** which is otherwise prohibited by the GDPR **–** for the purpose of bias detection and correction. This facilitates effective AI training and testing. The possibility of relying on this legal basis should be extended to providers of all AI systems and general-purpose AI models. AI regulatory sandboxes are a crucial measure for supporting AI innovators in the development of trustworthy and compliant high-risk AI systems. Their rollout should be supported by reinforcing the cooperation at EU-level. Moreover, the **AI Office should be enabled to establish an AI regulatory sandbox at EU level** for AI systems under its supervision. It is also necessary to broaden the scope of the real-world testing of high-risk AI systems so that this instrument can be used for the high-risk AI systems listed in Annex I to the AI Act. Leveraging these infrastructures and facilitating cross-border collaboration will result in better streamlining of the coordination and optimisation of resources.
 
 Fifth, **operational changes and technical corrections** should be made to contribute to an overall improved application of the AI Act. With regard to the **interplay of the AI Act with the Union harmonisation legislation listed in Section A of Annex I**, it is necessary to streamline the procedure for conformity assessment bodies to apply for and be assessed in order to become notified bodies. There is also need for a transitional rule for the first time after the AI Act's governance system has been established, to reduce the risk of a gap in availability of notified bodies when the rules start to apply. Moreover, an Annex to the AI Act should be created with the codes according to which notified bodies under the AI Act are classified and which they can use to register in the Commission's New Approach Notified and Designated Organisations (NANDO) information system, supporting the rapid establishment of notified bodies and their integration into the existing frameworks. It is also necessary to amend parts of the EU's common rules in the field of civil aviation [^162] so that the AI Act's high-risk requirements can smoothly be integrated into those rules by means of implementing or delegated acts. In light of the objective to reduce implementation challenges for citizens, businesses and public administrations, it is also essential that harmonised conditions for the implementation of certain rules are adopted only where strictly necessary. For that purpose, it is appropriate to remove certain empowerments bestowed on the Commission to adopt such harmonised conditions by means of implementing acts in cases where this is not strictly necessary [^163].
 
 Sixth and finally, it is important to make it clear that many implementation challenges cannot be addressed through legislative amendments and that **stakeholders are also calling for nonlegislative support measures**. For example, 72.09% of respondents of the survey of AI Pact signatories said they saw the establishment of a centralised platform to bring together all guidance and compliance support tool as the most helpful measure that the Commission could take. The recently published AI Act Single Information Platform caters to this [^164]. The
-
-[^162]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91.
-
-[^163]: It is proposed to remove empowerments set out in Article 50(7), 56(6), 69(2) and 72(3) AI Act.
-
-[^164]: European Commission, *AI Act Single Information Platform*, 2025, <https://ai-act-service-desk.ec.europa.eu/en>
 
 Commission will therefore continue to step up its efforts to facilitate and support compliance through other means. In particular, further **concerns related to the interplay with other EU law will be addressed in guidance** on the practical application of the rules. This includes the requests to provide guidance on the interplay with the GDPR, which the Commission is preparing jointly with the European Data Protection Board.
 
@@ -1271,10 +1019,6 @@ A **direct reduction of compliance cost** can be expected and estimated for the 
 - replacing the obligation on operators to ensure a sufficient level of AI literacy of their staff with an obligation on the Commission and Member States to encourage such measures
 - removing the obligation on providers of AI systems that are exempted from classification as high-risk to register those systems (which may for instance only carry out preparatory tasks) in the EU database
 
-[^165]: See section 1.2.3.
-
-[^166]: For example, the AI Office is planning a workshop with independent experts with recognised expertise in the field of AI for a technical assessment of AI systems in the financial sector used for creditworthiness assessments. The findings of this workshop should assist in determining whether those AI systems are within the meaning of the AI Act, as specified through the Commission Guidelines on the definition of an artificial intelligence system established by Regulation (EU) 2024/1689 (AI Act).
-
 There is **no reliable evidence or estimate of compliance cost that allow a cost calculation** of other measures to simplify the future implementation. Moreover, several measures are expected to have indirect effects.
 
 The **extension of some regulatory privileges regarding risk management systems for microenterprises to SMEs** is expected to benefit many companies. Extending the simplified quality management system requirement of Article 63, which currently applies only to microenterprises, which constitute 94% of the 26.1 million SMEs in the EU [^167], to SMEs would theoretically bring benefits to 1 566 000 companies. Eurostat data indicate that 13.5% of enterprises with 10 or more employees in the in the EU use AI [168.](#page-78-1) Assuming that a third of them are (also) developers of AI systems, of which 5% to 15% (median 10%) are concerned by the AI Act's requirements, this results in an estimated number of 7 000 additional companies.
@@ -1283,11 +1027,7 @@ The **extension of some regulatory privileges granted to SMEs regarding document
 
 In the initial impact assessment for the AI Act, the Commission estimated maximum aggregate compliance costs for the obligations for providers of high-risk AI systems at EUR 100 - EUR 500 million per year, with around EUR 100 million of verification costs, if harmonised standards are available. Without harmonised standards, according to the survey amongst AI Pact Signatories [^170], 20% of stakeholders expect costs to increase by over 80%, 13.33% expect a 50- 80% increase, 26.67% expect a 20-50% increase and others were not able to disclose. One can thus estimate an average of 34% increase in compliance and verification costs. Taking as a baseline the Commission's initial impact assessment, this would lead to an additional estimated maximum aggregate cost of **EUR 68–204 million per year,** which an alignment of the implementation timeline to the availability of harmonised standards (or alternative tools) would avoid. In addition, one can expect positive cost reductions for Member States' competent
 
-[^167]: Schulze Brock, P., Katsinis, A., Lagüera Gonzalez J., Di Bella, L., Odenthal L., Hell M., Lozar B. and Secades Casino B., *Annual Report on European SMEs 2024/2025, SME performance review*. Publications Office of the European Union, Luxembourg, 2025, p. 11, [https://publications.jrc.ec.europa.eu/repository/handle/JRC142263.](https://publications.jrc.ec.europa.eu/repository/handle/JRC142263) 168 Eurostat (2025) *Artificial intelligence by size class of enterprise*. Available at:
-
 [https://ec.europa.eu/eurostat/databrowser/view/isoc\\_eb\\_ai/default/table?lang=en](https://ec.europa.eu/eurostat/databrowser/view/isoc_eb_ai/default/table?lang=en) 169 SWD(2025) 501 final, page 8.
-
-[^170]: Referred to above, in the section 'Stakeholder views'.
 
 authorities who would otherwise incur additional cost by having to perform oversight without a clear guidance what is deemed compliant through harmonised standards or alternative tools.
 
@@ -1296,12 +1036,6 @@ The co-legislators introduced the **obligation on operators to ensure AI literac
 The obligation to **register AI systems in the EU high-risk database** involves inputting into the online database some information which is readily available to the provider of an AI system. No more than 2.5 working hours should be required on average considering the need to understand the requirements, the once-off registration of the provider and the uploading of information for each AI systems that has been developed. The average labour cost in information services (Sector J of the Eurostat classification [^173]) was EUR 37.19 in 2020 (the results from the 2024 survey are not yet available). Under these circumstances, EUR 40 per hour appears a relevant approximation. Hence, the costs would be EUR 100 per company. Taking the above-mentioned 222 750 companies using AI as an upper limit of companies that might have to register AI systems, assuming again that a third of them also develop AI, and that between 5 and 15% (median 10%) of AI applications would be high-risk as a proxy for the number of companies affected, there could be up to 7425 companies which need to register potential high-risk AI applications. If one assumes that at most 20% of these systems could be exempted under Article 6(3) of the AI Act, then a maximum of 1485 companies affected. Thus, total **savings could be up to EUR 148,500 per year**.
 
 The below table 7 outlines all the above calculations, with their underlying assumptions.
-
-[^171]: The other responses were: 16.67% estimated the additional annual compliance cost at between EUR 10 000 and 50 000; 2.78% estimated it at between EUR 50 000 and 10 000; and 8.33% estimated it at more than EUR 100 000.
-
-[^172]: 25.58% enterprises had fewer than 10 employees, 25.58% had between 10 and 249 employees and the largest group of 48.84% had more than 750 employees.
-
-[^173]: Eurostat (2023) *Labour cost, wages, and salaries, direct remuneration by NACE Rev. 2 activity*. Available at: [\[lc\\_ncost\\_r2\] Labour cost, wages and salaries, direct remuneration \(excluding apprentices\) by NACE Rev. 2](https://ec.europa.eu/eurostat/databrowser/view/lc_ncost_r2__custom_18718849/default/table)  [activity](https://ec.europa.eu/eurostat/databrowser/view/lc_ncost_r2__custom_18718849/default/table)
 
 *Table 8: Estimated cost savings for targeted changes to the Artificial Intelligence Act*
 
@@ -1326,8 +1060,6 @@ The below table 7 outlines all the above calculations, with their underlying ass
 
 The **reinforcement of the AI Office's oversight over certain AI systems** is expected to lead to indirect positive impacts for businesses, including **reducing the governance fragmentation across authorities and contributing to the coherent application of the AI Act**'s AI systems rules, as national authorities will be able to take the AI Office's approach as guidance for their enforcement work, as well as offering **new pathways to compliance support through an EU level AI regulatory sandbox**. These measures have resource implications for the Commission, due to the volume and high complexity of tasks requiring specific technical and legal expertise as well as specialised tools and methodologies. According to the Commission's estimates, the AI Office's supervisory powers would encompass at least 230 AI systems and up to 100 platform-embedded AI systems built on general-purpose AI models, as well as hundreds of small-scale AI systems not embedding such models, used by platforms, [^174] in addition to the supervision it already exercises over general-purpose AI models. The rapid evolution of AI technology, particularly the development and deployment of agentic AI becoming increasingly sophisticated, makes it challenging to accurately estimate the number of entities that will fall under our enforcement purview under Article 75(1) of the AI Act, which could likely also be significantly higher. Moreover, the **EU-level AI regulatory sandbox** will require additional resources. These tasks are estimated to require additional 53 FTEs (50 FTE for enforcement activities and 3 FTE for the operation of the EU-level AI regulatory sandbox). These implications have to be weighed against **reduced budgetary requirements for Member States**, who would otherwise be responsible to ensure the oversight for those AI systems. In this context, it has to be recalled that AI systems based on large general-purpose AI models are typically made available in all EU Member States at the same time. The counterfactual scenario, whereby the oversight and enforcement of these AI systems would be allocated to Member States would require at least 1 technical FTE in all Member States and for the 5 largest Member States and 5 Member States with active AI ecosystems at least a team of 10 FTE each. Thus, at the absolute minimum, 117 FTE would be required, i.e. more than twice the 55 FTE at EU level. With an average hourly cost of around EUR 30 per hour, i.e. EUR 60 000 per year, the extra 62 staff would amount to a minimum of EUR 3.7 million per year additional costs for Member States.
 
-[^174]: Based on publicly available data and growth rates estimated by EpochAI.
-
 ### **3.4. Preserving the objectives of the rules and other impacts**
 
 The initial AI Act impact assessment considered other types of impacts, such as societal impacts, impacts on safety, impacts on fundamental rights and environmental impacts.
@@ -1337,16 +1069,6 @@ Regarding **societal impacts** [^175], the initial AI Act impact assessment conc
 Regarding **impacts on safety** [176,](#page-82-2) the initial AI Act impact assessment concluded that the AI Act would fill gaps in relation to the specific safety and security risks posed by AI embedded in products in order to minimize the risks of death, injury and material. The targeted nature of envisaged amendments would not affect the scope of AI systems covered by the AI Act or the substantive requirements for the different risk levels, so they are not expected to modify this impact.
 
 Regarding **impacts on fundamental rights**, the initial AI Act impact assessment considered that the AI Act would boost the protection of fundamental rights. The Commission's explanatory memorandum to the proposal states that the AI Act is expected to enhance and promote the protection of many rights set out in the Charter [^177], as well as positively affect the rights of a number of special groups [^178]. The AI Act proposal was also found to impose some restrictions on certain rights [179,](#page-82-5) but these were assessed as proportionate and limited to the minimum necessary. The envisaged alignment of the timeline of entry into application could delay the attainment of the positive effects on the protection of fundamental rights. This impact must be weighed against the alternative of no postponement, with the risk that an application of the rules would practically not be feasible or extremely costly. Such situation would conversely aggravate the restriction of certain rights, notably the freedom to conduct business. Against this background, this delayed attainment of the positive effects on the protection of fundamental rights appears proportionate.
-
-[^175]: Section 6.3.
-
-[^176]: Section 6.4.
-
-[^177]: The right to human dignity (Article 1), respect for private life and protection of personal data (Articles 7 and 8), non-discrimination (Article 21), equality between women and men (Article 23), freedom of expression (Article 11) and freedom of assembly (Article 12), effective remedy and a fair trial, defence and the presumption of innocence (Articles 47 and 48) and right to a high level of environmental protection and the improvement of the quality of the environment (Article 37).
-
-[^178]: Workers' rights to fair and just working conditions (Article 31), the right to a high level of consumer protection (Article 28), the rights of the child (Article 24) and the right to integration of persons with disabilities (Article 26).
-
-[^179]: The freedom to conduct business (Article 16) and the freedom of art and science (Article 13).
 
 Regarding **environmental impacts**, the initial AI Act impact assessment found that the direct environmental impacts that could be expected from the AI Act were limited. However, it also identified some possible negative indirect impacts due to the increased uptake of AI that could cancel out the positive effects of increased energy efficiency through AI use. The targeted nature of the envisaged amendments means that they are not expected to modify this impact.
 
@@ -1364,8 +1086,6 @@ To assist with implementation, the Commission published a notice on ranking guid
 
 83
 
-[^180]: Commission Guidelines on ranking transparency pursuant to Regulation (EU) 2019/1150 of the European Parliament and of the Council (2020/C 424/01).
-
 **The main issues.** Since its entry into application, other acts of EU law have come to regulate online intermediation services and online platforms. These include the Digital Markets Act (DMA)[^181] and the Digital Services Act (DSA)[182.](#page-85-1)
 
 A preliminary assessment of the state of implementation of the P2B Regulation was published on 21 September 2023[183.](#page-85-2)
@@ -1379,10 +1099,6 @@ The DMA became applicable on 2 May 2023. Its purpose is to contribute to the pro
 Since its entry into application on 17 February 2024, the DSA aims to contribute to the proper functioning of the internal market, while also ensuring a safe, predictable, and trusted online environment that facilitates innovation and in which fundamental rights enshrined in the Charter are effectively protected. The DSA fully harmonises the obligations imposed, among others, on providers of intermediary services, including online platforms and online search engines, therefore pre-empting national rules in this area. It contains rules on terms and conditions, recommender systems, complaint-handling systems, out-of-court dispute settlement and codes of conduct. Enforcement of the rules lies with national authorities of Member States for online platforms established in their territory, and with the Commission for Very Large Online Platforms (VLOPs) and Very Large Online Search Engines (VLOSEs).
 
 **The objectives.** By repealing the P2B Regulation, the regulatory framework applicable to online platforms and business users is simplified by eliminating overlaps and multiple layers of regulation. This minimises legal uncertainty and reduces unnecessary compliance costs which
-
-[^181]: Regulation (EU) 2022/1925.
-
-[^182]: Regulation (EU) 2022/2065. 183 COM(2023)525.
 
 contribute to business trust in the legal framework and encourages new entrants into the EU market. This simplification also contributes to more robust and more targeted enforcement of existing rules.
 
@@ -1414,10 +1130,6 @@ Repealing large parts of the P2B Regulation will also contribute to a more coher
 
 Arguably, repealing the P2B Regulation may lead to fragmentation since Member States will be allowed to regulate other aspects relating to online intermediary service providers. This was indeed recognized as a risk in the Impact Assessment preparing the P2B Regulation: "the uncoordinated adoption of national legislations - whether platform-specific or covering B2B issues in general but applicable to platform businesses – may result in divergent regulatory measures across the EU"[^185]. However, the EU digital rulebook is now more robust with the entry into application of the DMA and the DSA, complementing the e-Commerce Directive,
 
-[^184]: Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC.
-
-[^185]: Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on promoting fairness and transparency for business users of online intermediation services {COM(2018) 238 final} - {SEC(2018) 209 final} - {SWD(2018) 139 final} part 2.5, p.31.
-
 which are of maximum harmonization and align therefore with the P2B Regulation's objective to create a harmonised legal framework[186.](#page-88-0)
 
 This risk for fragmentation is considered to be particularly low given that the regulatory space for national measures is very narrow. Indeed, the e-Commerce Directive, the DSA and the DMA almost exhaustively cover the aspects related to online intermediary service providers that are regulated by the P2B Regulation. For instance, the Court of Justice has stated that the e-Commerce Directive must be interpreted as precluding measures adopted by a Member State, with the stated aim of ensuring the adequate and effective enforcement of the Platforms-to-Business Regulation, under which, on pain of penalties, providers of online intermediation services established in another Member State are subject, with a view to providing their services in the first Member State, to the obligation to be entered in a register maintained by an authority of that Member State, to communicate to that authority certain detailed information about their organisation and to pay a financial contribution to that authority[^187]. Therefore, the country-oforigin principle will nevertheless remain as an indispensable instrument to protect the single market.
@@ -1427,12 +1139,6 @@ Based on these considerations, it can be concluded that the P2B Regulation is on
 #### *Stakeholder views*
 
 Some Member States pointed to existing overlaps of the P2B Regulation with other legislation, such as the DSA or the DMA. Similarly, several businesses reported having experienced legal uncertainty and duplications resulting from overlapping provisions of the P2B Regulation and other EU rules. For instance, some European platforms have pointed to specific overlaps regarding obligations on the setting up of an internal complaint-handling system (Art. 11 P2B Regulation) and the DSA – with the latter codifying a more comprehensive framework. Other degrees of overlaps were noted as regards to transparency obligations (ranking, terms and conditions), or rules on mediation. Business associations generally questioned the P2B Regulation's added value, and articulation with other laws. Nevertheless, the precedence taken by the DSA and the DMA on platform rules, as described in the above sections, generally limited the amount of stakeholder attention to the P2B Regulation in the last years.
-
-[^186]: Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on promoting fairness and transparency for business users of online intermediation services {COM(2018) 238 final} - {SEC(2018) 209 final} - {SWD(2018) 139 final} part 7.1.4, p.72.
-
-[^187]: See Judgements of 30 May 2024 in cases C-662/22 (Joined Cases C-662/22, C-667/22), Case C-666/22 (Joined Cases C-664/22, C-666/22), Case C-665/22, Case C-664/22 (Joined Cases C-664/22, C-666/22) and Case C-663/22.
-
-[^188]: Directive (EU) 2024/2831.
 
 # **CONCLUSION**
 
@@ -1445,8 +1151,6 @@ Several of the measures put forward in this Omnibus, by their very targeted natu
 On a more qualitative level, the Omnibus also leads to distinct cross-regulatory simplification by clarifying certain interplays between laws. This delivers better clarity in the engagement with the European digital rulebook. The amendments are 'optimising' changes, that seek to deliver the same, or better results, at a lower cost. Their impact on the underlying objective of the rules is expected to be positive. In particular, they are expected to support the highest standards of protections for fundamental rights, not least the right to privacy, the right to data protection, the right to non-discrimination, as well as the right to conduct a business.
 
 The Digital Omnibus, as part of the broader Digital Simplification Package, is only the first step of a larger set of actions. The Commission will pursue its digital simplification agenda through the Digital Fitness Check across the mandate – with a view of delivering further regulatory clarity for businesses, citizens, and administrations across Europe.
-
-[^189]: European Commission, Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification. COM/2025/47 final.
 
 # **ANNEXES**
 
@@ -1462,14 +1166,6 @@ A Call for Evidence on the Digital Omnibus was further published from 16 Septemb
 
 With a view of raising awareness on the Digital Omnibus among small and medium-sized enterprises (SMEs), and collect their feedback, a dedicated SME Panel was run via the Enterprise Europe Network (EEN) between 4 September to 16 October 2025. The EEN is the world's largest support network for small and medium-sized enterprises, and is implemented by the European Commission's European Innovation Council and SMEs Executive Agency (EISMEA). SME Panels are a consultation stream falling under this framework, whereby small and medium-sized enterprises have the opportunity to contribute their views to an upcoming policy initiative. In addition to the online written consultation (where 106 SME responses were gathered), the Commission also presented the Digital Omnibus proposal to SME associations part of the network, in a dedicated meeting on 1 October.
 
-[^190]: European Commission (2025) *Call for evidence and public consultation on the Apply AI Strategy*. Available at: [Apply AI Strategy – strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
-
-[^191]: European Commission (2025) *Call for evidence and public consultation on the revision of the Cybersecurity Act.* Available at: [The EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)
-
-[^192]: European Commission (2025) *Call for evidence and public consultation on the European Data Union Strategy*. Available at: [European Data Union Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_en)
-
-[^193]: European Commission (2025) *Call for evidence on the digital package and omnibus*. Available at: [Simplification – digital package and omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus_en)
-
 Two other consultation streams were organized, with a focus on direct exchanges with stakeholders. At political level, two implementation dialogues were held by the Executive Vice-President Henna Virkkunen: the first on data policy[^194] (1 July 2025), and the second on cybersecurity policy[^195] (15 September). Another was held by Commissioner McGrath on the implementation of the GDPR on 16 July 2025[^196]. At technical level, five reality checks were organized by Commission services with stakeholders between 15 September and 6 October 2025 to deep dive into different implementation barriers on specific sets of rules considered for simplification under the Digital Omnibus.
 
 Finally, a large number of bilateral meetings were organized by Commission services with stakeholders throughout the year of 2025, to address specific concerns. Discussions were also held with Member States. In addition to bilateral exchanges, dedicated agenda points on the Digital Simplification Package where discussed at Council Working Parties in June and September 2025 where the Commission presented the state of play and asked for Member States' views.
@@ -1481,12 +1177,6 @@ Overall, stakeholder feedback converged as to the need for a simplified applicat
 The consultation ran from 16 September to 14 October 2025. In total, 512 responses were submitted online by a diverse group of stakeholders. In addition, several others sent their contributions directly to the Commission services. Most feedback was received by business associations (35.9%) and companies (27.2%), with SMEs representing 66% of the latter respondents. This was followed by NGOs (9.4%), citizens (8.8% EU citizens and 1% non-EU citizens), academic/research institutions (3.9%), public authorities (3.5%), trade unions (2.2%), consumer organisations (1.6%), as well as others (6.6%).
 
 In terms of geographical distribution, most of the respondents were based in the EU, with a majority of contributions coming from Belgium (25.8%), Germany (15.4%), and France (10.0%), who together account for a share of over half of all the contributions. Countries like
-
-[^194]: European Commission (2025) *Implementation dialogue – data policy*. Available at : [Implementation dialogue](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)  [– data policy - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)
-
-[^195]: European Commission (2025) *Implementation dialogue on cybersecurity policy with Executive Vice-President Henna Virkkunen*. Available at[: Implementation dialogue on cybersecurity policy with Executive Vice-President](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)  [Henna Virkkunen - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)
-
-[^196]: European Commission (2025) *Implementation dialogue on the application of the general data protection regulation, with Commissioner Michael McGrath*. Available at: [Implementation dialogue on the application of](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)  [the general data protection regulation with Commissioner Michael McGrath - European Commission](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)
 
 the Netherlands (6.8%), Italy (4.9%), and Czech Republic (4.9%) also showed notable engagement.
 
@@ -1513,8 +1203,6 @@ A majority of responding NGOs and several citizens, however, pressed to not wate
 While most of the received feedback focused on the core areas under consideration in the Call for Evidence (rules relating to the data acquis, artificial intelligence, cybersecurity and digital identity[^197]), a limited amount of business stakeholders also contributed on the application of other types of digital legislation, such as telecommunications and platform rules. Across topical areas, many stakeholders called for further harmonization between horizontal and sectoral rules – with some suggesting future work on that in the future, for instance via the Digital Fitness Check or via sector-specific Omnibuses.
 
 ### Feedback on the data acquis
-
-[^197]: Ultimately, this last policy area was not maintained as part of the set of rules addressed under the Digital Omnibus.
 
 A large proportion of respondents gave feedback on the data acquis elements under consideration in the Digital Omnibus. The topic of cookie banners, and more generally potential simplification of the GDPR, attracted most of the feedback. Among business stakeholders, as well as some public authorities, there was broad support for better alignment between the GDPR and ePrivacy Directive (Art. 5(3)) regarding consent fatigue, fragmentation and proportionality - with additional specific support for broader legal grounds to access terminal equipment in alignment with the GDPR's risk-based approach. Many NGOs and privacy groups countered this by stating it would weaken the protection level that is intended by the ePrivacy directive, prioritizing preservation of user protection. EU-citizens frequently mentioned cookie fatigue, from a user perspective, with several calling for simpler, browser-based (standardized) consent mechanisms as a solution to cookie fatigue (also joined by many business stakeholders). Publishers and media representatives called strongly against centralized browser solutions, with concerns that it would reinforce the control of a limited set number of companies.
 
@@ -1771,8 +1459,6 @@ A majority of stakeholders (including one civil society representative) consider
 Participants discussed also whether audience measurement should be exempt: one business association argued it serves the public interest (e.g. supporting enforcement of online child protection rules, allocation of press revenues), while a civil society representative underlined that some audience measurement practices are privacy-intrusive. However, the latter agreed that limiting consent banners to invasive practices like targeted advertising could improve user choice, as banners would then act as genuine warnings. It was also noted that most websites (e.g. NGOs or consumer brands) do not need personal data to provide their services, a view supported by others.
 
 Stakeholders also discussed whether to regulate centralised consent management systems, such as allowing cookie settings via browsers. Some businesses raised competition law concerns about the dominance of a few browser providers and the importance of understanding website
-
-[^198]: Ultimately, this last policy area was not maintained as part of the set of rules addressed under the Digital Omnibus.
 
 use. Others, particularly from civil society, supported this as user-centric and simplifying choice. They argued competition risks could be addressed through instruments like the DMA, supported by open standards. Alternative solutions mentioned included using trusted third parties or certification schemes for cookie banner providers. A civil society representative also highlighted California's regulation of global privacy control as a positive example.
 
@@ -2287,8 +1973,6 @@ For instance, regarding the proposed changes on a lighter cloud switching regime
 
 However, due to the cross-cutting nature of the Digital Omnibus proposal, it should be noted that several of the targeted amendments would affect SMEs of all sectors indistinctively – not only companies in the ICT sector. For instance, the simplification of information requirements in the proposed changes to the General Data Protection Regulation (GDPR) would directly
 
-[^199]: Eurostat (2022) *Businesses in the information and communication services sector*. Available at: [Businesses in](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Businesses_in_the_information_and_communication_services_sector)  [the information and communication services sector - Statistics Explained - Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Businesses_in_the_information_and_communication_services_sector)
-
 affect SMEs such as craftspersons, hairdressers, or bakers, relieving them from the obligation to prepare privacy notices. While there is no exact number of SMEs handling personal data that would be directly affected by these specific changes, the number can be expected to be higher than the sole 1.386 million SMEs active in the ICT sector. Similarly, cybersecurity attacks typically affect companies of all sizes and across sectors[200.](#page-139-0) The effects of the newly introduced Single Entry Point, streamlining the reporting of such incidents, would affect SMEs beyond the ICT sector. Last, the introduction of new rules on cookie banners would positively affect any SME with a website (exact number of which could not be quantified), regardless of the sector the company operates in.
 
 ### **Estimated number of employees in directly affected SMEs**
@@ -2307,8 +1991,6 @@ A dedicated SME Panel consultation was organised via the Enterprise Europe Netwo
 
 Their input was duly taken into consideration for the preparation of the initiative. Some SME exemptions were provided, and even extended to SMCs in some cases in order to address the reality that some SMEs that may 'outgrow' their status can face a sudden increase in compliance burden. Overall, the measures were carefully weighed in order to limit the
 
-[^200]: ENISA (2021) *Cybersecurity for SMEs*. Available at: [Cybersecurity for SMEs - Challenges and](https://www.enisa.europa.eu/publications/enisa-report-cybersecurity-for-smes)  [Recommendations | ENISA](https://www.enisa.europa.eu/publications/enisa-report-cybersecurity-for-smes)
-
 potential burdens on companies, and maximise positive outcomes (see below for specific cases).
 
 ### **Are SMEs' views different from those of large businesses?**
@@ -2326,8 +2008,6 @@ Last, some of the proposed provisions in the Omnibus build directly from contrib
 **What are the estimated direct costs for SMEs of the preferred policy option***?*
 
 *Qualitative assessment*
-
-[^201]: See Annex I. 202 European Commission (2025) *AI Act Service Desk*. Available at[: AI Act Service Desk | AI Act Service Desk](https://ai-act-service-desk.ec.europa.eu/en/ai-act-service-desk)
 
 No direct costs are estimated for SMEs as a result of this proposal, which is by its nature designed to reduce administrative burdens on companies.
 
@@ -2384,10 +2064,6 @@ Each section presents the relevant legislative act under which the reporting req
 Some of these reporting obligations have been addressed in the Digital Omnibus. This is notably the case with the proposal to streamline cybersecurity incident-reporting and related incidents, and for certain reporting obligations under the repealed Platform-to-Business Regulation.
 
 Further reporting obligations addressed in the below may be addressed via other means by the Commission, notably in the context of the Digital Fitness Check. In the public consultation launched as part of the Digital Simplification Package[204,](#page-143-2) companies and public sector bodies are asked to provide their views to this list. This will support the Commission's qualification of future measures to be taken, in view of lowering the administrative burden linked to reporting obligations all the while preserving the rationale of certain measures underpinning the transparency and accountability of policies.
-
-[^203]: European Parliament (2024) *Verbatim of confirmation hearing of Henna Virkkunen, Executive Vice-Presidentdesignate of the European Commission*. Available at: [virkkunen\\_verbatimreporthearing-original.pdf](https://hearings.elections.europa.eu/documents/virkkunen/virkkunen_verbatimreporthearing-original.pdf)
-
-[^204]: European Commission (2025) *Have your Say: Digital fitness check – testing the cumulative impact of the EU's digital rules.* Available at: [Digital fitness check – testing the cumulative impact of the EU's digital rules](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15554-Digital-fitness-check-testing-the-cumulative-impact-of-the-EUs-digital-rules_en)
 
 #### **REGULAR REPORTING**
 
@@ -3180,3 +2856,329 @@ Commission Delegated Regulation (EU) 2023/1127 of 2 March 2023 supplementing Reg
 Annually Providers of VLOPs & VLOSEs
 
 European Commission
+
+## Footnotes
+
+[^1]: Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
+
+[^2]: Von der Leyen, U. (2024) *Europe's Choice: Political Guidelines for the Next European Commission 2024-2029*. Available at: [e6cd4328-673c-4e7a-8683-f63ffb2cf648\\_en](https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en?filename=Political%20Guidelines%202024-2029_EN.pdf)
+
+[^3]: Draghi, M. (2024) *The future of European competitiveness*. Available at: [The Draghi report on EU](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)  [competitiveness](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)
+
+[^4]: Letta, E. (2024) *Much more than a market*. Available at[: Enrico Letta - Much more than a market \(April 2024\)](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)
+
+[^5]: European Council, Conclusions, EUCO 1/25, Brussels, 20 March 2025, paragraph. 13. 6 European Council, Conclusions, EUCO 12/25, Brussels, 26 June 2025, paragraph 30. 7 European Council, Conclusions, EUCO 18/25, Brussels, 23 October 2025, paragraphs 33 and 35. 8 European Parliament, Resolution on the implementation and streamlining of EU internal market rules to strengthen the single market, 11 September 2025 (2025/2009/INI).
+
+[^9]: Eurostat (2025) *Statistics explained : ICT sector – value added, employment and R&D*. Available at: [ICT sector](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D)  [- value added, employment and R&D - Statistics Explained - Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D)
+
+[^10]: European Commission (2025) *Call for evidence and public consultation on the Apply AI Strategy*. Available at: [Apply AI Strategy – strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
+
+[^11]: European Commission (2025) *Call for evidence and public consultation on the revision of the Cybersecurity Act.* Available at: [The EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)
+
+[^12]: European Commission (2025) *Call for evidence and public consultation on the European Data Union Strategy*. Available at: [European Data Union Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_en)
+
+[^13]: European Commission (2025) *Call for evidence on the digital package and omnibus*. Available at: [Simplification – digital package and omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus_en)
+
+[^14]: European Commission (2025) *Implementation dialogue – data policy*. Available at : [Implementation dialogue –](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)  [data policy - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)
+
+[^15]: European Commission (2025) *Implementation dialogue on cybersecurity policy with Executive Vice-President Henna Virkkunen*. Available at[: Implementation dialogue on cybersecurity policy with Executive Vice-President](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)  [Henna Virkkunen - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)
+
+[^16]: European Commission (2025) *Implementation dialogue on the application of the general data protection regulation with Commissioner Michael McGrath*. Available at: [Implementation dialogue on the application of](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)  [the general data protection regulation with Commissioner Michael McGrath - European Commission](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)
+
+[^17]: EEN is the world's largest support network for small and medium-sized enterprises, and is implemented by the European Commission's European Innovation Council and SMEs Executive Agency (EISMEA).
+
+[^18]: The European Commission organised six stakeholder workshops in Spring and Summer 2025 inviting European level associations and individual stakeholders to roundtable discussion to address aspects such as simplification and investigate on the current state of play in the realm of data. These stakeholder workshops were organised with representatives from civil society, health sector, mobility sector, technology providers, business associations, energy and manufacturers sector.
+
+[^19]: See Annex I, Chapter II, for a more detailed overview of the types of respondents that can be referred to
+
+[^21]: European Commission (2025) *EU register of data intermediation services*. Available at: [https://digital](https://digital-strategy.ec.europa.eu/en/policies/data-intermediary-services?utm_source=chatgpt.com)[strategy.ec.europa.eu/en/policies/data-intermediary-services](https://digital-strategy.ec.europa.eu/en/policies/data-intermediary-services?utm_source=chatgpt.com)
+
+[^22]: On 23 May 2024, the Commission launched infringement proceedings against 18 Member States for failure to notify competent authorities. As of November 2025, 6 Member States have not notified competent authorities. Available at: [https://digital-strategy.ec.europa.eu/en/news/commission-calls-18-member-states-comply-eu-data](https://digital-strategy.ec.europa.eu/en/news/commission-calls-18-member-states-comply-eu-data-governance-act)[governance-act](https://digital-strategy.ec.europa.eu/en/news/commission-calls-18-member-states-comply-eu-data-governance-act) .
+
+[^23]: Study supporting the evaluation of the Free Flow of Non-Personal Data Regulation, Open Data Directive and Data Governance Act, Interim report, 19 September 2025 (forthcoming), p. 168.
+
+[^24]: Study supporting the evaluation of the Free Flow of Non-Personal Data Regulation, Open Data Directive and Data Governance Act, Interim report, 19 September 2025 (forthcoming), p. 127-128.
+
+[^25]: See Annex I, Chapter IV.
+
+[^27]: Eurostat (2025) *People in the EU worked on average 36 hours per week*. Available at[: People in the EU worked](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250514-1#:%7E:text=In%202024%2C%20the%20actual%20weekly,from%2037.0%20hours%20in%202014.)  [on average 36 hours per week - News articles - Eurostat](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250514-1#:%7E:text=In%202024%2C%20the%20actual%20weekly,from%2037.0%20hours%20in%202014.)
+
+[^26]: Eurostat (2025) *EU hourly labour costs ranged from €11 to €55 in 2024*. Available at: [EU hourly labour costs](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-1?)  [ranged from €11 to €55 in 2024 - News articles - Eurostat](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20250328-1?)
+
+[^28]: See Annex I, Chapter IV.
+
+[^29]: Legal Bison (2025) *Company Formation in Europe*. Available at: [Company Formation in Europe - LegalBison](https://legalbison.com/company-registration-europe/) <sup>30</sup> Indicative EU-average overhead for a stand-alone entity of around 50 employees, excluding statutory audit and one-off incorporation costs. Basket and mid-case assumptions: payroll administration approximately EUR 15 000 [EUR 25 per payslip × 50 × 12]; bookkeeping and annual accounts approximately EUR 3 500; routine tax/VAT filings approximately EUR 1 200; data-protection/compliance support approximately EUR 3 000; insurance (professional indemnity and cyber) approximately EUR 8 000; corporate secretarial/registered office approximately EUR 500; banking and membership fees approximately EUR 900; routine legal advice approximately EUR 4 000; incidental translations or notarials approximately EUR 500; plus a modest variance buffer across Member States. Central estimate: approximately EUR 40 000 per year. Figures are stylised and may vary by Member States.
+
+[^31]: This is an indicative EU-average stylised composition of fixed operating costs. Fixed operating costs are baseline, volume-independent expenditures. Basket and mid-case assumptions: (i) Core management and support staff: approximately EUR 150 000 (two administrative/operations FTEs at EUR 60 000 each and 0.5 FTE compliance at EUR 30 000); (ii) Base infrastructure and security tooling: approximately EUR 40 000; (iii) Facilities and connectivity: approximately EUR 15 000 (office space, utilities and business-grade internet); (iv) Software maintenance and support contracts: approximately EUR 15 000; (v) Depreciation or amortisation of set-up assets: approximately EUR 20 000; (vi) Other fixed items: approximately EUR 10 000 (training, limited travel and equipment refresh). Total: approximately EUR 250 000 per year. These figures are indicative and may vary by Member State, labour market conditions, architectural choices, and security requirements.
+
+[^32]: Study to support an impact assessment on enhancing the use of data in Europe, European Commission, 2022, p.
+
+[^34]: Ibid, p. 254. 35 Ibid, p. 265. 36 SWD(2025) 131 final, p. 5.
+
+[^37]: Study to support an impact assessment on enhancing the use of data in Europe, European Commission, 2022, page 227. 38 Ibid*.,* p. 227. 39 Ibid., p 223.
+
+[^40]: Ibid*.,* p 227. 41 Ibid*.,* p. 227. 42 Commission estimate. 43 Ibid.
+
+[^44]: This is distinct from the existing specific regime for custom-built services under Article 31(1) of the Data Act, which applies to data processing services of which the majority of main features has been custom-built to accommodate the specific needs of an individual customer or where all components have been developed for the
+
+[^45]: United Nations Commission on International Trade Law (2019) *Notes on the Main Issues of Cloud Computing Contracts*. Available at: [19-09103\\_eng.pdf.](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/19-09103_eng.pdf)
+
+[^46]: Schulze Brock, P., Katsinis, A., Lagüera Gonzalez J., Di Bella, L., Odenthal L., Hell M., Lozar B., Secades Casino B. (2025) *Annual Report on European SMEs 2024/2025, SME performance review*. Publications Office of the European Union, Luxembourg. Available at: <https://publications.jrc.ec.europa.eu/repository/handle/JRC142263>
+
+[^47]: European Commission (2022) *Study to map, measure and portray the EU mid-cap landscape – Final report*, Publications Office of the European Union. Available at: **<https://data.europa.eu/doi/10.2873/546623>**
+
+[^48]: Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplification measures.
+
+[^49]: European Commission, Commission Staff Working Document – Impact Assessment Accompanying the Proposal for a Directive amending Directives 2014/65/EU and (EU) 2022/2557 and the Proposal for a Regulation amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium-sized enterprises to small mid-cap enterprises and further simplification measures, SWD(2025) 501 final, Brussels, 21 May 2025.
+
+[^50]: European Commission (2022) *Study to map, measure and portray the EU mid-cap landscape – Final report*, Publications Office of the European Union. Available at: <https://data.europa.eu/doi/10.2873/546623>
+
+[^51]: European Commission, Commission Staff Working Document: Impact Assessment Report Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on European Data Governance (Data Governance Act), SWD(2020) 295 final, Brussels, 25 November 2020.
+
+[^52]: European Data Protection Board (2025) *The Helsinki Statement on enhanced clarity, support and engagement*. Available at: [The Helsinki Statement on enhanced clarity, support and engagement | European Data Protection](https://www.edpb.europa.eu/our-work-tools/our-documents/statements/helsinki-statement-enhanced-clarity-support-and-engagement_en)  [Board](https://www.edpb.europa.eu/our-work-tools/our-documents/statements/helsinki-statement-enhanced-clarity-support-and-engagement_en)
+
+[^53]: Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplification measures.
+
+[^54]: The GDPR does not as such place any reporting obligations on businesses. However, the GDPR obliges them, for instance, to maintain records of processing, carry out data protection impact assessments for high-risk processing activities and to notify data breaches to supervisory authorities.
+
+[^55]: Commission Nationale de l'Informatique et des Libertés (2024) *The economic impact of GDPR, 5 years on*. Available at: [The economic impact of GDPR, 5 years on | CNIL](https://www.cnil.fr/en/economic-impact-gdpr-5-years)
+
+[^56]: Cisco (2025) *2025 Data Privacy Benchmark Study*. Available at: [Cisco Data Privacy Benchmark Study - Cisco.](https://www.cisco.com/c/en/us/about/trust-center/data-privacy-benchmark-study.html) This report draws upon data gathered in autumn 2024 from an anonymous survey of security and privacy professionals. The survey included 2600+ respondents in 12 countries (5 Europe, 4 Asia, and 3 Americas), including EU Member States France, Germany, Italy, and Spain.
+
+[^57]: For instance, 95% of respondents consider that privacy remains core to customer service and that customers will not buy from a company if their data is not properly protected and 90% is of the respondents are of the view that strong privacy laws make customers more comfortable sharing their data in AI applications.
+
+[^58]: Commission Nationale de l'Informatique et des Libertés (2024) *The economic impact of GDPR, 5 years on*. Available at [: The economic impact of GDPR, 5 years on | CNIL](https://www.cnil.fr/en/economic-impact-gdpr-5-years)
+
+[^59]: Commission Nationale de l'Informatique et des Libertés (2025) *Cybersecurity economics and the benefits of GDPR*. Available at: [Cybersecurity economics and the benefits of GDPR](https://www.cnil.fr/sites/cnil/files/2025-06/cybersecurity-economics-gdpr.pdf)
+
+[^60]: The GDPR Multi-stakeholder Expert Group is an advisory body established by the Commission. It provides feedback and expertise from a wide range of stakeholders on the GDPR's application, including challenges they face in relation to its application.
+
+[^61]: EDPB, The Helsinki Statement on enhanced clarity, support and engagement, 3 July 2025. 62 See the EDPB Opinion's on the different draft lists of Member States requirements for when a DPIA is required and is not required (whitelists). [Opinions | European Data Protection Board.](https://www.edpb.europa.eu/our-work-tools/consistency-findings/opinions_en?f%5B0%5D=opinions_publication_type%3A61&f%5B1%5D=opinions_topics%3A138)
+
+[^63]: CJEU, Case C-413/23 P *EDPS v SRB,* 4 September 2025.
+
+[^64]: DLA Piper GDPR fines and data breach survey, January 2025, available at [dla-piper-fines-and-data-breach](https://inform-new.dlapiper.com/125/10919/uploads/dla-piper-fines-and-data-breach-survey-2025.pdf?intIaContactId=qRD8dhRev0b3b%2f2KYpUcZw%3d%3d&intExternalSystemId=1)[survey-2025.pdf.](https://inform-new.dlapiper.com/125/10919/uploads/dla-piper-fines-and-data-breach-survey-2025.pdf?intIaContactId=qRD8dhRev0b3b%2f2KYpUcZw%3d%3d&intExternalSystemId=1) 65 E.g. the total number of data breach notifications between 25 May 2018 and 27 January 2025 in the Netherlands
+
+[^66]: This is partly due to the fact that companies of different sizes and from different sectors experience varying levels of compliance costs, the costs incurred may include both direct and indirect costs (due to non-compliance) and compliance may involve not only costs caused by initial compliance efforts but also long-term costs (which may be outbalanced to some degree by 'compliance savings'), which are extremely difficult to calculate. In addition, given the constantly evolving digital environment, the economic impacts of the GDPR are intertwined with broader technological developments and regulatory changes, making it challenging to attribute specific effects solely to the GDPR.
+
+[^68]: See also Chapter 2 of this Staff Working Document.
+
+[^69]: See Article 5(3) Directive 2002/58/EC (ePrivacy Directive).
+
+[^70]: IAB Europe (2025) *Optimisation over reform: understanding EU consumers' perception and knowledge of the ad-funded internet and related privacy rights issues*. Available at: [IAB-Europe-Ad-Funding-Online-Services-](https://iabeurope.eu/wp-content/uploads/IAB-Europe-Ad-Funding-Online-Services-Report-2025-FINAL.pdf)
+
+[^72]: European Commission, Evaluation and review of Directive 2002/58 on privacy and the electronic communication sector, 2022. 73 Ibid.
+
+[^74]: See Annex I, Chapter IV. 75 European Commission, Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC (Regulation on Privacy and Electronic Communications) {COM(2017) 10 final}, part 1/3, p. 37.
+
+[^76]: The three years are an assumption of the average lifespan of a website, according to Deloitte, Evaluation and review of Directive 2002/58 on privacy and the electronic communication sector, cited in European Commission, Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC (Regulation on Privacy and Electronic Communications) {COM(2017) 10 final}, part 1/3, p. 37.
+
+[^77]: See Annex I, Chapter III. 78 Deloitte, Evaluation and review of Directive 2002/58 on privacy and the electronic communication sector, cited in European Commission, Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC
+
+[^80]: Eurostat (2025) *Individuals – internet activities.* Available at: [\[isoc\\_ci\\_ac\\_i\] Individuals - internet activities](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i__custom_18724002/default/table)
+
+[^81]: Legiscope (2024) *Europeans Spend 575 Million Hours Clicking Cookie Banners Every Year*. Available at: [Europeans Spend 575 Million Hours Clicking Cookie Banners Every Year.](https://legiscope.com/blog/hidden-productivity-drain-cookie-banners.html) 82 Ibid.
+
+[^83]: Estimates start as low as two seconds. Legiscope (2024) assumes 5 seconds. 84 Eurostat (2025) *Labour cost levels by NACE Rev. 2 activity.* Available at: [\[lc\\_lci\\_lev\] Labour cost levels by](https://ec.europa.eu/eurostat/databrowser/view/lc_lci_lev/default/table?lang=en)  [NACE Rev. 2 activity](https://ec.europa.eu/eurostat/databrowser/view/lc_lci_lev/default/table?lang=en)
+
+[^85]: See different studies referenced in this US Department of Transportation memo: Revised Departmental Guidance on Valuation of Travel Time in Economic Analysis, https://www.transportation.gov/sites/dot.gov/files/docs/Value%20of%20Travel%20Time%20Memorandum.pdf
+
+[^87]: Cf. definition in Article 3 lit. (m) Regulation (EU) 2022/2065 ('Digital Services Act').
+
+[^86]: Impact Assessment accompanying the ePrivacy Regulation Proposal part 1, p. 5.
+
+[^88]: Deloitte (2020) *Cookie Benchmark Study*. Available at: [Cookie Benchmark Study: April 2020 | PDF | Http](https://www.scribd.com/document/553861305/deloitte-nl-risk-cookie-benchmark-study)  [Cookie | Privacy.](https://www.scribd.com/document/553861305/deloitte-nl-risk-cookie-benchmark-study) The study assumes that roughly 30% of cookies on a website are used for tracking for advertising purposes. Conservatively, we have calculated with 40% in which consent would still be necessary.
+
+[^89]: Eurostat (2025) *E-government activities of individuals via websites.* Available at: [\[isoc\\_ciegi\\_ac\] E-government](https://ec.europa.eu/eurostat/databrowser/view/isoc_ciegi_ac/default/table?lang=en)  [activities of individuals via websites.](https://ec.europa.eu/eurostat/databrowser/view/isoc_ciegi_ac/default/table?lang=en) 70% of citizens interacted with public authorities online in one year, leading to 315 million users across these websites. Since these users would not be confronted with cookie banners anymore, assuming that they visit the site only once a year, it would lead to savings of productivity cost of EUR 10.2 million (315 million x 3,5 seconds x EUR 33.5 average wage).
+
+[^90]: The assumption is higher for public sector websites, since those websites are assumed to particularly rely on cookies for purposes that will be included in the whitelist.
+
+[^91]: 50% of current cost in EU (4,9 billion). 92 See Annex I, Chapter III.
+
+[^93]: Commission Staff Working Document Impact Assessment Accompanying the document Proposal for Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC (Regulation on Privacy and Electronic Communications) {COM(2017) 10 final} part 3, p. 15.
+
+[^94]: 200 million users x (85 websites a month with cookie banners x 3,5 seconds per banner x 12 months) x average hourly wage of EUR 33,5.
+
+[^95]: Based on: Commission staff working document, Executive summary of the impact assessment for the proposal of a Directive on accessibility of public sector websites, SWD(2012) 402 final of 3.12.2012, which estimated the number of 'government websites' at 380.500 and 'public sector websites' at 761.000.
+
+[^96]: The European Commission organised six stakeholder workshops in Spring and Summer 2025 inviting European level associations and individual stakeholders to roundtable discussion to address aspects such as simplification and investigate on the current state of play in the realm of data. These stakeholder workshops were organised with representatives from civil society, health sector, mobility sector, technology providers, business associations, energy and manufacturers sector.
+
+[^97]: European Commission (2016) *Eurobarometer on ePrivacy*. Available at [: Eurobarometer on ePrivacy | Shaping](https://digital-strategy.ec.europa.eu/en/library/eurobarometer-eprivacy)  [Europe's digital future](https://digital-strategy.ec.europa.eu/en/library/eurobarometer-eprivacy)
+
+[^98]: BEUC (2023) *Connected, but unfairly treated: consumer survey results on the fairness of the online environment.*  Available at: [BEUC-X-2023-113\\_Fairness\\_of\\_the\\_digital\\_environment\\_survey\\_results.pdf.](https://www.beuc.eu/sites/default/files/publications/BEUC-X-2023-113_Fairness_of_the_digital_environment_survey_results.pdf)
+
+[^99]: Directive (EU) 2022/2555.
+
+[^100]: Regulation (EU) 2022/2554.
+
+[^101]: Commission Delegated Regulation (EU) 2024/1366.
+
+[^102]: Commission Implementing Regulation (EU) 2023/203, Commission Delegated Regulation (EU) 2022/1645
+
+[^103]: Regulation (EU) 2016/679.
+
+[^104]: Directive (EU) 2022/2557.
+
+[^105]: Each of the 11 sectors in scope of the CER Directive are also in scope of the NIS2 Directive.
+
+[^106]: Regulation (EU) 2024/2847.
+
+[^107]: Regulation (EU) 910/2014 as amended by Regulation (EU) 2024/1183 and Directive (EU) 2022/2555.
+
+[^108]: In particular, where the entity provides financial services in parallel with other types of services subject to the NIS2 Directive, the NIS2 Directive applies in parallel.
+
+[^109]: Directive 2002/58/EC.
+
+[^110]: After a repeal of Article 4 of the ePrivacy Directive, the reporting of data breaches would continue to be carried out under the GDPR framework.
+
+[^111]: Commission Implementing Regulation (EU) 2025/302.
+
+[^112]: Article 23(11) of the NIS2 Directive. Required contents of reports on significant incidents under the NIS2 Directive are defined in Article 23(4) of the Directive.
+
+[^113]: Article 33(3) of GDPR.
+
+[^114]: Article 15(2) of the CER Directive.
+
+[^115]: ECSO (2024) *Streamlining Regulatory Obligations of EU Cybersecurity Policies*. Available at: [Streamlining](https://ecs-org.eu/?publications=streamlining-regulatory-obligations)  [Regulatory Obligations of EU Cybersecurity Policies - ECSO](https://ecs-org.eu/?publications=streamlining-regulatory-obligations)
+
+[^116]: Ibid.
+
+[^117]: European Data Protection Board, Guidelines 9/2022 on personal data breach notification under GDPR, 28 March 2023.
+
+[^118]: See Recital 106 of the NIS2 Directive.
+
+[^119]: In the past (ENISA evaluation Report, 2017) the cost for implementing platform integration / adaptation aimed at producing real-time situational awareness and dynamic (live) threat reports was estimated to cost around EUR 869 208 to 1.3 million for the initial set-up and require around 4 FTE for management and maintenance. Similarly, discussions with the developer of a national cybersecurity platform highlighted the need of around 4 FTE for platform management.
+
+[^120]: The cost estimates are similar to the cost estimates for the development of a centralised reporting solution under DORA, provided by the European Supervisory Authorities (ESAs). See Report on the feasibility for further centralisation of reporting of major ICT-related incidents, p. 56. Available at [https://www.esma.europa.eu/press-](https://www.esma.europa.eu/press-news/esma-news/esas-publish-study-feasibility-further-centralisation-major-ict-related)
+
+[^123]: Based on an average mid-level compliance or cybersecurity staff salary of EUR 60 000 – EUR 80 000 per year, the hourly wage of a professional is calculated at EUR 36.5 (annual salary of EUR 70 000, with 48 working weeks a year at 40 hours/week).
+
+[^124]: See Annex I, Chapter III. 125 Based on an extrapolation of the number of essential and important entities notified by Member States pursuant to Article 3 of the NIS2 Directive by September 2025, it is estimated that 160 000 entities fall under the scope of NIS2. Considering that the single-entry point also covers other Union legal acts, the estimate should be considered conservative.
+
+[^126]: The Impact Assessment for the GDPR (SEC(2012)72) estimated the number of data controllers established and processing data cross-border at 927,272.
+
+[^127]: European Court of Auditors (2019) *Challenges to effective EU cybersecurity policy*, available at [https://www.eca.europa.eu/lists/ecadocuments/brp\\_cybersecurity/brp\\_cybersecurity\\_en.pdf.](https://www.eca.europa.eu/lists/ecadocuments/brp_cybersecurity/brp_cybersecurity_en.pdf); ENISA (2024) *EU Cybersecurity Index 2024: EU-level insights and next steps*, available at [https://www.enisa.europa.eu/sites/default/files/202506/The%20EU%20Cubersecurity%20Index%202024\\_en\\_0](https://www.enisa.europa.eu/sites/default/files/202506/The%20EU%20Cubersecurity%20Index%202024_en_0.pdf)
+
+[^130]: Impact Assessment Report accompanying the Proposal for a Regulation of the European Parliament and of the Council on digital operational resilience for the financial sector (DORA), p. 8. SWD(2020) 198 final. Available a[t https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0198.](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0198)
+
+[^131]: Impact Assessment Report accompanying the Proposal for a Directive of the European Parliament and of the Council on the resilience of critical entities. SWD(2020) 358 final. Available at [https://eur-lex.europa.eu/legal-](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52020SC0358)
+
+[^133]: This number is the result of extrapolation of calculations made in the GDPR impact assessment to estimate the number of companies/ data controllers active in more than one Member State.
+
+[^134]: These estimates are conservative and refer to results from the SME consultation carried out for the GDPR impact assessment, dating from 2012.
+
+[^135]: N.B. The assumption is mutually exclusive with the assumption presented in the below row. Therefore, the estimated cost savings presented on each row should be regarded as separate estimates based on differing assumptions, rather than as cumulative savings.
+
+[^136]: European Commission (2025) *Call for evidence and public consultation on the revision of the Cybersecurity Act*. Available at: [https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/public-consultation_en)[Cybersecurity-Act/public-consultation\\_en.](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act/public-consultation_en)
+
+[^137]: ENISA (2024) *EU Cybersecurity Index 2024: EU-level insights and next steps*, p. 6. Available at: [The EU](https://www.enisa.europa.eu/publications/the-eu-cybersecurity-index-2024)  [Cybersecurity Index 2024 | ENISA](https://www.enisa.europa.eu/publications/the-eu-cybersecurity-index-2024)
+
+[^138]: See also Recital 101 of the NIS2 Directive.
+
+[^139]: COM(2025) 165 final.
+
+[^143]: C(2025)3871.
+
+[^144]: Recital 179 AI Act.
+
+[^145]: The general provisions (definitions, prohibited practices and obligations regarding AI literacy) on 2 February 2025 and the obligations for providers of general-purpose AI models on 2 August 2025.
+
+[^146]: SWD(2021) 84 final.
+
+[^147]: SWD(2021) 84 final, pp. 67, 68.
+
+[^148]: SWD(2021) 84 final, p. 69.
+
+[^149]: Described in detail below, in the section 'Stakeholder views'.
+
+[^150]: Following a survey of signatories of the AI Pact, which is described in detail in the section on 'Stakeholder views'.
+
+[^151]: European Commission, *Call for evidence and public consultation on the Apply AI Strategy*, 2025, [Apply AI](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)  [Strategy – strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
+
+[^152]: Page 9 of the Summary report[: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent/public-consultation_en) [Apply-AI-Strategy-strengthening-the-AI-continent/public-consultation\\_en](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent/public-consultation_en) <sup>153</sup> Ibid, p. 10.
+
+[^154]: Ibid, p. 11. 155 See Annex I, Chapter I. 156 See Annex I, Chapter IV. 157 European Commission (2025) *AI Pact*,<https://digital-strategy.ec.europa.eu/en/policies/ai-pact>158 See Annex I, Chapter III.
+
+[^159]: At the time of negotiations, this was also a strong request by the European Parliament.
+
+[^160]: COM(2025) 501 final.
+
+[^161]: Article 26(2) AI Act.
+
+[^162]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91.
+
+[^163]: It is proposed to remove empowerments set out in Article 50(7), 56(6), 69(2) and 72(3) AI Act.
+
+[^164]: European Commission, *AI Act Single Information Platform*, 2025, <https://ai-act-service-desk.ec.europa.eu/en>
+
+[^165]: See section 1.2.3.
+
+[^166]: For example, the AI Office is planning a workshop with independent experts with recognised expertise in the field of AI for a technical assessment of AI systems in the financial sector used for creditworthiness assessments. The findings of this workshop should assist in determining whether those AI systems are within the meaning of the AI Act, as specified through the Commission Guidelines on the definition of an artificial intelligence system established by Regulation (EU) 2024/1689 (AI Act).
+
+[^167]: Schulze Brock, P., Katsinis, A., Lagüera Gonzalez J., Di Bella, L., Odenthal L., Hell M., Lozar B. and Secades Casino B., *Annual Report on European SMEs 2024/2025, SME performance review*. Publications Office of the European Union, Luxembourg, 2025, p. 11, [https://publications.jrc.ec.europa.eu/repository/handle/JRC142263.](https://publications.jrc.ec.europa.eu/repository/handle/JRC142263) 168 Eurostat (2025) *Artificial intelligence by size class of enterprise*. Available at:
+
+[^170]: Referred to above, in the section 'Stakeholder views'.
+
+[^171]: The other responses were: 16.67% estimated the additional annual compliance cost at between EUR 10 000 and 50 000; 2.78% estimated it at between EUR 50 000 and 10 000; and 8.33% estimated it at more than EUR 100 000.
+
+[^172]: 25.58% enterprises had fewer than 10 employees, 25.58% had between 10 and 249 employees and the largest group of 48.84% had more than 750 employees.
+
+[^173]: Eurostat (2023) *Labour cost, wages, and salaries, direct remuneration by NACE Rev. 2 activity*. Available at: [\[lc\\_ncost\\_r2\] Labour cost, wages and salaries, direct remuneration \(excluding apprentices\) by NACE Rev. 2](https://ec.europa.eu/eurostat/databrowser/view/lc_ncost_r2__custom_18718849/default/table)  [activity](https://ec.europa.eu/eurostat/databrowser/view/lc_ncost_r2__custom_18718849/default/table)
+
+[^174]: Based on publicly available data and growth rates estimated by EpochAI.
+
+[^175]: Section 6.3.
+
+[^176]: Section 6.4.
+
+[^177]: The right to human dignity (Article 1), respect for private life and protection of personal data (Articles 7 and 8), non-discrimination (Article 21), equality between women and men (Article 23), freedom of expression (Article 11) and freedom of assembly (Article 12), effective remedy and a fair trial, defence and the presumption of innocence (Articles 47 and 48) and right to a high level of environmental protection and the improvement of the quality of the environment (Article 37).
+
+[^178]: Workers' rights to fair and just working conditions (Article 31), the right to a high level of consumer protection (Article 28), the rights of the child (Article 24) and the right to integration of persons with disabilities (Article 26).
+
+[^179]: The freedom to conduct business (Article 16) and the freedom of art and science (Article 13).
+
+[^180]: Commission Guidelines on ranking transparency pursuant to Regulation (EU) 2019/1150 of the European Parliament and of the Council (2020/C 424/01).
+
+[^181]: Regulation (EU) 2022/1925.
+
+[^182]: Regulation (EU) 2022/2065. 183 COM(2023)525.
+
+[^184]: Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC.
+
+[^185]: Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on promoting fairness and transparency for business users of online intermediation services {COM(2018) 238 final} - {SEC(2018) 209 final} - {SWD(2018) 139 final} part 2.5, p.31.
+
+[^186]: Commission Staff Working Document Impact Assessment Accompanying the document Proposal for a Regulation of the European Parliament and of the Council on promoting fairness and transparency for business users of online intermediation services {COM(2018) 238 final} - {SEC(2018) 209 final} - {SWD(2018) 139 final} part 7.1.4, p.72.
+
+[^187]: See Judgements of 30 May 2024 in cases C-662/22 (Joined Cases C-662/22, C-667/22), Case C-666/22 (Joined Cases C-664/22, C-666/22), Case C-665/22, Case C-664/22 (Joined Cases C-664/22, C-666/22) and Case C-663/22.
+
+[^188]: Directive (EU) 2024/2831.
+
+[^189]: European Commission, Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification. COM/2025/47 final.
+
+[^190]: European Commission (2025) *Call for evidence and public consultation on the Apply AI Strategy*. Available at: [Apply AI Strategy – strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
+
+[^191]: European Commission (2025) *Call for evidence and public consultation on the revision of the Cybersecurity Act.* Available at: [The EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)
+
+[^192]: European Commission (2025) *Call for evidence and public consultation on the European Data Union Strategy*. Available at: [European Data Union Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_en)
+
+[^193]: European Commission (2025) *Call for evidence on the digital package and omnibus*. Available at: [Simplification – digital package and omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus_en)
+
+[^194]: European Commission (2025) *Implementation dialogue – data policy*. Available at : [Implementation dialogue](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)  [– data policy - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)
+
+[^195]: European Commission (2025) *Implementation dialogue on cybersecurity policy with Executive Vice-President Henna Virkkunen*. Available at[: Implementation dialogue on cybersecurity policy with Executive Vice-President](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)  [Henna Virkkunen - European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)
+
+[^196]: European Commission (2025) *Implementation dialogue on the application of the general data protection regulation, with Commissioner Michael McGrath*. Available at: [Implementation dialogue on the application of](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)  [the general data protection regulation with Commissioner Michael McGrath - European Commission](https://commission.europa.eu/get-involved/events/implementation-dialogue-application-general-data-protection-regulation-commissioner-michael-mcgrath-2025-07-16_en)
+
+[^197]: Ultimately, this last policy area was not maintained as part of the set of rules addressed under the Digital Omnibus.
+
+[^198]: Ultimately, this last policy area was not maintained as part of the set of rules addressed under the Digital Omnibus.
+
+[^199]: Eurostat (2022) *Businesses in the information and communication services sector*. Available at: [Businesses in](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Businesses_in_the_information_and_communication_services_sector)  [the information and communication services sector - Statistics Explained - Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Businesses_in_the_information_and_communication_services_sector)
+
+[^200]: ENISA (2021) *Cybersecurity for SMEs*. Available at: [Cybersecurity for SMEs - Challenges and](https://www.enisa.europa.eu/publications/enisa-report-cybersecurity-for-smes)  [Recommendations | ENISA](https://www.enisa.europa.eu/publications/enisa-report-cybersecurity-for-smes)
+
+[^201]: See Annex I. 202 European Commission (2025) *AI Act Service Desk*. Available at[: AI Act Service Desk | AI Act Service Desk](https://ai-act-service-desk.ec.europa.eu/en/ai-act-service-desk)
+
+[^203]: European Parliament (2024) *Verbatim of confirmation hearing of Henna Virkkunen, Executive Vice-Presidentdesignate of the European Commission*. Available at: [virkkunen\\_verbatimreporthearing-original.pdf](https://hearings.elections.europa.eu/documents/virkkunen/virkkunen_verbatimreporthearing-original.pdf)
+
+[^204]: European Commission (2025) *Have your Say: Digital fitness check – testing the cumulative impact of the EU's digital rules.* Available at: [Digital fitness check – testing the cumulative impact of the EU's digital rules](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15554-Digital-fitness-check-testing-the-cumulative-impact-of-the-EUs-digital-rules_en)
