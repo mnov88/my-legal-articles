@@ -69,28 +69,68 @@
 
 **6. UCTD Annex - Presumptively Unfair Terms**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The Annex to UCTD provides an indicative list of presumptively unfair terms. AI service pricing practices trigger three specific Annex provisions: Point 1(i) identifies as unfair terms "irrevocably binding the consumer to terms with which he had no real opportunity of becoming acquainted before the conclusion of the contract"—terms defining usage limits by reference to undefined baselines bind consumers to obligations they cannot know pre-contractually. Point 1(j) identifies as unfair terms "enabling the seller or supplier to alter the terms of the contract unilaterally without a valid reason which is specified in the contract"—OpenAI's "dynamically adjusting usage caps" and statements that "limits may vary based on system conditions" constitute unilateral alteration power without pre-specified criteria. Point 1(l) identifies as unfair terms "providing for the price of goods to be determined at the time of delivery" without corresponding consumer rights—usage limits determined dynamically or "at time of use" without advance specification create similar unfairness where effective price per unit is "determined at time of delivery" when trader unilaterally sets or modifies limits.
+- Evidence:
+  - UCTD Annex Point 1(i): "irrevocably binding the consumer to terms with which he had no real opportunity of becoming acquainted before the conclusion of the contract"
+  - C-453/10 Pereničová ¶41: "failure to indicate essential terms of the agreement can be decisive in [the transparency] assessment"
+  - Application to Point 1(i): Even if trader internally knows actual limits, when not disclosed to consumers pre-contractually, consumers have "no real opportunity of becoming acquainted"
+  - UCTD Annex Point 1(j): "enabling the seller or supplier to alter the terms of the contract unilaterally without a valid reason which is specified in the contract"
+  - OpenAI statements: "currently dynamically adjusting usage caps" and "these limits may vary based on system conditions"
+  - C-472/10 Invitel ¶28: variation mechanisms must be set out transparently so consumers can evaluate amendments based on clear, intelligible criteria
+  - C-92/11 RWE Vertrieb ¶51: post-contractual notification cannot cure pre-contractual information deficits
+  - UCTD Annex Point 1(l): "providing for the price of goods to be determined at the time of delivery" without corresponding consumer rights
+  - Parallel: Usage limits determined dynamically without advance specification means effective price per unit is "determined at time of delivery"
 
 **7. CRD Art 6 - Pre-Contractual Information Duties**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]], [[Doctrinal analysis Perplexity.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: Article 6(1)(e) CRD mandates disclosure of "the total price" or, where this cannot be reasonably calculated in advance, "the manner in which the price is to be calculated." For subscription services, the provision specifies "the total price shall include the total costs per billing period" and "where the total costs cannot be reasonably calculated in advance, the manner in which the price is to be calculated shall be provided." AI service subscriptions typically charge fixed monthly fees (€20, €100, €200), making nominal price calculable. However, economic substance involves purchasing usage up to specified limits, with potential additional charges, service degradation (throttling), or termination upon exceeding limits. Effective price per unit cannot be calculated without knowing usage limits. When providers claim "5x more usage" without defining baseline, they fail to provide either: (1) total price (because quantity purchased is undefined); or (2) manner of price calculation (because formula for determining limits is undisclosed). Usage limits triggering additional charges or service modifications are part of pricing structure that must be disclosed. Recital 19 CRD provision that traders should inform about "functionality and relevant interoperability" including "absence or presence of any technical restrictions" supports interpretation that usage limits are technical restrictions affecting functionality requiring pre-contractual disclosure.
+- Evidence:
+  - Article 6(1)(e) CRD text: requires "the total price... or where the nature of the goods or services is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated"
+  - Article 6(1)(e) CRD for subscriptions: "the total price shall include the total costs per billing period. Where such contracts are charged at a fixed rate, the total price shall also mean the total monthly costs. **Where the total costs cannot be reasonably calculated in advance, the manner in which the price is to be calculated shall be provided**"
+  - Commission Guidance on CRD: for contracts of indeterminate duration or subscriptions, traders must provide "total costs per billing period" or, if costs cannot be calculated, "the manner in which the price is to be calculated"
+  - Recital 19 CRD: traders should inform consumers about "the functionality and the relevant interoperability of digital content" including "the absence or presence of any technical restrictions"
+  - Application: Usage limits are technical restrictions affecting functionality that must be disclosed pre-contractually
+  - Economic substance: Consumer purchases usage up to limits, not just monthly access—effective price per unit depends on limits
+  - Violation: Claims of "5x more" without baseline definition fail to provide either total price (undefined quantity) or manner of calculation (undisclosed formula)
 
 **8. CRD Art 8 - Plain Intelligible Language**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]], [[Doctrinal analysis Perplexity.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: Article 8(1) CRD requires information be provided "in plain and intelligible language." Article 8(2) requires that for electronic contracts placing consumers under payment obligations, information must be presented "in a clear and prominent manner, and directly before the consumer places his order." Burying vague references to usage limits in lengthy terms of service while prominently advertising subscription prices violates the "clear and prominent manner" requirement. The Canal Digital principle that emphasizing some price components while hiding others is misleading applies equally under CRD. The requirement that information be provided "directly before the consumer places his order" means usage limit information must be accessible at point of purchase, not buried in linked documents or communicated only after subscription. The "plain and intelligible language" standard incorporates substantive transparency requirements established by CJEU jurisprudence—information must enable consumers to understand economic consequences, not merely be grammatically comprehensible.
+- Evidence:
+  - Article 8(1) CRD text: information must be provided "in a way appropriate to the means of distance communication used in plain and intelligible language"
+  - Article 8(2) CRD: for electronic contracts placing consumers under payment obligations, traders must make consumers aware "in a clear and prominent manner, and directly before the consumer places his order" of specified information including price
+  - C-611/14 Canal Digital ¶45-46: emphasizing some price components while hiding others constitutes misleading practice—principle applies to CRD information requirements
+  - Application: Prominently displaying subscription prices while burying vague usage limit references in terms of service violates "clear and prominent manner" requirement
+  - "Directly before the consumer places his order": usage limit information must be accessible at point of purchase, not only in post-purchase communications
+  - Plain intelligible language standard: incorporates CJEU substantive transparency jurisprudence (Kásler, RWE Vertrieb)—must enable understanding of economic consequences
+  - Violation: Undefined baseline claims cannot satisfy plain intelligible language standard because consumers cannot understand what they are purchasing
 
 **9. Comparative Advertising Directive Art 4(c) - Non-Verifiable Comparisons**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: Directive 2006/114/EC Article 4(c) requires comparative advertising "objectively compares one or more material, relevant, **verifiable and representative** features of those goods and services, which may include price." The verifiability requirement is central—comparison claiming "5x more" cannot be verified without: (1) specification of what is being measured; (2) specification of baseline quantity; (3) specification of comparison quantity; (4) methodology for measurement; (5) evidence supporting claimed ratio. Claims of "5x your free tier usage" or "20x higher usage limits" fail verifiability because baseline is undefined. Even if trader internally calculates a ratio, consumers and enforcement authorities cannot verify claim without knowing what "1x" represents. This differs from verifiable comparative claims such as "5x faster processing speed" (speed measurable against specified benchmarks) or "contains 5x more vitamin C than product X" (content chemically analyzable against specified comparator). Comparison is also not "objective"—when baseline varies dynamically, is determined by unspecified "system conditions," or remains entirely unpublished, comparison lacks objectivity because different consumers at different times may experience different ratios, and no consumer can determine whether they received claimed multiple.
+- Evidence:
+  - Directive 2006/114/EC Article 4(c) text: comparative advertising must "objectively compares one or more material, relevant, **verifiable and representative** features... which may include price"
+  - Verifiability requirements: comparison must specify (a) what is measured; (b) baseline quantity; (c) comparison quantity; (d) measurement methodology; (e) supporting evidence
+  - Failure of "5x more" claims: baseline undefined, making verification mathematically impossible
+  - Contrast with verifiable claims: "5x faster processing" (measurable benchmarks), "5x more vitamin C than X" (chemical analysis against comparator)
+  - Objectivity requirement failure: when baseline varies dynamically or depends on "system conditions," comparison lacks objective criteria
+  - Consequence: Different consumers at different times may experience different ratios—no consumer can determine if received claimed multiple
+  - Enforcement implication: Even if trader has internal ratio calculations, verification requires baseline disclosure to consumers and authorities
 
 **10. DSA Art 14 & 25 - Terms Transparency & Dark Patterns**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]], [[EU-Enforcement-Actions-Step3.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: Article 14(1) DSA requires providers "include information on any restrictions that they impose in relation to the use of their service" in terms and conditions, which must be "set out in clear, plain, intelligible, user-friendly and unambiguous language." Usage limits constitute restrictions on service use requiring clear specification. Terms stating "additional usage limits apply" (Anthropic) or "limits may vary based on system conditions" (OpenAI) without further specification fail the "clear, plain, intelligible, user-friendly and unambiguous language" standard. The "user-friendly" language requirement suggests consumer-oriented presentation, not merely legal compliance—average consumers must understand and apply restrictions to their usage patterns. Article 25(1) DSA prohibits designing, organizing or operating online interfaces "in a way that deceives or manipulates... or otherwise materially distorts or impairs the ability... to make free and informed decisions." Recital 67 specifies this includes "giving more prominence to certain choices" and "making certain choices more difficult or time-consuming." Pricing pages prominently displaying monthly costs while omitting/minimizing usage limit information constitute "giving more prominence" that distorts decision-making. Burying vague usage limit references in lengthy terms accessed through small-print links while subscription button is prominent constitutes making "certain choices more difficult" (accessing limit information) while facilitating others (subscribing without full information).
+- Evidence:
+  - DSA Article 14(1) text: providers must "include information on any restrictions that they impose in relation to the use of their service" in terms that "shall be set out in clear, plain, intelligible, user-friendly and unambiguous language"
+  - Usage limits = restrictions on service use requiring clear specification
+  - "User-friendly" language: consumer-oriented presentation standard—average consumers must be able to understand and apply restrictions
+  - Article 14(1) algorithmic disclosure: "policies, procedures, measures and tools used for the purpose of content moderation, including algorithmic decision-making"—extends to algorithmic rate-limiting enforcement
+  - DSA Article 25(1) text: prohibits online interfaces that "deceive or manipulate... or otherwise materially distort or impair the ability... to make free and informed decisions"
+  - Recital 67 DSA: includes "giving more prominence to certain choices through visual, auditory, or other components... making certain choices more difficult or time-consuming... and deceiving the recipients of the service"
+  - Dark pattern identified: Pricing pages prominently display monthly costs (large, bold, highlighted) while omitting/minimizing usage limits
+  - Dark pattern identified: Vague limit references buried in lengthy terms accessed via small-print links, while subscription purchase button prominent/accessible
+  - Commission 2023 CPC Network sweep: 97% of popular websites/apps in EU employed at least one dark pattern
+  - Commission behavioral studies: "interfaces designed to manipulate purchases" through "hidden information" constitute common dark pattern violations
 
 **11. AI Act Art 13 - Performance Limitations Disclosure**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]]
