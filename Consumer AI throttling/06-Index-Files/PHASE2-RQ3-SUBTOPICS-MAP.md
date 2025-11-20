@@ -448,29 +448,116 @@
 ### **Call-Based Pricing - Problems**
 
 **22. Information Asymmetry (Variable Complexity)**
-- Found in: [[Call-Based/RQ1-Information-Asymmetry.md]]
-- Main argument: [PLACEHOLDER - Hidden backend optimization affects pricing]
-- Evidence: [PLACEHOLDER]
+- Found in: [[call-based-pricing.md]], [[Call-Based/RQ1-Information-Asymmetry.md]], [[executive-summary.md]]
+- Main argument: Call-based pricing creates information asymmetry through "pricing transparency paradox"—unit costs appear transparent ($0.01 per API call) but total cost prediction requires forecasting usage, information consumers typically lack. Research shows "consumers consistently underestimated prices" in situations where price awareness is low. When calls vary substantially in computational cost, flat per-call pricing creates hidden cross-subsidization: simple query and complex computation both costing one "call" obscures actual resource consumption asymmetry. Providers hold aggregate usage data enabling accurate cost prediction; individual consumers lack this information advantage. Call-based pricing RQ1 doc (line 31) states asymmetry where "providers have aggregate usage data; individual consumers do not." Executive summary (lines 184-185) identifies key weakness: "Inefficient when calls vary substantially in cost or value" creating systematic value-cost misalignment consumers cannot detect.
 
-**23. Value-Cost Misalignment**
-- Found in: [[Call-Based/RQ2-Value-Cost-Alignment.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Counter-arguments & qualifications:
+  - Unit pricing transparency genuine benefit: "87% of consumers more likely to purchase from brands with clear, upfront pricing" (RQ1 doc, line 26)
+  - Call-based pricing (lines 15): "Exceptional cognitive simplicity—each call costs a known, fixed amount. This reduces mental accounting burden compared to token-based systems requiring complex calculations"
+  - Simplicity enables budget planning: "The fixed cost per call enables precise budget forecasting if usage volumes are predictable" (lines 38-39)
+  - Executive summary (lines 178-181): Strengths include "Exceptional simplicity and transparency," "Low lock-in and switching costs," "Predictable per-use costs," "Easy cross-provider comparison"
+  - Cross-provider comparison easier: Per-call rates directly comparable ("Provider A: $0.03/call, Provider B: $0.05/call") without complex calculations (lines 90-91)
+  - Asymmetry exists in ALL pricing models: Subscription users also cannot predict future utility; token-based requires even more technical knowledge
+  - Educational tools mitigate: Usage dashboards, cost alerts, historical analytics can reduce information gap
 
-**24. Behavioral Effects**
-- Found in: [[Call-Based/RQ3-Behavioral-Effects.md]]
-- Main argument: [PLACEHOLDER - Numerous small charges obscure cumulative costs]
-- Evidence: [PLACEHOLDER]
+- Sources acknowledge tension: Call-based pricing doc section "Pricing Transparency Paradox" explicitly frames model as creating transparency at unit level BUT "opacity in total costs" (RQ1 doc line 21-23). States "transparent unit pricing appears straightforward" YET "combination of variable usage patterns, cognitive biases, and asymmetric information...results in systematic welfare losses" (RQ1 doc lines 14-15). RQ1 doc (line 36) concludes "Welfare Impact: Medium-negative. Transparency at unit level masks complexity at decision level"—acknowledges genuine transparency exists but insufficient for optimal decisions. Executive summary lists both "Exceptional simplicity and transparency" (strength) AND "Inefficient when calls vary substantially" (weakness)—acknowledges model works well for homogeneous services, poorly for heterogeneous.
 
-**25. Market Structure Issues**
-- Found in: [[Call-Based/RQ4-Market-Structure.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Evidence:
+  - RQ1 doc (lines 31-34): "Unit pricing ($0.01 per API call, $3 per million tokens) appears transparent. Total cost prediction requires forecasting usage—information consumers typically lack. Asymmetry: providers have aggregate usage data; individual consumers do not"
+  - RQ1 doc (lines 27-28): "Price intransparency detrimental to consumer decision-making and associated with market failure when consumers cannot predict aggregate costs"
+  - Call-based pricing (lines 24-25): "Fairness perceptions deteriorate when calls vary substantially in computational cost. A simple query and a complex computation both costing one 'call' feels unfair to sophisticated users who recognize the cost asymmetry"
+  - Call-based pricing (lines 57-59): "This efficiency breaks down when calls vary in cost. Simple calls generate high margins while complex calls may be unprofitable at fixed rates. This creates cross-subsidization where profitable calls fund unprofitable ones, distorting incentives"
+  - Executive summary (lines 184): "Inefficient when calls vary substantially in cost or value"
+  - RQ1 doc (lines 26-27): BUT "87% of consumers more likely to purchase from brands with clear, upfront pricing" and "Transparent pricing reduces cognitive dissonance"
 
-**26. Sustainability Risks**
-- Found in: [[Call-Based/RQ5-Sustainability-Risks.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+**23. Value-Cost Misalignment (Cross-Subsidization)**
+- Found in: [[call-based-pricing.md]], [[executive-summary.md]]
+- Main argument: Call-based flat per-call pricing creates systematic value-cost misalignment when calls vary in computational complexity or user value. Simple calls generate high margins while complex calls may be unprofitable at fixed rates, driving cross-subsidization where profitable calls fund unprofitable ones. This distorts incentives—sophisticated users making simple calls overpay (subsidizing complex users), while power users making complex calls extract disproportionate value (being subsidized). Call-based pricing doc (lines 57-59) states efficiency "breaks down when calls vary in cost" creating "cross-subsidization where profitable calls fund unprofitable ones, distorting incentives and reducing allocative efficiency." This misalignment becomes more severe as service heterogeneity increases. Executive summary notes call-based creates "Limited price discrimination capability"—cannot capture value from high-value calls while remaining competitive for low-value calls, leaving surplus on table or losing market segments.
+
+- Counter-arguments & qualifications:
+  - Misalignment only problematic for heterogeneous services: "Highly homogeneous services (e.g., simple lookups) suffer minimal efficiency loss" (call-based pricing lines 59)
+  - Call-based pricing (lines 55-56): Model "creates allocative efficiency when computational costs are uniform across calls. If all API calls impose similar resource burdens, per-call pricing approximates marginal cost pricing"
+  - Cross-subsidization can be welfare-improving: Heavy users who extract more value paying similar rates increases total accessibility—more users can afford service
+  - Simplicity benefit outweighs efficiency loss: Complexity-adjusted pricing requires user sophistication and creates decision paralysis—flat rate enables broader adoption
+  - Volume tiers partially address: "Providers can offer volume tiers (decreasing per-call rates for high volumes), creating second-degree price discrimination" (lines 63-64)
+  - Executive summary (lines 175-177): "Optimal for: Homogeneous services, commodity API markets, users preferring simplicity"—acknowledges model appropriate for certain contexts
+  - Market evolution solves naturally: Services with high heterogeneity naturally transition to token-based or tiered pricing—call-based remains for commodity markets where it works well
+
+- Sources acknowledge tension: Call-based pricing doc section "Cost-Price Alignment and Efficiency" (lines 53-59) explicitly states model "creates allocative efficiency when computational costs are uniform" BUT "efficiency breaks down when calls vary in cost"—conditional assessment based on service characteristics. States "The deadweight loss from this misalignment depends on call heterogeneity" (line 59)—acknowledges problem severity varies, not universal. Executive summary lists "Inefficient when calls vary substantially" as weakness (line 184) while also listing "Optimal for: Homogeneous services" (line 175)—acknowledges context-dependency, not blanket condemnation. Call-based pricing doc (lines 136-139) notes "market trajectory suggests call-based pricing represents a transitional phase" as heterogeneity increases—acknowledges model's limitations drive evolution, not that it's inherently flawed.
+
+- Evidence:
+  - Call-based pricing (lines 57-59): "This efficiency breaks down when calls vary in cost. Simple calls generate high margins while complex calls may be unprofitable at fixed rates. This creates cross-subsidization where profitable calls fund unprofitable ones, distorting incentives and reducing allocative efficiency"
+  - Call-based pricing (lines 64-66): "This uniform pricing leaves consumer surplus on the table. High-value users who would pay more for complex calls pay the same rate as low-value users making simple calls"
+  - Executive summary (lines 184-185): Weaknesses include "Inefficient when calls vary substantially in cost or value" and "Limited price discrimination capability"
+  - Call-based pricing (lines 138-139): "Many markets transition from call-based to token-based or tiered pricing as heterogeneity increases. The LLM API market exemplifies this—early simple models used call-based, but token-based pricing emerged to handle variable query complexity"
+  - Call-based pricing (lines 55-56): BUT "Call-based pricing creates allocative efficiency when computational costs are uniform across calls"—efficiency exists for homogeneous services
+
+**24. Behavioral Effects (Cumulative Cost Obscurity & Loss Aversion)**
+- Found in: [[call-based-pricing.md]], [[Call-Based/RQ3-Behavioral-Effects.md]], [[executive-summary.md]]
+- Main argument: Call-based pricing creates dual behavioral problems: (1) numerous small charges obscure cumulative costs leading to bill shock, and (2) loss aversion (coefficient ~2.25) causes each per-call payment to feel like loss, inhibiting beneficial experimentation. Call-based pricing doc (lines 18-19) states "simplicity can obscure total costs when usage is high. Consumers may underestimate cumulative expenses from many small charges, leading to bill shock when monthly invoices arrive." RQ3 behavioral doc (lines 36-38) documents loss aversion effect: "Each usage triggers loss (payment), inhibiting experimentation. Multiplying by 2.25 loss aversion coefficient: $1 charge feels like $2.25 loss...Result: underutilization relative to optimal consumption." Executive summary (line 186) identifies "May obscure total costs through numerous small charges" as key weakness. This creates paradox: per-call transparency at moment of transaction BUT cumulative opacity over billing period. Result is systematic underconsumption of valuable experimentation (loss aversion) combined with occasional bill shock (cumulative miscalculation).
+
+- Counter-arguments & qualifications:
+  - Call-based avoids sunk cost trap: "Unlike credit-based systems, call-based pricing avoids sunk cost dynamics since no prepayment occurs" (call-based pricing lines 44-45)
+  - Maintains rational decision-making: "Users commit only per-call, maintaining flexibility without psychological pressure to 'use purchased credits.' This reduces commitment bias and enables more rational ongoing usage decisions" (lines 45-46)
+  - Bill shock less severe than measured pricing: Fixed per-call cost more predictable than variable token consumption—at least transaction cost is known
+  - Usage tools mitigate obscurity: Real-time dashboards, spending alerts, usage forecasts can surface cumulative costs before bill arrives
+  - Loss aversion affects ALL usage-based models: Flat-rate subscription also triggers loss (monthly fee), just temporally separated from consumption
+  - Call-based pricing (lines 15-16): "Exceptional cognitive simplicity...reduces mental accounting burden compared to token-based systems requiring complex calculations or credit systems requiring balance tracking"
+  - Optimal for low-volume users: Occasional users benefit from no subscription commitment—only pay when actually using service
+
+- Sources acknowledge tension: Call-based pricing doc section "Simplicity and Mental Accounting" (lines 13-19) states model offers "exceptional cognitive simplicity" (line 13) BUT "simplicity can obscure total costs when usage is high" (line 18)—acknowledges transparency paradox. RQ3 behavioral doc (lines 46-49) explicitly contrasts "Overconsumption: Subscription models with perceived 'wasted' capacity" vs. "Underconsumption: Pay-per-use models due to loss aversion per transaction"—presents both as problems, neither as solution. Executive summary lists both "Exceptional simplicity and transparency" (strength) AND "May obscure total costs through numerous small charges" (weakness)—acknowledges simplicity creates BOTH benefits and risks depending on usage patterns.
+
+- Evidence:
+  - Call-based pricing (lines 18-19): "However, simplicity can obscure total costs when usage is high. Consumers may underestimate cumulative expenses from many small charges, leading to bill shock when monthly invoices arrive"
+  - RQ3 behavioral doc (lines 36-39): "Pay-Per-Use: Each usage triggers loss (payment), inhibiting experimentation. Multiplying by 2.25 loss aversion coefficient: $1 charge feels like $2.25 loss. Result: underutilization relative to optimal consumption"
+  - RQ3 behavioral doc (lines 22-26): "Mental accounting: people treat money differently based on how it's categorized. Loss aversion: losses weighted ~2.25x more than equivalent gains"
+  - Executive summary (lines 186-187): "May obscure total costs through numerous small charges"
+  - RQ3 behavioral doc (lines 151-154): "API Usage-Based: Each API call costs money, disincentivizing trial-and-error. Experimentation concentrated among well-funded organizations. Individual developers avoid 'wasting' credits on failed experiments"
+  - Call-based pricing (lines 44-46): BUT "call-based pricing avoids sunk cost dynamics since no prepayment occurs. Users commit only per-call, maintaining flexibility without psychological pressure"
+
+**25. Market Structure Issues (Commoditization & Margin Compression)**
+- Found in: [[call-based-pricing.md]], [[Call-Based/RQ4-Market-Structure.md]], [[executive-summary.md]]
+- Main argument: Call-based pricing accelerates commoditization by reducing services to comparable units—when all providers charge per-call for identical functions, differentiation collapses to price alone. This "intensifies competition and compresses margins toward marginal costs" (call-based pricing lines 97-98), creating race-to-bottom dynamic. Transparent per-call pricing enables easy cross-provider comparison ("Provider A: $0.03/call, Provider B: $0.05/call"), intensifying price competition. Executive summary (lines 187-188) identifies "Creates innovation disincentives (better service doesn't justify higher per-call charges)" as key problem—providers cannot charge premium for quality improvements when price structure is uniform per-call. This benefits consumers through lower prices short-term BUT "may undermine provider profitability and long-term innovation funding" (lines 98-99). RQ4 doc notes volume discounts "entrench large incumbents" (line 92) while infrastructure metering costs create barriers to entry—small providers disadvantaged on both pricing and technical requirements.
+
+- Counter-arguments & qualifications:
+  - Commoditization BENEFITS consumers: "This benefits consumers through lower prices" (call-based pricing line 99)
+  - Call-based pricing (lines 89-92): "Call-based pricing offers exceptional transparency—per-call rates are easily compared across providers. Customers can directly assess...without complex calculations. This transparency intensifies price competition"—competition benefit
+  - Executive summary (lines 169): "Market Structure: Intense price competition and commoditization"—acknowledges competitive benefits
+  - Innovation shifts to quality: "The race-to-bottom dynamic requires providers to differentiate through quality, reliability, or complementary services rather than pricing" (lines 99-100)—forces non-price competition
+  - Low barriers to entry: "Call-based pricing creates minimal lock-in compared to credit systems or tiered subscriptions. Users can switch providers instantly without forfeiting pre-purchased credits" (lines 108-109)
+  - Executive summary (lines 178-180): "Low lock-in and switching costs" enables competition—consumers not trapped with incumbent
+  - Commoditization appropriate for commodity services: Standardized API calls SHOULD be priced uniformly—differentiation through complexity-adjusted pricing when justified
+
+- Sources acknowledge tension: Call-based pricing doc section "Commoditization and Margin Pressure" (lines 95-100) explicitly states model "benefits consumers through lower prices" BUT "may undermine provider profitability and long-term innovation funding"—acknowledges trade-off between consumer welfare and provider sustainability. Executive summary lists "Intense price competition" under Market Structure (line 169) neutrally—doesn't frame as inherently good or bad. Call-based pricing doc (lines 130-131) states call-based "creates weak incentives for quality improvements" BUT also enables providers to "differentiate through quality, reliability, or complementary services"—acknowledges market adaptations exist. RQ4 doc (lines 88-90) notes "Volume Discounts: Large customers get better per-unit pricing. Small entrants cannot match pricing"—acknowledges incumbent advantages while maintaining call-based enables competition through transparency.
+
+- Evidence:
+  - Call-based pricing (lines 96-99): "Call-based pricing accelerates commoditization by reducing services to comparable units. When all providers charge per-call for identical functions, differentiation collapses to price. This intensifies competition and compresses margins toward marginal costs. This benefits consumers through lower prices but may undermine provider profitability and long-term innovation funding"
+  - Call-based pricing (lines 130-133): "Call-based pricing creates weak incentives for quality improvements. If better service still costs one call, providers capture no incremental revenue from enhancements. This drives competition toward cost reduction...rather than quality improvement. Innovation that reduces user calls...directly reduces provider revenue"
+  - Executive summary (lines 187-188): "Creates innovation disincentives (better service doesn't justify higher per-call charges)"
+  - RQ4 doc (lines 88-92): "Volume Discounts: Large customers get better per-unit pricing. Small entrants cannot match pricing for enterprise customers. Reinforces incumbent advantage"
+  - Call-based pricing (lines 89-91): BUT "Call-based pricing offers exceptional transparency—per-call rates are easily compared across providers...This transparency intensifies price competition"—benefits consumers
+
+**26. Sustainability Risks (Revenue Volatility & Investment Misalignment)**
+- Found in: [[call-based-pricing.md]], [[Call-Based/RQ5-Sustainability-Risks.md]]
+- Main argument: Call-based pricing creates revenue volatility that may disincentivize necessary long-term infrastructure investment, threatening sustainability. RQ5 doc (lines 36-39) identifies core problem: "Usage-based pricing creates volatile revenue streams. Makes long-term infrastructure investment decisions difficult. Providers may under-invest if uncertain about future demand." Infrastructure requires years-long planning horizons—global electricity demand from data centers could double by 2030, AI facilities requiring 30-50 kW/rack vs. 5-10 kW traditional, with $418 billion needed globally for adequate infrastructure—yet call-based pricing can change quarterly based on competitive dynamics. Call-based pricing doc (lines 82-83) states "revenue volatility tracks usage volatility. Unlike subscription models with stable monthly revenue, call-based systems experience demand fluctuations that create revenue unpredictability." This creates investment misalignment: infrastructure budgets require 15-25% of total IT spending with procurement lead times measured in months to years, while pricing flexibility enables rapid adjustments creating disconnect between investment timescale and revenue predictability.
+
+- Counter-arguments & qualifications:
+  - Call-based creates sustainable cost recovery: "Call-based pricing creates sustainable revenue models aligned with usage, ensuring cost recovery" (call-based pricing lines 184-185)
+  - Flat-rate alternatives create WORSE sustainability: Flat-rate sets marginal price to zero, driving overconsumption and "Tragedy of Digital Commons"—threatens infrastructure collapse
+  - RQ5 doc (lines 76-77): "Pay only for actual usage enables better resource allocation. Aligns consumption with value creation"—improves efficiency
+  - Measured pricing reduces waste: Usage-based models eliminate over-provisioning—"Reduces waste from over-provisioned capacity" (RQ5 line 78)
+  - Subscription creates misalignment too: Fixed subscriptions with unpredictable usage also create planning challenges—not unique to call-based
+  - Hybrid models address volatility: Base subscription fee provides revenue stability while usage component captures variable demand—best of both worlds
+  - Market forces drive appropriate investment: Providers experiencing capacity constraints raise prices or limit access, signaling need for investment—market mechanism works
+
+- Sources acknowledge tension: RQ5 doc explicitly frames revenue volatility as creating "long-term sustainability challenges" (line 16) BUT also acknowledges "Usage-Based Efficiency Gains" (line 75) stating usage-based "Aligns consumption with value creation. Reduces waste from over-provisioned capacity"—both sustainability risks AND efficiency benefits. Call-based pricing doc (lines 182-187) states model "creates sustainable revenue models aligned with usage, ensuring cost recovery" BUT "sustainability requires continuous price adjustments as costs change"—acknowledges sustainability conditional on pricing flexibility. RQ5 doc (lines 56-59) presents "Sustainability Implications" as trade-off: "Under-investment → capacity constraints → service degradation. Over-investment → excess costs → pressure to raise prices. Optimal investment requires stable, predictable revenue"—acknowledges all pricing models face investment challenges, not just call-based.
+
+- Evidence:
+  - RQ5 doc (lines 36-44): "Revenue Uncertainty: Usage-based pricing creates volatile revenue streams. Makes long-term infrastructure investment decisions difficult. Providers may under-invest if uncertain about future demand. Price vs. Capacity Tradeoff: Low pricing drives high demand, stressing infrastructure. OpenAI's 83% price reduction increased demand pressure. May require throttling, rate limiting to manage capacity. Investment Misalignment: Infrastructure requires years-long planning horizon. Pricing can change quarterly based on competitive dynamics"
+  - RQ5 doc (lines 24-33): "Exponential Demand Growth: Global electricity demand from data centers could more than double by 2030 due to AI workloads. AI-focused facilities require 30-50 kilowatts per rack vs 5-10 kW for traditional data centers. Investment Requirements: Approximately $418 billion needed globally to achieve universal broadband infrastructure"
+  - Call-based pricing (lines 82-83): "Revenue volatility tracks usage volatility. Unlike subscription models with stable monthly revenue, call-based systems experience demand fluctuations that create revenue unpredictability. This revenue risk may require higher margins to compensate"
+  - RQ5 doc (lines 52-54): "Infrastructure budgets typically 15-25% of total IT budget; for AI-focused initiatives, 40-60% of project budgets. Major infrastructure components have procurement lead times measured in months to years"
+  - Call-based pricing (lines 184-185): BUT "Call-based pricing creates sustainable revenue models aligned with usage, ensuring cost recovery"—sustainability when implemented well
 
 ### **Flat-Rate/Unlimited Pricing - Problems**
 
