@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+                "file": "Digital Fairness Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHASE1-DOCUMENT-INVENTORY"
+              "title": "Digital Fairness Proposal"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+                "file": "Digital Fairness Proposal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PHASE1-DOCUMENT-INVENTORY"
+              "title": "Outline of Digital Fairness Proposal"
             }
           },
           {
@@ -270,14 +270,14 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md"
+                "file": "Digital Fairness Proposal.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -345,12 +345,14 @@
   },
   "active": "aa5b2debaaebc673",
   "lastOpenFiles": [
-    "Consumer AI throttling/06-Index-Files/PHASE2-SOURCE-EXTRACTION.md",
+    "DFA Explanatory memo.md",
+    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
     "Consumer AI throttling/06-Index-Files/PHASE2-RQ2-SUBTOPICS-MAP.md",
+    "Consumer AI throttling/06-Index-Files/PHASE2-SOURCE-EXTRACTION.md",
+    "Consumer AI throttling/README.md",
     "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
     "Untitled 12.md",
     "Untitled 13.md",
-    "DFA Explanatory memo.md",
     "_page_110_Figure_1.jpeg",
     "Consumer AI throttling/00-Project-Meta/Outline/00 Throttling outline.md",
     "Unfair-average-consumer.md",
@@ -380,8 +382,6 @@
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-749-23 innogy Energie.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/Case law table.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/articles-interpreted.md",
-    "Consumer AI throttling/02-Analysis-Legal/Framework-Mapping/EU Consumer protection law and vague terms.md",
-    "!Archive/Materials/Legal sources/Case law/articles-interpreted.md",
     "Consumer AI throttling/06-Index-Files",
     "!Archive",
     "Consumer AI throttling/05-Drafts",

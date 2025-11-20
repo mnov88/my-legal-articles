@@ -28,18 +28,6 @@ In its resolution on 'the implementation and streamlining of EU internal market 
 
 In the Commission's consultation and engagement activities around the simplification agenda, stakeholders representing different interests have called for targeted amendments of certain
 
-[^1]: Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
-
-[^2]: Von der Leyen, U. (2024) *Europe's Choice: Political Guidelines for the Next European Commission 2024- 2029*. Available at: [e6cd4328-673c-4e7a-8683-f63ffb2cf648\\_en](https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en?filename=Political%20Guidelines%202024-2029_EN.pdf)
-
-[^3]: Draghi, M. (2024) *The future of European competitiveness*. Available at: [The Draghi report on EU](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)  [competitiveness](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)
-
-[^4]: Letta, E. (2024) *Much more than a market*. Available at: [Enrico Letta - Much more than a market \(April](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)  [2024\)](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)
-
-[^5]: European Council, Conclusions, EUCO 1/25, Brussels, 20 March 2025, paragraph. 13 6 European Council, Conclusions, EUCO 12/25, Brussels, 26 June 2025, paragraph 30 7 European Council, Conclusions, EUCO 18/25, Brussels, 23 October 2025, paragraphs 33 and 35
-
-[^8]: European Parliament, Resolution on the implementation and streamlining of EU internal market rules to strengthen the single market, 11 September 2025 (2025/2009/INI)
-
 digital rules, to both streamline compliance costs and clarify interplays between rules in their sector.
 
 With a value added of EUR 791 billion across the European Union in 2022[^9] , the ICT sector plays a crucial role in driving the EU's competitiveness across all sectors of the economy, both through the growth of digital businesses and offering key digital solutions across the board. Digital rules have been instrumental in framing a fair business environment in the EU. They established a true single market for digital services. The EU has pioneered digital regulation, and has set the golden standard for the highest level of protections for fundamental rights, consumer safety and the protection of European values.
@@ -54,10 +42,6 @@ In addition, the amendments to the Regulation (EU) 2024/1689 (the Artificial Int
 
 The Digital Omnibus also proposes a very clear solution for streamlining cybersecurity incident reporting, bringing under the umbrella of a single reporting mechanism all related reporting obligations.
 
-[^9]: Eurostat (2025) *Statistics explained : ICT sector – value added, employment and R&D*. Available at: [ICT](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D)  sector - [value added, employment and R&D -](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D) Statistics Explained - Eurostat
-
-[^10]: As per separate legal proposal
-
 Finally, the proposal repeals outdated rules in the area of platform regulation, superseded by more recent regulations.
 
 The amendments seek to streamline the rules, reducing the number or laws and harmonising provisions. They cut administrative costs by simplifying provisions and procedures. They relieve small mid-caps from certain obligations across the data legislation and Regulation (EU) 2024/1689 (the Artificial Intelligence Act[11\)](#page-3-0), in addition to small and micro-enterprises already covered by a special regime. They also stimulate opportunities for a vibrant business environment, creating more legal certainty and opportunities, in particular in sharing and reusing data, in processing personal data or training Artificial Intelligence systems and models.
@@ -71,8 +55,6 @@ As a second step in the commitment to 'stress-test' the digital rulebook, **the 
 The Digital Fitness Check is launched at the same time as the Omnibus proposal, with a wide public consultation. The Commission seeks to engage with all stakeholders and consult broadly. The objective is to follow up with an overview and a wide mapping of how the digital rulebook covers strategic sectors of the EU's industry, and address the how the cumulative effect of the rules impacts their competitiveness. On this basis, the analysis will go deeper in a second step on the synergies and areas that could be further aligned, ranging from definitions and legal concepts, to the effectiveness and interplay of the governance systems and other supporting measures.
 
 The 'stress-test' of the digital acquis will also continue through implementation dialogues, as well as with **evaluations of all of the main legal instruments**. In the current planning, among other initiatives, the Commission is expecting to publish in 2026 a review of the
-
-[^11]: As per separate proposal
 
 Digital Markets Act, of the Digital Decade Policy Programme, the Chips Act, the Audiovisual Media Services Directive, and an evaluation of the Copyright Directive. For 2027, the acts expected to be evaluated include, among others, the Cyber Solidarity Act, the Open Internet Regulation, NIS2 and the Digital Services Act. In 2028, the Commission should evaluate the European Media Freedom Act and the Data Act, for example, followed by an evaluation of the AI Act in 2029 and an evaluation of the sunset clause of the Regulation establishing the European Cybersecurity Competence Centre and Network.
 
@@ -158,8 +140,6 @@ The proposal includes technical amendments that are necessary to achieve the obj
 
 Several of the amendments presented in this Regulation pursue the simplification objective by primarily providing legal certainty and clarifying the application of the rules - for example as regards clarifications for data holders on protections for trade secrets in Regulation (EU) 2023/2854 (Data Act), or clarifications on training AI models and systems that include personal data regulated by Regulation (EU) 2016/679 (General Data Protection Regulation), or the notion of personal data in Regulation (EU) 2016/679 (General Data Protection Regulation) and Regulation (EU) 2018/1725. Some of the provisions seek to codify interpretations of the Court of Justice of the European Union, such as with regard to
 
-[^12]: Implementing Regulation (EU) 2013/138.
-
 pseudonymisation of personal data further clarified in Regulation (EU) 2016/679 (General Data Protection Regulation). As such, they include very targeted amendments to the rules, while expecting a high impact in providing legal certainty to businesses and investors.
 
 Amendments proposed in this Regulation also seek to cut direct costs on businesses and authorities, observing that the same regulatory objectives can be reached with lower burdens and ensuring the proportionality of the rules. For example, the mandatory regime for data intermediary services provided for in Regulation (EU) 2022/868 (Data Governance Act) is transformed into a voluntary, trust-enhancing regime in Regulation (EU) 2023/2854 (Data Act).
@@ -182,8 +162,6 @@ Most of the legislation under consideration in this proposal is relatively recen
 
 An exception from this is the 2023 preliminary review of Regulation (EU) 2019/1150 (the Platform to Business (P2B) Regulation[^13]) . The report observed initial positive effects when it
 
-[^13]: Commission Staff Working Document, Report from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of Regions on the first
-
 comes to contractual transparency for business users and due process in complaint-handling for instance. However, the report also evidenced that there was a lack of awareness among business users as well as providers of online intermediation services and of online search engines of their respective rights and obligations under Regulation (EU) 2019/1150 (P2B Regulation). This was also coupled to insufficient compliance with Regulation (EU) 2019/1150 (P2B Regulation) and led to a lack of implementation. Very limited complaints were received under Regulation (EU) 2019/1150 (P2B Regulation) until 2023. The report concluded that "the full potential of Regulation (EU) 2019/1150 (P2B Regulation) [was] not achieved at present". In the meantime, Regulation (EU) 2022/2065 (DSA) and Regulation (EU) 2022/1925 (DMA) started applying fully and have largely overtaken the provisions in Regulation (EU) 2019/1150 (P2B Regulation).
 
 # **• Stakeholder consultations**
@@ -197,16 +175,6 @@ A Call for Evidence on the Digital Omnibus was further published from 16 Septemb
 Executive Vice-President Henna Virkkunen hosted two implementation dialogues on the key topics addressed in the Digital Omnibus: the first on data policy[^18] (1 July 2025), and the second on cybersecurity policy[^19] (15 September).
 
 preliminary review on the implementation of Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services {SWD(2023) 300 final}
-
-[^14]: European Commission (2025) *Call for evidence on the Apply AI Strategy*. Available at: [Apply AI Strategy –](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en) [strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
-
-[^15]: European Commission (2025) *Call for evidence on the revision of the Cybersecurity Act.* Available at: [The](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)  [EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)
-
-[^16]: European Commission (2025) *Call for evidence on the European Data Union Strategy*. Available at: [European Data Union Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_en)
-
-[^17]: European Commission (2025) *Call for evidence on the digital package and omnibus*. Available at: Simplification – [digital package and omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus_en)
-
-[^18]: European Commission (2025) *Implementation dialogue – data policy*. Available at : [Implementation](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)  dialogue – data policy - [European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)
 
 Commissioner McGrath hosted an implementation dialogue on the application of the GDPR (16 July 2025).
 
@@ -227,10 +195,6 @@ As regards the Artificial Intelligence Act, stakeholders have pointed to the nee
 Finally, stakeholders have not been vocal about the impact of the Platform-to-Business Regulation, confirming the results of the interim evaluation report that the rules are neither well-known, nor effective in achieving their objective. This Regulation proposes a repeal of the Platform-to-Business rules, notably in light of their overlap with more recent rules.
 
 A detailed overview of these stakeholder consultations, and how they were reflected upon in the proposal, can be found in the Staff Working Document supporting the Digital Omnibus.
-
-[^19]: European Commission (2025) *Implementation dialogue on cybersecurity policy with Executive Vice-President Henna Virkkunen*. Available at: [Implementation dialogue on cybersecurity policy with Executive](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)  [Vice-President Henna Virkkunen -](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en) European Commission
-
-[^20]: EEN is the world's largest support network for small and medium-sized enterprises, and is implemented by the European Commission's European Innovation Council and SMEs Executive Agency (EISMEA).
 
 ## **• Collection and use of expertise**
 
@@ -425,12 +389,6 @@ Acting in accordance with the ordinary legislative procedure,
 - (1) In its Communication on a simpler and faster Europe[^24] , the Commission announced its commitment to an ambitious programme to promote forward-looking, innovative policies that strengthen the Union's competitiveness and radically lighten the regulatory load for people, businesses and administrations, while maintaining the highest standard in promoting the Union's values. Consequently, the Commission prioritised the proposal of immediate adjustments to legislation, including digital legislation, to address the competitiveness challenge of the Union.
 - (2) Union digital legislation sets high standard in the Union and can be a powerful source of competitive advantage for businesses that abide by the rules, showing a world-
 
-[^23]: OJ C […], […], p. […].
-
-[^21]: OJ C […], […], p. […]. <sup>22</sup> OJ C […], […], p. […].
-
-[^24]: Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
-
 leading mark of quality, safety and trustworthiness. Digital regulations have framed the clear rules of the game in the Union for responsible businesses, ensuring fairness and transparency in business-to-business relations, stimulating innovative business models, setting high standard of consumer protection and safety, and for the protection fundamental rights, not least privacy and data protection.
 
 - (3) Union digital legislation has evolved incrementally over the past years, in response to the rapidly growing footprint of digital technologies in the Union's economy and societal dynamic, and in view of addressing emerging challenges and promoting business opportunities in the EU. Notwithstanding the Commission's commitment to a systematic 'stress test' of the digital rules, along with other Union rules, which might lead to further regulatory adjustments notably following the forthcoming Digital Fitness Check, as well as other targeted evaluations of digital rules, immediate regulatory changes are necessary. Consequently, this Regulation proposes a first set of amendments to the digital legislative framework, aimed at providing immediate regulatory clarifications that stimulate innovation in the Union market, and that cut administrative compliance costs in particular for businesses, while also streamlining supervisory and administrative costs for supervisory authorities and advisory bodies. The amendments also seek to provide clarity to individuals.
@@ -438,28 +396,16 @@ leading mark of quality, safety and trustworthiness. Digital regulations have fr
 - (5) Acknowledging the iterative evolution of horizontal and sector-specific rules, it is indispensable to address also overlaps in specific provisions that result in unnecessary duplications of administrative burdens. This is the case in requirements across several rules for reporting following cybersecurity and related incidents, where digital solutions, as proposed in this Regulation, can bring an immediate relief to businesses across all concerned sectors.
 - (6) Similarly, with the iterative regulation of online platforms over the past years, more recent rules have established a clearer and more ambitious framework than some of the
 
-[^25]: REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
-
-[^26]: REGULATION (EU) 2023/2854 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act)
-
 predating rules, rendering them obsolete. It is therefore necessary that the legal framework evolves, eliminating any unnecessary duplications that add legal complexity.
 
 - (7) Regulation (EU) 2022/868 of the European Parliament and of the Council[^27] has established rules for intermediary functions in three different settings: (a) functions that support the re-use of protected data held by public sector bodies under controlled conditions; (b) data intermediation services that facilitate data sharing between data subjects, data holders and data users; and (c) data altruism organisations that support the use of data made available by data subjects and data holders on an altruistic or philanthropic basis. Functions supporting the re-use of protected data held by the public sector have a close link with rules of Directive (EU) 2019/1024 of the European Parliament and of the Council[^28]. Their interplay has caused confusion namely among public sector bodies. It is thus necessary to merge the two sets of rules. The evaluation of the rules on data intermediation services has shown that the definition of data intermediation service providers has weaknesses and that the rules are overly stringent for service providers to find a sustainable financial model. It is thus also necessary to streamline the regime. With respect to data altruism, certain rules of Regulation (EU) 2022/868, notably the obligation on Member States to have national policies on data altruism in place, the establishment of a 'rulebook' and developing a European data altruism consent form appear unnecessary regulation, also in light of on-going work by the European Data Protection Board referred to in Article 68 of Regulation (EU) 2016/679 of the European Parliament and of the Council[^29] on guidance on the processing of personal data in the context of scientific research.
 - (8) While the importance of data intermediation services is recognised in the context of many initiatives supporting data sharing and collaboration, the rules of Regulation (EU) 2022/868 on data intermediation service providers should be clarified. In particular, the definition of such providers should be made more precise. It should eliminate elements that served merely as illustrative examples, rather than exceptions. Moreover, it should address loopholes resulting from ambiguous formulations, notably as regards the notion of 'closed group'. Services should not be eligible to register as data intermediation services where they are exclusively used by a closed group of companies and where any extension of that group of companies can only be decided by that group and not the service provider. More importantly, making this emerging market subject to a compulsory regime has created unnecessary compliance costs. At this stage of market development, a voluntary regime, allowing neutral players to distinguish themselves from other players, appears sufficient. Also, in order to enable
-
-[^27]: Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (OJ L 152, 3.6.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/868/oj).
-
-[^28]: Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (OJ L 172, 26.6.2019, p. 56, ELI: http://data.europa.eu/eli/dir/2019/1024/oj).
-
-[^29]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI[: http://data.europa.eu/eli/reg/2016/679/oj\)](http://data.europa.eu/eli/reg/2016/679/oj).
 
 sustainable business models, the regime should be made less strict by abolishing the requirement for a legal separation between data intermediation services and other value-added services that a service should be allowed to offer, replacing it with a functional separation while keeping certain safeguards. The administrative monitoring regime should be simplified. Instead of national and a Union public register for data intermediation services providers and data altruism organisations, there should only be Union public registers, namely one for data intermediation service providers and another for data altruism organisations. Competent authorities overseeing the award of the label and the compliance of the entities with the requirements for obtaining it should be independent in this task. This should be understood to mean that they are legally and functionally independent from a data intermediation service or data altruism organisation, including at the level of their top-management. It should be possible for government organisations to financially support data intermediation services or data altruism organisations, in particular given the emerging nature of these entities, provided that they are legally separate entities. In order to ensure that recognised entities are easily identifiable throughout the Union, the Commission established Implementing Regulation (EU) 2023/1622 on the design of common logos to identify data intermediation services providers and data altruism organisations recognised in the Union. on the design of common logos to identify data intermediation services providers and data altruism organisations recognised in the Union.
 
 - (9) Regulation (EU) 2023/2854 removes barriers to data access and use, unlocks datadriven innovation and competitiveness, and safeguards the incentives of those who invest in data technologies.
 - (10) Chapter II of Regulation (EU) 2023/2854 requires data holders to make data available, including data protected as trade secrets, to users and their selected third parties, provided confidentiality measures established by the data holder are maintained. This requirement of maintaining confidentiality complements Directive (EU) 2016/943 of the European Parliament and of the Council [^30], which sets the standard for protecting trade secrets within the Union. However, disclosure of trade secrets to third-country entities may increase risks to their integrity and confidentiality where there is exposure to jurisdictions with inadequate protections or difficulties in their actual enforcement, potentially resulting in unauthorised use, economic damage and legal uncertainty.
 - (11) It is necessary to strengthen Regulation (EU) 2023/2854 by introducing an additional ground for data holders to refuse the disclosure of trade secrets, supplementing existing provisions which allow refusal based on the data holder's demonstration of a high likelihood of serious economic damage. Under the new provision, data holders may refuse to disclose trade secrets if they demonstrate a high risk of unlawful acquisition, use, or disclosure to entities subject to regimes with inadequate protection, non-equivalent, or weaker legal frameworks than the applicable Union rules. The new provision also covers instances where the third country legal framework, in theory, is
-
-[^30]: Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L [157, 15.6.2016, p.](https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:157:TOC) 1).
 
 - robust or exceeds such Union rules, but lacks appropriate enforcement in practice. Such risks highlight the possibility that trade secrets could be acquired, used, or disclosed in violation of Union law, threatening the integrity and confidentiality of trade secrets.
 - (12) The activation of the refusal mechanism should remain voluntary, and the demonstration done only upon its activation. Data holders should not be required to conduct a full-scale analysis or demonstration of the level of trade secret protection in third countries or by a third country entity as a precondition to be able to substantiate their refusal to sharing data or to disclose trade secrets. In their demonstration, data holders may take into consideration various factors, such as insufficient or inadequate legal standards, poor or arbitrary enforcement, historical infringements, foreign disclosure obligations conflicting with Union law, limited legal recourse or remedies for Union entities, the strategic misuse of procedural tactics to undermine competitors, or undue political influence. Given the diverse range of entities, third countries, and data sharing scenarios involved, data holders should focus their assessment and demonstration on pertinent risks and act accordingly, including by setting appropriate safeguards or activating the refusal mechanism. Refusals should be clear, proportionate, and tailored to the specific circumstances of each case, rather than being applied systematically or in a generalized manner across an entire third country.
@@ -471,14 +417,10 @@ sustainable business models, the regime should be made less strict by abolishing
 - (16) In order to mitigate legal uncertainties that could discourage innovative business models, it is necessary to address the substantial compliance ambiguities and burdens associated with the provisions on smart contracts executing data sharing agreements under Article 36 of Regulation (EU) 2023/2854. The absence of harmonised standards and clear definitions for key concepts such as 'robustness', 'access control', and 'consistency with contractual terms', combined with the requirement for a 'safe termination or interruption mechanism' potentially incompatible with decentralised or public blockchain architectures built on immutable ledgers, posed challenges to innovators from a cost and opportunity perspective. Additionally, the ambiguity surrounding the performance of the conformity assessment under Article 36(2) of that Regulation risks imposing disproportionate burdens. The elimination of Article 36 of Regulation (EU) 2023/2854 would therefore promote the development and market introduction of new business models, foster innovation, and reduce barriers for emerging technologies.
 - (17) Certain data processing services, which do not fall within the Infrastructure as a Service (IaaS) delivery model, are custom-made to the needs or ecosystem of a customer. The provision of such data processing services is based on time-intensive pre-contractual and contractual negotiations to determine the specific requirements of
 
-[^31]: Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164, ELI: http://data.europa.eu/eli/reg/2009/223/oj).
-
 the customer and subsequent technical efforts to customise the data processing service and to deliver a tailored solution. Those are services not provided off-the-shelf and are personalised to the needs of a customer to provide a tailored solution where the majority of features and functionalities of the data processing service has been adapted by the provider to the specific needs of the customer where the majority of features and functionalities would not be usable for a customer without prior adaptation by the provider. Those services differ from custom-built data processing services referred to in Article 31(1) of Regulation (EU) 2023/2854. Custom-built data processing services are services of which the majority of main features has been custom-built to accommodate the specific needs of an individual customer or where those data processing services are not offered at broad commercial scale via the service catalogue of the provider. To avoid additional costs and administrative burden connected to the need to reopen and renegotiate contracts concluded before or on 12 September 2025, it is necessary to clarify that, with the exception of the obligation to reduce and ultimately remove switching and egress charges, custom-made services provided according to contracts concluded before or on 12 September 2025 should not fall within scope of Chapter VI of Regulation (EU) 2023/2854.
 
 - (18) For reasons relating to financial planning and attracting investment, providers of data processing services, especially SMEs and SMCs, may prefer and offer contracts of a fixed duration. It is necessary to clarify that providers of data processing services may include provisions on proportionate early termination penalties in those contracts as long as they do not constitute an obstacle to switching. In addition, providers of data processing services that are SMEs or SMCs are particularly burdened by the need to align existing contracts for the provision of data processing services to Regulation (EU) 2023/2854. It is therefore necessary to establish a specific regime for those providers if they provide data processing services, other than IaaS, based on contracts concluded before or on 12 September 2025. Taking into account the aim of Regulation (EU) 2023/2854 to enable switching between data processing services and given that switching charges, including egress charges, constitute a serious obstacle to switching, the new lighter regimes for data processing services that are custom-made or are provided by SMEs or SMCs should not undermine the gradual withdrawal of those charges. Contractual provisions running contrary to that objective should be considered to never have existed, if they are included in contractual agreements on the provision of services falling within the scope of those two new specific regimes.
 - (19) Regulation (EU) 2018/1807 of the European Parliament and of the Council[^32] introduced a key principle for supporting the data-driven economy within the Union, underpinning in concrete terms the freedom of establishment and freedom to provide a service. 'Free flow of data' in the Union, clarified through the prohibition to impose data localisation, remains a fundamental principle, providing legal certainty to businesses, and should be retained in Regulation (EU) 2023/2854. The provision does not affect the data processing in so far as it is carried out as part of an activity which
-
-[^32]: Regulation (EU) 2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the free flow of non-personal data in the European Union (OJ L 303, 28.11.2018, p. 59, ELI: http://data.europa.eu/eli/reg/2018/1807/oj).
 
 falls outside the scope of Union law, in particular as regards national security, in accordance with Article 4 of the Treaty on European Union. At the same time, other provisions of Regulation (EU) 2018/1807 are superseded by more recent rules. Notably, Chapter VI of Regulation (EU) 2023/2854 introduced a modern horizontal legal framework addressing switching between data processing services and rendered Article 6 of Regulation (EU) 2018/1807 practically obsolete. The co-existence of those provisions has increased legal complexity for businesses. Therefore, Regulation (EU) 2018/1807 should be repealed.
 
@@ -494,16 +436,10 @@ documents and the context of their reuse. Public sector bodies should apply the 
 - (26) In the spirit of fostering innovation and maintaining fair competition within the Union's digital market, it is imperative to ensure that access to and reuse of public sector data benefit a wide range of market participants and do not inadvertently reinforce existing dominant positions. Very large enterprises, and in particular undertakings designated as gatekeepers under Regulation (EU) 2022/1925, hold significant power and influence over the internal market. To prevent such entities from leveraging their substantial means to the detriment of fair competition and innovation, public sector bodies should be able to set out higher charges and fees for the re-use of open government data and protected data. Such higher charges and fees should be proportionate and should be based on objective criteria, taking into consideration the economic power and the entity's ability to acquire data. This measure serves to safeguard opportunities for smaller businesses and new market entrants to innovate and compete in the digital economy.
 - (27) This Regulation proposes a series of targeted amendments to Regulation (EU) 2016/679 for clarification and simplification, whilst preserving the same level of data protection. Article 4 of Regulation (EU) 2016/679 provides that personal data is any information relating to an identified or identifiable natural person. In order to
 
-[^33]: Commission Recommendation of 6 May 2003 concerning the definition of micro, small and mediumsized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
-
-[^34]: Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 12.10.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/1925/oj).
-
 determine whether a natural person is identifiable, account should be taken of all the means reasonably likely to be used to identify the natural person directly or indirectly. Taking into account the case-law of the Court of Justice of the European Union concerning the definition of personal data, it is necessary to provide further clarity on when a natural person should be considered to be identifiable. The existence of additional information enabling the data subject to be identified does not, in itself, mean that pseudonymised data must be regarded as constituting, in all cases and for every person or entity, personal data for the purposes of the application of Regulation (EU) 2016/679. In particular, it should be clarified that information is not to be considered personal data for a given entity where that entity does not have means reasonably likely to be used to identify the natural person to whom the information relates. A potential subsequent transmission of that information to third parties who have means reasonably allowing them to identify the natural person to whom the information relates, such as cross-checking with other data at their disposal, renders that information personal data only for those third parties who have such means at their disposal. An entity for which the information is not personal data, in principle, does not fall within the scope of application of Regulation (EU) 2016/679. In this respect the Court of Justice of the European Union has held that a means of identifying the data subject is not reasonably likely to be used where the risk of identification appears in reality to be insignificant, in that the identification of that data subject is prohibited by law or impossible in practice, for example because it would involve a disproportionate effort in terms of time, cost and labour. An example of a prohibition against reidentification can be found in the obligations of health data users in Article 61(3) of Regulation (EU) 2025/327 of the European Parliament and of the Council[35.](#page-32-0) The Commission, together with the European Data Protection Board, should support controllers in the application of this updated definition by stipulating technical criteria in an implementing act.
 
 - (28) In order to assess whether research meets the conditions of scientific research for the purpose of this Regulation, account can be taken of elements such as methodological and systematic approach applied while conducting the research in the specific area. Research and technology development should be conducted in academic, industry and other settings, including small and medium-sized undertakings, (Article 179(2) TFEU) and should be always of a of high quality and should adhere to the principles of principles of reliability, honesty, respect and accountability (verifiability).
 - (29) It should be reiterated that further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes should be considered to be compatible lawful processing operations. In such cases it is not necessary to ascertain on the basis of Article 6(4) of this Regulation whether the purpose of the further processing is compatible with the purpose for which the personal data are initially collected.
-
-[^35]: Regulation (EU) 2025/327 of the European Parliament and of the Council of 11 February 2025 on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847 (OJ L, 2025/327, 5.3.2025, ELI: http://data.europa.eu/eli/reg/2025/327/oj)
 
 - (30) Trustworthy AI is key in providing for economic growth and supporting innovation with socially beneficial outcomes. The development and use of AI systems and the underlying models such as large language models and generative video models rely on data, including personal data, in various phases in the AI lifecycle, such as the training, testing and validation phase and may in some instances be retained in the AI system or the AI model. The processing of personal data in this context may therefore be carried out for purposes of a legitimate interest within the meaning of Article 6 of Regulation (EU) 2016/679, where appropriate. This does not affect the obligation of the controller to ensure that the development or use (deployment) of AI in a specific context or for specific purposes complies with other Union or national law, or to ensure compliance where its use is explicitly prohibited by law. It also does not affect its obligation to ensure that all other conditions of Article 6(1)(f) of Regulation (EU) 2016/679 as well as all other requirements and principles of that Regulation are met.
 - (31) When the controller, in the light of the risk-based approach which informs the scalability of the obligations under this Regulation, is balancing the legitimate interest pursued by the controller or a third party and the interests, rights and freedoms of the data subject, consideration should be given to whether the interest pursued by the controller is beneficial for the data subject and society at large, which may for instance be the case where the processing of personal data is necessary for detecting and removing bias, thereby protecting data subjects from discrimination, or where the processing of personal data is aiming at ensuring accurate and safe outputs for a beneficial use, such as to improve accessibility to certain services. Consideration should also, among others, be given to reasonable expectations of the data subject based on their relationship with the controller, appropriate safeguards to minimise the impact on data subjects' rights such as providing enhanced transparency to data subjects, providing an unconditional right to object to the processing of their personal data, respecting technical indications embedded in a service limiting the use of data for AI development by third parties, the use of other state of the art privacy preserving techniques for AI training and appropriate technical measures to effectively minimise risks resulting, for example, from regurgitation, data leakage and other intended or foreseeable actions.
@@ -529,10 +465,6 @@ of the kind of processing operations which are subject to the requirement for a 
 
 - (41) Regulation (EU) 2018/1725 of the European Parliament and of the Council[^36] applies to the processing of personal data by the Union institutions, bodies, offices and agencies. Directive (EU) 2016/680 of the European Parliament and of the Council[^37] applies to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties. Regulation (EU) 2018/1725 and Directive (EU) 2016/680 should be brough into alignment with the amendments to Regulation (EU) 2016/679 introduced by this Regulation.
 - (42) As clarified in recital 5 of Regulation (EU) 2018/1725, whenever the provisions of Regulation (EU) 2018/1725 follow the same principles as the provisions of Regulation (EU) 2016/679, those two sets of provisions should, under the case law of the Court of Justice of the European Union, be interpreted homogeneously. The scheme of Regulation (EU) 2018/1725 should be understood as equivalent to the scheme of Regulation (EU) 2016/679. Therefore, this Regulation also amends the provisions of Regulation (EU) 2018/1725 that are concerned by the amendments of Regulation (EU)
-
-[^36]: Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
-
-[^37]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89, ELI: http://data.europa.eu/eli/dir/2016/680/oj).
 
 - 2016/679, insofar as the latter amendments are also relevant in the context of the processing of personal data by the Union institutions, bodies, offices and agencies.
 - (43) In order to provide a strong and coherent data protection framework in the Union, the necessary adaptations of Directive (EU) 2016/680 and any other Union legal act applicable to such processing of personal data should follow after the adoption of this regulation, in order to allow for their application as close as possible to the entry into application of the amendments to Regulation (EU) 2016/679 and Regulation (EU) 2018/1725.
@@ -570,8 +502,6 @@ obligations through alternative means. For that purpose, addressees of incident 
 - (58) The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council[38,](#page-42-0) and delivered its opinion on [DATE]. The European Data Protection Board was consulted in accordance with Article 42(2) of Regulation (EU) 2018/1725 and delivered an opinion on [DATE].
 - (59) Regulation (EU) 2019/1150 establishes a targeted set of mandatory rules at Union level to ensure a fair, predictable, sustainable and trusted online business environment within the internal market. Regulation (EU) 2022/2065 and Regulation (EU) 2022/1925 provide a comprehensive regulatory framework for a safe, predictable and trusted online environments for all end-users of online services, and establish a level playing field for businesses in digital markets. In the interest of simplification of Union legislation in the field of online intermediation services and online platforms, and given that the objectives and material provisions of the Platform-to-Business Regulation are largely covered by the Digital Services Act and the Digital Markets Act, Regulation (EU) 2019/1050 should be repealed. Regulation (EU) 2022/2065 and Regulation (EU) 2022/1925 contribute to a fully harmonised regulatory framework for digital services and digital markets, by approximating national measures concerning the requirements for providers of intermediary services and the contestability and fairness of core platforms services provided by gatekeepers. For purposes of legal certainty, selected definitions in Article 2, the provisions on restrictions and suspensions in Article 4, as well as on the internal complaint-handling system in Article 11 of Regulation (EU) 2019/1150 that are cross-referenced by other legal acts, in particular Directive (EU) 2023/2831 on improving working conditions in platform work, and Article 15 ensuring enforcement, will temporarily remain in application until the original acts are amended.
 - (60) Given the technical nature of the amendments proposed in this Regulation and the urgency to deliver on a simplified legal framework, this Regulation should enter into force immediately after its publication in the Official Journal. As appropriate, transitional periods should be afforded for Member States and regulated entities to adjust to the rules.
-
-[^38]: Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
 
 # HAVE ADOPTED THIS REGULATION:
 
@@ -1779,8 +1709,6 @@ The amendments are compatible with the multiannual financial framework since the
 
 **EN** <sup>4</sup>**EN**
 
-[^39]: As referred to in Article 58(2), point (a) or (b) of the Financial Regulation.
-
 *1.5.5. Assessment of the different available financing options, including scope for redeployment* 
 
 N.A.
@@ -1810,8 +1738,6 @@ N.A.
 |      | bodies established in a Member State, governed by the private law of a Member<br>State or Union law and eligible to be entrusted, in accordance with sector-specific<br>rules, with the implementation of Union funds or budgetary guarantees, to the<br>extent that such bodies are controlled by public law bodies or by bodies governed<br>by private law with a public service mission, and are provided with adequate<br>financial guarantees in the form of joint and several liability by the controlling |
 
 **EN** <sup>6</sup> **EN**
-
-[^40]: Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: [https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget](https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx)[implementation/Pages/implementation-methods.aspx.](https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx)
 
 bodies or equivalent financial guarantees and which may be, for each action, limited to the maximum amount of the Union support.
 
@@ -1855,10 +1781,6 @@ New budget lines requested
 |                                                     |             |                        |                           |                                                                  |                                     |                           |  |
 |                                                     |             |                        |                           |                                                                  |                                     |                           |  |
 
-[^41]: Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations.
-
-[^42]: EFTA: European Free Trade Association. 43 Candidate countries and, where applicable, potential candidates from the Western Balkans.
-
 # **3.2. Estimated financial impact of the proposal on appropriations**
 
 *3.2.1. Summary of estimated impact on operational appropriations* 
@@ -1885,8 +1807,6 @@ EUR million (to three decimal places)
 | Budget line                                          |                                                                                                | (3)      |       |       |       |       | 0.000     |  |  |  |
 | TOTAL appropriations                                 | Commitments                                                                                    | =1a+1b+3 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000     |  |  |  |
 | for DG <>                                            | Payments                                                                                       | =2a+2b+3 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000     |  |  |  |
-
-[^44]: Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research.
 
 This section should be filled in using the 'budget data of an administrative nature' to be firstly inserted in the Annex to the Legislative Financial and Digital Statement (Annex 5<sup>45</sup> to the Commission Decision on the internal rules for the implementation of the Commission section of the general budget of the European Union), which is uploaded to DECIDE for interservice consultation purposes.
 
@@ -1939,8 +1859,6 @@ EUR million (to three decimal places)
 
 Payments =2a+2b+3 **0.000 0.000 0.000 0.000 0.000**
 
-[^46]: Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research.
-
 | Heading of multiannual financial framework               | 7 '1                                | Administrative expend | iture'4/ |       |                   |             |                   |  |
 |----------------------------------------------------------|-------------------------------------|-----------------------|----------|-------|-------------------|-------------|-------------------|--|
 |                                                          |                                     |                       |          |       | F                 | EUR million | (to three decima  |  |
@@ -1984,10 +1902,6 @@ Commitment appropriations in EUR million (to three decimal places)
 | Subtotal for specific objective No 1 |                            |                     |    |              |    |              |    |              |              |      |    |      |    |                                                                                         |    |      |             |               |
 |                                      | SPECIFIC OBJECTIVE No 2    |                     |    |              |    |              |    |              |              |      |    |      |    |                                                                                         |    |      |             |               |
 | -<br>Output                          |                            |                     |    |              |    |              |    |              |              |      |    |      |    |                                                                                         |    |      |             |               |
-
-[^48]: Outputs are products and services to be supplied (e.g. number of student exchanges financed, number of km of roads built, etc.).
-
-[^49]: As described in Section 1.3.2. 'Specific objective(s)'
 
 | Subtotal for specific objective No 2 |  |  |  |  |  |  |  |  |
 |--------------------------------------|--|--|--|--|--|--|--|--|
@@ -2035,8 +1949,6 @@ The proposal/initiative requires the use of human resources, as explained below
 | 20 01 02 01 (Headquarters and Commission's Representation Offices) | 0    | 0    | 0    | 0    |
 | 20 01 02 03 (EU Delegations)                                       | 0    | 0    | 0    | 0    |
 | 01 01 01 01 (Indirect research)                                    | 0    | 0    | 0    | 0    |
-
-[^50]: Please specify below the table how many FTEs within the number indicated are already assigned to the management of the action and/or can be redeployed within your DG and what are your net needs.
 
 | 01 01 01 11 (Direct research)                        |                                           |   | 0 | 0 | 0 |
 |------------------------------------------------------|-------------------------------------------|---|---|---|---|
@@ -2109,8 +2021,6 @@ requires a revision of the MFF
 |                                                                                                                    |                                                     |                                                                        |                                     |  |              |              |                                                         |  |  |
 
 **EN** <sup>3</sup> **EN**
-
-[^51]: As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20% for collection costs.
 
 26. […]
 
@@ -2500,3 +2410,95 @@ Article 32(e): Competent authorities notify the Commission electronically withou
 | Implementing act: Common template for<br>notifying a personal data breach                                                                           | Article 3 | Adopt a common<br>template based on<br>EDPB's proposal.                                                                                    | Examination<br>procedure<br>committee | // |
 | Delegated act: Automated and machine<br>readable indications of data subject's<br>choices                                                           | Article 3 | Set out obligation for web<br>browsers and providers of<br>terminal equipment                                                              | Examination<br>procedure<br>committee | // |
 | Implementing act: CER incident<br>notifications                                                                                                     | Article 9 | Further specifying the<br>type and format of<br>information notified<br>pursuant to Article 15(1)<br>of Directive (EU)<br>2022/2557 (CER). | //                                    | // |
+
+## Footnotes
+
+[^1]: Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
+
+[^2]: Von der Leyen, U. (2024) *Europe's Choice: Political Guidelines for the Next European Commission 2024- 2029*. Available at: [e6cd4328-673c-4e7a-8683-f63ffb2cf648\\_en](https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en?filename=Political%20Guidelines%202024-2029_EN.pdf)
+
+[^3]: Draghi, M. (2024) *The future of European competitiveness*. Available at: [The Draghi report on EU](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)  [competitiveness](https://commission.europa.eu/topics/eu-competitiveness/draghi-report_en)
+
+[^4]: Letta, E. (2024) *Much more than a market*. Available at: [Enrico Letta - Much more than a market \(April](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)  [2024\)](https://www.consilium.europa.eu/media/ny3j24sm/much-more-than-a-market-report-by-enrico-letta.pdf)
+
+[^5]: European Council, Conclusions, EUCO 1/25, Brussels, 20 March 2025, paragraph. 13 6 European Council, Conclusions, EUCO 12/25, Brussels, 26 June 2025, paragraph 30 7 European Council, Conclusions, EUCO 18/25, Brussels, 23 October 2025, paragraphs 33 and 35
+
+[^8]: European Parliament, Resolution on the implementation and streamlining of EU internal market rules to strengthen the single market, 11 September 2025 (2025/2009/INI)
+
+[^9]: Eurostat (2025) *Statistics explained : ICT sector – value added, employment and R&D*. Available at: [ICT](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D)  sector - [value added, employment and R&D -](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=ICT_sector_-_value_added,_employment_and_R%26D) Statistics Explained - Eurostat
+
+[^10]: As per separate legal proposal
+
+[^11]: As per separate proposal
+
+[^12]: Implementing Regulation (EU) 2013/138.
+
+[^13]: Commission Staff Working Document, Report from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of Regions on the first
+
+[^14]: European Commission (2025) *Call for evidence on the Apply AI Strategy*. Available at: [Apply AI Strategy –](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en) [strengthening the AI continent](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14625-Apply-AI-Strategy-strengthening-the-AI-continent_en)
+
+[^15]: European Commission (2025) *Call for evidence on the revision of the Cybersecurity Act.* Available at: [The](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)  [EU Cybersecurity Act](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14578-The-EU-Cybersecurity-Act_en)
+
+[^16]: European Commission (2025) *Call for evidence on the European Data Union Strategy*. Available at: [European Data Union Strategy](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_en)
+
+[^17]: European Commission (2025) *Call for evidence on the digital package and omnibus*. Available at: Simplification – [digital package and omnibus](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14855-Simplification-digital-package-and-omnibus_en)
+
+[^18]: European Commission (2025) *Implementation dialogue – data policy*. Available at : [Implementation](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)  dialogue – data policy - [European Commission](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-data-policy-2025-07-01_en)
+
+[^19]: European Commission (2025) *Implementation dialogue on cybersecurity policy with Executive Vice-President Henna Virkkunen*. Available at: [Implementation dialogue on cybersecurity policy with Executive](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en)  [Vice-President Henna Virkkunen -](https://commission.europa.eu/implementation-dialogues/implementation-dialogue-cybersecurity-policy-executive-vice-president-henna-virkkunen-2025-09-15_en) European Commission
+
+[^20]: EEN is the world's largest support network for small and medium-sized enterprises, and is implemented by the European Commission's European Innovation Council and SMEs Executive Agency (EISMEA).
+
+[^23]: OJ C […], […], p. […].
+
+[^21]: OJ C […], […], p. […]. <sup>22</sup> OJ C […], […], p. […].
+
+[^24]: Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions, A simpler and faster Europe: Communication on implementation and simplification, COM(2025)47 final, 11 February 2025
+
+[^25]: REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+
+[^26]: REGULATION (EU) 2023/2854 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act)
+
+[^27]: Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (OJ L 152, 3.6.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/868/oj).
+
+[^28]: Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (OJ L 172, 26.6.2019, p. 56, ELI: http://data.europa.eu/eli/dir/2019/1024/oj).
+
+[^29]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI[: http://data.europa.eu/eli/reg/2016/679/oj\)](http://data.europa.eu/eli/reg/2016/679/oj).
+
+[^30]: Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L [157, 15.6.2016, p.](https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:157:TOC) 1).
+
+[^31]: Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164, ELI: http://data.europa.eu/eli/reg/2009/223/oj).
+
+[^32]: Regulation (EU) 2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the free flow of non-personal data in the European Union (OJ L 303, 28.11.2018, p. 59, ELI: http://data.europa.eu/eli/reg/2018/1807/oj).
+
+[^33]: Commission Recommendation of 6 May 2003 concerning the definition of micro, small and mediumsized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
+
+[^34]: Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 12.10.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/1925/oj).
+
+[^35]: Regulation (EU) 2025/327 of the European Parliament and of the Council of 11 February 2025 on the European Health Data Space and amending Directive 2011/24/EU and Regulation (EU) 2024/2847 (OJ L, 2025/327, 5.3.2025, ELI: http://data.europa.eu/eli/reg/2025/327/oj)
+
+[^36]: Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+
+[^37]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89, ELI: http://data.europa.eu/eli/dir/2016/680/oj).
+
+[^38]: Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj).
+
+[^39]: As referred to in Article 58(2), point (a) or (b) of the Financial Regulation.
+
+[^40]: Details of budget implementation methods and references to the Financial Regulation may be found on the BUDGpedia site: [https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget](https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx)[implementation/Pages/implementation-methods.aspx.](https://myintracomm.ec.europa.eu/corp/budget/financial-rules/budget-implementation/Pages/implementation-methods.aspx)
+
+[^41]: Diff. = Differentiated appropriations / Non-diff. = Non-differentiated appropriations.
+
+[^42]: EFTA: European Free Trade Association. 43 Candidate countries and, where applicable, potential candidates from the Western Balkans.
+
+[^44]: Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research.
+
+[^46]: Technical and/or administrative assistance and expenditure in support of the implementation of EU programmes and/or actions (former 'BA' lines), indirect research, direct research.
+
+[^48]: Outputs are products and services to be supplied (e.g. number of student exchanges financed, number of km of roads built, etc.).
+
+[^49]: As described in Section 1.3.2. 'Specific objective(s)'
+
+[^50]: Please specify below the table how many FTEs within the number indicated are already assigned to the management of the action and/or can be redeployed within your DG and what are your net needs.
+
+[^51]: As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20% for collection costs.
