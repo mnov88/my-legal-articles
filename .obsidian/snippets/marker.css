@@ -1,36 +1,53 @@
-/* Serif Reader - Kindle/iBooks inspired reading mode */
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+/* Butterick Legal Typography - Theme-respecting version with dividers */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400&display=swap');
 
-/* Apply only to Reading View */
 .markdown-preview-view {
-  font-family: 'Lora', 'Georgia', 'Times New Roman', serif;
-  font-size: 19px;
-  line-height: 1.7;
-  max-width: 680px;
+  /* Font: Professional serif optimized for long-form reading */
+  font-family: 'Crimson Pro', 'Charter', 'Georgia', serif;
+  
+  /* Point size: 10–12pt for print, translates to ~18px for screen */
+  font-size: 18px;
+  
+  /* Line spacing: 120–145% of point size (Butterick's key rule) */
+  line-height: 1.40;
+  
+  /* Line length: 45–90 characters (2-3 alphabets) */
+  max-width: 650px;
+  
+  /* Page margins: Generous for professional appearance */
   margin: 0 auto;
-  padding: 4rem 2rem;
-  color: #2b2b2b;
-  background-color: #faf8f5;
+  padding: 4rem 2.5rem;
+  
+  /* REMOVED: Let theme control background/color */
+  /* background-color and color now inherit from theme */
+  
+  /* Anti-aliasing for clean rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  
+  /* Butterick rule: Avoid straight quotes - browser handles this */
+  quotes: """ """ "'" "'";
+  
+  /* Butterick rule: Hyphenation for better justification (optional) */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
 
-/* Dark mode adjustments */
-.theme-dark .markdown-preview-view {
-  color: #d4d4d4;
-  background-color: #1e1e1e;
-}
+/* ===== BODY TEXT: The most important element ===== */
 
-/* Paragraph spacing with first-line indent (book style) */
+/* Paragraphs: First-line indent (1-4× point size, per Butterick) */
 .markdown-preview-view p {
   margin-top: 0;
-  margin-bottom: 0.8em;
-  text-align: justify;
-  text-justify: inter-word;
-  orphans: 3;
-  widows: 3;
+  margin-bottom: 0;
+  text-align: left;
+  /* Butterick rule: Avoid "rivers" of whitespace in justified text */
+  text-align: left; /* NOT justified unless hyphenation is excellent */
 }
 
 .markdown-preview-view p + p {
-  text-indent: 1.5em;
+  text-indent: 1.5em; /* ~27px = 1.5× the 18px point size */
 }
 
 /* Remove indent after headings, lists, blockquotes */
@@ -40,109 +57,351 @@
 .markdown-preview-view h4 + p,
 .markdown-preview-view ul + p,
 .markdown-preview-view ol + p,
-.markdown-preview-view blockquote + p {
+.markdown-preview-view blockquote + p,
+.markdown-preview-view hr + p,
+.markdown-preview-view table + p,
+.markdown-preview-view pre + p {
   text-indent: 0;
 }
 
-/* Headings with refined hierarchy */
-.markdown-preview-view h1 {
-  font-size: 2.2em;
+/* ===== HEADINGS: Hierarchical with elegant dividers ===== */
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4 {
   font-weight: 600;
-  line-height: 1.3;
-  margin-top: 2.5em;
-  margin-bottom: 0.6em;
+  line-height: 1.25;
+  margin-bottom: 0.75em;
+  /* Butterick: Avoid excessive letterspacing except for all-caps */
   letter-spacing: -0.02em;
+  /* Butterick rule: Space above > space below for headings */
+  page-break-after: avoid;
 }
 
-.markdown-preview-view h2 {
-  font-size: 1.65em;
-  font-weight: 600;
-  line-height: 1.35;
-  margin-top: 2em;
+/* H1: Major section with substantial divider */
+.markdown-preview-view h1 {
+  font-size: 2em; /* 36px */
+  margin-top: 2.5em;
   margin-bottom: 0.5em;
-  letter-spacing: -0.015em;
+  padding-bottom: 0.4em;
+  /* Elegant divider: double line inspired by legal documents */
+  border-bottom: 3px double currentColor;
+  opacity: 0.95;
 }
 
+/* H2: Subsection with subtle underline */
+.markdown-preview-view h2 {
+  font-size: 1.5em; /* 27px */
+  margin-top: 2.25em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.35em;
+  /* Single thin line for hierarchy */
+  border-bottom: 1px solid currentColor;
+  opacity: 0.85;
+}
+
+/* H3: Minor section with ornamental divider */
 .markdown-preview-view h3 {
-  font-size: 1.35em;
-  font-weight: 500;
-  line-height: 1.4;
-  margin-top: 1.6em;
+  font-size: 1.25em; /* 22.5px */
+  margin-top: 2em;
   margin-bottom: 0.4em;
+  font-weight: 500;
+  padding-bottom: 0.3em;
+  /* Dotted divider for subtle separation */
+  border-bottom: 1px dotted currentColor;
+  opacity: 0.7;
+  /* Butterick: Use 30-40% lighter border than text */
 }
 
-/* Blockquotes - elegant and distinct */
-.markdown-preview-view blockquote {
-  font-size: 0.95em;
+/* H4: Inline-style heading without divider */
+.markdown-preview-view h4 {
+  font-size: 1.1em; /* ~20px */
+  margin-top: 1.75em;
+  margin-bottom: 0.3em;
+  font-weight: 500;
+  /* Butterick: Smallest headings can run-in with text */
+}
+
+/* Alternative: Legal-style section numbering enhancement */
+.markdown-preview-view h1::before,
+.markdown-preview-view h2::before {
+  /* If using numbered headings, add extra space after number */
+  margin-right: 0.25em;
+}
+
+/* ===== EMPHASIS: Bold or italic, not both ===== */
+
+.markdown-preview-view strong {
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  /* Butterick: Avoid over-emphasizing */
+}
+
+.markdown-preview-view em {
   font-style: italic;
-  margin: 1.5em 2em;
-  padding-left: 1.5em;
-  border-left: 3px solid #a89f91;
-  color: #4a4a4a;
-  line-height: 1.65;
+  /* Butterick: Italic is sufficient emphasis, don't add weight */
 }
 
-.theme-dark .markdown-preview-view blockquote {
-  border-left-color: #6b6b6b;
-  color: #b0b0b0;
+/* Butterick rule: Never underline text (except links) */
+.markdown-preview-view u {
+  text-decoration: none;
+  font-weight: 500;
+  /* If you must "underline," use border instead */
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
 }
 
-/* Lists with proper spacing */
+/* Butterick rule: Small caps for acronyms/emphasis (when available) */
+.markdown-preview-view .small-caps,
+.markdown-preview-view abbr {
+  font-variant: small-caps;
+  letter-spacing: 0.08em; /* 8% extra per Butterick */
+  font-weight: 500;
+}
+
+/* ===== QUOTATIONS: Block quotes with proper spacing ===== */
+
+.markdown-preview-view blockquote {
+  /* Butterick: Indent block quotes, use smaller size */
+  font-size: 0.95em;
+  line-height: 1.45;
+  margin: 1.5em 0 1.5em 2.5em;
+  padding-left: 1.25em;
+  /* Use theme colors for border */
+  border-left: 2px solid currentColor;
+  opacity: 0.85;
+  font-style: normal;
+  /* Butterick: Don't italicize entire block quotes */
+}
+
+/* Nested blockquotes */
+.markdown-preview-view blockquote blockquote {
+  margin-left: 1em;
+  font-size: 1em;
+}
+
+/* ===== LISTS: Proper spacing and hierarchy ===== */
+
 .markdown-preview-view ul,
 .markdown-preview-view ol {
   margin: 1em 0 1em 1.5em;
-  line-height: 1.7;
+  padding-left: 0.5em;
+  line-height: 1.45;
 }
 
 .markdown-preview-view li {
-  margin-bottom: 0.3em;
+  margin-bottom: 0.4em;
+  /* Butterick: Space above list items to improve scannability */
 }
 
-/* Code blocks with subtle contrast */
-.markdown-preview-view code {
-  font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
-  font-size: 0.88em;
-  background-color: #f0ede8;
-  padding: 0.15em 0.4em;
-  border-radius: 3px;
+.markdown-preview-view li > p {
+  margin-bottom: 0.5em;
 }
 
-.theme-dark .markdown-preview-view code {
-  background-color: #2d2d2d;
+/* Butterick rule: Nested lists should be clearly subordinate */
+.markdown-preview-view li > ul,
+.markdown-preview-view li > ol {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
 }
 
-/* Links - understated */
+/* ===== LINKS: Underlined, professional ===== */
+
 .markdown-preview-view a {
-  color: #5a5a5a;
+  /* Butterick: Links MUST be underlined for clarity */
   text-decoration: underline;
-  text-decoration-color: #c4bfb5;
+  text-decoration-thickness: 1px;
   text-underline-offset: 2px;
-  transition: all 0.2s ease;
+  /* Use theme color but slightly muted */
+  opacity: 0.9;
+  transition: opacity 0.15s ease, text-decoration-thickness 0.15s ease;
 }
 
 .markdown-preview-view a:hover {
-  color: #2b2b2b;
-  text-decoration-color: #8b8275;
+  opacity: 1;
+  text-decoration-thickness: 2px;
 }
 
-.theme-dark .markdown-preview-view a {
-  color: #b8b8b8;
-  text-decoration-color: #4a4a4a;
+/* Butterick: External links can be distinguished (optional) */
+.markdown-preview-view a[href^="http"]::after {
+  content: "";
+  /* You can add an icon here if desired */
 }
 
-.theme-dark .markdown-preview-view a:hover {
-  color: #e0e0e0;
-  text-decoration-color: #707070;
+/* ===== CODE: Monospaced with restraint ===== */
+
+.markdown-preview-view code {
+  /* Butterick recommends Triplicate or quality monospace */
+  font-family: 'Triplicate', 'Consolas', 'SF Mono', 'Monaco', monospace;
+  font-size: 0.875em; /* Slightly smaller than body */
+  /* Use theme background with subtle adjustment */
+  background-color: var(--code-background, rgba(127, 127, 127, 0.1));
+  padding: 0.15em 0.35em;
+  border-radius: 3px;
+  /* Butterick: Code should be distinct but not distracting */
 }
 
-/* Horizontal rules */
+.markdown-preview-view pre {
+  /* Use theme colors */
+  background-color: var(--code-background, rgba(127, 127, 127, 0.05));
+  border: 1px solid currentColor;
+  opacity: 0.15;
+  border-radius: 4px;
+  padding: 1.25em;
+  overflow-x: auto;
+  margin: 1.5em 0;
+  line-height: 1.4;
+  /* Butterick: Avoid excessive line spacing in code */
+}
+
+.markdown-preview-view pre code {
+  background-color: transparent;
+  padding: 0;
+  font-size: 0.9em;
+}
+
+/* ===== HORIZONTAL RULES: Proper section breaks ===== */
+
 .markdown-preview-view hr {
   border: none;
-  border-top: 1px solid #d4cfc5;
-  margin: 2.5em auto;
+  /* Butterick: Use subtle centered divider, not full-width line */
+  text-align: center;
+  margin: 3em auto;
   width: 30%;
+  height: 1px;
+  background-color: currentColor;
+  opacity: 0.3;
 }
 
-.theme-dark .markdown-preview-view hr {
-  border-top-color: #3a3a3a;
+/* Alternative ornamental divider using pseudo-element */
+.markdown-preview-view hr::before {
+  content: "§";
+  display: block;
+  position: relative;
+  top: -0.6em;
+  font-size: 1.2em;
+  /* Use theme background */
+  background-color: var(--background-primary, white);
+  width: 1.5em;
+  margin: 0 auto;
+  opacity: 0.5;
+}
+
+/* ===== TABLES: Professional formatting ===== */
+
+.markdown-preview-view table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+  line-height: 1.4;
+  /* Butterick: Tables should align with left margin of text */
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td {
+  border: 1px solid currentColor;
+  opacity: 0.25;
+  padding: 0.6em 0.8em;
+  text-align: left;
+  /* Butterick: Left-align text, right-align numbers */
+}
+
+.markdown-preview-view th {
+  font-weight: 600;
+  /* Butterick: 5-12% extra letterspacing for small caps/emphasis */
+  letter-spacing: 0.02em;
+  border-bottom-width: 2px;
+  /* Butterick: Emphasize header row with heavier border */
+}
+
+/* Right-align numeric columns (you'll need to add class manually) */
+.markdown-preview-view td.numeric,
+.markdown-preview-view th.numeric {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  /* Butterick: Use tabular figures for alignment */
+}
+
+/* ===== FOOTNOTES & CITATIONS ===== */
+
+.markdown-preview-view .footnotes {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid currentColor;
+  opacity: 0.3;
+  font-size: 0.9em;
+  line-height: 1.35;
+  /* Butterick: Footnotes should be smaller but still readable */
+}
+
+/* Footnote references */
+.markdown-preview-view sup,
+.markdown-preview-view .footnote-ref {
+  /* Butterick: Superscripts should not be too small */
+  font-size: 0.8em;
+  line-height: 0;
+  vertical-align: super;
+}
+
+/* ===== ADDITIONAL BUTTERICK PRINCIPLES ===== */
+
+/* Orphan and widow control */
+.markdown-preview-view p,
+.markdown-preview-view li {
+  orphans: 3;
+  widows: 3;
+  /* Butterick: Prevent single lines at column breaks */
+}
+
+/* Non-breaking spaces after certain words (requires manual insertion) */
+/* In Markdown, use: Mr.&nbsp;Smith, 10&nbsp;kg, etc. */
+
+/* Proper dashes (Obsidian auto-converts, but enforce styling) */
+.markdown-preview-view {
+  /* Em dash: — (no spaces) */
+  /* En dash: – (with spaces for ranges) */
+  /* Hyphen: - (for compound words) */
+  font-variant-numeric: oldstyle-nums; /* Butterick prefers old-style figures in text */
+}
+
+/* Section symbols (common in legal writing) */
+.markdown-preview-view .section::before {
+  content: "§\00a0"; /* § with non-breaking space */
+}
+
+/* ===== BUTTERICK'S "SPACE ABOVE > SPACE BELOW" RULE ===== */
+
+/* Consistent spacing rhythm */
+.markdown-preview-view h1 { margin-top: 2.5em; margin-bottom: 0.5em; }
+.markdown-preview-view h2 { margin-top: 2.25em; margin-bottom: 0.5em; }
+.markdown-preview-view h3 { margin-top: 2em; margin-bottom: 0.4em; }
+.markdown-preview-view h4 { margin-top: 1.75em; margin-bottom: 0.3em; }
+
+.markdown-preview-view ul,
+.markdown-preview-view ol { margin-top: 1em; margin-bottom: 1em; }
+
+.markdown-preview-view blockquote { margin-top: 1.5em; margin-bottom: 1.5em; }
+
+/* ===== SELECTION STYLING ===== */
+
+.markdown-preview-view ::selection {
+  /* Use theme colors with transparency */
+  background-color: var(--text-selection, rgba(127, 127, 127, 0.2));
+  color: inherit;
+}
+
+/* ===== ACCESSIBILITY (Butterick emphasizes readability) ===== */
+
+.markdown-preview-view :focus {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+  opacity: 0.8;
+}
+
+/* Ensure links are keyboard-accessible */
+.markdown-preview-view a:focus {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
 }

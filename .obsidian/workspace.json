@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Fairness Proposal.md",
+                "file": "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Fairness Proposal"
+              "title": "Research Questions Framework"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Fairness Proposal.md",
+                "file": "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Digital Fairness Proposal"
+              "title": "Outline of Research Questions Framework"
             }
           },
           {
@@ -262,6 +262,18 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "928641f2ebaf293a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           }
         ],
@@ -333,7 +345,9 @@
   },
   "active": "aa5b2debaaebc673",
   "lastOpenFiles": [
+    "Consumer AI throttling/00-Project-Meta/Outline/00 Throttling outline.md",
     "Unfair-average-consumer.md",
+    "Digital Fairness Proposal.md",
     "Lucchi - Generative AI and Copyright.md",
     "_page_110_Figure_1.jpeg",
     "_page_109_Figure_4.jpeg",
@@ -346,7 +360,6 @@
     "_page_92_Figure_4.jpeg",
     "_page_92_Figure_2.jpeg",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
-    "Digital Fairness Proposal.md",
     "Untitled.base",
     "Untitled 13.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
@@ -369,7 +382,6 @@
     "!Archive/Materials/NotebookLM CJEU excerpts.md",
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/NotebookLM CJEU excerpts.md",
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Doctrinal analysis Perplexity.md",
-    "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Perplexity consumers general service EU framework.md",
     "Consumer AI throttling/06-Index-Files",
     "!Archive",
     "Consumer AI throttling/05-Drafts",

@@ -101,7 +101,7 @@
 - Comparative analysis of pricing models
 - CJEU cases: Limited - maybe Invitel, RWE on variable pricing
 
-### Current Analysis Documents:
+### Current Analysis Documents: -- UNSURE
 - [[Academic Assessment of Online Service Pricing Models]]
 - [[AI Pricing Transparency - Comprehensive Analysis]]
 - All files in Detailed reports/360 analysis
