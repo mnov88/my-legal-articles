@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft A.md",
+                "file": "Consumer AI throttling/Outline/00 Throttling outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft A"
+              "title": "00 Throttling outline"
             }
           }
         ],
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
+                "file": "Consumer AI throttling/Outline/00 Throttling outline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Section III - Copyright Protection - Draft"
+              "title": "Outline of 00 Throttling outline"
             }
           },
           {
@@ -383,13 +383,15 @@
       }
     ]
   },
-  "active": "4d6bf03e8c1607c6",
+  "active": "eee6b6dab38bf272",
   "lastOpenFiles": [
     "Consumer AI throttling/README.md",
+    "Consumer AI throttling/style.md",
+    "Consumer AI throttling/Outline/00 Throttling outline.md",
+    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
     "Prompt protection/Style.md",
     "Untitled 11.md",
     "Untitled 10.md",
-    "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "Untitled 9.md",
@@ -406,8 +408,6 @@
     "Copyright full.md",
     "Prompt protection/20 Drafts - Article Versions/Section VI - Trade Secrets - Draft.md",
     "Prompt protection/20 Drafts - Article Versions/Section II - Economic Foundation - Draft.md",
-    "Consumer AI throttling/style.md",
-    "Consumer AI throttling/Outline/00 Throttling outline.md",
     "Consumer AI throttling/Drafts/article.md",
     "Prompt protection/20 Drafts - Article Versions/Section V - Patent Protection - Draft.md",
     "Prompt protection/Chapter-III-Copyright-Protection-COMPLETE.md",
