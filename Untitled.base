@@ -1,6 +1,28 @@
+filters:
+  and:
+    - file.hasProperty("legal-sources-interpreted")
+    - note["legal-sources-interpreted"].containsAny("UCPD", "UTD")
 views:
   - type: table
     name: Table
     order:
+      - file.folder
+  - type: list
+    name: View
+    order:
       - file.name
-      - topics
+      - file.folder
+      - relevance
+      - summary
+    indentProperties: true
+  - type: list
+    name: View 2
+    order:
+      - file.name
+      - summary
+      - relevance
+    cardSize: 300
+    rowHeight: tall
+    indentProperties: true
+    markers: number
+    separator: ""

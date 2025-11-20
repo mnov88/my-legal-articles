@@ -59,13 +59,14 @@
             "id": "aa5b2debaaebc673",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Digital Fairness Proposal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Digital Fairness Proposal"
             }
           }
         ],
@@ -200,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Digital Fairness Proposal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Digital Fairness Proposal"
             }
           },
           {
@@ -332,13 +333,28 @@
   },
   "active": "aa5b2debaaebc673",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Unfair-average-consumer.md",
+    "Lucchi - Generative AI and Copyright.md",
+    "_page_110_Figure_1.jpeg",
+    "_page_109_Figure_4.jpeg",
+    "_page_109_Figure_0.jpeg",
+    "_page_108_Picture_0.jpeg",
+    "_page_107_Picture_3.jpeg",
+    "_page_107_Picture_0.jpeg",
+    "_page_106_Figure_3.jpeg",
+    "_page_93_Figure_0.jpeg",
+    "_page_92_Figure_4.jpeg",
+    "_page_92_Figure_2.jpeg",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
+    "Digital Fairness Proposal.md",
+    "Untitled.base",
+    "Untitled 13.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-388-13 Nemzeti Fogyasztóvédelmi Hatóság v UPC Magyarország kft.md",
     "Prompt protection/00 Core/Article Outline.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-335-21 Vicente v Delia.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-310-15 Vincent Deroo-Blanquart v Sony Europe Limited.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
     "Untitled 12.md",
     "Consumer AI throttling/01-Primary-Sources/Legislation/32019L0770.md",
     "Consumer AI throttling/01-Primary-Sources/Legislation/32005L0029.md",
@@ -354,11 +370,7 @@
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/NotebookLM CJEU excerpts.md",
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Doctrinal analysis Perplexity.md",
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Perplexity consumers general service EU framework.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-388-13 Nemzeti Fogyasztóvédelmi Hatóság v UPC Magyarország kft.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
-    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
     "Consumer AI throttling/06-Index-Files",
-    "!Archive/Materials/Legal sources/Case law/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
     "!Archive",
     "Consumer AI throttling/05-Drafts",
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_service_pricing_examples_2025.csv",
@@ -367,7 +379,6 @@
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_llm_pricing_2025.csv",
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_cost_structures_margins.csv",
     "Consumer AI throttling/04-Empirical-Data/EU-Sources-Table/eu_consumer_law_sources_table.csv",
-    "Consumer AI throttling/04-Empirical-Data/EU-Sources-Table/eu_consumer_law_sources_table (1).csv",
     "Untitled.canvas"
   ]
 }
