@@ -6,5 +6,6 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "serif-font-dividers"
-  ]
+  ],
+  "translucency": true
 }
