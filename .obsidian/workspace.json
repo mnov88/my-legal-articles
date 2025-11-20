@@ -6,7 +6,6 @@
       {
         "id": "415909f2d6417ec8",
         "type": "tabs",
-        "dimension": 46.30508474576271,
         "children": [
           {
             "id": "d1bf92d1b1e23e88",
@@ -57,100 +56,20 @@
             }
           },
           {
-            "id": "fa9c7e6940749e04",
+            "id": "aa5b2debaaebc673",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Prompt protection/draft-copyright-3.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "draft-copyright-3"
-            }
-          },
-          {
-            "id": "0701b4eab6bfe388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/v2.0 - Claude Cursor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "v2.0 - Claude Cursor"
-            }
-          },
-          {
-            "id": "eee6b6dab38bf272",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!Archive/Materials/Legal sources/Case law/Case law table.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Case law table"
-            }
-          },
-          {
-            "id": "874109f8f99088be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e"
-            }
-          },
-          {
-            "id": "afb910c1ba6bf495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Case C-472-10 Invitel"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "d06a7e7c145beda4",
-        "type": "tabs",
-        "dimension": 53.69491525423729,
-        "children": [
-          {
-            "id": "4d6bf03e8c1607c6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompt protection/20 Drafts - Article Versions/Section III - Copyright Protection - Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Section III - Copyright Protection - Draft"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -281,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Case C-472-10 Invitel"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -411,16 +330,22 @@
       }
     ]
   },
-  "active": "afb910c1ba6bf495",
+  "active": "aa5b2debaaebc673",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
+    "Prompt protection/00 Core/Article Outline.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-335-21 Vicente v Delia.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-310-15 Vincent Deroo-Blanquart v Sony Europe Limited.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
+    "Untitled 12.md",
     "Consumer AI throttling/01-Primary-Sources/Legislation/32019L0770.md",
     "Consumer AI throttling/01-Primary-Sources/Legislation/32005L0029.md",
     "Consumer AI throttling/01-Primary-Sources/Legislation/32019L2161.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-191-15 (Verein für Konsumenteninformation).md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-749-23 innogy Energie.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/Case law table.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/articles-interpreted.md",
     "Consumer AI throttling/02-Analysis-Legal/Framework-Mapping/EU Consumer protection law and vague terms.md",
     "!Archive/Materials/Legal sources/Case law/articles-interpreted.md",
@@ -430,16 +355,11 @@
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Doctrinal analysis Perplexity.md",
     "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Perplexity consumers general service EU framework.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-388-13 Nemzeti Fogyasztóvédelmi Hatóság v UPC Magyarország kft.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-335-21 Vicente v Delia.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
     "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
-    "Untitled 12.md",
     "Consumer AI throttling/06-Index-Files",
     "!Archive/Materials/Legal sources/Case law/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
-    "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
     "!Archive",
-    "Consumer AI throttling/05-Drafts/article.md",
     "Consumer AI throttling/05-Drafts",
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_service_pricing_examples_2025.csv",
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_llm_contractual_terms_2025.csv",
@@ -448,7 +368,6 @@
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_cost_structures_margins.csv",
     "Consumer AI throttling/04-Empirical-Data/EU-Sources-Table/eu_consumer_law_sources_table.csv",
     "Consumer AI throttling/04-Empirical-Data/EU-Sources-Table/eu_consumer_law_sources_table (1).csv",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/Tier-based Gemini.md",
     "Untitled.canvas"
   ]
 }
