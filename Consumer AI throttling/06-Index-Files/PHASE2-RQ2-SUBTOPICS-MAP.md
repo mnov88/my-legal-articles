@@ -194,33 +194,84 @@
 
 **16. C-611/14 Canal Digital - Misleading Price Presentation**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The Canal Digital judgment establishes that presenting some price components prominently while omitting or obscuring others constitutes a misleading commercial practice under UCPD. Paragraph 45 holds that "a commercial practice... may be regarded as misleading where... one component of the price is given particular prominence... whereas another component of that price is completely omitted or presented in a much less conspicuous manner." Paragraph 46 specifies that "the average consumer attaches particular importance to the amount of the price... [such practices] are therefore likely to cause him to take a transactional decision which he would not have taken otherwise." This establishes the "prominence bias" principle: traders cannot emphasize favorable pricing information while hiding unfavorable elements. Applied to AI services: pricing pages prominently advertise monthly subscription costs (€20, €100, €200) in large, bold font with highlighted "Subscribe Now" buttons, while usage limits—which determine effective cost per unit and service availability—are either completely omitted from pricing pages or presented in vague, inconspicuous manner buried in terms of service. This prominence imbalance is precisely the misleading practice Canal Digital condemns.
+- Evidence:
+  - C-611/14 Canal Digital ¶45 (full text): "a commercial practice... may be regarded as misleading where... one component of the price is given particular prominence... whereas another component of that price is completely omitted or presented in a much less conspicuous manner"
+  - C-611/14 Canal Digital ¶46: "the average consumer attaches particular importance to the amount of the price... [such practices] are therefore likely to cause him to take a transactional decision which he would not have taken otherwise"
+  - Prominence bias principle: Cannot highlight favorable elements while hiding unfavorable ones
+  - Average consumer standard: Consumers focus on prominently displayed information
+  - Causation: Prominence imbalance causes transactional decisions consumers wouldn't otherwise make
+  - Application to AI pricing pages: Monthly price prominently displayed (large font, highlighted buttons, top of page) vs. usage limits omitted or vague (buried in linked ToS, small print, no specifics)
+  - Example: Anthropic pricing page shows "$20/month" and "$200/month" prominently, but "additional usage limits apply" appears only in small text without specification
+  - Material omission: Usage limits determine effective price per unit—omitting them while emphasizing monthly fee creates false impression of value
 
 **17. C-518/23 NEW Niederrhein (2025) - Variable Components Need Scales**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]], [[Doctrinal analysis Perplexity.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The NEW Niederrhein judgment (23 January 2025) provides recent guidance on price calculation disclosure requirements under UCPD, establishing that even when exact amounts cannot be pre-calculated, traders must disclose ranges, scales, and determinative factors. Paragraph 52 holds that "the UCPD does not require the inclusion of the specific percentage of a variable price component in an invitation to purchase, as long as it 'indicates the applicability in principle of such a percentage, together with a possible scale and the components having an impact on that percentage.'" This establishes a three-part disclosure requirement for variable pricing: (1) disclosure that variable component exists; (2) possible scale or range of variation; (3) components/factors affecting the variable element. Applied to AI services: providers claiming "5x more usage" with limits that "may vary based on system conditions" fail all three requirements: (1) while they disclose variation exists, they don't define baseline; (2) no scale provided (e.g., "typically 100-500 queries/day depending on demand"); (3) "system conditions" not specified—what factors affect limits? Complete silence on these elements violates NEW Niederrhein's contemporary interpretation of UCPD transparency obligations.
+- Evidence:
+  - C-518/23 NEW Niederrhein ¶52 (23 January 2025 - recent guidance): "the UCPD does not require the inclusion of the specific percentage of a variable price component in an invitation to purchase, as long as it 'indicates the applicability in principle of such a percentage, together with a possible scale and the components having an impact on that percentage'"
+  - Three-part test for variable pricing components: (1) indicate applicability in principle; (2) provide possible scale/range; (3) identify determinative components/factors
+  - Acknowledges exact amounts may be incalculable in advance—but still requires meaningful disclosure
+  - "Possible scale" requirement: approximate ranges must be provided even when precision impossible
+  - "Components having an impact" requirement: factors affecting variation must be identified
+  - Application to OpenAI "limits may vary based on system conditions": (1) ✓ indicates variability exists; (2) ✗ no scale/range provided; (3) ✗ "system conditions" undefined—what components impact limits?
+  - Application to "5x more" claims: (1) ✗ baseline undefined; (2) ✗ no scale for resulting limit (e.g., "approximately 200-1000 queries/day"); (3) ✗ factors determining baseline/variation not disclosed
+  - 2025 recency: This is current CJEU interpretation—providers cannot argue outdated standards
 
 **18. C-472/23 Lexitor (2025) - Fee Variation Transparency**
 - Found in: [[Doctrinal analysis Perplexity.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The Lexitor judgment (2025) reinforces transparency requirements for fee variation mechanisms in consumer contracts, building on RWE Vertrieb and Invitel precedents. The case establishes that unilateral fee variation clauses must specify: (1) circumstances triggering variation; (2) methodology for calculating new fees; (3) advance notice requirements; (4) consumer termination rights. The judgment emphasizes that vague references to "cost increases" or "market conditions" without quantifiable metrics or objective indices fail transparency requirements. Applied to AI services: dynamic usage limits that vary without disclosed triggers or calculation methodology constitute fee variation mechanisms (affecting effective price per unit) requiring full transparency. Anthropic's August 2025 retroactive imposition of "new weekly rate limits" without prior specification of circumstances, methodology, or advance notice exemplifies the exact type of non-transparent variation Lexitor condemns. Similarly, OpenAI's "dynamic adjustment" without disclosed formula violates transparency requirements for variation mechanisms.
+- Evidence:
+  - C-472/23 Lexitor (2025): fee variation mechanisms require specification of (a) triggering circumstances; (b) calculation methodology; (c) advance notice; (d) termination rights
+  - Builds on RWE Vertrieb ¶49 (foreseeability) and Invitel ¶28 (variation transparency)
+  - Rejects vague triggers: "cost increases" or "market conditions" without objective metrics insufficient
+  - Quantifiable metrics requirement: variation must reference measurable factors (e.g., inflation index, commodity prices)
+  - Objective indices principle: cannot rely solely on trader's subjective assessment
+  - Application to dynamic usage limits: limits affecting effective price per unit = fee variation mechanism requiring transparency
+  - Anthropic August 2025 violation: Retroactive "new weekly rate limits" imposed on existing subscribers without (a) prior specification of circumstances; (b) disclosed methodology; (c) adequate advance notice; (d) meaningful termination option
+  - OpenAI "dynamic adjustment" violation: "Limits may vary based on system conditions" provides no (a) specific triggers; (b) calculation formula; (c) what constitutes "system conditions"
 
 **19. C-39/24 Caixabank (2025) - Fee Must Specify Counter-Performance**
 - Found in: [[Doctrinal analysis Perplexity.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The Caixabank judgment (2025) establishes that fees or charges must specify the corresponding service or counter-performance provided in exchange—consumers must understand what they receive for payment. The case holds that fee terms failing to specify what service/benefit corresponds to the fee violate transparency requirements because consumers cannot evaluate whether the fee is reasonable or the service adequate. This extends transparency obligations beyond price disclosure to require disclosure of what is being purchased. Applied to AI services: subscriptions charging €20, €100, or €200 monthly must specify usage entitlements—not merely vague multipliers. Terms stating "5x more usage" or "higher limits" without defining absolute quantities fail to specify counter-performance: consumers paying €200/month for "20x higher limits" cannot evaluate adequacy because they don't know what quantity they receive. The fee is specified (€200) but counter-performance is not (20x of unknown baseline = undefined quantity). This violates Caixabank's requirement that consumers understand what service corresponds to payment.
+- Evidence:
+  - C-39/24 Caixabank (2025): fees must specify corresponding service/counter-performance
+  - Counter-performance disclosure requirement: consumers must know what they receive for payment
+  - Reasonableness evaluation: impossible when service quantity undefined
+  - Adequacy assessment: requires knowing both price (€200) AND quantity received
+  - Transparency extends beyond price: must also disclose what is purchased
+  - Application to "20x higher limits" at €200/month: Price specified (€200) but counter-performance undefined (20x × unknown baseline)
+  - Consumer evaluation impossibility: Cannot assess whether €200 for "20x" is reasonable without knowing if "20x" means 200 queries, 2000 queries, or 20,000 queries
+  - Contrast with transparent pricing: "€200/month for up to 5,000 queries" specifies both fee AND counter-performance—consumer can evaluate adequacy
+  - Current AI practices: All major providers specify fee but obscure counter-performance through undefined baselines
 
 **20. C-453/10 Pereničová - Failure to Indicate Essential Terms**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The Pereničová judgment establishes that failure to indicate essential terms of an agreement is decisive in transparency assessment. Paragraph 41 holds: "failure to indicate essential terms of the agreement can be decisive in [the transparency] assessment." This means: (1) some contract terms are "essential" to the agreement; (2) failing to indicate essential terms decisively fails transparency; (3) even if other terms are transparent, omission of essential terms renders contract non-transparent. The judgment requires identifying which terms are "essential" based on their importance to consumer decision-making and contract performance. Applied to AI services: usage limits are essential terms because they: (1) determine service availability and scope; (2) affect effective price per unit; (3) are material to consumer transactional decisions; (4) define core contractual obligations. Failing to indicate usage limits with specificity—instead using vague references like "additional limits apply" or undefined multipliers like "5x more"—constitutes failure to indicate essential terms, which is decisive for finding transparency violation under Pereničová.
+- Evidence:
+  - C-453/10 Pereničová ¶41 (full text): "failure to indicate essential terms of the agreement can be decisive in [the transparency] assessment"
+  - "Essential terms" concept: terms material to consumer decision-making and contract performance
+  - Decisive effect: failure to indicate essential terms = transparency failure, not mere factor
+  - Identifying essential terms: ask whether term affects (a) consumer choice; (b) contract performance; (c) economic consequences
+  - Cannot compensate: transparent disclosure of non-essential terms cannot cure failure to disclose essential terms
+  - Application to usage limits as essential terms: (a) Affect consumer choice—professional user needs to know if service meets usage needs; (b) Affect contract performance—determine when service becomes unavailable/degraded; (c) Affect economic consequences—determine effective price per unit
+  - "Additional usage limits apply" violation: acknowledges limits exist but fails to indicate them with specificity
+  - "5x more usage" violation: references essential term (usage limit) but fails to indicate it (baseline undefined)
+  - Pereničová makes clear: vague references to essential terms ≠ indication of essential terms
 
 **21. Joined Cases C-154/15, C-307/15, C-308/15 Gutiérrez Naranjo - Comprehensibility of Actual Significance**
 - Found in: [[EU consumer protection law and vague AI service pricing - Claude.md]]
-- Main argument: [PLACEHOLDER]
-- Evidence: [PLACEHOLDER]
+- Main argument: The Gutiérrez Naranjo judgment (Grand Chamber, 21 December 2016) establishes that transparency requires comprehensibility of a term's "actual significance"—consumers must understand practical consequences, not just read words. Paragraph 50 holds: "the requirement of transparency must be construed as involving not only formal and grammatical intelligibility but also comprehensibility of the term in terms of its actual significance, so that **the average consumer, who is reasonably well informed and reasonably observant and circumspect, would be aware of the consequences flowing from a term**." This creates the "actual significance" test: can average consumer understand real-world consequences? Applied to AI services: while terms stating "5x your free tier usage" are formally and grammatically intelligible, consumers cannot comprehend actual significance because: (1) they don't know what free tier usage is (baseline undefined); (2) they cannot calculate "5x" of unknown quantity; (3) they cannot determine practical consequences (will I get 50 queries? 500? 5000?); (4) average consumer, even if reasonably well-informed, cannot be "aware of consequences" when baseline is mathematical variable. Actual significance is opaque even though words are comprehensible.
+- Evidence:
+  - Joined Cases C-154/15, C-307/15, C-308/15 Gutiérrez Naranjo ¶50 (Grand Chamber, full text): "the requirement of transparency must be construed as involving not only formal and grammatical intelligibility but also comprehensibility of the term in terms of its actual significance, so that **the average consumer, who is reasonably well informed and reasonably observant and circumspect, would be aware of the consequences flowing from a term**"
+  - "Actual significance" test: beyond grammatical intelligibility to practical consequences understanding
+  - Average consumer standard: reasonably well informed + reasonably observant + reasonably circumspect
+  - Consequences awareness requirement: consumer must be able to determine what will actually happen
+  - Grand Chamber authority: high precedential weight (all judges)
+  - Application to "5x free tier usage": (1) Words understandable (formal intelligibility ✓); (2) Actual significance incomprehensible (✗ cannot determine consequences)
+  - Average consumer analysis: Even reasonably well-informed consumer cannot determine "consequences flowing from" term when baseline undefined—cannot calculate how many queries/messages will receive
+  - Practical consequences opacity: Consumer reading "5x more" cannot answer "Will this meet my needs of 300 queries daily?" because cannot calculate 5x × unknown
+  - Distinguishes from Kásler economic consequences test: Gutiérrez Naranjo focuses on awareness of consequences, Kásler on ability to evaluate them—complementary standards both violated by undefined baselines
 
 ### **Unique AI Service Arguments**
 
