@@ -262,7 +262,8 @@ Therefore, the duty not to present advertisements based on profiling of special 
 
 [[8]](#_ftnref8) DSA (n 1) recital 69.
 
-[[9]](#_ftnref9) M. Ali, P. Sapiezynski, M. Bogen, A. Korolova, A. Mislove, A. Rieke, Discrimination through Optimization: How Facebook's Ad Delivery Can Lead to Biased Outcomes, Proc. ACM Hum. Comput. Interact. 3 (2019) Article 199. https://doi.org/10.1145/3359301; P. Sapiezynski, A. Ghosh, L. Kaplan, A. Rieke, A. Mislove, Algorithms That "Don't See Color": Measuring Biases in Lookalike and Special Ad Audiences, in: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society, AIES '22, ACM, New York, 2022, pp. 419–427. https://doi.org/10.1145/3514094.3534135.
+[[9]](#_ftnref9) M. Ali, P. Sapiezynski, M. Bogen, A. Korolova, A. Mislove, A. Rieke, Discrimination through Optimization: How Facebook's Ad Delivery Can Lead to Biased Outcomes, Proc. ACM Hum. Comput. Interact. 3 (2019) Article 199. https://doi.org/10.1145/3359301; P. Sapiezynski, A. Ghosh, L. Kaplan, A. Rieke, A. Mislove, Algorithms That "Don't See Color": Measuring Biases in Lookalike and Special Ad Audiences, in: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society, AIES '22, ACM, New York, 2022, pp. 419–427. https://doi.org/10.1145/3514094.3534135.  
+However, see also A v B.
 
 [[10]](#_ftnref10) DSA (n 1) recital 68.
 
