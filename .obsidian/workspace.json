@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 12"
+              "title": "PHASE1-DOCUMENT-INVENTORY"
             }
           }
         ],
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 12"
+              "title": "Outline of PHASE1-DOCUMENT-INVENTORY"
             }
           },
           {
@@ -413,8 +413,10 @@
   },
   "active": "afb910c1ba6bf495",
   "lastOpenFiles": [
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
     "Untitled 12.md",
+    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+    "Consumer AI throttling/06-Index-Files",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
     "!Archive/Materials/Legal sources/Case law/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
     "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
     "!Archive",
@@ -427,7 +429,6 @@
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_cost_structures_margins.csv",
     "Consumer AI throttling/04-Empirical-Data/EU-Sources-Table/eu_consumer_law_sources_table.csv",
     "Consumer AI throttling/04-Empirical-Data/EU-Sources-Table/eu_consumer_law_sources_table (1).csv",
-    "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/Tier-based Gemini.md",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/RQ3-4-5-Integrated-Framework.md",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/RQ2-Value-Cost-Alignment.md",
@@ -448,7 +449,6 @@
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Systematic Analysis and Policy Recommendations.md",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Summary-Paper.md",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Pricing Practices and Fairness in Large AI LLM Pla.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/H4-Transparency-Paradox.md",
     "Untitled.canvas"
   ]
 }
