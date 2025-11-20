@@ -13,23 +13,55 @@
 
 **1. Predictability-Efficiency-Anxiety Trilemma**
 - Found in: [[Academic Assessment of Online Service Pricing Models - Gemini.md]], [[executive-summary.md]]
-- Main argument: [PLACEHOLDER - Cannot achieve predictability + efficiency + low anxiety simultaneously]
-- Evidence: [PLACEHOLDER]
+- Main argument: Stakeholders must choose between the *efficiency* of Measured pricing (aligns cost with consumption), the *predictability* of Flat-Rate pricing (fixed monthly cost), and the avoidance of *anxiety* (psychological comfort). No pricing model can deliver all three simultaneously. Measured pricing achieves allocative efficiency by aligning price with marginal cost but creates "meter-running anxiety" and bill shock (30M+ Americans annually). Flat-rate pricing provides perfect predictability and eliminates anxiety but creates deadweight loss from overconsumption and cross-subsidization (light users subsidize heavy users). Tier-based pricing attempts a middle ground but achieves neither perfect efficiency nor perfect predictability while introducing manipulation through decoy effects. This trilemma is fundamental and unresolvable—choosing any model means sacrificing at least one of these three critical consumer welfare objectives.
+- Evidence:
+  - Academic Assessment explicit statement: "The Predictability-Efficiency-Anxiety Trilemma: Stakeholders must choose between the *efficiency* of Measured pricing, the *predictability* of Flat-Rate pricing, and the avoidance of *anxiety*. No model can deliver all three."
+  - Measured pricing: Allocatively efficient (price = marginal cost), forces internalization of costs, prevents cross-subsidization BUT creates "meter-running anxiety" (taximeter effect), bill shock ($76 average annual cost from underestimating variance), transfers 100% demand risk to consumer
+  - Flat-rate pricing: Perfect predictability, zero anxiety, enables experimentation BUT economically inefficient (deadweight loss from overconsumption), unsustainable (Tragedy of Digital Commons), cross-subsidization inequitable
+  - Tier-based pricing: Attempts compromise but achieves partial efficiency (self-selection) + partial predictability (within tier) + moderate anxiety (tier selection stress, overage fear)
+  - Mathematical impossibility: Efficiency requires variable pricing responsive to consumption; predictability requires fixed pricing; anxiety-avoidance requires eliminating price-usage connection. These are mutually exclusive conditions.
+  - Policy implication: Any regulatory intervention mandating one objective (e.g., transparency → efficiency) necessarily sacrifices another (e.g., predictability or anxiety-reduction)
 
 **2. Competition-Manipulation Paradox**
 - Found in: [[Academic Assessment of Online Service Pricing Models - Gemini.md]]
-- Main argument: [PLACEHOLDER - Firms compete on exploiting biases]
-- Evidence: [PLACEHOLDER]
+- Main argument: In digital markets, firms increasingly compete not on price or quality, but on their *efficacy in exploiting the behavioral biases* of consumers. Traditional competition policy assumes rational actors comparing prices and features, but modern pricing competition centers on who can most effectively deploy psychological manipulation: decoy pricing to bias tier selection, sunk cost fallacies to increase lock-in, gamification to obscure costs, mental accounting to sever "pain of paying," hyperbolic discounting to encourage overconsumption. This "competition on manipulation" undermines foundational assumptions of traditional antitrust frameworks, which evaluate welfare based on price and output but cannot properly assess welfare when firms compete by making consumers worse at decision-making. The paradox: more competition may *increase* consumer harm because firms must become better manipulators to win market share. This creates a "race to the bottom" in consumer protection.
+- Evidence:
+  - Academic Assessment explicit statement: "The Competition-Manipulation Paradox: In digital markets, firms increasingly compete not on price, but on their *efficacy in exploiting the behavioral biases* of consumers (e.g., decoys, sunk costs). This undermines the rational-actor assumptions of traditional competition policy."
+  - Tier-based manipulation: Decoy effect (G-B-B structure biases toward middle tier), anchoring effects, choice architecture deliberately designed to direct consumers toward profit-maximizing tiers
+  - Credit-based manipulation: Sunk cost fallacy (prepaid credits pressure usage), gamification (abstract currency severs pain of paying), breakage revenue from expired credits (100% margin on unconsumed credits)
+  - Measured pricing manipulation: Inattention bias exploitation—Grubb (2015) cellular research found consumers "uncertain about price of next unit" costing $76 annually
+  - Flat-rate manipulation: Flat-rate bias exploitation—Lambrecht & Skiera (2006) consumers choose all-you-can-eat even when pay-per-use cheaper
+  - Competition implication: Firms that *don't* exploit biases are out-competed by firms that do—creates selection pressure for manipulation
+  - Antitrust failure: Traditional tests (Areeda-Turner, consumer welfare standard) assume rational consumers, cannot measure harm from making consumers less rational
+  - Example: FTC finding 76% of 642 services use dark patterns, 67% use multiple simultaneously—manipulation is industry standard, not outlier behavior
 
 **3. Equity-Sustainability Conflict**
 - Found in: [[Academic Assessment of Online Service Pricing Models - Gemini.md]], [[executive-summary.md]]
-- Main argument: [PLACEHOLDER - Equitable models unsustainable, sustainable models inequitable]
-- Evidence: [PLACEHOLDER]
+- Main argument: The pricing model that best promotes *equity* (Flat-Rate, by enabling universal access and encouraging use without financial fear) is the same model that ensures the *unsustainability* of the shared resource through overconsumption and the Tragedy of the Digital Commons. Conversely, the model that *sustains* the resource (Measured pricing, by forcing internalization of costs) *stifles* equitable access to efficacy by creating financial barriers to experimentation and learning. Flat-rate enables low-income users to build digital skills through unlimited experimentation, but encourages heavy users to consume until marginal utility reaches zero, degrading service for all. Measured pricing prevents wasteful overconsumption, but "meter-running anxiety" is magnified for low-income users for whom unexpected charges are financial crises, inhibiting the efficacy-building use that technology should enable. This creates impossible policy choice: promote equity OR sustainability, but not both. Tier-based "solutions" (free tier + paid tiers) merely shift the conflict—free tier provides access but locks efficacy-enhancing features behind paywalls, creating "digital poverty trap."
+- Evidence:
+  - Academic Assessment explicit statement: "The Equity-Sustainability Conflict: The model that best promotes *equity* (Flat-Rate, by encouraging use) is the same model that ensures the *unsustainability* of the shared resource. Conversely, the model that *sustains* the resource (Measured) *stifles* equitable access to efficacy."
+  - Flat-rate equity benefits: Zero marginal cost enables experimentation, no financial barrier to learning-by-doing, removes anxiety from skill development, telecommunications shift to unlimited shows consumer preference
+  - Flat-rate sustainability failure: Overconsumption (consumption until marginal utility = 0), Tragedy of Digital Commons, provider must throttle/degrade to manage costs (mobile carriers deprioritize "unlimited" users)
+  - Measured pricing sustainability success: Only model forcing cost internalization, prevents wasteful overconsumption, aligns individual incentives with collective resource preservation
+  - Measured pricing equity failure: "Meter-running anxiety" magnified for low-income (for whom $10 error is crisis), inhibits experimentation/learning, creates Second Digital Divide in efficacy despite First Digital Divide access
+  - Tier-based "compromise" failure: Free tier provides access but locks advanced features behind paywall, creates "digital poverty trap"—high-income users access efficacy-enhancing tools, low-income relegated to basic tier
+  - Development economics implication: Cannot simultaneously maximize inclusion AND resource sustainability—must choose which population to disadvantage
+  - Policy impossibility: Equity requires removing price-usage connection; sustainability requires imposing price-usage connection
 
 **4. Efficiency vs. Equity Trade-Off (Inescapable)**
 - Found in: [[executive-summary.md]]
-- Main argument: [PLACEHOLDER - Measured pricing = efficient but inequitable; flat-rate = equitable but inefficient]
-- Evidence: [PLACEHOLDER]
+- Main argument: Microeconomic analysis reveals unavoidable tensions between allocative efficiency and distributional equity across all pricing models. Measured (token-based) pricing achieves highest allocative efficiency by aligning charges with resource consumption, approximating marginal cost pricing, but creates substantial inequality as sophisticated users optimize usage patterns while naive users overpay through inefficient consumption. Flat-rate pricing improves equity through uniform pricing and reduces cognitive burden, but generates deadweight loss from overconsumption when marginal costs are non-trivial—light users subsidize heavy users in cross-subsidization many view as unfair. Tier-based pricing enables price discrimination through self-selection, improving revenue extraction but leaving welfare gaps where consumers fall between tier price points. Credit-based pricing creates maximum inequality through exploitation of behavioral biases, generating pure waste from credit expiration while systematically disadvantaging unsophisticated and low-volume users. No model achieves both allocative efficiency AND distributional equity simultaneously—policy must explicitly choose to prioritize one objective over the other.
+- Evidence:
+  - Executive summary explicit finding: "Efficiency-Equity Trade-Offs Are Inescapable" across all pricing models
+  - Measured pricing efficiency: Highest allocative efficiency, aligns charges with resource consumption, approximates marginal cost pricing, prevents cross-subsidization, forces cost internalization
+  - Measured pricing inequality: Sophisticated users optimize patterns and minimize costs; naive users overpay through inefficient usage; creates knowledge-based inequality in effective price paid
+  - Flat-rate equity: Uniform pricing per tier, low cognitive burden (no usage tracking), psychological certainty valued by consumers
+  - Flat-rate inefficiency: Deadweight loss from overconsumption, cross-subsidization (light users subsidize heavy), fails marginal cost pricing when costs non-trivial, providers must throttle to manage costs
+  - Tier-based compromise failure: Self-selection creates price discrimination improving firm revenue but leaves welfare gaps (consumers between tier price points overpay or under-consume)
+  - Credit-based worst case: Maximum inequality through behavioral exploitation, credit expiration creates pure waste, systematically disadvantages unsophisticated users and low-volume users (who pay per-credit premium)
+  - Policy implication: Regulators must choose whether to prioritize allocative efficiency (favoring measured pricing) or distributional equity (favoring simpler flat-rate or tier-based models)—cannot achieve both
+  - Mathematical impossibility: Efficiency requires price signals responsive to marginal cost; equity requires uniform/simple pricing insensitive to individual consumption patterns—these are contradictory requirements
+  - Example: Telecommunications rejected efficient metered data for equitable unlimited despite 11% of unlimited users exceeding 3GB—equity preference dominated efficiency
 
 ### **Tier-Based Pricing (Current Model) - Problems**
 
