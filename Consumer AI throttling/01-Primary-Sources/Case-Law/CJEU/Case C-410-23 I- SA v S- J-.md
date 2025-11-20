@@ -1,3 +1,28 @@
+---
+case-name: I. SA v S. J.
+aliases:
+  - I. SA v S. J.
+  - C-410-23
+  - C-410/23
+  - Pielatak
+case-number: C-410-23
+year: "2025"
+topics:
+  - dual-purpose contracts
+  - consumer definition
+  - contractual penalties
+  - early termination fees
+  - proportionality
+summary: Farmer buying electricity for both agricultural and domestic use is a "consumer" if the trade purpose is not predominant; contractual penalties for early termination must be fair, clear, communicated in advance, and proportionate.
+relevance: TANGENTIAL - Concerns contractual penalties for early termination; addresses "consumer" definition in dual-purpose contracts.
+legal-sources-interpreted:
+  - UTD
+  - Electricity Directive
+articles-interpreted:
+  - UTD Art. 2(b)
+  - Electricity Dir. Art. 3(7)
+  - Electricity Dir. Annex I para. 1(a)
+---
 
 
 Provisional text

@@ -1,3 +1,29 @@
+---
+case-name: D.V. v M.A.
+aliases:
+  - D.V. v M.A.
+  - C-395-21
+  - C-395/21
+case-number: C-395-21
+year: "2023"
+topics:
+  - hourly legal fees
+  - transparency
+  - pre-contract information
+  - economic consequences disclosure
+  - information duties
+summary: An hourly-rate term for legal services fails Art. 4(2) Dir 93/13 transparency unless pre-contract information lets the consumer foresee economic consequences.
+relevance: HIGHLY RELEVANT - Direct parallel - unpredictable costs require pre-contract information enabling consumers to foresee economic consequences. Premium tier marketing must enable consumers to understand when/whether benefits materialize.
+legal-sources-interpreted:
+  - UTD
+articles-interpreted:
+  - UTD Art. 3(1)
+  - UTD Art. 4(2)
+  - UTD Art. 5
+  - UTD Art. 6(1)
+  - UTD Art. 7(1)
+---
+
    62021CJ0395 
 
  JUDGMENT OF THE COURT (Fourth Chamber)

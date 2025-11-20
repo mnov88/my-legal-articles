@@ -1,3 +1,25 @@
+---
+case-name: Bundesverband der Verbraucherzentralen und Verbraucherverbände v NEW Niederrhein Energie und Wasser GmbH
+aliases:
+  - Bundesverband v NEW Niederrhein
+  - C-518-23
+  - C-518/23
+case-number: C-518-23
+year: "2025"
+topics:
+  - variable component disclosure
+  - price calculation method
+  - transparency
+  - online tariff calculator
+  - method disclosure
+summary: Where the final price can't be pre-calculated, the method, including the specific percentage of variable components, must be disclosed; a range or conditional percentage can suffice.
+relevance: HIGHLY RELEVANT - Where service quality can't be pre-calculated, the METHOD of priority allocation and specific parameters (e.g., "premium users get 80% bandwidth allocation during congestion") must be disclosed; vague "priority access" may be insufficient.
+legal-sources-interpreted:
+  - UCPD
+articles-interpreted:
+  - UCPD Art. 7(1)
+  - UCPD Art. 7(4)(c)
+---
 
 
 Provisional text

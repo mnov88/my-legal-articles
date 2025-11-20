@@ -1,8 +1,30 @@
 ---
-format-detection: telephone=no
-title: 62013CJ0261
+case-name: Nemzeti Fogyasztóvédelmi Hatóság v Invitel Távközlési Zrt
+aliases:
+  - Invitel
+  - C-472-10
+  - C-472/10
+case-number: C-472-10
+year: "2012"
+topics:
+  - telecom fee amendments
+  - unilateral price variation
+  - transparency
+  - plain language requirement
+  - method disclosure
+summary: Unilateral fee-change terms must state reasons or method in plain intelligible language; clarity and a real termination right are key.
+relevance: RELEVANT - Directly in telecom context - variable terms must state reasons/method in plain intelligible language; vague "priority" or "enhanced" language likely insufficient; real termination rights required.
+legal-sources-interpreted:
+  - UTD
+articles-interpreted:
+  - UTD Art. 3
+  - UTD Art. 5
+  - UTD Art. 6(1)
+  - UTD Art. 7
+  - UTD Annex point 1(j)
+  - UTD Annex point 2(d)
 ---
-   62010CJ0472 
+   62010CJ0472
 
 JUDGMENT OF THE COURT (First Chamber)
 

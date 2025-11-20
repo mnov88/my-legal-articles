@@ -1,3 +1,25 @@
+---
+case-name: Lexitor sp. z o.o. v Spółdzielcza Kasa Oszczędnościowo-Kredytowa im. Franciszka Stefczyka and Others
+aliases:
+  - Lexitor
+  - C-383-18
+  - C-383/18
+case-number: C-383-18
+year: "2019"
+topics:
+  - early repayment
+  - credit cost reduction
+  - consumer credit
+  - directive interpretation
+summary: Consumer's right to reduction in total cost of credit upon early repayment includes ALL costs imposed, not just duration-dependent costs.
+relevance: TANGENTIAL - Concerns cost reduction upon early contract termination, not service quality disclosure.
+legal-sources-interpreted:
+  - Consumer Credit Directive
+articles-interpreted:
+  - Consumer Credit Dir. Art. 3(g)
+  - Consumer Credit Dir. Art. 16(1)
+---
+
 JUDGMENT OF THE COURT (First Chamber)
 
 11 September 2019 ( *1 )

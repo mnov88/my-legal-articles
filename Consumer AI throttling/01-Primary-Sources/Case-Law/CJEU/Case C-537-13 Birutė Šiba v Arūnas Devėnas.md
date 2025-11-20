@@ -1,4 +1,30 @@
-   62013CJ0537 
+---
+case-name: Birutė Šiba v Arūnas Devėnas
+aliases:
+  - Šiba v Devėnas
+  - C-537-13
+  - C-537/13
+case-number: C-537-13
+year: "2015"
+topics:
+  - lawyer-client contracts
+  - consumer protection
+  - legal services
+  - directive applicability
+summary: Dir 93/13 applies to standard-form legal service contracts between lawyer and consumer; lawyer providing legal services for fee is "seller or supplier"; nature of services must be considered when assessing unfairness.
+relevance: N/A - Concerns applicability of UTD to lawyer-client contracts, not service quality disclosure.
+legal-sources-interpreted:
+  - UTD
+articles-interpreted:
+  - UTD Art. 1(1)
+  - UTD Art. 2(b)
+  - UTD Art. 2(c)
+  - UTD Art. 3(1)
+  - UTD Art. 4(1)
+  - UTD Art. 5
+---
+
+   62013CJ0537
 
 JUDGMENT OF THE COURT (Ninth Chamber)
 

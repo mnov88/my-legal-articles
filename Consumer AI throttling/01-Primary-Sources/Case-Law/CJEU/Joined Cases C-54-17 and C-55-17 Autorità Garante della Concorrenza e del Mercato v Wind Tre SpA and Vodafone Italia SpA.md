@@ -1,3 +1,29 @@
+---
+case-name: Autorità Garante della Concorrenza e del Mercato v Wind Tre SpA and Vodafone Italia SpA
+aliases:
+  - Wind Tre and Vodafone
+  - C-54-17 and C-55-17
+  - C-54/17 and C-55/17
+case-number: C-54-17 and C-55-17
+year: "2018"
+topics:
+  - inertia selling
+  - pre-activated services
+  - pre-loaded services
+  - telecom SIM cards
+  - aggressive practices
+summary: Selling SIM cards with pre-loaded/pre-activated services without sufficiently informing consumer of their existence or cost is "inertia selling" under UCPD Annex I point 29.
+relevance: HIGHLY RELEVANT - Pre-loaded/pre-activated services without sufficient information on existence or cost is "inertia selling." Direct analogy to AI throttling - automatically activated tiering/degradation without clear pre-contract disclosure.
+legal-sources-interpreted:
+  - UCPD
+articles-interpreted:
+  - UCPD Art. 3(4)
+  - UCPD Art. 5
+  - UCPD Art. 8
+  - UCPD Art. 9
+  - UCPD Annex I point 29
+---
+
    62017CJ0054  
 
 JUDGMENT OF THE COURT (Second Chamber)

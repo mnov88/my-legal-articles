@@ -1,3 +1,27 @@
+---
+case-name: StWL Städtische Werke Lauf a.d. Pegnitz GmbH v eprimo GmbH
+aliases:
+  - StWL Städtische Werke
+  - C-102-20
+  - C-102/20
+case-number: C-102-20
+year: "2021"
+topics:
+  - inbox advertising
+  - consent
+  - direct marketing
+  - electronic mail
+summary: Inbox advertising akin to email is "electronic mail" used for direct marketing; valid only with specific, prior, informed consent.
+relevance: N/A - Concerns marketing consent, not service delivery models.
+legal-sources-interpreted:
+  - ePrivacy Directive
+  - UCPD
+articles-interpreted:
+  - ePrivacy Dir. Art. 2(h)
+  - ePrivacy Dir. Art. 13(1)
+  - UCPD Annex I point 26
+---
+
    62020CJ0102 
 
  JUDGMENT OF THE COURT (Third Chamber)
