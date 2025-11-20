@@ -798,7 +798,11 @@
     "!Archive/Outline/00 Throttling outline.md": "!archive_outline_00_throttling_outline.md.json",
     "!Archive/Drafts": "!archive_drafts.json",
     "!Archive/Drafts/article.md": "!archive_drafts_article.md.json",
-    "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md": "consumer_ai_throttling_00-project-meta_research_questions_framework.md.json"
+    "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md": "consumer_ai_throttling_00-project-meta_research_questions_framework.md.json",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case law table.md": "consumer_ai_throttling_01-primary-sources_case-law_cjeu_case_law_table.md.json",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/Case law table.md": "consumer_ai_throttling_01-primary-sources_case-law_case_law_table.md.json",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/articles-interpreted.md": "consumer_ai_throttling_01-primary-sources_case-law_cjeu_articles-interpreted.md.json",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/articles-interpreted.md": "consumer_ai_throttling_01-primary-sources_case-law_articles-interpreted.md.json"
   },
-  "lastUpdated": 1763635576382
+  "lastUpdated": 1763640051014
 }

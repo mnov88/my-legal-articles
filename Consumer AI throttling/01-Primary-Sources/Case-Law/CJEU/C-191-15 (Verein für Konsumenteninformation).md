@@ -5,7 +5,7 @@ aliases:
   - C-191-15
   - C-191/15
 case-number: C-191-15
-year: "2015"
+year: 2016-06-28
 topics:
   - private international law
   - consumer protection
