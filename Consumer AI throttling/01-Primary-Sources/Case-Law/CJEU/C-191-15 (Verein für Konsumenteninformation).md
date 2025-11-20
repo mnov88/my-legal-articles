@@ -3,6 +3,7 @@ case-name: Verein für Konsumenteninformation
 aliases:
   - Verein für Konsumenteninformation
   - C-191-15
+  - C-191/15
 case-number: C-191-15
 year: "2015"
 topics:
@@ -10,11 +11,11 @@ topics:
   - consumer protection
   - unfair terms
   - DPD applicable law
-opics:
-  - private international law
-  - consumer protection
-  - unfair terms
-  - DPD applicable law
+summary: Choice-of-law clauses in online consumer contracts are reviewable under Dir 93/13 and cannot deprive consumers of mandatory protections.
+relevance: N/A - Concerns jurisdiction/choice of law, not service quality disclosure.
+legal-sources:
+  - Rome II Regulation
+  - UTD
 ---
 
 # JUDGMENT OF THE COURT (Third Chamber)

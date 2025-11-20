@@ -118,12 +118,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-191-15 (Verein für Konsumenteninformation).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHASE1-DOCUMENT-INVENTORY"
+              "title": "C-191-15 (Verein für Konsumenteninformation)"
             }
           }
         ],
@@ -182,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C-518",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-191-15 (Verein für Konsumenteninformation).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PHASE1-DOCUMENT-INVENTORY"
+              "title": "Outline of C-191-15 (Verein für Konsumenteninformation)"
             }
           },
           {
@@ -411,12 +411,28 @@
       }
     ]
   },
-  "active": "afb910c1ba6bf495",
+  "active": "30b35ab29aee2758",
   "lastOpenFiles": [
-    "Untitled 12.md",
-    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
-    "Consumer AI throttling/06-Index-Files",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case law table.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-191-15 (Verein für Konsumenteninformation).md",
+    "Consumer AI throttling/02-Analysis-Legal/Framework-Mapping/EU Consumer protection law and vague terms.md",
+    "!Archive/Materials/Legal sources/Case law/articles-interpreted.md",
+    "!Archive/Materials/Legal sources/Case law/Case law table.md",
+    "!Archive/Materials/NotebookLM CJEU excerpts.md",
+    "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/NotebookLM CJEU excerpts.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/articles-interpreted.md",
+    "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Doctrinal analysis Perplexity.md",
+    "Consumer AI throttling/02-Analysis-Legal/Doctrinal-Analysis/Perplexity consumers general service EU framework.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-388-13 Nemzeti Fogyasztóvédelmi Hatóság v UPC Magyarország kft.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-749-23 innogy Energie.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-335-21 Vicente v Delia.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-472-10 Invitel.md",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-383-18 Lexitor v Spółdzielcza Kasa Oszczędnościowo and Others.md",
+    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+    "Untitled 12.md",
+    "Consumer AI throttling/06-Index-Files",
     "!Archive/Materials/Legal sources/Case law/Case C-518-23 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.md",
     "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
     "!Archive",
@@ -433,22 +449,6 @@
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/RQ3-4-5-Integrated-Framework.md",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/RQ2-Value-Cost-Alignment.md",
     "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/Comprehensive-Effects-Matrix.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Tier-Based/RQ1-Information-Asymmetry.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/tier-based-pricing.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/measured-pricing.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/flat-rate-pricing.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/executive-summary.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/cross-cutting-framework.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/credit-based-pricing.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/call-based-pricing.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/ai_llm_contractual_terms_2025.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Which Position Holds Under Scrutiny.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/The Pricing Paradox Claude.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/The Economics of AI Service Pricing_ Examining the.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/The Economic Inevitability of Opaque Pricing.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Systematic Analysis and Policy Recommendations.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Summary-Paper.md",
-    "Consumer AI throttling/03-Analysis-Economic/Pricing-Models/Cross-Cutting/Pricing Practices and Fairness in Large AI LLM Pla.md",
     "Untitled.canvas"
   ]
 }
