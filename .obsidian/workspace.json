@@ -138,9 +138,23 @@
               "icon": "lucide-file",
               "title": "Untitled 16"
             }
+          },
+          {
+            "id": "d1054bd7780a4c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 15"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -271,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 16.md",
+                "file": "Untitled 15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 16"
+              "title": "Outline of Untitled 15"
             }
           },
           {
@@ -413,10 +427,11 @@
       }
     ]
   },
-  "active": "f487a40ae5482151",
+  "active": "d1054bd7780a4c92",
   "lastOpenFiles": [
-    "Busger.md",
     "Untitled 16.md",
+    "Untitled 15.md",
+    "Busger.md",
     "!Archive/readme-marker.md",
     "!Archive/Untitled 15.md",
     "Individual decisions/Handoff 2.md",
@@ -444,7 +459,6 @@
     "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
     "!Archive/Materials/Legal analysis/General contract law framework/Document-F-Summary.md",
     "!Archive/Materials/Legal analysis/General contract law framework/Document-C-CJEU-Cases.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-522-08. Telekommunikacja Polska SA w Warszawie v Prezes Urzędu Komunikacji Elektronicznej-.md",
     "_page_110_Figure_1.jpeg",
     "_page_109_Figure_4.jpeg",
     "_page_109_Figure_0.jpeg",
