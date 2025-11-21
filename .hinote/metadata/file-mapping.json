@@ -818,7 +818,14 @@
     "Automated decisions": "automated_decisions.json",
     "Automated decisions/General BG - Handoff.md": "automated_decisions_general_bg_-_handoff.md.json",
     "Automated decisions/Article 22 GDPR Automated Decision-Making.md": "automated_decisions_article_22_gdpr_automated_decision-making.md.json",
-    "Automated decisions/Algorithmic Gatekeeping in Administrative Consultations.md": "automated_decisions_algorithmic_gatekeeping_in_administrative_consultations.md.json"
+    "Automated decisions/Algorithmic Gatekeeping in Administrative Consultations.md": "automated_decisions_algorithmic_gatekeeping_in_administrative_consultations.md.json",
+    "Handoff 2.md": "handoff_2.md.json",
+    "Prompt protection/Handoff 2.md": "prompt_protection_handoff_2.md.json",
+    "Individual decisions/Handoff 2.md": "individual_decisions_handoff_2.md.json",
+    "Untitled 15.md": "untitled_15.md.json",
+    "!Archive/Untitled 15.md": "!archive_untitled_15.md.json",
+    "readme-marker.md": "readme-marker.md.json",
+    "!Archive/readme-marker.md": "!archive_readme-marker.md.json"
   },
-  "lastUpdated": 1763730005386
+  "lastUpdated": 1763730393189
 }
