@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
+                "file": "DSA article - finalized/DSA_Article_revised.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Case C-410-23 I- SA v S- J-"
+              "title": "Outline of DSA_Article_revised"
             }
           },
           {
@@ -357,8 +357,9 @@
       }
     ]
   },
-  "active": "1fd2ab2cc6931b45",
+  "active": "5df7b87b5446d64a",
   "lastOpenFiles": [
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
     "Individual decisions/wp251rev_01_en_A754F3E1-FB46-9E76-C0A919864E4B6641_49826.pdf",
     "Individual decisions/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.pdf",
     "Individual decisions/ADM-Taxonomy-Elements.md",
@@ -368,7 +369,6 @@
     "Individual decisions",
     "Busger.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-395-21 D-V- v M-A-.md",
-    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
     "Untitled 6.md",
     "Digital Fairness Proposal.md",
     "DFA Explanatory memo.md",
@@ -404,7 +404,6 @@
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_service_pricing_examples_2025.csv",
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_llm_contractual_terms_2025.csv",
     "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_pricing_models_comparison.csv",
-    "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_llm_pricing_2025.csv",
     "Untitled.canvas"
   ]
 }
