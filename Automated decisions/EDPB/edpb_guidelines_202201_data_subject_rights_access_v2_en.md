@@ -141,17 +141,11 @@ Whereas the preparatory work of these guidelines involved the collection of inpu
 
 # **HAS ADOPTED THE FOLLOWING GUIDELINES**
 
-# <span id="page-7-0"></span>1 INTRODUCTION - GENERAL OBSERVATIONS
+# 1 INTRODUCTION - GENERAL OBSERVATIONS
 
 - 1. In today´s society, personal data are processed by public and private entities, during many activities, for a wide array of purposes and in many different ways. Individuals may often be in a disadvantaged position in terms of understanding how their personal data are processed, including the technology used in the particular case, whether it is by a private or a public entity. In order to protect personal data of natural persons in these situations, the GDPR has created a coherent and robust legal framework, generally applicable with regard to different types of processing, including specific provisions relating to data subject rights.
 - 2. The right of access to personal data is one of the data subjects' rights provided for in Chapter III of the GDPR among other rights, such as for instance the right to rectification and erasure, the right to restriction of processing, the right to portability, the right to object or the right of not being subject to automated individual decision making, including profiling<sup>2</sup> . The right of access by the data subject is enshrined both in the Charter of Fundamental Rights of the EU (the Charter)<sup>3</sup> and in Art. 15 GDPR, where it is precisely formulated as the right of access to personal data and to other related information.
 - 3. Under the GDPR, the right of access consists of three components i.e. confirmation of whether or not personal data are processed, access to it, and information about the processing itself. The data subject can also obtain a copy of the processed personal data, whereas this possibility is not an additional data subject right but the modality of providing access to the data. Thus, the right of access can be understood both as the possibility of the data subject to ask the controller if personal data about him or her are processed and as the possibility to access and to verify these data. The controller shall
-
-<sup>1</sup> References to "Member States" made throughout this document should be understood as references to "EEA Member States".
-
-<sup>2</sup> Art. 15 - 22 GDPR.
-
-<sup>3</sup> Under Art. 8 para. 1 of the Charter of Fundamental Rights of the European Union Everyone has the right to the protection of personal data concerning him or her. Under Art. 8 para. 2 sentence 2 Everyone has the right of access to data which has been collected concerning him or her and the right to have it rectified.
 
 provide to the data subject, on the basis of his/her request, the information falling within the scope of Art. 15(1) and (2) GDPR.
 
@@ -162,13 +156,9 @@ provide to the data subject, on the basis of his/her request, the information fa
 - 8. In the framework of data subject rights, it is also important both to stress the significance of Art. 12 GDPR, which lays down requirements for appropriate measures adopted by the controller in providing the information referred to in Art. 13 and 14 GDPR, and the communications referred to in Art. 15-22 and 34 GDPR; these requirements generally specify the form, manner and time limit for the responses to the data subject, and in particular for any information addressed to the child.
 - 9. The EDPB considers it necessary to provide more precise guidance on how the right of access has to be implemented in different situations. These guidelines aim at analysing the various aspects of the right of access. More particularly, the section hereafter is meant to give a general overview and explanation of the content of the Art. 15 itself whereas the subsequent sections provide deeper analysis of the most frequent practical questions and issues concerning the implementation of the right of access.
 
-<sup>4</sup> See recitals 7, 68, 75 and 85 of the GDPR
+# 2 AIM OF THE RIGHT OF ACCESS, STRUCTURE OF ARTICLE 15 GDPR AND GENERAL PRINCIPLES
 
-<sup>5</sup> See Chapter VIII Articles 77, 78 and 79 of the GDPR
-
-# <span id="page-9-0"></span>2 AIM OF THE RIGHT OF ACCESS, STRUCTURE OF ARTICLE 15 GDPR AND GENERAL PRINCIPLES
-
-## <span id="page-9-1"></span>2.1 Aim of the right of access
+## 2.1 Aim of the right of access
 
 - 10. The right of access is thus designed to enable natural persons to have control over personal data relating to them in that it allows them, "to be aware of, and verify, the lawfulness of the processing"<sup>6</sup>. More specifically, the purpose of the right of access is to make it possible for the data subjects to understand how their personal data are being processed as well as the consequences of such processing, and to verify the accuracy of the data processed without having to justify their intention. In other words, the purpose of the right of access is to provide individuals with sufficient, transparent and easily accessible information about data processing, regardless of the technologies used, and to enable them to verify different aspects of a particular processing activity under the GDPR (e.g. lawfulness, accuracy).
 - 11. The interpretation of the GDPR provided in these guidelines is based on the CJEU case law which has been rendered so far. Taking into account the importance of the right of access, related case law can be expected to evolve significantly in future.
@@ -178,8 +168,6 @@ provide to the data subject, on the basis of his/her request, the information fa
 **Example 1**: An employer dismissed an individual. One week later, the individual decides to collect evidence to file an unfair dismissal lawsuit against this former employer. With that in mind, the individual writes to the former employer requesting access to all personal data relating to him or her, as data subject, that the former employer, as controller, processes.
 
 The controller shall not assess the intention of the data subject, and the data subject does not need to provide the controller with the reason for the request. Therefore, if the request fulfils all other requirements (see section 3), the controller needs to comply with the request, unless the request
-
-<sup>7</sup> CJEU, C-434/16, Nowak, and joined cases C-141/12 and C-372/12, YS and Others.
 
 <sup>&</sup>lt;sup>6</sup> Recital 63 GDPR.
 
@@ -193,7 +181,7 @@ proves to be manifestly unfounded or excessive in accordance with Art. 12 (5) of
 
 14. Although the aim of the right of access is broad, the CJEU illustrated also the limits of the remit of data protection law and the right of access. For instance, the CJEU found that the objective of the right of access guaranteed by EU data protection law is to be distinguished from that of the right of access to public documents established by EU and national legislation, the latter aiming at, "the greatest possible transparency of the decision-making process of the public authorities and to promote good administrative practices"<sup>11</sup>, an objective not sought by data protection law. The CJEU concluded that the right of access to personal data applies irrespective of whether a different kind of right of access with a different aim applies, such as in the context of an examination procedure.
 
-# <span id="page-10-0"></span>2.2 Structure of Article 15 GDPR
+# 2.2 Structure of Article 15 GDPR
 
 - 15. In order to reply to a request for access and to ensure that none of its aspects might be disregarded, it is necessary first to understand the structure of Art. 15 and the constituent components of the right of access stipulated in this Article.
 - 16. Art. 15 can be broken down into eight different elements as listed in the table below:
@@ -202,10 +190,6 @@ proves to be manifestly unfounded or excessive in accordance with Art. 12 (5) of
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | 2. | Access to the personal data concerning the requesting<br>person                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Art. 15(1), second half of the<br>sentence (first part)  |
 | 3. | Access to the following information on the processing:<br>(a) the purposes of the processing;<br>(b) the categories of personal data;<br>(c) the recipients or categories of recipients;<br>(d) the envisaged duration of the processing or the criteria<br>for determining the duration;<br>(e) the existence of the rights to rectification, erasure,<br>restriction of processing and objection to processing;<br>(f) the right to lodge a complaint with a supervisory<br>authority;<br>(g) any available information on the source of the data, if<br>not collected from the data subject; | Art. 15(1), second half of the<br>sentence (second part) |
-
-<sup>10</sup> EDPB Guidelines 10/2020 on restrictions under article 23 GDPR, version for public consultation, 18 December 2020.
-
-<sup>11</sup> CJEU, Joined cases C-141/12 and C-372/12, YS and Others, para. 47.
 
 |    | (h) the existence of automated decision-making, including<br>profiling and other information relating thereto.                                     |                            |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
@@ -217,47 +201,39 @@ proves to be manifestly unfounded or excessive in accordance with Art. 12 (5) of
 
 While all elements of Art. 15(1) and (2) together define the content of the right of access, Art.15(3) deals with the modalities of access, in addition to the general requirements set out in Art. 12 GDPR. Art. 15(4) supplements the limits and restrictions that Art. 12(5) GDPR provides for all data subjects' rights with a specific focus on rights and freedoms of others in the context of access.
 
-## <span id="page-11-0"></span>2.2.1 Defining the content of the right of access
+## 2.2.1 Defining the content of the right of access
 
 17. Art. 15(1) and (2) contain the following three aspects: first, the confirmation whether personal data of the requesting person are being processed, if yes, second, access to those data, and, third, information on the processing. They can be regarded as three different components which together build the right of access.
 
-## <span id="page-11-1"></span>2.2.1.1 Confirmation as to 'whether' or not personal data are being processed
+## 2.2.1.1 Confirmation as to 'whether' or not personal data are being processed
 
 18. When making a request for access to personal data, the first thing that the data subjects need to know is whether or not the controller processes data concerning them. Consequently, this information constitutes the first component of the right of access under Art. 15(1). Where the controller does not process personal data relating to the data subject requesting the access, the information to be provided would be limited to confirming that no personal data relating to the data subject are being processed. Where the controller does process data relating to the requesting person, the controller must confirm this fact to this person. This confirmation may be communicated separately, or it may be encompassed as part of the information on the personal data being processed (see below).
 
-#### <span id="page-11-2"></span>2.2.1.2 Access to the personal data being processed
+#### 2.2.1.2 Access to the personal data being processed
 
 19. Access to personal data is the second component of the right of access under Art. 15(1) and it constitutes the core of this right. It relates to the notion of personal data as defined by Art. 4(1) GDPR. Aside from basic personal data like name and address, an unlimited variety of data may fall within this definition, provided that they fall under the material scope of the GDPR, notably with regards to the way in which there are processed (Art. 2 GDPR). Access to personal data hereby means access to the actual personal data themselves, not only a general description of the data nor a mere reference to the categories of personal data processed by the controller. If no limits or restrictions apply<sup>12</sup>, data subjects are entitled to have access to all data processed relating to them, or to parts of the data,
 
-<sup>12</sup> See section 6 of these Guidelines.
-
 depending on the scope of the request (see sec. 2.3.1). The obligation to provide access to the data does not depend on the type or source of those data. It applies to its full extent even in cases where the requesting person had initially provided the controller with the data, because its aim is to let the data subject know about the actual processing of those data by the controller. The scope of personal data under Art. 15 is explained in detail in sec. 4.1 and 4.2.
 
-#### <span id="page-12-0"></span>2.2.1.3 Information on the processing and on data subject rights
+#### 2.2.1.3 Information on the processing and on data subject rights
 
 20. The third component of the right of access is the information on the processing and on data subjects' rights that the controller has to provide under Art. 15(1)(a) to (h) and 15(2). Such information could be based on text taken, for example, from the privacy notice of the controller<sup>13</sup> or from the controller's record of processing activities referred to in Art. 30 GDPR, but may have to be updated and tailored to the data subject's request. The content and degree of specification of the information is further elaborated in section 4.3.
 
-# <span id="page-12-1"></span>2.2.2 Provisions on Modalities
+# 2.2.2 Provisions on Modalities
 
 21. Art. 15(3) supplements the requirements for the modalities of the reply to access requests laid down in Art. 12 GDPR by some specifications in context of access requests.
 
-#### <span id="page-12-2"></span>2.2.2.1 Providing a copy
+#### 2.2.2.1 Providing a copy
 
 - 22. Under the first sentence of Art. 15(3) GDPR, the controller shall provide a free copy of the personal data which the processing relates to. The copy therefore refers only to the second component of the right of access («access to the personal data processed», see above). The controller must ensure that the first copy is free of charge, even where it considers the cost of reproduction to be high (example: the cost of providing a copy of the recording of a telephone conversation).
 - 23. The obligation to provide a copy is not to be understood as an additional right of the data subject, but as modality of providing access to the data. It strengthens the right of access to the data<sup>14</sup> and helps to interpret this right because it makes clear, that access to the data under Art. 15(1) comprises complete information on all data and cannot be understood as granting only a summary of the data. At the same time, the obligation to provide a copy is not designed to widen the scope of the right of access: it refers (only) to a copy of the personal data undergoing processing, not necessarily to a reproduction of the original documents (see section 5, para. 152). More generally speaking, there is no additional information to be given to the data subject upon providing a copy: the scope of the information to be contained in the copy is the scope of the access to the data under 15(1) (second component of the right of access as referred to above, see para. 19), which includes all information necessary to enable the data subject to understand and verify the lawfulness of the processing.<sup>15</sup>
 - 24. In light of the above, if access to the data in the sense of Art. 15(1) is given by providing a copy, the obligation to provide a copy mentioned under 15(3) is complied with. The obligation to provide a copy serves the objectives of the right of access to allow the data subject to be aware of, and verify the lawfulness of the processing (Recital 63). To achieve these objectives, the data subject will in most
 
-<sup>13</sup> See for information on this Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 - endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB").
-
-<sup>14</sup> The obligation to provide a copy was not mentioned in the Data Protection Directive 95/46/EC.
-
-<sup>15</sup> Questions related to the topic of this paragraph are at issue in a case currently pending before the CJEU (C-487/21
-
 - cases need to see the information not only temporarily. Therefore, the data subject will need to get access to the information by receiving a copy of the personal data.
 - 25. In view of the above, the notion of a copy has to be interpreted in a broad sense and includes the different kinds of access to personal data as long as it is complete (i.e. it includes all personal data requested) and possible for the data subject to keep. Thus, the requirement to provide a copy means, that the information on the personal data concerning the person who makes the request is provided to the data subject in a way which allows the data subject to retain all of the information and to come back to it.
 - 26. In spite of this broad understanding of a copy, and regarding that it is the main modality by which access should be provided, under some circumstances other modalities could be appropriate. Further explanations on copies and other modalities of providing access are given in section 5, in particular 5.2.2 - 5.2.5.
 
-# <span id="page-13-0"></span>2.2.2.2 Providing further copies
+# 2.2.2.2 Providing further copies
 
 - 27. Art. 15(3), second sentence concerns situations where the data subject asks the controller for more than one copy, for example in case the first copy was lost or damaged or the data subject wants to pass on a copy to another person or a Supervisory Authority. On the basis that further copies must be provided by the controller upon request of the data subject, Art. 15(3) rules, that for any further copy requested, the controller may charge a reasonable fee based on administrative costs (Art. 15(3) second sentence).
 - 28. If the data subject asks for an additional copy after the first request was made, questions may arise on whether this should be regarded as a new request, or whether the data subject wants an additional copy of the data in the sense of Art. 15(3) second sentence, in which case a fee for an additional copy may be charged. The response to these questions depends solely on the content of the request: the request should be interpreted as asking for an additional copy, insofar as, in terms of time and scope, it concerns the same processing of personal data as the former request. If, however, the data subject aims to get information on the data processed at a different point in time or relating to a different set of data from the one initially requested, the right to obtain a free copy according to Art. 15(3), applies once again. This also is valid in cases where the data subject has made a first request shortly beforehand. A data subject may exercise its right of access through a subsequent request and obtain a free copy, unless the request is regarded as excessive under Art. 12(5) with the possibility of charging a reasonable fee in accordance with Art. 12(5)(a) (on excessive character of repetitive requests, see section 6).
@@ -272,31 +248,25 @@ depending on the scope of the request (see sec. 2.3.1). The obligation to provid
 - 30. Concerning the allocation of costs in cases of requests for an additional copy, Art. 15(3) establishes that the controller may charge a reasonable fee based on the administrative costs that are caused by the request. This means, that the administrative costs are a relevant criterion for fixing the level of the fee. At the same time, the fee should be appropriate, taking into account the importance of the right of access as a fundamental right of the data subject. The controller should not pass on overhead costs or other general expenses to the data subject, but should focus on the specific costs that where caused by providing the additional copy. When organising this process the controller should deploy its human and material resources efficiently in order to keep the costs of the copy low, including if the controller involves external support.
 - 31. In case the controller decides to charge a fee, the controller should indicate in advance that a fee will be charged and – as accurately as is possible - the amount of costs it is planning to charge to the data subject in order to give the data subject the possibility to determine whether to maintain or to withdraw the request.
 
-#### <span id="page-14-0"></span>2.2.2.3 Making the information available in a commonly used electronic form
+#### 2.2.2.3 Making the information available in a commonly used electronic form
 
 32. In the event of a request by electronic form means, information shall be provided by electronic means where possible and unless otherwise requested by the data subject (see Art. 12(3) GDPR). Art. 15(3), third sentence, complements this requirement in the context of access requests by stating, that the controller is in addition obliged to provide the answer in a commonly used electronic form, unless otherwise requested by the data subject. Art. 15(3) presupposes, that for controllers who are able to receive electronic requests it will be possible to provide the reply to the request in a commonly used electronic form (for details see sec. 5.2.5). This provision refers to all the information that needs to be provided in accordance with Art. 15(1) and (2). Therefore, if the data subject submits the request for access by electronic means, all information must be provided in a commonly used electronic form. Questions of format are further developed in section 5. The controller should, as always, deploy appropriate security measures, in particular when dealing with special category of personal data (see below, under 2.3.4 ).
 
-## <span id="page-14-1"></span>2.2.3 Possible limitation of the right of access
+## 2.2.3 Possible limitation of the right of access
 
 33. Finally, in context of the right of access, a specific limitation is foreseen in Art. 15(4). It states, that possible adverse effects on the rights and freedoms of others have to be considered. Questions as to the scope and the consequences of this limitation as well as to additional limits and restrictions set forth in Art. 12(5) GDPR or under Art. 23 GDPR are explained in section 6.
 
-# <span id="page-14-2"></span>2.3 General principles of the right of access
+# 2.3 General principles of the right of access
 
 34. When data subjects make a request for access to their data, in principle, the information referred to in Art. 15 GDPR must always be provided in full. Accordingly, where the controller processes data relating to the data subject, the controller shall provide all the information referred to in Art. 15(1) and, where applicable, the information referred to in Art. 15(2). The controller has to take the appropriate measures to ensure that the information is complete, correct and up-to-date, corresponding as close as possible to the state of data processing at the time of receiving the request<sup>16</sup> . Where two or more controllers process data jointly, the arrangement of the joint controllers regarding their respective responsibilities with regards to the exercise of data subject's rights, especially concerning the answer to access requests, does not affect the rights of the data subjects towards the controller to whom they address their request<sup>17</sup> .
 
-# <span id="page-15-0"></span>2.3.1 Completeness of the information
+# 2.3.1 Completeness of the information
 
 - 35. Data subjects have the right to obtain, with the exceptions mentioned below, full disclosure of all data relating to them (for details on the scope, see section 4.2). Unless explicitly requested otherwise by the data subject, a request to exercise the right of access shall be understood in general terms, encompassing all personal data concerning the data subject<sup>18</sup>. Limiting access to part of the information may be considered in the following cases:
 - a) The data subject has explicitly limited the request to a subset. In order to avoid providing incomplete information, the controller may consider this limitation of the data subject's request only if it can be certain that this interpretation corresponds to the wish of the data subject (for further details, see section [3.1.1,](#page-19-2) para. 51). In principle, the data subject shall not have to repeat the request for the transmission of all the data the data subject is entitled to obtain.
 - b) In situations where the controller processes a large quantity of data concerning the data subject, the controller may have doubts if a request of access, that is expressed in very general terms, really aims at receiving information on all kind of data being processed or on all branches of activity of the controller in detail. These may arise in particularin situations, where there was no possibility to provide the data subject with tools to specify their request from the beginning or where the data subject did not make use of them. The controller then faces problems of how to give a full answer while simultaneously avoiding the creation of an overflow of information for the data subject that the data subject is not interested in and cannot effectively handle. There may be ways to solve this problem, depending on the circumstances and the technical possibilities, for example by providing self-service tools in online contexts (see section 5 on the layered approach). If such solutions are not applicable, a controller who processes a large quantity of information relating to the data subject may request the data subject to specify the information or processing to which the request relates before the information is delivered (see Recital 63 GDPR). Examples of this may include a company with several fields of activity or a public authority with different administrative units, if the controller found that numerous data relating to the data subject are processed in those branches. In addition, a large quantity of data may be processed by controllers who collect data regarding frequent activities of the data subject over a prolonged time period.
 
 **Example 3:** A public authority processes data on the data subject in a number of different departments concerning various contexts. File management and file keeping are partly processed by non-automated means and most of the data is only stored in paper files. Regarding the general wording of the request, the public authority doubts whether the data subject is aware of the extent
-
-<sup>16</sup> For guidance on appropriate measures see sec. 5 para. 123 - 129
-
-<sup>17</sup> EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, par. 162f.. Processors have to assist the controller, ibd., para. 129.
-
-<sup>18</sup> For details please see section 5.2.3 below on the topic of layered approach.
 
 of the request, especially the variety of processing operations that it would encompass, the amount of information and the number of pages that the data subject would receive.
 
@@ -312,18 +282,16 @@ In any case, the controller should always be able to demonstrate, that the way t
 
 c) Exceptions or restrictions to the right of access apply (see below in section 6). In such cases, the controller should carefully check to which parts of the information the exception relates to and provide all information that is not excluded by the exception. For example, confirmation of the processing of personal data itself (component 1) may not be affected by the exception. As a result, information has to be provided about all the personal data and all the information referred to in Art. 15(1) and (2) that are not concerned by the exception or the restriction.
 
-## <span id="page-17-0"></span>2.3.2 Correctness of the information
+## 2.3.2 Correctness of the information
 
 36. The information included in the copy of the personal data given to the data subject has to comprise the actual information or personal data held about the data subject. This includes the obligation to give information about data that are inaccurate or about data processing which is not or no longer lawful. The data subject may for example use the right of access to find out about the source of inaccurate data being circulated between different controllers. If the controller corrected inaccurate data before informing the data subject about it, the data subject would be deprived of this possibility. The same applies in case of unlawful processing. The possibility to know about unlawful processing concerning the data subject is one of the main purposes of the right of access. The obligation to inform about the unchanged state of processing is without prejudice to the obligation of the controller to end unlawful processing or to correct inaccurate data. Questions about the order in which those obligations should be fulfilled, are answered in the following.
 
-# <span id="page-17-1"></span>2.3.3 Time reference point of the assessment
+# 2.3.3 Time reference point of the assessment
 
 - 37. The assessment of the data being processed shall reflect as close as possible the situation when the controller receives the request and the response should cover all data available at that point in time. This means that the controller has to try to find out about all the data processing activities relating to the data subject without undue delay. Controllers are thus not required to provide personal data, which they processed in the past but which they no longer have at their disposal<sup>19</sup>. For instance, the controller may have deleted personal data in accordance with its data retention policy and/or statutory provisions and may thus no longer be able to provide the requested personal data. In this context, it should be recalled that the length of time for which the data are stored should be fixed in accordance with Art. 5(1)(e) GDPR, as any retention of data must be objectively justifiable.
 - 38. At the same time, the controller shall implement in advance the necessary measures in order to facilitate the exercise of the right of access and to deal with such requests as soon as possible (see Art. 12(3)) and before the data will have to be deleted. Therefore, in the case of short retention periods, the measures taken to answer the request should be adapted to the appropriate retention period in order to facilitate the exercise of the right of access and to avoid the permanent impossibility of providing access to the data processed at the moment of the request<sup>20</sup>. In some cases it may nevertheless not be possible to reply to a request before the time the data are scheduled for deletion. For example, if in course of replying to a request as promptly as possible, a controller retrieves personal data that were scheduled to be deleted the following day, the controller may need some additional time to consider whether redactions need to be made to protect the freedoms of others before releasing a copy of the personal data to the requester. If the data have been retrieved within the
 
 18
-
-<sup>19</sup> See, to that effect, further clarifications in section 4 of these guidelines, as well as in Court of Justice of the European Union, C-553/07, 7 May 2009, *College van burgemeester en wethouders van Rotterdam v M. E. E. Rijkeboer* on a right of access to information on the recipients or categories of recipients in respect of the past. <sup>20</sup> For example, the implementation of a self-service tool enabling the data subject to easily access the requested personal data and a notification system alerting the controller about a request that relates to personal data with short retention periods could be considered in order to facilitate prompt action.
 
 scheduled retention period, the controller may continue to process those data for the purpose to fulfill its obligation to answer the request. Processing in such cases may be based on Art. 6(1)(c) in combination with Article 15 GDPR and its duration has to comply with the requirements of Art. 12(3) GDPR<sup>21</sup>. The application of this legal basis is limited to processing of the data identified to be necessary for answering the concrete request and is not to be used as a justification for general extentions of retention periods.
 
@@ -333,32 +301,26 @@ scheduled retention period, the controller may continue to process those data fo
 
 In order to comply with the principle of transparency, controllers should infom the data subject as of the specific point in time of the processing to which the response of the controller refers. In some cases, for example in contexts of frequent communication activities, additional processing or modifications of the data may occur between this time reference point, at which the processing was assessed, and the response of the controller. If the controller is aware of such changes, it is recommended to include information about those changes as well as information about additional processing necessary to reply to the request.
 
-## <span id="page-18-0"></span>2.3.4 Compliance with data security requirements
+## 2.3.4 Compliance with data security requirements
 
 40. Since communicating and making available personal data to the data subject is a processing operation, the controller is always obliged to implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk of the processing (see Art. 5(1)(f), 24 and 32 GDPR). This applies independently of the modality in which access is provided. In case of non-electronic transmission of the data to the data subject, depending on the risks that are presented by the processing, the controller may consider using registered mail or, alternatively, to offer, but not oblige, the data subject to collect the file against signature directly from one of the controller's establishments. If, in line with Art. 12(1) and (3), information is provided by electronic means, the controller shall choose electronic means that comply with data security requirements. Also in case of providing a copy of the data in a commonly used electronic form (see Art. 15(3)), the controller shall take into account data security requirements when choosing the means of how to transmit the electronic file to the data subject. This may include applying encryption, password protection etc. In order to facilitate access to the encrypted data, the controller should also ensure that appropriate information is made available so that the data subject can access the decrypted information. In cases
 
-<sup>21</sup> This is without prejudice to subsequent processing of data for evidence purposes in connection with the handling of the access request for an appropriate period of time.
-
 where data security requirements would necessitate end-to-end encryption of electronic mails but the controller would only be able to send a normal e-mail, the controller will have to use other means, such as sending a USB-stick by (registered) letter post to the data subject.
 
-# <span id="page-19-0"></span>3 GENERAL CONSIDERATIONS REGARDING THE ASSESSMENT OF ACCESS REQUESTS
+# 3 GENERAL CONSIDERATIONS REGARDING THE ASSESSMENT OF ACCESS REQUESTS
 
-# <span id="page-19-1"></span>3.1 Introduction
+# 3.1 Introduction
 
 - 41. When receiving requests for access to personal data, the controller must assess each request individually. The controller shall take into consideration, *inter alia*, the following issues, further developed in the following paragraphs: whether the request concerns personal data linked to the requesting person and who the requesting person is. This section aims to clarify what elements of the request for access the controller should take into account when carrying out its assessment and to discuss possible scenarios for such an assessment as well as its consequences. The controller, when assessing a request for access to personal data, shall also take into account, pursuant to Art. 12(2) GDPR, the obligation to facilitate the exercise of the data subject rights, while keeping in mind the appropriate security of the personal data<sup>22</sup> .
 - 42. Therefore, the controllers should be proactively ready to handle the requests for access to personal data. This means that the controller should be prepared to receive the request, assess it properly (this assessment is the subject of this section of the guidelines) and provide an appropriate reply without undue delay to the requesting person. The way the controllers will prepare themselves for the exercise of access requests should be adequate and proportionate and depend on the nature, scope, context and purposes of processing as well as the risks to the rights and freedoms of natural persons, in accordance with Art. 24 GDPR. Depending on the particular circumstances, the controllers may, for example, be required to implement an appropriate procedure, the implementation of which should guarantee the security of the data without hindering the exercise of the data subject's rights.
 
-## <span id="page-19-2"></span>3.1.1 Analysis of the content of the request
+## 3.1.1 Analysis of the content of the request
 
 43. This issue can be more specifically assessed by asking the following questions.
 
 #### *a) Does the request concern personal data?*
 
 44. Under the GDPR, the scope of the request shall only cover personal data<sup>23</sup>. Therefore, any request for information about other issues, including general information about the controller, its business models or its processing activities not related to personal data, is not to be considered as a request made pursuant to Art. 15 GDPR. Additionally, a request for information about anonymous data or data that
-
-<sup>22</sup> The controller shall ensure appropriate security of the personal data, in accordance with the integrity and confidentiality principle (Art. 5(1)(f) GDPR), by implementing appropriate technical and organisational measures, as referred to in Art. 32 GDPR and elaborated in Art. 24 GDPR. The controller shall be able to demonstrate that it ensures an adequate level of data protection, in line with the accountability principle (see also: Art. 29 Working Party Opinion 3/2010 on the principle of accountability adopted on 13 July 2010, 00062/10/EN WP 173 and EDPB Guidelines nr 07/2020 on the concepts of controller and processor in the GDPR).
-
-<sup>23</sup> Unless the request covers also non-personal data inextricably linked to the personal data of the data subject. For further explanations see para 100.
 
 does not concern the requesting person or the person on whose behalf the authorised person made the request, will not be within the scope of the right of access. This question will be analysed more in detail in section 4.
 
@@ -372,14 +334,6 @@ does not concern the requesting person or the person on whose behalf the authori
 
 - 47. Data subjects are not required to specify the legal basis in their request. However, if the data subjects clarify that their request is based on sectoral legislation or on national legislation regulating the specific issue of access to certain categories of data, and not on the GDPR, such a request shall be examined by the controller in accordance with such sectoral or national rules, where applicable. Often, depending on the relevant national legislation, controllers may be required to provide separate replies, each dealing with the specific requirements set out by the different legislative acts. This is not to be confused with national or EU legislation setting out restrictions on the right of access which needs to be complied with when answering access requests.
 - 48. If the controller has doubts as to which right the data subject wishes to exercise, it is recommended to ask the data subject making the request to explain the subject matter of the request. Such correspondence with the data subject shall not affect the duty of the controller to act without undue delay<sup>27</sup>. However, in case of doubts, if the controller asks the data subject for further explanation and receives no response, bearing in mind the obligation to facilitate the exercise of the person's right of access, the controller should interpret the information contained in the first request and act on this basis. In accordance with the accountability principle, the controller may determine an appropriate
-
-<sup>24</sup> See Recital 26 GDPR. Further explanations on the concepts of anonymous data and pseudonymised data can be found in WP29 Opinion 4/2007 on the concept of personal data, p. 18-21.
-
-<sup>25</sup> Art. 29 Working Party, WP242 rev.01, 5 April 2017, Guidelines on the right to data portability - endorsed by the EDPB (hereinafter "WP29 Guidelines on the right to data portability - endorsed by the EDPB"), p. 9.
-
-<sup>26</sup> See section 3.4 ("Requests made via third parties/proxies").
-
-<sup>27</sup> See further guidance on the timing in section 5.3.
 
 timeframe during which the data subject may provide further explanation. When fixing such timeframe, the controller should leave enough time to comply with the request after it elapsed and therefore consider how much time is objectively necessary to compile and provide the requested data once the specification was provided (or not) by the data subject.
 
@@ -401,7 +355,7 @@ It should be borne in mind that applicants may not be familiar with the intricac
 
 51. Additionally, the controller needs to assess whether the requests made by the requesting persons refer to all or parts of the information processed about them. Any limitation of the scope of a request to a specific provision of Art. 15 GDPR, made by the data subjects, must be clear and unambiguous. For example, if the data subjects require verbatim "information about the data processed in relation to them", the controller should assume that the data subjects intend to exercise their full right under Art. 15(1) – (2) GDPR. Such a request should not be interpreted as meaning that the data subjects wish to receive only the categories of personal data that are being processed and to waive their right to receive the information listed in Art. 15(1)(a) to (h). This would be different, for example, where the data subjects wish, with regard to data which they specify, to have access to the source or origin of the personal data or to the specified period of storage. In such a case the controller may limit its reply to the specific information requested.
 
-## <span id="page-21-0"></span>3.1.2 Form of the request
+## 3.1.2 Form of the request
 
 52. As noted previously, the GDPR does not impose any requirements on data subjects regarding the form of the request for access to the personal data. Therefore, there are, in principle, no requirements under the GDPR that the data subjects must observe when choosing a communication channel through which they enter into contact with the controller.
 
@@ -414,15 +368,13 @@ It should be borne in mind that applicants may not be familiar with the intricac
 
 In such a case, the controller should make all reasonable efforts, to make its services aware of the request, which was made through the general e-mail, so that it can be redirected to the data protection contact point and answered within the time limits provided for by the GDPR. Moreover, the controller is not entitled to extend the period for responding to a request, merely because the data subject has
 
-<sup>28</sup> This may include, for example, communication data of the controller provided in its communications addressed directly to data subjects or contact data provided by the controller publicly, such as in the controller's privacy policy or other mandatory legal notices of the controller (e.g. owner or business contact information on a website).
-
 sent a request to the controller's general e-mail address, not the controller's data protection contact point e-mail address.
 
 **Example 9**: Controller Y runs a network of fitness clubs. Controller Y indicates on its website and in the privacy notice for clients of the fitness club that in order to submit any inquiries or to make a request with regard to the processing of personal data, individuals should contact the controller under the e-mail address: QUERIES@Y.COM. Nevertheless, the data subject sends a request to an e-mail address found in the changing room, where he found a notice that reads "If you are not satisfied with the cleanliness of the room, please contact us at: CLEANERS@Y.COM", which is the e-mail address of the cleaning staff employed by Y. The cleaning staff are obviously not involved in handling matters concerning the exercise of the rights of data subjects - customers of the fitness club. Although the e-mail address was available on the premises of the fitness club, the data subject could not reasonably expect that this was an appropriate contact address for such requests, since the website and the privacy notice clearly informed about the communication channel to be used for the exercise of data subjects' rights.
 
 57. Date of receipt of the request by the controller triggers, as a rule, the one month period for the controller to provide information on action taken on a request, in accordance with Art. 12(3) GDPR (further guidance on timing is provided in section 5.3). The EDPB considers as good practice for the controllers to confirm receipt of requests in writing, for example by sending e-mails (or information by post, if applicable) to the requesting persons confirming that their requests have been received and that the one month period runs from day X to day Y.
 
-#### <span id="page-23-0"></span>3.2 Identification and authentication
+#### 3.2 Identification and authentication
 
 - 58. In order to ensure the security of processing and minimise the risk of unauthorised disclosure of personal data, the controller must be able to find out which data refer to the data subject (identification) and confirm the identity of that person (authentication).
 - 59. It may be recalled that in situations in which the purpose for which the personal data are processed do not or no longer require the identification of a data subject, the controller does not need to maintain identification for the sole purpose of complying with data subjects' rights, also in light of the principle of data minimisation. These situations are dealt with in Art. 11(1) GDPR.
@@ -451,20 +403,10 @@ However, if Mr. X tries to exercise his access right by e-mail or by regular mai
 
 **Example 12:** The data subject Ms. X requests access to her data while speaking to a helpline consultant of an electricity company with which she has concluded a contract. The consultant, having doubts as to the identity of the person making the request, generates in the company's system a one-time unique code sent to the user's mobile phone number, provided when the account was set up, as part of the double verification system, which action should be considered proportionate in this case*.*
 
-# <span id="page-25-0"></span>3.3 Proportionality assessment regarding authentication of the requesting person
+# 3.3 Proportionality assessment regarding authentication of the requesting person
 
 - 70. As indicated above, if the controller has reasonable grounds for doubting the identity of the requesting person, it may request additional information to confirm the data subject's identity. However, the controller must at the same time ensure that it does not collect more personal data than is necessary to enable authentication of the requesting person. Therefore, the controller shall carry out a proportionality assessment, which must take into account the type of personal data being processed (e.g. special categories of data or not), the nature of the request, the context within which the request is being made, as well as any damage that could result from improper disclosure. When assessing proportionality, it should be remembered to avoid excessive data collection while ensuring an adequate level of processing security.
 - 71. The controller should implement an authentication procedure in order to be certain of the identity of the persons requesting access to their data<sup>34</sup>, and ensure security of the processing throughout the process of handling an access requests in accordance with Art. 32 GDPR, including for instance a secure
-
-<sup>33</sup> Ibid, p. 13-14.
-
-<sup>30</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
-
-<sup>31</sup> See further guidance regarding authentication in section 3.3.
-
-<sup>32</sup> Ibid, p. 14.
-
-<sup>34</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
 
 channel for the data subjects to provide additional information. The method used for authentication should be relevant, appropriate, proportionate and respect the data minimisation principle. If the controller imposes measures aimed at authentifying the data subject which are burdensome, it needs to adequately justify this and ensure compliance with all fundamental principles, including data minimisation and the obligation to facilitate the exercise of data subjects' rights (Art. 12(2) GDPR).
 
@@ -497,23 +439,17 @@ The controller should not require notarised confirmation of identity, unless it 
 - 78. Without prejudice to the above general principles, under certain circumstances, authentication on the basis of an ID may be a justified and proportionate measure, in particular for entities processing special categories of personal data or undertaking data processing which may pose a risk for data subject (e.g. medical or health information). However, at the same time, it should be borne in mind that certain national provisions provide for restrictions on the processing of data contained in public documents, including documents confirming the identity of a person (also on the basis of Art. 87 GDPR). Restrictions on the processing of data from these documents may relate in particular to the scanning or photocopying of ID cards or processing of official personal identification numbers<sup>39</sup> .
 - 79. Taking the above into account, where an ID is requested (and this is both in line with national law and justified and proportionate under the GDPR), the controller must implement safeguards to prevent unlawful processing of the ID. Notwithstanding any applicable national provisions regarding ID
 
-<sup>39</sup> Several member states introduced such restriction in their national provisions in this regard stating, for example, that making copies of ID cards is lawful only if it results directly from the provisions of a legal act.
-
 authentication, this may include refraining from making a copy or deleting a copy of an ID immediately after the successful authentication of the identity of the data subject. This is because further storage of a copy of an ID is likely to amount to an infringement of the principles of purpose limitation and storage limitation (Art. 5(1)(b) and (e) GDPR) and, in addition, national legislation regarding the processing of the national identification number (Art. 87 GDPR). The EDPB recommends, as good practice, that the controller, after checking the ID card, makes a note e.g. " ID card was checked " to avoid unnecessary copying or storage of copies of ID cards.
 
-# <span id="page-28-0"></span>3.4 Requests made via third parties / proxies
+# 3.4 Requests made via third parties / proxies
 
 - 80. Although the right of access is generally exercised by the data subjects as it pertains to them, it is possible for a third party to make a request on behalf of the data subject. This may apply to, among others, acting through a proxy or legal guardians on behalf of minors, as well as acting through other entities via online portals. In some circumstances, the identity of the person authorised to exercise the right of access as well as authorisation to act on behalf of the data subject may require verification, where it is suitable and proportionate (see section 3.3 above)<sup>40</sup>. It should be recalled that making personal data available to someone who is not entitled to access it can amount to a personal data breach<sup>41</sup> .
 - 81. In doing so, national laws governing legal representation (e.g. powers of attorney), which may impose specific requirements for demonstrating authorisation to make a request on behalf of the data subject, should be taken into account, since the GDPR does not regulate this issue. In accordance with the principle of accountability, as well as of the other data protection principles, controllers shall be able to demonstrate the existence of the relevant authorisation to make a request on behalf of the data subject, and to receive the requested information, except if national law differs (e.g. national law contains specific rules regarding the trustworthiness of lawyers) leaving the controller to verify the identity of the proxy (e.g. in the case of lawyers checking enrolment at the bar). Therefore, it is recommended to collect appropriate documentation in this respect, in relation to the previously indicated general rules regarding confirmation of identity of a natural person making a request and, if the controller has reasonable doubts concerning the identity of a person acting on behalf of data subject, it shall request additional information to confirm the identity of this person.
 - 82. While the exercise of the right of access to personal data of deceased persons amounts to another example of access by a third party other than the data subject, Recital 27 specifies that the GDPR does not apply to the personal data of deceased persons. The matter is therefore dealt with by national law and Member States may provide for rules regarding the processing of personal data of deceased persons. However, it should be borne in mind that the data may, in addition, relate to living third persons, e.g. in the context of requested access to a deceased person's correspondence. The confidentiality of such data still needs to be protected.
 
-## <span id="page-28-1"></span>3.4.1 Exercise of the right of access on behalf of children
+## 3.4.1 Exercise of the right of access on behalf of children
 
 83. Children deserve specific protection with regard to their personal data, as they may be less aware of the risks, consequences and safeguards concerning their rights in relation to the processing of personal
-
-<sup>40</sup> Regarding the time limits for exercising the right of access when the controller needs to obtain additional information, see para. 157.
-
-<sup>41</sup> Art. 4(12) GDPR.
 
 - data<sup>42</sup>. Any information and communication to a child, where personal data of a child are processed, should be in clear and plain language so that the child can easily understand<sup>43</sup> .
 - 84. Children are data subjects in their own right and, as such, the right of access belongs to the child. Depending on the maturity and capacity of the child, the child may need a third party to act on it's behalf e.g. the holder of parental responsibility.
@@ -521,35 +457,21 @@ authentication, this may include refraining from making a copy or deleting a cop
 - 86. Due to the special protection of children's personal data contained in the GDPR, the controller shall take appropriate measures to avoid any disclosure of personal data of a minor to an unauthorised person (in this respect see also section 3.4 above).
 - 87. Finally, the right of the holder of parental responsibility to act on behalf of the child should not be confused with instances, outside of data protection law, where national legislation may provide the right of the holder of parental responsibility to ask and receive information on the child (e.g. performance of the child at school).
 
-# <span id="page-29-0"></span>3.4.2 Exercising the right of access through portals / channels provided by a third party
+# 3.4.2 Exercising the right of access through portals / channels provided by a third party
 
 - 88. There are companies that provide services which enable data subjects to make access requests through a portal. The data subject signs in and gets access to a portal through which they can submit for example an access request, request data rectification or data erasure from different controllers. Different questions arise from the use of portals provided for by a third party.
 - 89. The first issue controllers need to deal with when facing these circumstances is to ensure that the third party is acting legitimately on behalf of the data subject, as it is necessary to make sure that no data is disclosed to unauthorised parties.
 - 90. Additionally, a controller that receives a request made through such a portal needs, invariably, to handle that request in a timely manner<sup>44</sup> . There is, however, no obligation for the controller to provide the data under Art. 15 GDPR directly to the portal, if the controller, for example, establishes that the security measures are insufficient or it would be deemed appropriate to use another way for the disclosure of data to the data subject. Under such circumstances, when the controller has other procedures in place to deal with access requests in an efficient and secure way, the controller can provide the requested information through these procedures.
 
-<sup>42</sup> Recital 38 GDPR. As provided in the work programme of the EDPB, it is its intent to provide guidance on children's data. Such a document is expected to provide more guidance on the conditions under which a child may exercise their own right of access, and the holder of parental responsibility can exercise the right of access on behalf of the child.
-
-<sup>43</sup> Recital 58 GDPR. EDPB Guidelines 05/2020 on consent under Regulation 2016/679, section 7.
-
-<sup>44</sup> Regarding the time limits for exercising the right of access when the controller needs to obtain additional information, see para. 157
-
-# <span id="page-30-0"></span>4 SCOPE OF THE RIGHT OF ACCESS AND THE PERSONAL DATA AND INFORMATION TO WHICH IT REFERS
+# 4 SCOPE OF THE RIGHT OF ACCESS AND THE PERSONAL DATA AND INFORMATION TO WHICH IT REFERS
 
 - 91. The present section aims at shedding light on the definition of personal data (4.1) and clarifying the scope of the information covered by the right of access in general (4.2 and 4.3). Of note is that the scope of the concept of personal data and thus, the differentiation between personal data and other data, is an integral part of the assessment carried out by the controller to identify the scope of the data that the data subject is entitled to obtain access to<sup>45</sup> .
 - 92. As a preliminary consideration it should be recalled that the right of access can only be exercised with regard to processing of personal data falling within the material and territorial scope of the GDPR. Therefore, personal data that are not processed by automated means or that are not part of or intended to become part of a filing system as per Art. 2(1) GDPR or processed by a natural person in the course of a purely personal or household activity as per Art. 2 (2) GDPR, are not covered by the right of access.
 
-# <span id="page-30-1"></span>4.1 Definition of personal data
+# 4.1 Definition of personal data
 
 - 93. Art. 15(1) and (3) GDPR refer to "*personal data*", and "*personal data undergoing processing*", respectively. Therefore, the scope of the right of access is first and foremost determined by the scope of the concept of personal data, defined in Art. 4(1) GDPR<sup>46</sup>. The concept of personal data has already been the subject of several Art. 29 Working Party<sup>47</sup> documents<sup>48</sup> and has been interpreted by the CJEU, including in the context of the right of access under Art. 12 of the Directive 95/46/CE.
 - 94. The WP29 considered that the definition of personal data in the Directive 95/46/EC "*reflects the intention of the European lawmaker for a wide notion of 'personal data'*" <sup>49</sup>. Under the GDPR, the definition still refers to "*any information relating to an identified or identifiable natural person*". Aside from basic personal data like name and address, telephone number etc., unlimited broad variety of data may fall within this definition, including medical findings, history of purchases, creditworthiness indicators, communication contents, etc. In light of the broad scope of the definition of personal data,
-
-<sup>45</sup> In accordance with the principle of privacy by design, such analysis is part of the assessment of appropriate measures and safeguards to protect data protection principles and data subject rights, which is carried out "*at the time of the determination of the means for processing and at the time of the processing itself*", *e.g.* reducing the response time when data subjects exercise their rights may be one of the metrics. For further explanations, see guidelines 4/2019 on Article 25 Data Protection by Design and by Default.
-
-<sup>46</sup> As per Art. 4(1) GDPR, "'personal data' means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;"
-
-<sup>47</sup> The Art. 29 Working Party (Art. 29 WP) is the independent European working party that dealt with issues relating to the protection of privacy and personal data until 25 May 2018 (entry into application of the GDPR), the predecessor of the EDPB.
-
-<sup>48</sup> e.g. WP251 rev01 Guidelines on automated individual decision-making and profiling for the purposes of regulation 2016/679 i.e., p.19; WP29 Guidelines on the right to data portability - endorsed by the EDPB,p. 9. <sup>49</sup> WP29 Opinion 4/2007 on the concept of personal data, p. 4.
 
 a restrictive assessment of that definition by the controller would lead to an erroneous classification of personal data<sup>50</sup> and ultimately to a violation of the right of access.
 
@@ -566,20 +488,6 @@ The controller is obliged to provide the data subject with personal data activel
   - Data knowingly and actively provided by the data subject (e.g. account data submitted via forms, answers to a questionnaire)<sup>56</sup>;
   - Observed data or raw data provided by the data subject by virtue of the use of the service or the device (e.g. data processed by connected objects, transaction history, activity logs such as
 
-<sup>50</sup> as information not relating to an identified or identifiable natural person.
-
-<sup>51</sup> CJEU, joined Cases C-141/12 and C-372/12, YS v Minister voor Immigratie, Integratie en Asiel and Minister voor Immigratie, Integratie en Asiel v M and S, 17 July 2014.
-
-<sup>52</sup> CJEU, joined Cases C-141/12 and C-372/12, YS and Others, paras. 38 and 48.
-
-<sup>53</sup> CJEU, C-434/16, Peter Nowak v Data Protection Commissioner, 20 December 2017.
-
-<sup>54</sup> CJEU, C 434/16, Nowak, paras. 34- 35.
-
-<sup>55</sup> CJEU, C-434/16, Nowak, para. 58.
-
-<sup>56</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9.
-
 - access logs, history of website usage, search activities, location data, clicking activity, unique aspects of a person's behaviour such as handwriting, keystrokes, particular way of walking or speaking) <sup>57</sup>;
 - Data derived from other data, rather than directly provided by the data subject (e.g. credit ratio, classification based on common attributes of data subjects, country of residence derived from postcode)<sup>58</sup>;
 - Data inferred from other data, rather than directly provided by the data subject (e.g. to assign a credit score or comply with anti-money laundering rules, algorithmic results, results of a health assessment or a personalization or recommendation process)<sup>59</sup>;
@@ -590,31 +498,19 @@ The controller is obliged to provide the data subject with personal data activel
 - 98. Several considerations may be drawn from the above non-exhaustive list of personal data which may be provided to the data subject in the context of an access request. It is apparent from the above, that the controller may not operate a distinction when providing access to personal data between those data contained in paper files and those stored electronically as long as they fall within the scope of the GDPR. In other words, personal data which are contained in paper files as part of a filing system, or which are intended to form part of a filing system, are covered by the right of access in the same way as personal data stored in a computer memory by means of, for example, binary code or videotape.
 - 99. Moreover, like most data subject rights, the right of access includes both inferred and derived data, including personal data created by a service provider, whereas the right to data portability only includes data provided by the data subject<sup>60</sup>. Therefore, in case of an access request and unlike a data portability request, the data subject should be provided not only with personal data provided to the
 
-<sup>58</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 10-11
-
-<sup>57</sup> WP29 Opinion 4/2007 on the concept of personal data, p. 8
-
-<sup>59</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p.10-11; Art. 29 Working Party, WP 251 rev.01, 6 February 2018, Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679 - endorsed by the EDPB (hereinafter "WP29 Guidelines on Automated individual decision-making and profiling - endorsed by the EDPB"), p. 9-10.
-
-<sup>60</sup> As previously stated in WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 10 and reiterated in WP29 Guidelines on Automated individual decision-making and profiling - endorsed by the EDPB, p. 17.
-
 controller in order to make a subsequent analysis or assessment about these data but also with the result of any such subsequent analysis or assessment.
 
 - 100. It also is important to recall that there is information, such as anonymous data<sup>61</sup>, which is data that do not relate directly or indirectly to an identifiable person, and that are hence excluded from the scope of the GDPR. For example, the location of the server on which the personal data of the data subject processed is not personal data. The distinction can be challenging and controllers may wonder how to draw a clear line between personal and non-personal data in particular in the case of mixed datasets. In such case it may be useful to differentiate between mixed datasets in which personal and nonpersonal data are inextricably linked and those in which this is not the case. Personal and non-personal data may be inextricably linked in mixed datasets and fall altogether under the scope of the right of access of the data subject to which the personal data relates62. In other cases personal and nonpersonal data in mixed datasets may not be inextricably linked rendering only the personal data in the set accessible to the data subject. For example, a company might need to provide a data subject with the individual IT incident reports it triggered, but not with the company's knowledge database of IT problems. However, which security measures the controller has put in place is generally not to be understood as being personal data, provided that these are not inextricably linked with personal data, and therefore not covered by the right of access.
 - 101. Before concluding the section, the EDPB recalls in this context that the protection of natural persons with regard to the processing of personal data encompasses all the types of personal data listed above and that a restrictive interpretation of the definition contravenes the provisions of the GDPR and ultimately violates Art. 8 of the Charter of Fundamental Rights. The application of a differing regime for the exercise of a right in relation to some types of personal data, which has not been foreseen by the GDPR can be introduced exclusively by law, in accordance with Art. 23 GDPR (as further explained in section 6.4). Thus, controllers cannot limit the exercise of the right of access by unduly restricting the scope of personal data.
 
-# <span id="page-33-0"></span>4.2 The personal data the right of access refers to
+# 4.2 The personal data the right of access refers to
 
 - 102. According to Art. 15(1) GDPR, "*the data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information*"(emphasis added).
 - 103. Several elements emerge from paragraph (1) of Art. 15 GDPR. The paragraph refers *expressis verbis* to "*personal data concerning him or her*"(4.2.1) , which "*are being processed*"(4.2.2) by the controller:
 
-## <span id="page-33-1"></span>4.2.1 "personal data concerning him or her"
+## 4.2.1 "personal data concerning him or her"
 
 104. The right of access can be exercised exclusively with regard to personal data relating to the data subject requesting access or, where applicable, by an authorised person or proxy (see section 3.4). There are also situations in which data do not have a link to the person exercising the right of access but to
-
-<sup>61</sup> Further explanations on the concept of anonymization can be found in Art. 29 Working Party, Opinion 05/2014 on Anonymisation Techniques, WP216, 10 April 2014, p. 5-19.
-
-<sup>62</sup> Communication from the Commission to the European Parliament and the Council, Guidance on the Regulation on a framework for the free flow of non-personal data in the European Union, 29.05.2019, COM/2019/250 final.
 
 another individual. The data subject is however, only entitled to personal data relating to themselves excluding data which exclusively concern someone else<sup>63</sup> .
 
@@ -622,21 +518,13 @@ another individual. The data subject is however, only entitled to personal data 
 - 106. The words "*personal data concerning him or her*" should not be interpreted in an "*overly restrictive*" way by controllers, as the Art. 29 Working Party already stated with regard to the right to data portability<sup>65</sup>. Applied to the right of access, the EDPB considers for example that recordings of telephone conversations (and their transcription) between the data subject that requests access and the controller, may fall under the right of access provided that the latter are personal data<sup>66</sup>. Provided that the GDPR applies and that the processing is not covered by the household exemption as per Art. 2(2)(c) GDPR, if the data subject uses the obtained record which includes personal data of the interlocutor for other purposes by, for instance, publishing the record, the data subject will become a controller for this processing of personal data relating to the other person whose voice was recorded. Although this will not exempt the controller from its data protection obligations when duly analysing whether access to the full record may be given, the controller is encouraged to inform the data subject about the fact that they may become controller in such case. This is without prejudice to any further assessment under Art. 15(4) GDPR detailed in section 6. In the same vein, messages that data subjects have sent to others in the form of interpersonal messages and deleted themselves from their device, that are still avaible to the service provider, may fall under the right of access.
 - 107. Then again, there are situations in which the link between the data and several individuals may seem blurred to the controller, such as in the case of identity theft. In case of identity theft, a person fraudulently acts in the name of another person. In this context it is important to recall that the victim should be provided with information on all personal data the controller stores in connection with their identity, including those that have been collected on the basis of the fraudster's actions. In other words, even after the controller learned about the identity theft, personal data which are associated with or related to the identity of the victim constitute personal data of the data subject.
 
-<sup>63</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9: "*Only personal data is in scope of a data portability request. Therefore, any data that is anonymous or does not concern the data subject, will not be in scope. However, pseudonymous data that can be clearly linked to a data subject (e.g. by them providing the respective identifier, cf. Article 11 (2)) is within the scope."*
-
-<sup>64</sup> CJEU, judgment in case C-434/16 Peter Nowak v. Data Protection Commissioner, 2017, para. 44.
-
-<sup>65</sup> WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9: *In many circumstances, controllers will process information that contains the personal data of several data subjects. Where this is the case, controllers should not take an overly restrictive interpretation of the sentence "personal data concerning the data subject". As an example, telephone, interpersonal messaging or VoIP records may include (in the subscriber's account history) details of third parties involved in incoming and outgoing calls. Although records will therefore contain personal data concerning multiple people, subscribers should be able to have these records provided to them in response to data portability requests, because the records are (also) concerning the data subject. However, where such records are then transmitted to a new controller, this new controller should not process them for any purpose which would adversely affect the rights and freedoms of the third-parties (see below: third condition).*"
-
-<sup>66</sup> See example 34 in section 6.2.
-
 **Example 17:** An individual fraudulently uses the identity of someone else in order to play poker online. The perpetrator pays the online casino using the credit card they stole from the victim. When the victim finds out about the identity theft, the victim asks the provider of the online casino to provide him or her with access to his or her personal data and more specifically, to the online games played and information about the credit card used by the perpetrator.
 
 There is a link between the collected data and the victim as the latter's identity has been used. After the detection of the fraud, the personal data mentioned above still has a link by reason of their content (the victim's credit card is clearly about the victim), purpose and effect (the information about the online games played by the perpetrator may for instance be used to issue invoices to the victim). Therefore, the online casino shall grant the victim access to the aforementioned personal data.
 
 108. If appropriate, internal connection logs can be used to hold record about accesses to a file and to trace back which actions were performed in connection with accesses to a record, such as printing, copying, or deleting personal data. These logs may include the time of logging, the reason for the access to file as well as information identifying the person having had access. Questions related to this topic are at issue in a case currently pending before the CJEU (C-579/21). The putting in place and the supervision and revision of connection logs fall within the controller's responsibility and are liable to be checked by the supervisory authorities. The controller should thus make sure that the persons acting under its authority who have access to personal data do not process personal data except on instructions from the controller, as per Art. 29 GDPR. If the person nevertheless processes the personal data for other purposes than fulfilling the controller's instructions, it may become controller for that processing and subject to disciplinary or criminal proceedings or administrative sanctions issued by supervisory authorities. The EDPB notes that it is part of the employer's responsibility under Art. 24 GDPR to make use of appropriate measures, extending from education to disciplinary procedures, to ensure that processing is in compliance with the GDPR and that no infringement occurs.
 
-## <span id="page-35-0"></span>4.2.2 Personal data which "are being processed"
+## 4.2.2 Personal data which "are being processed"
 
 109. Paragraph (1) of Art. 15 GDPR moreover refers to personal data, which "are being processed". The time reference point for determining the range of personal data falling within the access request has already been elaborated in section 2.3.3. The wording however also suggests that the right of access does not distinguish between the purposes of the processing operations.
 
@@ -646,18 +534,16 @@ The data subject requests access to personal data relating to them. To comply wi
 
 110. Archived personal data needs to be distinguished from back-up data that is personal data stored solely for the purpose of restoring the data in the case of a data loss event. It should be pointed out, that in respect of the principles of data protection by design and data minimisation, the back-up data is in principle similar to the data in the live system. Where there are slight differences between personal data in the back-up and the live production system, these are generally linked to the collection of additional data since the last back-up. A decrease in data in the live system (e.g. erasure after the retention period of some data came to an end or following an erasure request) will in some cases only be overwritten in the back-up data at the time of the subsequent back-up. In case there is an access request at the moment where there are more personal data relating to the data subject in the backup than in the live system or different personal data (noticeable for example via log of deletions in the live production system implemented in full compliance with the principle of data minimisation), the controller needs to be transparent about this situation and where technically feasible provide access as requested by the data subject, including to personal data stored in the back-up. For instance, with the aim of being transparent to data subjects who exercise their right, a log of deletions in the live production system may enable the controller to see that there are data in the back-up which are not in the live system anymore as they have been recently deleted has and have not yet been overwritten in the back-up.
 
-## <span id="page-36-0"></span>4.2.3 The scope of a new request to access
+## 4.2.3 The scope of a new request to access
 
 111. What remains to say is that data subjects are entitled to have access to all data processed relating to them, or to parts of the data, depending on the scope of the request (see also 2.3.1 on the completeness of the information and 3.1.1 for the analysis of the content of the request). As a consequence, where a controller already complied with a request for access in the past and provided that the request is not excessive, the controller cannot narrow the scope of this new request. This means that in relation to any further access request of the same data subject, the controller should not inform the data subject only about the mere changes in the personal data processed or the processing itself since the last request, unless the data subject expressly agrees to this. Otherwise, data subjects would be obliged to compile their personal data provided in order to a complete set of personal data concerning their information on the processing and on data subjects rights.
 
-# <span id="page-36-1"></span>4.3 Information on the processing and on data subject rights
+# 4.3 Information on the processing and on data subject rights
 
 - 112. In addition to the access to the personal data themselves, the controller has to provide information on the processing and on data subject rights according to Art. 15(1)(a) to (h) and 15(2) GDPR. Most of the information on those specific points is already compiled, at least in general form, in the controller's record of processing activities referred to in Art. 30 GDPR and/or in its privacy notice elaborated in accordance with Art.s 12 to 14 GDPR. Therefore, it might be helpful as a first step to consult the "Guidelines on transparency under Regulation 2016/679" <sup>67</sup> of the Art. 29 Working Party, on the content of the information to be given under Art. 13 and 14 GDPR.
 - 113. In order to comply with Art. 15(1)(a) to (h) and 15(2), controllers may carefully use text modules of their privacy notice as long as they make sure that they are up-to-date and precise with regards to the request of the data subject. Before or at the beginning of the data processing, some information, such as the identification of specific recipients or the specific duration of the data processing, can often not yet be provided. Some information, like for example the right to complain to a supervisory authority (see Art. 15(1)(f)), does not change depending on the person making the access request.Therefore, it may be communicated in general terms as it is also done in the privacy notice. Other types of information, such as the information on recipients, on categories and on the source of the data may vary depending on who makes the request and what the scope of the request is. In the context of an access request under Art. 15, any information on the processing available to the controller may therefore have to be updated and tailored for the processing operations actually carried out with regard to the data subject making the request. Thus, referring to the wording of its privacy policy would
 
 37
-
-<sup>67</sup> Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB").
 
 not be a sufficient way for the controller to give information required by Art. 15(1)(a) to (h) and (2) unless the « tailored and updated » information is the same as the information provided at the beginning of the processing. In explaining which information relates to the requesting person, the controller could, where appropriate, refer to certain activities (such as "if you have used this service …", "if you have payed by invoice") as long as it is obvious for the data subjects if they are concerned. In the following, the degree of specification required is explained in relation to the individual types of information.
 
@@ -669,8 +555,6 @@ not be a sufficient way for the controller to give information required by Art. 
 - 116. Information on "recipients or categories of recipients" (Art. 15(1)(c)) has firstly to take into account the definition of recipients given in Art. 4(9) GDPR. The definition of recipients is based on the disclosure of personal data to a natural or legal person, public authority, agency or other body<sup>68</sup>. From Art. 4(9) GDPR follows, that public authorities acting in the framework of a particular enquiry subject to specific national provisions are not to be considered as recipients.
 - 117. Concerning the question, if the controller is free to choose between information on recipients or on categories of recipients, it has to be noted that "unlike Art. 13 and 14 of the GDPR, which lay down an obligation on the part of the controller (…), Article 15 of the GDPR lays down a genuine right of access for the data subject, with the result that the data subject must have the option of obtaining either
 
-<sup>68</sup> It should further be noted, that different controllers as defined by Art. 4(7) GDPR may exist within the same company. In this constellation a disclosure of data from one recipient to another within one company is possible.
-
 information about the specific recipients to whom the data have been or will be disclosed, where possible, or information about the categories of recipients."<sup>69</sup> It has also to be recalled, that, as stated in the above-mentioned guidelines on transparency<sup>70</sup>, already under Art. 13 and 14 GDPR information on the recipients or categories of recipients should be as concrete as possible in respect of the principles of transparency and fairness. Under Article 15, if the data subject has not chosen otherwise, the controller is obliged to name the actual recipients, unless it is impossible to identify those recipients or the controller demonstrates that the data subject's requests for access are manifestly unfounded or excessive within the meaning of Article 12(5) GDPR<sup>71</sup> <sup>72</sup> . The EDPB recalls in this regard, that storing information relating to the actual recipients is necessary *inter alia* to be able to comply with the controller's obligations under Art. 5(2) and 19 GDPR.
 
 **Example 20**: In its privacy notice an employer gives information about which categories of data are passed on to "travel agencies" or "hotels" in case of business trips, in accordance with Art. 13(1)(e) and 14(1)(e) GDPR. If an employee makes a request for access to the personal data after business trips have taken place, the employer should then, concerning the recipients of the personal data pursuant to Art. 15(1)(c), indicate in its reply the travel agency(ies) and hotel(s) that received the data. While the employer legitimately referred to categories of recipients in its privacy notice pursuant to Art. 13 and 14, because at this stage, it was not yet possible to name the recipients, it should, unless the employee has chosen otherwise, provide information as to the specific recipients (name of travel agencies, hotels etc.) when the employee is making an access request.
@@ -679,16 +563,6 @@ Where, respecting the conditions mentioned above, a controller may only provide 
 
 - 118. According to Art. 15(1)(d), information has to be given on the envisaged period for which the personal data will be stored, where possible. Otherwise, the criteria used to determine that period have to be provided. The information given by the controller has to be precise enough for the data subject to know how long the data relating to the data subject will continue to be stored. If it is not possible to specify the time of deletion, the duration of storage periods and the beginning of this period or the triggering event (e.g. termination of a contract, expiration of a warranty period, etc.) shall be specified. The mere reference, for example to "deletion after expiry of the statutory storage periods" is not sufficient. Indications concerning data storage periods will have to focus on the specific data relating to the data subject. If the personal data of the data subject is subject to different deletion periods (e.g. because not all data is subject to legal storage obligations), the deletion periods shall be stated in relation to the respective processing operations and categories of data.
 - 119. Whereas information on the right to lodge a complaint with a supervisory authority (Art. 15(1)(f)) is not dependant on the specific circumstances, the data subjects rights mentioned in Art. 15(1)(e) vary depending on the legal basis underlying the processing. With regard to its obligation to facilitate the exercise of data subject rights pursuant to Art. 12(2) GDPR, the response by the controller on those
-
-<sup>69</sup> CJEU, C-154/21 (Österreichische Post AG), para. 36.
-
-<sup>70</sup> Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB"), p. 37 (Annex)
-
-<sup>71</sup> CJEU, C-154/21 (Österreichische Post AG)
-
-<sup>72</sup> The mere fact, that the data have been disclosed to a large number of recipients would not *per se* render the request excessive,see section 6, para 188.
-
-<sup>73</sup> WP29 Guidelines on transparency - endorsed by the EDPB, p. 37 (Annex)
 
 rights shall be individually tailored to the case of the data subject and relate to the processing operations concerned. Information on rights that are not applicable for the data subject in the specific situation should be avoided.
 
@@ -707,39 +581,31 @@ The privacy notice thus contains general information on the possibility of obtai
 - 121. Art. 15(1)(h) provides that every data subject should have the right to be informed, in a meaningful way, *inter alia*, about the existence and underlying logic of automated decision-making including profiling concerning the data subject and about the significance and the envisaged consequences that such processing could have<sup>74</sup>. If possible, information under Art. 15(1)(h) has to be more specific in relation to the reasoning that lead to specific decisions concerning the data subject who asked for access.
 - 122. Information about intended transfers of data to a third country or an international organisation, including the existence of a Commission adequacy decision or suitable safeguards, has to be given
 
-<sup>74</sup> See on this behalf Guidelines on transparency under Regulation 2016/679 (WP 260), para. 41, with reference to Guidelines on automated individual decision-making and profiling for the purposes of Regulation 2016/679 (WP 251).
-
 under Art. 13(1)(f) and 14(1)(f) GDPR. In the context of a request for access under Art. 15, Art. 15(2) requires information on the appropriate safeguards pursuant to Art. 46 GDPR only in cases where transfer to a third country or an international organisation is actually taking place.
 
-# <span id="page-40-0"></span>5 HOW CAN A CONTROLLER PROVIDE ACCESS?
+# 5 HOW CAN A CONTROLLER PROVIDE ACCESS?
 
 - 123. The GDPR is not very prescriptive as to how the controller has to provide access. The right of access may be easy and straight forward to apply in some situations, for example when a small organisation holds limited information about the data subject. In other situations, the right of access is more complicated because the data processing is more complex; with regard to the number of data subjects, the categories of processed data as well as the flow of data within and between different organisations. Considering the differences in personal data processing, the appropriate way to provide access may vary accordingly.
 - 124. This section aims at giving some guidance and practical examples on different ways for controllers to comply with an access request as well as to the meaning of Art. 12(1) GDPR in relation to the right of access. This section will also give some guidance about what is considered to be a commonly used electronic form as well as the timing for the provision of access under Art. 12(3) GDPR.
 
-# <span id="page-40-1"></span>5.1 How can the controller retrieve the requested data?
+# 5.1 How can the controller retrieve the requested data?
 
 - 125. The data subjects should have access to all the information that the controller processes regarding them. This means, for example, that the controller is obliged to search for personal data throughout its IT systems and non-IT filing systems. When carrying out such search, the controller should use available information in the organisation regarding the data subject that likely will result in matches in the systems depending on how the information is structured<sup>75</sup> . For example, if the information is sorted in files depending on name or a reference number, the search could be limited to these factors. But if the structure of the data depends on other factors, such as family relations or professional titles or any kind of direct or indirect identifiers (e.g. customer number, user name or IP-addresses), the search needs to be extended to include these, provided that the controller also holds this information related to the data subject, or is provided with that information by the data subject. The same applies when records regarding third persons are likely to contain personal data regarding the data subject. The controller may, however, not require the data subject to provide more information than necessary to identify the data subject. If a controller uses a processor for its data processing activities the search naturally has to be extended to also include personal data processed by the processor.
 - 126. In line with Art. 25 GDPR on data protection by design and by default, the controller (and any processors it uses) should also already have implemented functions enabling the compliance with data subject rights. This means, in this context, that there should be appropriate ways to find and retrieve information regarding a data subject when handling a request. However, it should be noted that an excessive interpretation in this regard could lead to functions for finding and retrieving information that in itself pose a risk for the privacy of data subjects. It is therefore important to keep in mind that the process to retrieve data should also be designed in a data protection friendly way, so that it doesn't compromise the privacy of others, for example the employees of the controller.
 
-<sup>75</sup> Such a search should naturally also include information that is held by a processor, see. Article 28(3)(e) GDPR.
+# 5.2 Appropriate measures for providing access
 
-# <span id="page-41-0"></span>5.2 Appropriate measures for providing access
-
-# <span id="page-41-1"></span>5.2.1 Taking "appropriate measures"
+# 5.2.1 Taking "appropriate measures"
 
 - 127. Art. 12 GDPR lays down the requirements for providing access, i.e. for providing the confirmation, the personal data and the supplementary information under Art. 15, and also specifies the form, manner and time limit in relation to the right of access. Art. 29 Working Party's "Guidelines on transparency under Regulation 2016/679"<sup>76</sup> provides further guidance as regards Art. 12, mostly in relation to Art. 13 and 14 GDPR but also in relation to Art. 15 and on transparency in general. Thus, what is defined in those guidelines can often equally apply with regards to providing access under Article 15.
 - 128. Art. 12(1) of the GDPR states that the controller shall take appropriate measures to provide any communication under Art. 15 relating to processing to the data subject in a concise, transparent, intelligible and easily accessible form, using clear and plain language. Art. 12(2) provides that the controller shall facilitate the data subject's exercise of access right. The more precise requirements in this regard will have to be assessed case by case. When deciding which measures are appropriate, the controllers have to take into account all the relevant circumstances, including, but not limited to, the amount of data being processed, the complexity of their data processing and the knowledge they have about their data subjects, for example if the majority of the data subjects are children, elderly people or people with disabilities. In addition, in situations where the controller is made aware of any particular needs of the data subject making the request, for example through additional information in the request made, the controller needs to take these circumstances into consideration. As a result the appropriate measures will vary.
 - 129. It is important to keep in mind when making the assessment that the term "appropriate" should never be understood as a way of limiting the scope of the data covered by the right of access. The term "appropriate" does not mean that the efforts to provide the information can be balanced against, for example, any interest the data subject may have in obtaining the personal data. Instead the assessment should aim at choosing the most appropriate method for providing all information covered by this right, depending on the specific circumstances in each case. As a consequence, a controller who processes a large quantity of data on a large scale must accept to undertake great efforts to ensure the right of access to the data subjects in a consice, transparent, intelligible and easily accessible form, by using plain and clear language.
 - 130. It needs to be avoided to direct the data subject to different sources in response to a data access request. As previously stated in the WP29 Guidelines on Transparency (with regard to the notion of "provide" in Art. 13 and 14 GDPR), the notion of "provide" entails that *"the data subject must not have to actively search for information covered by these articles amongst other information, such as terms and conditions of use of a website or app"<sup>77</sup> .* Therefore, and in respect of the transparency principle, data subjects must obtain from the controller the information and personal data required by Art. 15(1), 15(2) and 15(3) in a way that enables complete access to the requested information. In special circumstances, it would be inappropriate or even unlawful to share the information within the controller, for example due to the sensitive nature of the information (such as information relating to whistleblowing). In these cases, it would be deemed appropriate to split the information into several replies as a response to the data subjects access request. The method chosen by the controller must
 
-<sup>76</sup> Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB").
-
-<sup>77</sup> WP29 Guidelines on transparency - endorsed by the EDPB, para. 33.
-
 - actually provide the data subject with the requested data and information, hence it would not be appropriate to solely refer the data subject to check the requested data stored on their own device including, for example, to check clickstream history and IP addresses on their mobile phone.
 - 131. In accordance with the accountability principle, a controller must document their approach to be able to demonstrate how the means chosen to provide the necessary information under Art. 15 are appropriate in the circumstances at hand.
 
-# <span id="page-42-0"></span>5.2.2 Different means to provide access
+# 5.2.2 Different means to provide access
 
 - 132. As already explained in section 2.2.2 above, when making an access request the data subjects are entitled to receive a copy of their data undergoing processing pursuant to Art. 15(3) together with the supplementary information, which is considered as the main modality for providing access to the personal data.
 - 133. However, in some circumstances it could be appropriate for the controller to provide access through other ways than providing a copy. Such non-permanent modalities of access to the data could be, for example: oral information, inspection of files, onsite or remote access without possibility to download. These modalities may be appropriate ways of granting access for example in cases where it is in the interest of the data subject or the data subject asks for it. Onsite access could also be appropriate, as an initial measure, when a controller handles a large quantity of non-digitalized data to allow the data subject to be made aware of what personal data are undergoing processing and to be able to make an informed decision about what personal data he or she wants to be provided through a copy. Nonpermanent ways of access can be sufficient and adequate in certain situations; for example, it can satisfy the need of the data subjects to verify that the data processed by the controller are correct by giving data subjects a chance to view the original data. A controller is not obliged to provide the information through other ways than providing a copy but should take a reasonable approach when considering such a request. Giving access through other ways than providing a copy does not preclude the data subjects from the right to also have a copy, unless they choose not to.
@@ -759,12 +625,10 @@ under Art. 13(1)(f) and 14(1)(f) GDPR. In the context of a request for access un
 
 - 138. The use of self-service tools should never limit the scope of personal data received. If not possible to give all the information under Art. 15 through the self-service tool, the remaining information needs to be provided in a different manner. The controller may indeed encourage the data subject to use a self-service tool that the controller has set in place for handling access requests. However, it should be noted that the controller must also handle access requests that are not sent through the established channel of communication<sup>78</sup> .
   - 5.2.3 Providing access in a "concise, transparent, intelligible and easily accessible form using clear and plain language"
-- <span id="page-43-0"></span>139. According to Art. 12(1) GDPR the controller shall take appropriate measures to provide access under Art. 15 in a concise, transparent, intelligible and easily accessible form, using clear and plain language.
+- 139. According to Art. 12(1) GDPR the controller shall take appropriate measures to provide access under Art. 15 in a concise, transparent, intelligible and easily accessible form, using clear and plain language.
 - 140. The requirement that providing access to the data subject has to be done in a concise and transparent form means, that controllers should present the information efficiently and succinctly in order to be easily understood by the data subject, especially if it is a child. The controller needs to take into account the quantity and complexity of the data when choosing the means for providing access under Art. 15.
 
 **Example 26:** A social media provider processes a large quantity of information about a data subject. A large part of this personal data is information contained in hundreds of pages of log files where the
-
-<sup>78</sup> See section 3.1.2.
 
 data subject's activities on the website are registered. If data subjects request access to their personal data, the personal data in these log files are indeed covered by the right of access. The right of access may therefore be formally fulfilled if these hundreds of pages of log files were to be provided to the data subject. However, without measures taken to facilitate the understanding of the information in the log files, the data subject's right of access might not be met in practice, because no knowledge can easily be drawn from the log files, therefore not fulfilling the requirement of Art. 12(1) GDPR. The controller must therefore be careful and thorough when choosing the way the information and personal data is presented to the data subject.
 
@@ -774,31 +638,15 @@ data subject's activities on the website are registered. If data subjects reques
 
 142. The "easily accessible" element means that the information under Art. 15 should be presented in a way that is easy for the data subject to access. This applies for example, to the layout, appropriate
 
-<sup>79</sup> WP29 Guidelines on transparency - endorsed by the EDPB, para. 35.
-
-<sup>80</sup> Intelligibility is closely linked to the requirement to use a plain and clear language (WP29 Guidelines on transparency - endorsed by the EDPB, para. 9). What is said about a plain and clear language in para. 12-16 with regards to information referred to in Articles 13 and 14 GDPR, equally applies to communication under Article 15.
-
-<sup>81</sup> See para. 128.
-
-<sup>82</sup> The raw format in the example is to be understood as unanalysed data underlying a processing, and not the lowest level of raw data that may only be machine-readable (such as "bits").
-
 headings and paragraphing. The information should always be provided in plain and clear language. A controller that offers a service in a country should also offer answers in the language that is understood by the data subjects in that country. The use of standardised icons is also encouraged when it facilitates the intelligibility and accessibility of the information. When the request for information relates to visually impaired data subjects or other data subjects who may have difficulty in accessing or understanding information, the controller is expected to take measures facilitating the understanding of the information provided, including oral information, when adequate<sup>83</sup>. The controller should take special care to ensure that elderly people, children, visually impaired persons or persons with cognitive or other disabilities can exercise their rights, for instance, by proactively providing easily accessible elements to facilitate exercise of these rights.
 
-# <span id="page-45-0"></span>5.2.4 A large quantity of information necessitates specific requirements on how the information is provided
+# 5.2.4 A large quantity of information necessitates specific requirements on how the information is provided
 
 - 143. Regardless of the means used to provide access there may be a tension between the amount of information the controller needs to provide data subjects with and the requirement that it must be concise. One way of achieving both, and an example of an appropriate measure for certain controllers, when a large quantity of data is to be provided, is to use a layered approach. This approach can facilitate the data subjects' understanding of the data. It should nevertheless be stressed that this approach can only be used under certain circumstances and needs to be carried out in a way that does not limit the right of access, as explained below. Furthermore, the use of a layered approach should not create an extra burden for the data subject. Hence, it would be best suited when access is provided in an online context. A layered approach is merely a way to present the information under Art. 15 in a manner which is also compliant with the requirements in Art. 12(1) GDPR and should not be confused with the possibility for the controllers to request that the data subject specifies the information or processing activities to which the request relates, as prescribed in Recital 63 of the GDPR<sup>84</sup> .
 - 144. A layered approach in relation to the right of access means that a controller, under certain circumstances, can provide the personal data and the supplementary information required under Art. 15 in different layers. The first layer should include information about the processing and data subject's rights according to Art. 15(1)(a)-(h) and 15(2) as well as a first part of the processed personal data. In a second layer, more personal data should be provided.
 - 145. When deciding what information should be given in the different layers the controller should consider what information the data subject in general would consider as most relevant. In line with the fairness principle, the first layer should also contain information on the processing which has the most impact on the data subject<sup>85</sup> . The controllers need to be able to demonstrate accountability as to their reasoning of the above.
 
 **Example 28:** A controller analyses big data sets to place customers in different segments depending on their online behaviour. In this situation, it can be assumed that the information that is the most important for the data subjects to obtain is information about what segment they have been put in. As a result, this information should be included in the first layer. The data in a raw format<sup>86</sup> that has not yet been analysed or further processed, such as user activity on a website, is also personal data
-
-<sup>83</sup> See WP29 Guidelines on transparency - endorsed by the EDPB, para. 21.
-
-<sup>84</sup> See also section 2.3.1.
-
-<sup>85</sup> See WP29 Guidelines on transparency - endorsed by the EDPB, para. 36.
-
-<sup>86</sup> See footnote 82.
 
 covered by the right of access, however, it could in some cases be sufficient to provide this information in another layer.
 
@@ -812,7 +660,7 @@ covered by the right of access, however, it could in some cases be sufficient to
 
 147. The use of a layered approach will not be considered appropriate for all controllers or in all situations. It should only be used when it would be difficult for the data subject to comprehend the information if given in its entirety. In other words, the controller needs to be able to demonstrate that the use of layered approach adds value for the data subject in helping them understand the information provided. A layered approach would therefore only be considered appropriate when a controller processes a large quantity of personal data about the data subject making a request and where there would be apparent difficulties for the data subject to grasp or comprehend the information if it were to be provided all at once. The fact that it would require great effort and resources from the controller to provide the information under Art. 15 is not in itself an argument for using a layered approach.
 
-## <span id="page-46-0"></span>5.2.5 Format
+## 5.2.5 Format
 
 148. According to Art. 12(1) GDPR, information under Art.15 shall be provided in writing or by other means including, where appropriate, by electronic means. As regards access to the personal data undergoing processing, Art. 15(3) states that where the data subject makes the request by electronic means, and unless otherwise requested by the data subject, the information shall be provided in a commonly used electronic form. The GDPR does not specify what a commonly used electronic form is. Thus there are several conceivable formats that can be used. What is considered to be a commonly used electronic form will also vary over time.
 
@@ -820,10 +668,6 @@ covered by the right of access, however, it could in some cases be sufficient to
 - 150. When deciding upon the format in which the copy of the personal data and the information under Art. 15 should be provided, the controller needs to keep in mind that the format must enable the information to be presented in a way that is both intelligible and easily accessible. It is important that the data subject is provided with information in embodied, permanent form (text, electronic). Since the information should persist over time, information in writing, including by electronic means, is, in principle, preferable over other forms. The copy of the personal data could, when appropriate, be stored on an electronic storage device such as CD or USB.
 - 151. It should be noted that for a controller to be able to consider that data subjects have been provided with a copy of personal data it is not enough to have provided them with access to their personal data. For the requirement to provide a copy of personal data to be fulfilled and in case the data are provided electronically/digitally, the data subjects need to be able to download their data in a commonly used electronic form.
 - 152. It is the responsibility of the controller to decide upon the appropriate form in which the personal data will be provided. The controller can, although is not necessarily obliged to, provide the documents which contain personal data about the data subjects making the request, in their original form. The controller could, for example, on a case-by-case basis, provide access to a copy of the medium as such, given the need for transparency (for example, to verify the accuracy of the data held by the controller in the event of a request for access to the medical file or an audio recording whose transcript is disputed).However, the CJEU, in its interpretation of the right of access under the Directive 95/46/EC, stated that "for *[the right of access]* to be complied with, it is sufficient for the applicant to be provided with a full summary of those data in an intelligible form, that is, a form which allows him to become aware of those data and to check that they are accurate and processed in compliance with that directive, so that he may, where relevant, exercise the rights conferred on him"<sup>87</sup>. Unlike the directive, the GDPR expressly contains an obligation to provide the data subject with a copy of the personal data undergoing processing. This, however, does not mean that the data subject always has the right to obtain a copy of the documents containing the personal data, but an unaltered copy of the personal data being processed in these documents. <sup>88</sup> Such copy of the personal data could be provided through a compilation containing all personal data covered by the right of access as long as the compilation
-
-<sup>87</sup> CJEU, Joined Cases C-141/12 and 372/12, YS and Others, para. 60.
-
-<sup>88</sup> Questions related to this topic are at issue in cases currently pending before the CJEU ( C-487/21 and C-307/21).
 
 makes it possible for the data subject to be made aware and verify the lawfulness of the processing. Hence, there is no contradiction between the wording of the GDPR and the ruling by the CJEU regarding this matter. The word summary in the ruling should not be misinterpreted as meaning that the compilation would not encompass all data covered by the right of access, but is merely a way to present all that data without giving access to the underlying documents which contain the personal data. Since the compilation needs to contain a copy of the personal data, it should be stressed that it cannot be made in a way that somehow alters or changes the content of the information.
 
@@ -834,7 +678,7 @@ makes it possible for the data subject to be made aware and verify the lawfulnes
 - 155. In some cases, the personal data itself sets the requirements in what format the personal data should be provided. For example, when the personal data constitutes handwritten information by the data subject, the data subject may need to be provided with a photocopy of that handwritten information, as the handwriting itself is personal data. That could especially be the case when the handwriting is something that matters to the processing, e.g.scripture analysis. The same applies in general for audio recordings because the voice of the data subject itself is personal data. In some cases, however, access can be given by providing a transcription of the conversation, for example, if agreed upon between the data subject and the controller.
 - 156. It should be noted that the provisions on format requirements are different regarding the right of access and the right of data portability. Whilst the right of data portability under Art. 20 GDPR requires that the information is provided in a machine readable format, the right to information under Art. 15 does not. Hence, formats that are considered not to be appropriate when complying with a data portability request, for example pdf-files, could still be suitable when complying with an access request.
 
-# <span id="page-49-0"></span>5.3 Timing for the provision of access
+# 5.3 Timing for the provision of access
 
 - 157. Art. 12(3) GDPR requires that the controller provides information to the data subject regarding action taken in respect of a request under Art. 15 without undue delay and in any event within one month of receipt of the request. This deadline can be extended by a maximum of two months taking into account the complexity and the number of the requests, provided that the data subject has been informed about the reasons for such delay within one month of the receipt of the request. This obligation to inform the data subject about the extension and its reasons should not be confused with the information that has to be given without delay and at the latest within one month when the controller does not take action on the request, as detailed by Art. 12(4) GDPR.
 - 158. The controller shall react and, as a general rule, provide the information under Art. 15 without undue delay, which means that the information should be given as soon as possible. This means that, if it is possible to provide the requested information in a shorter amount of time than one month, the controller should do so. The EDPB also considers that the timing to answer the request in some situations must be adapted to the storage period in order to be able to provide access<sup>89</sup> .
@@ -845,14 +689,6 @@ makes it possible for the data subject to be made aware and verify the lawfulnes
 160. The time period to respond to an access request needs to be calculated in accordance with Regulation No 1182/71<sup>92</sup> .
 
 **Example 32:** An organisation receives a request on 5 March. The time limit starts from the same day. This gives the organisation until and including 5 April to comply with the request, at the latest.
-
-<sup>89</sup> See section 2.3.3
-
-<sup>90</sup> In some member states there is national law determining when a message is to be considered as received, taking into account weekends and national holidays.
-
-<sup>91</sup> See further section 2.3.1.
-
-<sup>92</sup> Regulation (EEC, EURATOM) No 1182/71 of the Council of 3 June 1971 determining the rules applicable to periods, dates and time limits.
 
 **Example 33:** If the organisation receives a request on 31 August, and as the following month is shorter there is no corresponding date, the date for response, at the latest, is the last day of the following month, hence 30 September.
 
@@ -865,9 +701,9 @@ makes it possible for the data subject to be made aware and verify the lawfulnes
   - when the information requires further work in order to be intelligible.
 - 164. The mere fact that complying with the request would require a large effort does not make a request complex. Similarly, the fact that a big company receives a large number of requests would not automatically trigger an extension of the time limit. However, when a controller temporarily receives a large amount of requests, for example due to an extraordinary publicity regarding their activities, this could be regarded as a legitimate reason for prolonging the time of the response. Nevertheless, a controller, especially one who handles a large quantity of data, should have procedures and mechanisms in place in order to be able to handle requests within the time limit under normal circumstances.
 
-# <span id="page-50-0"></span>6 LIMITS AND RESTRICTIONS OF THE RIGHT OF ACCESS
+# 6 LIMITS AND RESTRICTIONS OF THE RIGHT OF ACCESS
 
-# <span id="page-50-1"></span>6.1 General remarks
+# 6.1 General remarks
 
 - 165. The right of access is subject to the limits that result from Art. 15(4) GDPR (rights and freedoms of others) and Art. 12 (5) GDPR (manifestly unfounded or excessive requests). Furthermore, Union or Member State law may restrict the right of access in accordance with Art. 23 GDPR. Derogations regarding the processing of personal data for scientific, historical research or statistical purposes or archiving purposes in the public interest can be based on Art. 89(2) and Art. 89(3) GDPR accordingly and derogations for processing carried out for journalistic purposes or the purpose of academic, artistic or literary expression can be based on Art. 85(2) GDPR.
 - 166. It is important to note that, apart from the above mentioned limits, derogations and possible restrictions, the GDPR does not allow any further exemptions or derogations to the right of access. That means *inter alia* that the right of access is without any general reservation to proportionality with regard to the efforts the controller has to take to comply with the data subjects request under Art. 15
@@ -875,21 +711,11 @@ makes it possible for the data subject to be made aware and verify the lawfulnes
 - GDPR<sup>93</sup>. Furthermore, it is not permitted to limit or restrict the right of access in a contract between the controller and the data subject.
 - 167. According to Recital 63, the right of access is granted to data subjects in order to be aware of, and verify, the lawfulness of the processing. The right of access enables, *inter alia*, the data subject to obtain, depending on the circumstances, the rectification, erasure or blocking of personal data<sup>94</sup> . However, data subjects are not obliged to give reasons or to justify their request. As long as the requirements of Art. 15 GDPR are met the purposes behind the request should be regarded as irrelevant<sup>95</sup> .
 
-# <span id="page-51-0"></span>6.2 Article 15 (4) GDPR
+# 6.2 Article 15 (4) GDPR
 
 - 168. According to Art. 15(4) GDPR, the right to obtain a copy shall not adversely affect the rights and freedoms of others. Explanations about this limitation are given in the fifth and sixth sentences of Recital 63. That right should not adversely affect the rights or freedoms of others, including trade secrets or intellectual property and in particular the copyright protecting the software. However, the result of those considerations should not be a refusal to provide all information to the data subject. When interpreting Art. 15(4) GDPR special caution has to be taken not to unjustifiably widen the restrictions laid down in Art. 23 GDPR, which are permissible only under strict conditions.
 - 169. Art. 15(4) GDPR applies to the right to obtain a copy of the data, which is the main modality of giving access to the data processed (second component of the right of access). It is also applicable, and rights and freedoms of others shall be taken into account, if access to the personal data is exceptionally granted by other means than a copy. For example, there is no difference justified whether trade secrets are affected by providing a copy or by granting on site access to the data subject. Art. 15(4) GDPR is not applicable to the additional information on the processing as stated in Art. 15(1) lit. a.-h. GDPR.
 - 170. According to Recital 63, conflicting rights and freedoms include trade secrets or intellectual property and in particular the copyright protecting the software. These explicitly mentioned rights and freedoms should be regarded merely as examples, as, in principle, any right or freedom based on Union or Member State law may be considered to invoke the limitation of Art. 15(4) GDPR<sup>96</sup> . Thus, the right to the protection of personal data (Art. 8 European Charter of Fundamental Rights) can also be considered as an affected right in terms of Art. 15(4) GDPR. Regarding the right to obtain a copy, the right to data protection of others is a typical case where the limitation needs to be assessed. Furthermore, the right to confidentiality of correspondence has to be taken into account, for example with regard to private e-mail-correspondence in the employment context<sup>97</sup> . It is important to note that not every interest amounts to "rights and freedoms" pursuant to Art. 15(4) GDPR. For example, the economic interests of a company not to disclose personal data do not reach the threshold for the
-
-<sup>93</sup> Where the controller processes a large quantity of information concerning the data subject, as mentioned in recital 63 GDPR, the controller may request the data subject to specify the information or processing activities to which the request relates. See also section 2.3.1.
-
-<sup>94</sup> CJEU, Joined Cases C-141/12 and C-372/12, YS and Others.
-
-<sup>95</sup> This is without prejudice to any applicable national law that comply with the requirements posed by Art. 23 GDPR, see Chapter 6.4.
-
-<sup>96</sup> The weight or priority of the conflicting rights and freedoms is not a question of the definition of the terms "rights and freedoms". However, balancing of such interests is part of a second step of the assessment, whether Art. 15(4) is applicable. See para. 173 below.
-
-<sup>97</sup> ECHR, Bărbulescu v. Romania, no 61496/08, para. 80, 5 September 2017.
 
 recourse to the excemption in Art. 15(4) as long as there are no trade secrets, intellectual property or other protected rights affected.
 
@@ -901,8 +727,6 @@ recourse to the excemption in Art. 15(4) as long as there are no trade secrets, 
 173. With regard to Recital 4 GDPR and the rationale behind Art. 52(1) of the European Charter of Fundamental Rights, the right to protection of personal data is not an absolute right<sup>98</sup>. Hence also the exercise of the right of access has to be balanced against other fundamental rights in accordance with the principle of proportionality. When the Art. 15(4) GDPR assessment proves that complying with the request has adverse (negative) effects on other participants' rights and freedoms (step 1), the interests of all participants need to be weighed taking into account the specific circumstances of the case and in particular the likelihood and severity of the risks present in the communication of the data. The controller should try to reconcile the conflicting rights (step 2), for example through the implementation of appropriate measures mitigating the risk to the rights and freedoms of others*.* As emphasised in Recital 63, protecting the rights and freedoms of others by virtue of Art. 15(4) GDPR should not result in a refusal to provide all information to the data subject. This means, for example, where the limitation applies, that information concerning others has to be rendered illegible as far as possible instead of refusing to provide a copy of the personal data. However, if it is impossible to find a solution of reconciliation of the relevant rights, the controller has to decide in a next step which of the conflicting rights and freedoms prevails (step 3).
 
 **Example 35**: A retailer offers its clients the possibility to order products via a hotline operated by its customer service. For the purpose of proving the commercial transactions, the retailer stores a call recording, in accordance with the strict requirements of applicable legislation. A customer wants to receive a copy of the conversation he had with an agent of the customer service. In a first step, the retailer analyses the request and realises that the record contains personal data that also relate to someone else, namely to the agent of the customer service. In a second step, in order to assess whether providing the copy would affect the rights and freedoms of others, the retailer has to balance the conflicting interests, especially taking into account the likelihood and severity of possible risks to the rights and freedoms of the customer service agent, that are present in the communication of the record to the client. The retailer concludes that there are very limited
-
-<sup>98</sup> See, for example, also CJEU, Joined cases C-92/09 and C-93/09, Volker und Markus Schecke GbR and Hartmut Eifert v. Land Hessen [GC], 9 November 2010, para. 48.
 
 personal data relating to the customer service agent in the record, only his voice. The retailer/controller finds that the agent is not easily identifiable. Moreover, the content of the discussion is of a professional nature and the data subject was the interlocutor. On the basis of the aforementioned circumstances the controller objectively concludes that the right to access does not adversely affect the rights and freedoms of the agent of the customer service and therefore, the controller may provide the data subject with the full record, including the parts of the voice record that relate to the agent of the customer service.
 
@@ -923,19 +747,17 @@ However, according to Art. 15(4) GDPR and Recital 63 GDPR, PLATFORM Y is not bou
 
 174. If controllers refuse to act on a request for the right of access in whole or in part under Art. 15(4) GDPR, they have to inform the data subject of the reasons without delay and at the latest within one month (Art. 12(4) GDPR). The explanatory statement has to refer to the concrete circumstances in order to allow the data subjects to assess whether they want to take action against the refusal. It must include information about the possibility of lodging a complaint with a supervisory authority (Art. 77 GDPR) and seeking judicial remedy (Art. 79 GDPR).
 
-# <span id="page-54-0"></span>6.3 Article 12(5) GDPR
+# 6.3 Article 12(5) GDPR
 
 - 175. Art. 12(5) GDPR enables controllers to override requests for the right of access that are manifestly unfounded or excessive. These concepts have to be interpreted narrowly, as the principles of transparency and cost free data subjects rights must not be undermined.
 - 176. Controllers must be able to demonstrate to the individual why they consider that the request is manifestly unfounded or excessive and, if asked, explain the reasons to the competent supervisory authority. Each request should be considered on a case by case basis in the context in which it is made in order to decide if it is manifestly unfounded or excessive.
 
-## <span id="page-54-1"></span>6.3.1 What does manifestly unfounded mean?
+## 6.3.1 What does manifestly unfounded mean?
 
 - 177. A request for the right of access is manifestly unfounded, if the requirements of Art. 15 GDPR are clearly and obviously not met when applying an objective approach. However, as explained especially in section 3 above, there are only very few prerequisites for requests for the right of access. Therefore, the EDPB emphasises that there is only very limited scope for relying on the "manifestly unfounded" alternative of Art. 12(5) GDPR in terms of requests for the right of access.
 - 178. Furthermore, it is important to recall that prior to invoking the restriction, controllers must carefully analyse the content and scope of the request. For example, a request should not be regarded as manifestly unfounded if the request is related to the processing of personal data not subject to the GDPR (in this case, the request should not be dealt with as an Art. 15-request at all).
 
 55
-
-<sup>99</sup> The extent of the information provided to individuals will be heavily context dependent, taking into account the nature of the controller and the nature of the breach of the terms of service. In some cases, it may only be possible for the controller to provide basic information in response to an access request to which Art. 15(4) applies.
 
 179. Other cases in which the applicability of Art. 12(5) GDPR is questionable are requests related to information or processing activities that are clearly and obviously not subject to the processing activities of the controller.
 
@@ -943,7 +765,7 @@ However, according to Art. 15(4) GDPR and Recital 63 GDPR, PLATFORM Y is not bou
 
 180. A controller should not presume that a request is manifestly unfounded because the data subject has previously submitted requests which have been manifestly unfounded or excessive or if it includes unobjective or improper language.
 
-# <span id="page-55-0"></span>6.3.2 What does excessive mean?
+# 6.3.2 What does excessive mean?
 
 - 181. There is no definition of the term "excessive" in the GDPR. On the one hand, the wording "in particular because of their repetitive character" in Art. 12(5) GDPR allows for the conclusion that the main scenario for application of this limb with regard to Art. 15 GDPR is linked to the quantity of requests of a data subject for the right of access. On the other hand, the aforementioned phrasing shows that other reasons that might cause excessiveness are not excluded *a priori*.
 - 182. Certainly, according to Art. 15(3) GDPR regarding the right to obtain a copy, a data subject may submit more than one request to a controller<sup>101</sup>. In the event of requests that could potentially be regarded as excessive, the assessment of "excessiveness" depends on the analysis carried out by the controller and the specifics of the sector in which it operates.
@@ -951,10 +773,6 @@ However, according to Art. 15(4) GDPR and Recital 63 GDPR, PLATFORM Y is not bou
 - 184. For example, in the case of social networks, a change in the data set will be expected at shorter intervals than in the case of land registers or central company registers. In the case of business associates, the frequency of contacts with the customer should be considered. Accordingly the "reasonable intervals" within which data subjects may again exercise their right of access are also different. The more often changes occur in the database of the controller, the more often data subjects may be permitted to request access to their personal data without it being excessive. On the other hand, a second request by the same data subject could be considered to be repetitive in certain circumstances.
 - 185. When deciding whether a reasonable interval has elapsed, controllers should consider the following in the light of the reasonable expectations of the data subject:
   - how often the data is altered is information unlikely to have changed between requests? If a data pool is obviously not subject to a processing other than storage and the data subject is
-
-<sup>100</sup> A different question is whether the authority which the access request was addressed to is entitled to transmit the request to the competent state authority.
-
-<sup>101</sup> According to the second sentence of Article 15(3), the controller may charge a reasonable fee for further copies requested.
 
 aware of this, e.g. because of a previous request for the right of access, this might be an indication for an excessive request;
 
@@ -967,8 +785,6 @@ aware of this, e.g. because of a previous request for the right of access, this 
 **Example 40 (social media platform):** A social media platform whose core business is the collection and/or processing of personal data of the data subject carries out large-scale complex and continuous processing activities. A data subject that uses the services of the platform lodges access requests **every three months**. In this case, frequent changes to the personal data relating to the data subject are highly likely (first bullet point above), the broad range of collected data includes inferred sensitive personal data (second bullet point above) processed for the purpose of showing relevant content and network members to the data subject (third bullet point). Access requests every three months may - under these circumstances - in principle not be regarded as excessive due to repetitiveness.
 
 **Example 41 (credit agencies):** As with social networks, it cannot be ruled out that modifications of the relevant data held by credit agencies will occur at much shorter intervals than in other areas (first bulletpoint above). This results from numerous factors of which the data subject, as a person from outside, is usually not aware due to the complexity of the business model. The answer to the question as to which types of data were collected for a score value calculation by the controller and which are currently included in the calculation can therefore only be provided by the credit agency itself. In addition, data processing through credit agencies and the resulting score value can have farreaching consequences for the data subject with regard to intended legal transactions, such as the conclusion of purchasing, rent or leasing contracts (third bullet point above).
-
-<sup>102</sup> If the subsequent request concerns the same type of information in scope AND time, this is not a question of excessiveness but a question of request for an additional copy, see section 2.2.2.2.
 
 It is not possible to generally determine any specific interval in which the submission of a further access request could be deemed excessive under Art. 12(5) second sentence GDPR. An overall consideration of the circumstances of the individual case is rather required. However, given the importance of data processing for the data subjects' reality of everyday life, it can be assumed that a **one-year interval** between information provided free of charge will in any case be too large for the request to be considered excessive. If a request is submitted within a very short interval, the decisive factor should be whether the data subject has reason to assume that the information or the processing has changed since the last request. For example, if the data subject has conducted a financial transaction, such as taking a loan, the data subject should be entitled to request access to the credit information even though such a request was submitted and responded to shortly before.
 
@@ -983,14 +799,10 @@ It is not possible to generally determine any specific interval in which the sub
   - an individual makes a request, but at the same time offers to withdraw it in return for some form of benefit from the controller or
   - the request is malicious in intent and is being used to harass the controller or its employees with no other purposes than to cause disruption, for example based on the fact that:
 
-<sup>103</sup> No proportionality test, see above para. 166.
-
-<sup>104</sup> This is without prejudice to any applicable national law that comply with the requirements posed by Art. 23 GDPR, see Chapter 6.4.
-
 - o the individual has explicitly stated, in the request itself or in other communications, that it intends to cause disruption and nothing else; or
 - o the individual systematically sends different requests to a controller as part of a campaign, e.g. once a week, with the intention and the effect of causing disruption<sup>105</sup> .
 
-# <span id="page-58-0"></span>6.3.3 Consequences
+# 6.3.3 Consequences
 
 - 191. In case of a manifestly unfounded or excessive request for the right of access controllers may, according to Art. 12(5) GDPR, either charge a reasonable fee (taking into account the administrative costs of providing information or communication or taking the action requested) or refuse to comply with the request.
 - 192. The EDPB points out that controllers are on the one hand not generally obliged to charge a reasonable fee before refusing to act on a request. On the other hand, they aren´t completely free to choose between the two alternatives either. In fact, controllers have to make an adequate decision depending on the specific circumstances of the case. Whereas it is hardly imaginable that charging a reasonable fee is a suitable measure in case of manifestly unfounded requests, for excessive requests – in line with the principle of transparency – it will often be more appropriate to charge a fee as a compensation for the administrative costs the repetitive requests are causing.
@@ -1001,19 +813,11 @@ It is not possible to generally determine any specific interval in which the sub
 - 194. Before charging a reasonable fee based on Art. 12(5) GDPR, controllers should provide an indication of their plan to do so to the data subjects. The latter have to be enabled to decide whether they will withdraw the request to avoid being charged.
 - 195. Unjustified rejections of requests of the right of access can be regarded as infringements of data subject rights pursuant to Art. 12 to 22 GDPR and can therefore be subject to the exercise of corrective powers by competent supervisory authorities, including administrative fines based on Art. 83(5)(b) GDPR. If data subjects consider there is an infringement of their data subject rights, they have the right to lodge a complaint based on Art. 77 GDPR.
 
-<sup>105</sup> "Systematically sending as part of a campaign" means that requests which could easily be combined to one are artificially split into not just a few but many single pieces by the data subject with the apparent intention to cause disruption.
-
-# <span id="page-59-0"></span>6.4 Possible restrictions in Union or Member States law based on Article 23 GDPR and derogations
+# 6.4 Possible restrictions in Union or Member States law based on Article 23 GDPR and derogations
 
 - 196. The scope of the obligations and rights provided for in Art. 15 GDPR may be restricted by way of legislative measures in Union or Member States law<sup>106</sup> .
 - 197. Controllers, who plan to rely on a restriction based on national law must carefully check the requirements of the provision of the respective national legislation. Furthermore, it is important to note, that restrictions of the right of access in Member States (or Union) law which are based on Art. 23 GDPR must strictly fulfil the conditions laid down in this provision. The EDPB has issued the Guidelines 10/2020 on restrictions under Art. 23 GDPR with further explanations on this. In terms of the right of access, the EDPB recalls that controllers should lift the restrictions as soon as the circumstances that justify them no longer apply<sup>107</sup> .
-- <span id="page-59-1"></span>198. Legislative measures which relate to restrictions under Art. 23 GDPR may also foresee that the exercise of a right is delayed in time, that a right is exercised partially or circumscribed to certain categories of data or that a right can be exercised indirectly through an independent supervisory authority<sup>108</sup> .
-
-<sup>106</sup> See for example sections 32 to 37 of the German Federal Data Protection Act (BDSG), sections 16 and 17 of the Norwegian Personal Data Act and chapter 5 of the Swedish Data Protection Act.
-
-<sup>107</sup> Paragraph 76 of the Guidelines 10/2020 on restrictions under Art. 23 GDPR, Version 2.0, adopted on 13 October 2021.
-
-<sup>108</sup> Paragraph 12 of the Guidelines 10/2020 on restrictions under Art. 23 GDPR, Version 2.0, adopted on 13 October 2021. Section 34 (3) of the German Federal data protection act for example states that if a public authority doesn´t provide information to a data subject complying with a request for the right of access because of certain restrictions, such information shall be provided to the federal supervisory authority at the request of the data subject, unless the responsible supreme federal authority (of the authority which was subject to the request) determines in the individual case that doing so would endanger the security of the Federation or a Land. The Italian DPCode provides for indirect access (through the authority) in case the access could impact with adverse consequence on a number of interests (e.g. Interest to contrast money laundering) see Art. 2-L of the Italian DPCode.
+- 198. Legislative measures which relate to restrictions under Art. 23 GDPR may also foresee that the exercise of a right is delayed in time, that a right is exercised partially or circumscribed to certain categories of data or that a right can be exercised indirectly through an independent supervisory authority<sup>108</sup> .
 
 **Is it an Art. 15 request? Is it a GDPR request? Does the request concern personal data? What is the scope of the request? Does the request relate to the requesting person? Request on a different data subject right Request on a different legal basis NO access request Authorisation check (in case of a request by a third party) No access Identity check, in case of doubts NO YES NO YES NO YES NO YES NO YES** Verify the scope of the request in line with section 4 of the Guidelines (if a large quantity of information is processed/request is imprecise ask the data subject to further specify the request).
 
@@ -1043,3 +847,201 @@ Step 3: Checking limits and restrictions (1)
 Step 3: Checking limits and restrictions (2)
 
 ![](_page_62_Figure_3.jpeg)
+
+## Footnotes
+
+[^1]: References to "Member States" made throughout this document should be understood as references to "EEA Member States".
+
+[^2]: Art. 15 - 22 GDPR.
+
+[^3]: Under Art. 8 para. 1 of the Charter of Fundamental Rights of the European Union Everyone has the right to the protection of personal data concerning him or her. Under Art. 8 para. 2 sentence 2 Everyone has the right of access to data which has been collected concerning him or her and the right to have it rectified.
+
+[^4]: See recitals 7, 68, 75 and 85 of the GDPR
+
+[^5]: See Chapter VIII Articles 77, 78 and 79 of the GDPR
+
+[^7]: CJEU, C-434/16, Nowak, and joined cases C-141/12 and C-372/12, YS and Others.
+
+[^10]: EDPB Guidelines 10/2020 on restrictions under article 23 GDPR, version for public consultation, 18 December 2020.
+
+[^11]: CJEU, Joined cases C-141/12 and C-372/12, YS and Others, para. 47.
+
+[^12]: See section 6 of these Guidelines.
+
+[^13]: See for information on this Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 - endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB").
+
+[^14]: The obligation to provide a copy was not mentioned in the Data Protection Directive 95/46/EC.
+
+[^15]: Questions related to the topic of this paragraph are at issue in a case currently pending before the CJEU (C-487/21
+
+[^16]: For guidance on appropriate measures see sec. 5 para. 123 - 129
+
+[^17]: EDPB Guidelines 07/2020 on the concepts of controller and processor in the GDPR, par. 162f.. Processors have to assist the controller, ibd., para. 129.
+
+[^18]: For details please see section 5.2.3 below on the topic of layered approach.
+
+[^19]: See, to that effect, further clarifications in section 4 of these guidelines, as well as in Court of Justice of the European Union, C-553/07, 7 May 2009, *College van burgemeester en wethouders van Rotterdam v M. E. E. Rijkeboer* on a right of access to information on the recipients or categories of recipients in respect of the past. <sup>20</sup> For example, the implementation of a self-service tool enabling the data subject to easily access the requested personal data and a notification system alerting the controller about a request that relates to personal data with short retention periods could be considered in order to facilitate prompt action.
+
+[^21]: This is without prejudice to subsequent processing of data for evidence purposes in connection with the handling of the access request for an appropriate period of time.
+
+[^22]: The controller shall ensure appropriate security of the personal data, in accordance with the integrity and confidentiality principle (Art. 5(1)(f) GDPR), by implementing appropriate technical and organisational measures, as referred to in Art. 32 GDPR and elaborated in Art. 24 GDPR. The controller shall be able to demonstrate that it ensures an adequate level of data protection, in line with the accountability principle (see also: Art. 29 Working Party Opinion 3/2010 on the principle of accountability adopted on 13 July 2010, 00062/10/EN WP 173 and EDPB Guidelines nr 07/2020 on the concepts of controller and processor in the GDPR).
+
+[^23]: Unless the request covers also non-personal data inextricably linked to the personal data of the data subject. For further explanations see para 100.
+
+[^24]: See Recital 26 GDPR. Further explanations on the concepts of anonymous data and pseudonymised data can be found in WP29 Opinion 4/2007 on the concept of personal data, p. 18-21.
+
+[^25]: Art. 29 Working Party, WP242 rev.01, 5 April 2017, Guidelines on the right to data portability - endorsed by the EDPB (hereinafter "WP29 Guidelines on the right to data portability - endorsed by the EDPB"), p. 9.
+
+[^26]: See section 3.4 ("Requests made via third parties/proxies").
+
+[^27]: See further guidance on the timing in section 5.3.
+
+[^28]: This may include, for example, communication data of the controller provided in its communications addressed directly to data subjects or contact data provided by the controller publicly, such as in the controller's privacy policy or other mandatory legal notices of the controller (e.g. owner or business contact information on a website).
+
+[^33]: Ibid, p. 13-14.
+
+[^30]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
+
+[^31]: See further guidance regarding authentication in section 3.3.
+
+[^32]: Ibid, p. 14.
+
+[^34]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 14.
+
+[^39]: Several member states introduced such restriction in their national provisions in this regard stating, for example, that making copies of ID cards is lawful only if it results directly from the provisions of a legal act.
+
+[^40]: Regarding the time limits for exercising the right of access when the controller needs to obtain additional information, see para. 157.
+
+[^41]: Art. 4(12) GDPR.
+
+[^42]: Recital 38 GDPR. As provided in the work programme of the EDPB, it is its intent to provide guidance on children's data. Such a document is expected to provide more guidance on the conditions under which a child may exercise their own right of access, and the holder of parental responsibility can exercise the right of access on behalf of the child.
+
+[^43]: Recital 58 GDPR. EDPB Guidelines 05/2020 on consent under Regulation 2016/679, section 7.
+
+[^44]: Regarding the time limits for exercising the right of access when the controller needs to obtain additional information, see para. 157
+
+[^45]: In accordance with the principle of privacy by design, such analysis is part of the assessment of appropriate measures and safeguards to protect data protection principles and data subject rights, which is carried out "*at the time of the determination of the means for processing and at the time of the processing itself*", *e.g.* reducing the response time when data subjects exercise their rights may be one of the metrics. For further explanations, see guidelines 4/2019 on Article 25 Data Protection by Design and by Default.
+
+[^46]: As per Art. 4(1) GDPR, "'personal data' means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;"
+
+[^47]: The Art. 29 Working Party (Art. 29 WP) is the independent European working party that dealt with issues relating to the protection of privacy and personal data until 25 May 2018 (entry into application of the GDPR), the predecessor of the EDPB.
+
+[^48]: e.g. WP251 rev01 Guidelines on automated individual decision-making and profiling for the purposes of regulation 2016/679 i.e., p.19; WP29 Guidelines on the right to data portability - endorsed by the EDPB,p. 9. <sup>49</sup> WP29 Opinion 4/2007 on the concept of personal data, p. 4.
+
+[^50]: as information not relating to an identified or identifiable natural person.
+
+[^51]: CJEU, joined Cases C-141/12 and C-372/12, YS v Minister voor Immigratie, Integratie en Asiel and Minister voor Immigratie, Integratie en Asiel v M and S, 17 July 2014.
+
+[^52]: CJEU, joined Cases C-141/12 and C-372/12, YS and Others, paras. 38 and 48.
+
+[^53]: CJEU, C-434/16, Peter Nowak v Data Protection Commissioner, 20 December 2017.
+
+[^54]: CJEU, C 434/16, Nowak, paras. 34- 35.
+
+[^55]: CJEU, C-434/16, Nowak, para. 58.
+
+[^56]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9.
+
+[^58]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 10-11
+
+[^57]: WP29 Opinion 4/2007 on the concept of personal data, p. 8
+
+[^59]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p.10-11; Art. 29 Working Party, WP 251 rev.01, 6 February 2018, Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679 - endorsed by the EDPB (hereinafter "WP29 Guidelines on Automated individual decision-making and profiling - endorsed by the EDPB"), p. 9-10.
+
+[^60]: As previously stated in WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 10 and reiterated in WP29 Guidelines on Automated individual decision-making and profiling - endorsed by the EDPB, p. 17.
+
+[^61]: Further explanations on the concept of anonymization can be found in Art. 29 Working Party, Opinion 05/2014 on Anonymisation Techniques, WP216, 10 April 2014, p. 5-19.
+
+[^62]: Communication from the Commission to the European Parliament and the Council, Guidance on the Regulation on a framework for the free flow of non-personal data in the European Union, 29.05.2019, COM/2019/250 final.
+
+[^63]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9: "*Only personal data is in scope of a data portability request. Therefore, any data that is anonymous or does not concern the data subject, will not be in scope. However, pseudonymous data that can be clearly linked to a data subject (e.g. by them providing the respective identifier, cf. Article 11 (2)) is within the scope."*
+
+[^64]: CJEU, judgment in case C-434/16 Peter Nowak v. Data Protection Commissioner, 2017, para. 44.
+
+[^65]: WP29 Guidelines on the right to data portability - endorsed by the EDPB, p. 9: *In many circumstances, controllers will process information that contains the personal data of several data subjects. Where this is the case, controllers should not take an overly restrictive interpretation of the sentence "personal data concerning the data subject". As an example, telephone, interpersonal messaging or VoIP records may include (in the subscriber's account history) details of third parties involved in incoming and outgoing calls. Although records will therefore contain personal data concerning multiple people, subscribers should be able to have these records provided to them in response to data portability requests, because the records are (also) concerning the data subject. However, where such records are then transmitted to a new controller, this new controller should not process them for any purpose which would adversely affect the rights and freedoms of the third-parties (see below: third condition).*"
+
+[^66]: See example 34 in section 6.2.
+
+[^67]: Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB").
+
+[^68]: It should further be noted, that different controllers as defined by Art. 4(7) GDPR may exist within the same company. In this constellation a disclosure of data from one recipient to another within one company is possible.
+
+[^69]: CJEU, C-154/21 (Österreichische Post AG), para. 36.
+
+[^70]: Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB"), p. 37 (Annex)
+
+[^71]: CJEU, C-154/21 (Österreichische Post AG)
+
+[^72]: The mere fact, that the data have been disclosed to a large number of recipients would not *per se* render the request excessive,see section 6, para 188.
+
+[^73]: WP29 Guidelines on transparency - endorsed by the EDPB, p. 37 (Annex)
+
+[^74]: See on this behalf Guidelines on transparency under Regulation 2016/679 (WP 260), para. 41, with reference to Guidelines on automated individual decision-making and profiling for the purposes of Regulation 2016/679 (WP 251).
+
+[^75]: Such a search should naturally also include information that is held by a processor, see. Article 28(3)(e) GDPR.
+
+[^76]: Art. 29 Working Party, WP260 rev.01, 11 April 2018, Guidelines on transparency under Regulation 2016/679 endorsed by the EDPB (hereinafter "WP29 Guidelines on transparency - endorsed by the EDPB").
+
+[^77]: WP29 Guidelines on transparency - endorsed by the EDPB, para. 33.
+
+[^78]: See section 3.1.2.
+
+[^79]: WP29 Guidelines on transparency - endorsed by the EDPB, para. 35.
+
+[^80]: Intelligibility is closely linked to the requirement to use a plain and clear language (WP29 Guidelines on transparency - endorsed by the EDPB, para. 9). What is said about a plain and clear language in para. 12-16 with regards to information referred to in Articles 13 and 14 GDPR, equally applies to communication under Article 15.
+
+[^81]: See para. 128.
+
+[^82]: The raw format in the example is to be understood as unanalysed data underlying a processing, and not the lowest level of raw data that may only be machine-readable (such as "bits").
+
+[^83]: See WP29 Guidelines on transparency - endorsed by the EDPB, para. 21.
+
+[^84]: See also section 2.3.1.
+
+[^85]: See WP29 Guidelines on transparency - endorsed by the EDPB, para. 36.
+
+[^86]: See footnote 82.
+
+[^87]: CJEU, Joined Cases C-141/12 and 372/12, YS and Others, para. 60.
+
+[^88]: Questions related to this topic are at issue in cases currently pending before the CJEU ( C-487/21 and C-307/21).
+
+[^89]: See section 2.3.3
+
+[^90]: In some member states there is national law determining when a message is to be considered as received, taking into account weekends and national holidays.
+
+[^91]: See further section 2.3.1.
+
+[^92]: Regulation (EEC, EURATOM) No 1182/71 of the Council of 3 June 1971 determining the rules applicable to periods, dates and time limits.
+
+[^93]: Where the controller processes a large quantity of information concerning the data subject, as mentioned in recital 63 GDPR, the controller may request the data subject to specify the information or processing activities to which the request relates. See also section 2.3.1.
+
+[^94]: CJEU, Joined Cases C-141/12 and C-372/12, YS and Others.
+
+[^95]: This is without prejudice to any applicable national law that comply with the requirements posed by Art. 23 GDPR, see Chapter 6.4.
+
+[^96]: The weight or priority of the conflicting rights and freedoms is not a question of the definition of the terms "rights and freedoms". However, balancing of such interests is part of a second step of the assessment, whether Art. 15(4) is applicable. See para. 173 below.
+
+[^97]: ECHR, Bărbulescu v. Romania, no 61496/08, para. 80, 5 September 2017.
+
+[^98]: See, for example, also CJEU, Joined cases C-92/09 and C-93/09, Volker und Markus Schecke GbR and Hartmut Eifert v. Land Hessen [GC], 9 November 2010, para. 48.
+
+[^99]: The extent of the information provided to individuals will be heavily context dependent, taking into account the nature of the controller and the nature of the breach of the terms of service. In some cases, it may only be possible for the controller to provide basic information in response to an access request to which Art. 15(4) applies.
+
+[^100]: A different question is whether the authority which the access request was addressed to is entitled to transmit the request to the competent state authority.
+
+[^101]: According to the second sentence of Article 15(3), the controller may charge a reasonable fee for further copies requested.
+
+[^102]: If the subsequent request concerns the same type of information in scope AND time, this is not a question of excessiveness but a question of request for an additional copy, see section 2.2.2.2.
+
+[^103]: No proportionality test, see above para. 166.
+
+[^104]: This is without prejudice to any applicable national law that comply with the requirements posed by Art. 23 GDPR, see Chapter 6.4.
+
+[^105]: "Systematically sending as part of a campaign" means that requests which could easily be combined to one are artificially split into not just a few but many single pieces by the data subject with the apparent intention to cause disruption.
+
+[^106]: See for example sections 32 to 37 of the German Federal Data Protection Act (BDSG), sections 16 and 17 of the Norwegian Personal Data Act and chapter 5 of the Swedish Data Protection Act.
+
+[^107]: Paragraph 76 of the Guidelines 10/2020 on restrictions under Art. 23 GDPR, Version 2.0, adopted on 13 October 2021.
+
+[^108]: Paragraph 12 of the Guidelines 10/2020 on restrictions under Art. 23 GDPR, Version 2.0, adopted on 13 October 2021. Section 34 (3) of the German Federal data protection act for example states that if a public authority doesn´t provide information to a data subject complying with a request for the right of access because of certain restrictions, such information shall be provided to the federal supervisory authority at the request of the data subject, unless the responsible supreme federal authority (of the authority which was subject to the request) determines in the individual case that doing so would endanger the security of the Federation or a Land. The Italian DPCode provides for indirect access (through the authority) in case the access could impact with adverse consequence on a number of interests (e.g. Interest to contrast money laundering) see Art. 2-L of the Italian DPCode.

@@ -229,12 +229,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automated decisions/EDPB/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.md",
+                "file": "Automated decisions/EDPB/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "edpb_guidelines_202503_interplay-dsa-gdpr_v1_en"
+              "title": "edpb_guidelines_202008_onthetargetingofsocialmediausers_en"
             }
           }
         ],
@@ -369,13 +369,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automated decisions/EDPB/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.md",
+                "file": "Automated decisions/EDPB/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of edpb_guidelines_202503_interplay-dsa-gdpr_v1_en"
+              "title": "Outline of edpb_guidelines_202008_onthetargetingofsocialmediausers_en"
             }
           },
           {
@@ -511,8 +511,12 @@
       }
     ]
   },
-  "active": "30b35ab29aee2758",
+  "active": "aac0d5a54ba2a11a",
   "lastOpenFiles": [
+    "Automated decisions/EDPB/edpb_guidelines_202201_data_subject_rights_access_v2_en.md",
+    "Automated decisions/EDPB/edpb_guidelines_202401_legitimateinterest_en.md",
+    "Automated decisions/EDPB/wp251rev_01_en_A754F3E1-FB46-9E76-C0A919864E4B6641_49826.md",
+    "Automated decisions/EDPB/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.md",
     "Automated decisions/DPAs/MT_Tietosuojavaltuutetun_toimisto_Finland_-_6482_186_2020.md",
     "Automated decisions/DPAs/MT_Tietosuojavaltuutetun_toimisto_Finland_-_3895_83_22.md",
     "Automated decisions/DPAs/MT_ICO_UK_-_EA-2023-0252-FP.md",
@@ -535,12 +539,8 @@
     "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00259_2020.md",
     "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00236_2020.md",
     "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00037_2020.md",
-    "Automated decisions/DPAs/MT_AEPD_Spain_-_E_03624_2021.md",
     "copy_article22_dpa_files.py",
     "Automated decisions/DPAs",
-    "!Archive/readme-marker.md",
-    "Automated decisions/EDPB/wp251rev_01_en_A754F3E1-FB46-9E76-C0A919864E4B6641_49826.md",
-    "Automated decisions/EDPB/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.md",
     "Automated decisions/EDPB",
     "Individual decisions/edpb_guidelines_202401_legitimateinterest_en.pdf",
     "Individual decisions/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.pdf",

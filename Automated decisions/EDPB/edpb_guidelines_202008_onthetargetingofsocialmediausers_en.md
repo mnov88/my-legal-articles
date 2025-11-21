@@ -54,12 +54,6 @@ Having regard to Article 70(1)(e) of Regulation 2016/679/EU of the European Parl
 - As part of their business model, many social media providers offer targeting services. Targeting services make it possible for natural or legal persons ("targeters") to communicate specific messages to the users of social media in order to advance commercial, political, or other interests. <sup>3</sup> A distinguishing characteristic of targeting is the perceived fit between the person or group being targeted and the message that is being delivered. The underlying assumption is that the better the fit, the higher the reception rate (conversion) and thus the more effective the targeting campaign (return on investment).
 - Mechanisms to target social media users have increased in sophistication over time. Organisations now have the ability to target individuals on the basis of a wide range of criteria. Such criteria may have been developed on the basis of personal data which users have actively provided or shared, such as their relationship status. Increasingly, however, targeting criteria are also developed on the basis of personal data which has been observed or inferred, either by the social media provider or by third parties, and collected (aggregated) by the platform or by other actors (e.g., data brokers) to support ad-targeting options. In other words, the targeting of social media users involves not just the act of "selecting" the individuals or groups of individuals that are the intended recipients of a particular
 
-<sup>1</sup> Additional functions provided by social media may include, for example, personalization, application integration, social plug-ins, user authentication, analytics and publishing. Social media functions may be a standalone offering of controllers or they may be integrated as part of a wider service offering.
-
-<sup>2</sup> In addition to "traditional" social media platforms, other examples of social media include: dating platforms where registered users present themselves to find partners they can date in real life; platforms where registered users can upload their own videos, comment on and link to other's videos; or computer games where registered users may play together in groups, exchange information or share their experiences and successes within the game.
-
-<sup>3</sup> Targeting has been defined as "the act of directing or aiming something at a particular group of people" and "the act of attempting to appeal to a person or group or to influence them in some way". https://www.collinsdictionary.com/dictionary/english/targeting.
-
 message (the 'target audience'), but rather it involves an entire process carried out by a set of stakeholders which results in the delivery of specific messages to individuals with social media accounts.<sup>4</sup>
 
 The combination and analysis of data originating from different sources, together with the potentially sensitive nature of personal data processed in the context of social media <sup>5</sup> , creates risks to the fundamental rights and freedoms of individuals. From a data protection perspective, many risks relate to the possible lack of transparency and user control. For the individuals concerned, the underlying processing of personal data which results in the delivery of a targeted message is often opaque. Moreover, it may involve unanticipated or undesired uses of personal data, which raise questions not only concerning data protection law, but also in relation to other fundamental rights and freedoms. Recently, social media targeting has gained increased public interest and regulatory scrutiny in the context of democratic decision making and electoral processes.<sup>6</sup>
@@ -70,16 +64,6 @@ The combination and analysis of data originating from different sources, togethe
 - Taking into account the case law of the CJEU, as well as the provisions of the GDPR regarding joint controllers and accountability, the present guidelines offer guidance concerning the targeting of social media users, in particular as regards the responsibilities of targeters and social media providers. Where joint responsibility exists, the guidelines will seek to clarify what the distribution of responsibilities might look like between targeters and social media providers on the basis of practical examples<sup>8</sup> .
 - The main aim of these guidelines is therefore to clarify the roles and responsibilities among the social media provider and the targeter. In order to do so, the guidelines also identify the potential risks for the rights and freedoms of individuals (section 3), the main actors and their roles (section 4), and tackles the application of key data protection requirements (such as lawfulness and transparency, DPIA, etc.) as well as key elements of arrangements between social media providers and the targeters.
 
-<sup>4</sup> The messages delivered typically consist of images and text, but may also involve video and/or audio formats.
-
-<sup>5</sup> Personal data processed in the context of social media may constitute 'special categories of personal data' pursuant to Article 9 GDPR, relate to vulnerable individuals, or otherwise be of a highly personal nature. See also Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, WP 248 rev. 01, p. 9.
-
-<sup>6</sup> See, for example: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-03-13-statement-on elections\_en.pdf; https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/07/findings recommendations-and-actions-from-ico-investigation-into-data-analytics-in-political-campaigns/; https://ec.europa.eu/commission/sites/beta-political/files/soteu2018-data-protection-law-electoral-guidance- 638\_en.pdf; https://www.personuvernd.is/information-in-english/greinar/nr/2880.
-
-<sup>7</sup> CJEU, Judgment in *Wirtschaftsakademie*, 5 June 2018, C-210/16, ECLI:EU:C:2018:388; CJEU, Judgment in *Fashion ID*, 29 July 2019, C-40/17, ECLI:EU:C:2019:629.
-
-<sup>8</sup> The present guidance is without prejudice to the EDPB Guidelines 07/2020 on the concepts of controller and processor under the GDPR adopted on 02 September 2020, concerning the distribution of responsibilities in other contexts.
-
 # 3 RISKS TO THE RIGHTS AND FREEDOMS OF USERS POSED BY THE PROCESSING OF PERSONAL DATA
 
 - The GDPR underlines the importance of properly evaluating and mitigating any risks to the rights and freedoms of individuals resulting from the processing of personal data.<sup>9</sup> The mechanisms that can be used to target social media users, as well as the underlying processing activities that enable targeting, may pose significant risks. These guidelines do not seek to provide an exhaustive account of the possible risks to the rights and freedoms of individuals. Nonetheless, the EDPB considers it important to point out certain types of risks and to provide a number of examples how they may manifest themselves.
@@ -87,33 +71,11 @@ The combination and analysis of data originating from different sources, togethe
 - A second type of risk concerns the possibility of discrimination and exclusion. Targeting of social media users may involve criteria that, directly or indirectly, have discriminatory effects relating to an individual's racial or ethnic origin, health status or sexual orientation, or other protected qualities of the individual concerned. For example, the use of such criteria in the context of advertising related to job offers, housing or credit (loans, mortgages) may reduce the visibility of opportunities to persons within certain groups of individuals. The potential for discrimination in targeting arises from the ability for advertisers to leverage the extensive quantity and variety of personal data (e.g. demographics, behavioral data and interests) that social media platforms gather about their users.<sup>11</sup> Recent research suggests that the potential for discriminatory effects exists also without using criteria that are directly linked to special categories of personal data in the sense of Article 9 of the GDPR.<sup>12</sup>
 - A second category of risk relates to potential possible manipulation of users. Targeting mechanisms are, by definition, used in order to influence the behavior and choices of individuals, whether it be in terms of their purchasing decisions as consumers or in terms of their political decisions as citizens
 
-<sup>9</sup> According to Article 24 of the GDPR, the controller shall implement appropriate technical and organizational measures to ensure and be able to demonstrate that processing is performed in accordance with the GDPR, "taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons". See also Article 29 Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, WP248 rev. 01, 4 October 2017.
-
-<sup>10</sup> See also European Data Protection Supervisor, EDPS Opinion on online manipulation, Opinion 3/2018, 19 March 2018, p. 15 ("*The concern of using data from profiles for different purposes through algorithms is that the data loses its original context. Repurposing of data is likely to affect a person's informational self-determination, further reduce the control of data subjects' over their data, thus affecting the trust in digital environments and services.*").
-
-<sup>11</sup> T. Speicher a.o., Potential for Discrimination in Online Targeted Advertising, Proceedings of the 1st Conference on Fairness, Accountability and Transparency, *Proceedings of Machine Learning Research* PMLR 81:5-19, 2018, http://proceedings.mlr.press/v81/speicher18a.html.
-
-<sup>12</sup> Idem.
-
 engaged in civic life.<sup>13</sup> Certain targeting approaches may however go so far as to undermine individual autonomy and freedom, e.g. by delivering individualized messages designed to exploit or even accentuate certain vulnerabilities, personal values or concerns. For example, an analysis of content shared through social media can reveal information about the emotional state (e.g. through an analysis of the use of certain key words). Such information could be used to target the individual with specific messages and at specific moments to which he or she is expected to be more receptive, thereby surreptitiously influencing his or her thought process, emotions and behaviour.<sup>14</sup>
 
 - Mechanisms to target social media users can also be used to unduly influence individuals when it comes to political discourse and democratic electoral processes.<sup>15</sup> While 'traditional' offline political campaigning intends to influence voters' behaviour via messages that are generally available and retrievable (verifiable), the available online targeting mechanisms enable political parties and campaigns to target individual voters with tailored messages, specific to the particular needs, interests and values of the target audience.<sup>16</sup> Such targeting might even involve disinformation or messages that individuals find particularly distressing, and are therefore (more) likely to stimulate a certain emotion or reaction by them. When polarising or untruthful (disinformation) messages are targeted at specific individuals, with no or limited contextualisation or exposure to other viewpoints, the use of targeting mechanisms can have the effect of undermining the democratic electoral process.<sup>17</sup>
 - In the same vein, the use of algorithms to determine which information is displayed to which individuals may adversely affect the likelihood of access to diversified sources of information in relation to a particular subject matter. This may in turn have negative consequences for the pluralism of public debate and access to information.<sup>18</sup> Targeting mechanisms can be used to augment the visibility of certain messages, while giving less prominence to others. The potential adverse impact may be felt at two levels. On the one hand, there are risks related to so-called 'filter-bubbles' where people are exposed to 'more-of-the-same' information and encounter fewer opinions, resulting in increased political and ideological polarisation.<sup>19</sup> On the other hand, targeting mechanisms may also create risks of "information overload", whereby individuals cannot make an informed decision because they have too much information and cannot tell if it is reliable.
 - The collection of personal data by social media providers may not be limited to the activities performed by individuals on the social media platform itself. The targeting of social media users on the basis of information concerning their browsing behaviour or other activities outside the social media platform can give individuals the feeling that their behaviour is systematically being monitored. This may have
-
-<sup>13</sup> European Data Protection Supervisor, Opinion 3/2018, p. 18.
-
-<sup>14</sup> See 'Experimental evidence of massive-scale emotional contagion through social networks'**,** Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, PNAS June 17, 2014 111 (24) 8788-8790; first published June 2, 2014 https://doi.org/10.1073/pnas.1320040111, available at: https://www.pnas.org/content/111/24/8788 Adam D. I. Kramer Core Data Science Team, Facebook, Inc., Menlo Park, CA 94025.
-
-<sup>15</sup> See also European Data Protection Board, Statement 2/2019 on the use of personal data in the course of political campaigns, 13 March 2019, p. 1.
-
-<sup>16</sup> Information Commissioner's Office (ICO), *Democracy disrupted? Personal information and political influence*, 10 July 2018, p. 14.
-
-<sup>17</sup> See also European Commission, Commission Guidance on the application of Union data protection law in the electoral context, A contribution from the European Commission to the Leaders' meeting in Salzburg on 19-20 September 2018. See also L.M. Neudert and N.M. Marchal, Polarisation and the use of technology in political campaigns and communication, European Parliamentary Research Service, 2019, p. 22-24.
-
-<sup>18</sup> See also European Parliament resolution of 3 May 2018 on media pluralism and media freedom in the European Union.
-
-<sup>19</sup> European Data Protection Supervisor, Opinion 3/2018, p. 7.
 
 - a chilling effect on freedom of expression, including access to information.<sup>20</sup> Such effects may be exacerbated if targeting is also based on the analysis of content shared by social media users. If private messages, posts and comments are subject to analysis for commercial or political use, this may also give rise to self-censorship.
 - The potential adverse impact of targeting may be considerably greater where vulnerable categories of individuals are concerned, such as children. Targeting can influence the shaping of children's personal preferences and interests, ultimately affecting their autonomy and their right to development. Recital 38 of the GDPR indicates that specific protection should apply to the use of personal data of children for the purposes of marketing or creating personality or user profiles and the collection of personal data with regard to children when using services offered directly to a child.<sup>21</sup>
@@ -126,14 +88,6 @@ engaged in civic life.<sup>13</sup> Certain targeting approaches may however go 
 
 Individuals make use of social media in different capacities and for different purposes (e.g. to stay in touch with friends, to exchange information about shared interests, or to seek out employment opportunities). The term "user" is typically used to refer to individuals who are registered with the service, i.e. those who have an "account" or "profile". Many social media services can, however, also be accessed by individuals without having registered (i.e. without creating an account or profile).<sup>23</sup> Such individuals are typically not able to make use of all of the same features or services offered to individuals who have registered with the social media provider. Both users and non-registered
 
-<sup>20</sup> European Data Protection Supervisor, Opinion 3/2018, p. 9 and Committee of experts on media pluralism and transparency of media ownership (MSI-MED), Internet and Electoral Campaigns, Study on the use of internet in electoral campaigns, Council of Europe study DGI(2017)11, April 2018, p. 19-21.
-
-<sup>21</sup> See also Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, 6 February 2018, WP251rev.01, p. 29.
-
-<sup>22</sup> Statement of the EDPB on the data protection impacts of economic concentration, available at: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb\_statement\_economic\_concentration\_en.pdf
-
-<sup>23</sup> The personal data and profiling information maintained by social media providers in relation to non-registered users are sometimes referred to as "shadow profiles".
-
 - individuals may be considered "data subjects" within the meaning of Article 4(1) GDPR insofar as the individual is directly or indirectly identified or identifiable.<sup>24</sup>
 - Whether or not individuals are expected to register with a real name or use a nickname or pseudonym may vary according to the social media service in question. It will generally still be possible, however, to target (or otherwise single out) the user in question even in the absence of a real name policy, as most types of targeting do not rely on user names but other types of personal data such as interests, sociographic data, behaviour or other identifiers. Social media providers often encourage users to reveal "real world" data, such as telephone numbers.<sup>25</sup> Finally, it is worth noting that social media providers may also enable targeting of individuals who do not have an account with the social media provider.<sup>26</sup>
 
@@ -143,12 +97,6 @@ Individuals make use of social media in different capacities and for different p
 - The social media provider determines the functionalities of the service. This in turn involves a determination of which data are processed, for which purpose, under which terms, as well as how personal data shall be processed. This allows for the provision of the social media service but also likely the provision of services, such as targeting, that can benefit business partners operating on the social media platform or in conjunction with it.
 - The social media provider has the opportunity to gather large amounts of personal data relating to users' and non-registered users´ behaviour and interactions, which enables it to obtain considerable insights into the users' socio-demographic characteristics, interests and preferences. It is important to note that the 'insights' based on user activity often involve inferred or derived personal data. For example, where a user interacts with certain content (e.g. by "liking" a post on social media, or watching video content), this action can be recorded by the social media provider, and an inference might be made that the user in question enjoyed the content he or she interacted with.
 - Social media providers increasingly gather data not only from activities on the platform itself, but also from activities undertaken 'off-platform', combining data from multiple sources, online and offline, in order to generate further insights. The data can be combined with personal data that individuals actively disclose to the social media provider (e.g. a username, e-mail address, location, and phone number), alongside data which is "assigned" to them by the platform (such as unique identifiers).
-
-<sup>24</sup> See also recital (26) ("singling out"). See also Article 29 Data Protection Working Party, Opinion 4/2007 on the concept of personal data, 20 June 2007, WP 136, p. 12 and following.
-
-<sup>25</sup> In some cases, social media providers ask for additional documentation to further verify the data provided, for example by requesting users to upload their ID cards or similar documentation.
-
-<sup>26</sup> Such targeting may be rendered possible on the basis of online identifiers provided by their devices, applications, tools and protocols, such as internet protocol addresses, cookie identifiers or other identifiers. This may leave traces which, in particular when combined with unique identifiers and other information received by the servers, may be used to create profiles of the natural persons and identify them. See also recital (30) GDPR. Based on this recognition, targeted ads may be displayed on a website the individual visits.
 
 # 4.3 Targeters
 
@@ -163,15 +111,7 @@ Individuals make use of social media in different capacities and for different p
 
 http://cprc.org.au/publication/research-report-a-day-in-the-life-of-data/
 
-<sup>27</sup> Processing of personal data by a natural person in the course of a purely personal or household activity does not fall under the material scope of the GDPR (Art. 2(2)(c)).
-
-<sup>28</sup> Simply sharing information on a social media page which is intended for the public at large (e.g. information about opening hours) without prior selection of the intended audience would not be considered as « targeting » for the purposes of these guidelines.
-
-<sup>29</sup> On the description of the different actors, see WP29, Opinion 2/2010 on behavioural advertisement, at page 5. The Opinion is available at:
-
 https://ec.europa.eu/justice/Article-29/documentation/opinion-recommendation/files/2010/wp171\_en.pdf
-
-<sup>30</sup> See Consumer Policy Research Centre, "*A day in the life of data*", available at:
 
 of social media providers and targeters. Analogous considerations may apply, however, to the other actors involved in the online advertising ecosystem, depending on the role of each actor in the targeting process.
 
@@ -189,12 +129,6 @@ As further developed in section 9 of the present guidelines, controllers may be 
 
 "*[T]he existence of joint responsibility does not necessarily imply equal responsibility of the various operators involved in the processing of personal data. On the contrary, those operators may be involved at different stages of that processing of personal data and to different degrees, so that the level of responsibility of each of them must be assessed with regard to all the relevant circumstances of the particular case*."<sup>33</sup>
 
-<sup>31</sup> Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 36.
-
-<sup>32</sup> Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 39.
-
-<sup>33</sup> Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 43; Judgment in *Jehovah's Witnesses*, C-25/17, paragraph 66 and Judgment in *Fashion ID*, C-40/17, paragraph 70.
-
 While concluding that the administrator of a page acts as a controller, jointly with Facebook, the CJEU also noted that in the present case, Facebook must be regarded as *primarily* determining the purposes and means of processing the personal data of users of Facebook and persons visiting the fan pages hosted on Facebook.<sup>34</sup>
 
 In *Fashion ID*, the CJEU decided that a website operator can be a considered a controller when it embeds a Facebook social plugin on its website that causes the browser of a visitor to transmit personal data of the visitor to Facebook.<sup>35</sup> The qualification of the website operator as controller is, however, limited to the operation or set of operations in respect of which it actually determines the purposes and means. In this particular case, the CJEU considered that the website operator is only capable of determining, jointly with Facebook, the purposes and means of the collection and disclosure by transmission of the personal data of visitors to its website. As a result, the CJEU ruled that, for what concerns the embedding of a social plug-in within a website, the liability of the website operator is:
@@ -207,16 +141,6 @@ The CJEU considered that the website operator was not a controller for subsequen
 
 - In case of joint controllership, pursuant to Article 26(1) GDPR, controllers are required to put in place an arrangement which, in a transparent manner, determines their respective responsibilities for compliance with the GDPR, in particular as regards the exercising of the rights of the data subject and their respective duties to provide the information referred to in Articles 13 and 14 GDPR.
 - The following sections clarify, by way of specific examples, the roles of targeters and social media providers in relation to different targeting mechanisms. Specific considerations are given in particular as to how the requirements of lawfulness and purpose limitation apply in this context. Next, the requirements concerning transparency, data protection impact assessments and the processing of special categories of data are analysed. Finally, the Guidelines address the obligation for joint
-
-<sup>34</sup> Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 30.
-
-<sup>35</sup> Judgment in *Fashion ID*, C-40/17, paragraph 75 and following and paragraph 107.
-
-<sup>36</sup> Judgment in *Fashion ID*, C-40/17, paragraph 107.
-
-<sup>37</sup> Subsequent processing is any processing operation or set of processing operations which follows (i.e. takes place after) the data collection. In Fashion ID, the term is used to refer to processing operations carried out by Facebook after their transmission and for which Fashion ID should not be considered as a joint controller (because it does not effectively participate in determining the purposes and means of those processing). Subsequent processing for a purpose other than that for which the personal data have been collected is only permissible insofar as Article 6(4) GDPR relating to further processing is complied with. For example, if an online retailer collects data relating to an individual's home address, a subsequent processing would consist in the storage or later deletion of this information. However, if this online retailer later decides to process this personal data to enrich the profile of the data subject for targeting purposes, this would amount to further processing within the meaning of Article 6(4) GDPR as it involves processing for a purpose other than that for which they were initially collected.
-
-<sup>38</sup> Judgment in *Fashion ID*, C-40/17, paragraph 76.
 
 controllers to put in place an appropriate arrangement pursuant to Article 26 GDPR, taking into account the degree of responsibility of the targeter and of the social media provider.
 
@@ -234,14 +158,6 @@ controllers to put in place an appropriate arrangement pursuant to Article 26 GD
     - data obtained by a third-party application developer by using the application programming interfaces (APIs) or software development kits (SDKs) offered by social media providers;
     - data collected through third-party websites that have incorporated social plugins or pixels;
     - data collected through other third parties (e.g. parties with whom the data subject has interacted, purchased a product, subscribed to loyalty cards, …); or
-
-<sup>39</sup> Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April 2017, p. 10.
-
-<sup>40</sup> See for example the decision by the Administrative Court of Bayreuth (Germany), Beschluss v. 08.05.2018, B1 S 18.105, http://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2018-N-9586.
-
-<sup>41</sup> In its Opinion 2/2010 on online behavioural advertising the WP29 noted that "*there are two main approaches to building user profiles: i) Predictive profiles are established by inference from observing individual and collective user behaviour over time, particularly by monitoring visited pages and ads viewed or clicked on. ii) Explicit profiles are created from personal data that data subjects themselves provide to a web service, such as by registering*" (Article 29 Data Protection Working Party, Opinion 2/2010 on online behavioural advertising, WP 171, p. 7).
-
-<sup>42</sup> Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April 2017, p. 10.
 
 - data collected through services offered by companies owned or operated by the social media provider.
 - c) **Targeting on the basis of inferred data** "Inferred data" or "derived data" are created by the data controller on the basis of the data provided by the data subject or as observed by the controller.<sup>43</sup> For example, a social media provider or a targeter might infer that an individual is likely to be interested in a certain activity or product on the basis of his or her web browsing behaviour and/or network connections.
@@ -262,10 +178,6 @@ Company X sells gentlemen's shoes and wishes to promote a sale of its winter col
 - As far as the determination of *purpose* is concerned, Company X and the social media provider jointly determine the purpose of the processing, which is to display a specific advertisement to a set of individuals (in this case social media users) who make up the target audience.
 - As far as the determination of *means* is concerned, the targeter and the social media provider jointly determine the means, which results in the targeting. The targeter participates in the determination of the means by choosing to use the services offered by the social media provider, and by requesting it to target an audience based on certain criteria (i.e. age range, relationship status, timing of display).<sup>44</sup>
 
-<sup>43</sup> *Idem.*
-
-<sup>44</sup> See in this respect *Wirtschaftsakademie*, C‑210/16, para. 39 - ECLI:EU:C:2018:388.
-
 In doing so, the targeter defines the criteria in accordance with which the targeting takes place and designates the categories of persons whose personal data is to be made use of. The social media provider, on the other hand, has decided to process personal data of its users in such a manner to develop the targeting criteria, which it makes available to the targeter.<sup>45</sup> In order to do so, the social media provider has made certain decisions regarding the essential means of the processing, such as which categories of data shall be processed, which targeting criteria shall be offered and who shall have access (to what types of) personal data that is processed in the context of a particular targeting campaign.<sup>46</sup>
 
 - The joint control among the targeter and social media provider only extends to those processing operations for which they effectively co-determine the purposes and means. It extends to the processing of personal data resulting from the selection of the relevant targeting criteria and the display of the advertisement to the target audience. It also covers the processing of personal data undertaken by the social media provider to report to the targeter about the results of the targeting campaign. The joint control does not, however, extend to operations involving the processing of personal data at other stages occurring before the selection of the relevant targeting criteria or after the targeting and reporting has been completed, and in which the targeter has not participated in determining the purposes and means".<sup>47</sup>
@@ -277,32 +189,12 @@ As joint controllers, both parties (the social media provider and the targeter) 
 
 Generally speaking, there are two legal bases which could theoretically justify the processing that supports the targeting of social media users: data subject's consent (Article 6(1)(a) GDPR) or legitimate
 
-<sup>45</sup> See in the same vein also *Fashion ID*, C-40/17, para. 80: "*those processing operations are performed in the economic interests of both Fashion ID and Facebook Ireland, for whom the fact that it can use those data for its own commercial purposes is the consideration for the benefit to Fashion ID*".
-
-<sup>46</sup> See Opinion 1/2010.
-
-<sup>47</sup> See also Judgment in *Fashion ID*, C-40/17, para. 74 ("*[a] natural or legal person cannot be considered to be a controller, within the meaning of that provision, in the context of operations that precede or are subsequent in the overall chain of processing for which that person does not determine either the purposes or the means*") and paragraph 101.
-
-<sup>48</sup> Judgment in *Wirtschaftsakademie*, C-210/16, para. 38 - ECLI:EU:C:2018:388; Judgment in *Jehovah's Witnesses*, C-25/17, para. 69 - ECLI:EU:C:2018:551.
-
-<sup>49</sup> CJEU Judgment 10 July 2018 (C-25/17, para. 68 to 72).
-
-<sup>50</sup> See paragraph 18, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, available at https://edpb.europa.eu/sites/edpb/files/files/file1/edpb\_guidelines-art\_6-1-b adopted\_after\_public\_consultation\_en.pdf
-
 - interests (Article 6(1)(f) GDPR). A controller must always consider what the appropriate legal basis is under the given circumstances.
 - For what concerns the legitimate interest lawful basis, the EDPB recalls that in *Fashion ID*, the CJEU reiterated that in order for a processing to rely on the legitimate interest, three cumulative conditions should be met, namely<sup>51</sup> (i) the pursuit of a legitimate interest by the data controller or by the third party or parties to whom the data are disclosed, (ii) the need to process personal data for the purposes of the legitimate interests pursued, and (iii) the condition that the fundamental rights and freedoms of the data subject whose data require protection do not take precedence. The CJEU also specified that in a situation of joint controllership "*it is necessary that each of those controllers should pursue a legitimate interest […] through those processing operations in order for those operations to be justified in respect of each of them*".<sup>52</sup>
 - The EDPB recalls that in cases where a controller envisages to rely on legitimate interest, the duties of transparency and the right to object require careful consideration. Data subjects should be given the opportunity to object to the processing of their data for targeted purposes before the processing is initiated*.* Users of social media should not only be provided with the possibility to object to the display of targeted advertising when accessing the platform, but also be provided with controls that ensure the underlying processing of his or her personal data for the targeting purpose no longer takes place after he or she has objected.
 - With regard to Example 1, the targeter might consider its legitimate interest to be the economic interest of having an increased publicity for its goods through social media targeting. The social media provider could consider that its legitimate interest consists of making the social media service profitable by selling advertising space. Whether the targeter and the social media provider can rely upon Article 6(1)(f) GDPR as legal basis depends on whether all three cumulative conditions are met, as recently reiterated by the CJEU. Even if the targeter and the social media provider consider their economic interests to be legitimate, it does not necessarily mean that they will be able to actually rely on Article 6(1)(f) GDPR.
 - The second part of the balancing test entails that the joint controllers will need to establish that the processing is necessary to achieve those legitimate interests. "Necessary" requires a connection between the processing and the interests pursued. The 'necessity' requirement is particularly relevant in the context of the application of Article 6(1)f, in order to ensure that processing of data based on legitimate interests does not lead to an unduly broad interpretation of the necessity to process data. As in other cases, this means that it should be considered whether other less invasive means are available to serve the same end.<sup>53</sup>
 - The third step in assessing whether the targeter and the social media provider can rely upon Article 6(1)(f) GDPR as legal basis for the processing of personal data, is the balancing exercise necessary to determine whether the legitimate interest at stake is overridden by the data subject's interests or fundamental rights and freedoms.<sup>54</sup>
-
-<sup>51</sup> CJEU, Judgment in *Fashion ID*, 29 July 2019, C-40/17, para. 95 - ECLI:EU:C:2019:629.
-
-<sup>52</sup> Idem, para 97.
-
-<sup>53</sup> Article 29 Working Party Opinion 06/2014 on the concept of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, WP217, 9 April 2014, p. 29.
-
-<sup>54</sup> When assessing the impact on the interests, fundamental rights and freedoms of the individual concerned, the following considerations are particularly relevant in the context of targeting directed to users of social media (i) the purposes of the targeting, (ii) the level of detail of the targeting criteria used (e.g., a broadly described cohort such as 'people with an interest in English literature', or more detailed criteria to allow segmentation and targeting on a more granular level), (iii) the type (and combination) of targeting criteria used (i.e. whether the
 
 - The outcome of the balancing exercise will also depend on the presence of additional controls and safeguards. The targeter seeking to rely on legitimate interest should, for its part, make it easy for individuals to express a prior objection to its use of social media for targeting purposes. However, insofar as the targeter does not have any direct interaction with the data subject, the targeter should at least ensure that the social media platform provide the data subject with means to efficiently express their right to prior objection. As joint controllers, the targeter and social media provider should clarify how the individuals' right to object (as well as other rights) will be accommodated in the context of the joint arrangement (see section 6). If the balancing exercise points out that data subject's interests or fundamental rights and freedoms override the legitimate interest of the social media provider and the targeter, the use of Article 6(1)(f) is not possible.
 - For what concerns the consent lawful basis, the controller needs to keep in mind that there are clearly situations in which the processing would not be lawful without the valid consent of the individuals concerned (Article 6(1)(a) GDPR). For example, the WP29 has previously considered that it would be difficult for controllers to justify using legitimate interests as a legal basis for intrusive profiling and tracking practices for marketing or advertising purposes, for example those that involve tracking individuals across multiple websites, locations, devices, services or data-brokering.<sup>55</sup>
@@ -311,14 +203,6 @@ Generally speaking, there are two legal bases which could theoretically justify 
 - Finally, the EDPB is of the opinion that the processing of personal data described in the Example 1 cannot be justified on the basis of Article 6(1)(b) by neither the social platform nor the targeter.<sup>58</sup>
 
 targeting only focuses on a small aspect of the data subject, or is more comprehensive in nature), and (iv) the nature (sensitivity), volume and source of the data used in order to develop the targeting criteria. See Article 29 Working Party Opinion 06/2014 on the concept of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, WP217, 9 April 2014 https://ec.europa.eu/justice/Article-29/documentation/opinion recommendation/files/2014/wp217\_en.pdf
-
-<sup>55</sup> Article 29 Working Party, Opinion on profiling and automated decision making, WP 251, rev. 01, p. 15, see also Article 29 WP, Opinion on legitimate interest, p. 32 and 48: « Overall, there is an imbalance between the company's legitimate interest and the protection of users' fundamental rights and Article 7(f) should not be relied on as a legal ground for processing. Article 7(a) would be a more appropriate ground to be used, provided that the conditions for a valid consent are met ».
-
-<sup>56</sup> See Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev.01.
-
-<sup>57</sup> See Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev.01, p. 3-4.
-
-<sup>58</sup> See Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, available at https://edpb.europa.eu/sites/edpb/files/files/file1/edpb\_guidelines-art\_6-1-b adopted\_after\_public\_consultation\_en.pdf
 
 #### 5.2.2 Data provided by the user of the social media platform to the targeter
 
@@ -338,8 +222,6 @@ In these examples, the targeter, i.e. the bank, acts as a controller because it 
 
 Joint controllership exists in relation to the processing operations for which the social media provider and the targeter jointly determine the purposes and means, in this case, uploading unique identifiers
 
-<sup>59</sup> In situations where e-mail addresses are used for direct marketing purposes controllers must also take into account the provisions of Article 13 ePrivacy Directive. The EDPB notes that in the situation where the advertisement would not be displayed on the social media platform, but would be directly sent via a push notification or a direct message to the data subject, Article 13 of the ePrivacy Directive would be applicable. However, in this specific example, consent would not be required, insofar as Article 13(2) states that the electronic contact details of an existing customer may be used by an entity for "*direct marketing of its own similar products or services provided that customers clearly and distinctly are given the opportunity to object, free of charge and in an easy manner*".
-
 - related to the intended audience, matching, selection of targeting criteria and subsequent display of the advertisement, as well as any reporting relating to the targeting campaign.<sup>60</sup>
 - In both examples the bank acts as the sole controller regarding the initial collection of the email address of Ms. Jones and Mr. Lopez respectively. The social media provider does not participate in any way to determine the means and purposes of this collection. The joint control begins with the transmission of the personal data and the collection of it by the social media provider and the following processing for the purpose of displaying targeted advertising (and until the deletion of the data).
 - The reason why the bank acts as sole controller when collecting the e-mail address from Ms. Jones and Mr. Lopez respectively, is because the collection of data occurs prior to (and is not inextricably linked to) the targeting campaign. Therefore, in this case one must distinguish between the initial set of processing operations for which only the bank is a controller and a subsequent processing for which joint control exists. The responsibility of the bank does not extend to operations occurring after the targeting and reporting has been completed and in which the targeter has not participated in the purposes and means and for which the social media provider acts as the sole controller.
@@ -348,8 +230,6 @@ Joint controllership exists in relation to the processing operations for which t
 
 - In Example 2, Article 6(1)f GDPR does not provide an appropriate legal basis to justify the processing in this case, taking into account the context in which the personal data was provided. Indeed, Ms. Jones contacted the bank for the sole purpose of setting up an appointment, following which she communicated her intention not to make use of the services offered by the bank. Hence, one can consider that there is no reasonable expectation by Ms. Jones that her personal data shall be used for targeting purposes ('re-targeting'). Moreover, a compatibility test under Article 6(4) GDPR will lead to the outcome that this processing is not compatible with the purpose for which the personal data are initially collected.
 - In Example 3, the targeter might be able to rely on legitimate interest to justify the processing, taking into account inter alia that Mr. Lopez was: (a) informed of the fact that his e-mail address may be used for purposes of advertising via social media for services linked to the one used by the data subject; (b) the advertisement relates to services similar to those for Mr. Lopez is already a customer, and (c) Mr. Lopez was given the ability to object prior to the processing, at the moment where the personal data were collected by the bank. However, the mere fulfilment of information duties according to Article 13, 14 GDPR is not a transparency measure to be taken into consideration for the weighing of interests according to Article 6 (1)(f). of GDPR.
-
-<sup>60</sup> The determination of purposes and means of the processing of the targeter and social media provider is similar (albeit not identical) to Example 1. By uploading the list of email addresses and setting the additional targeting criteria, the targeter defines the criteria in accordance with which the targeting takes place and designates the categories of persons whose personal data is to be made use of. The social media provider likewise makes a determination as to whose personal data shall be processed, by allowing which categories of data shall be processed, which targeting criteria shall be offered and who shall have access (to what types of) personal data that is processed in the context of a particular targeting campaign. The shared purpose underlying these processing operations resembles the purpose identified in Example 1, namely the display a specific advertisement to a set of individuals (in this case: social media users) who make up the target audience.
 
 # 5.3 Targeting on the basis of observed data
 
@@ -367,10 +247,6 @@ Mrs. Michu has installed the application of a social media provider on her smart
 
 Mrs. Ghorbani creates an account on a social media platform. During the process of registration she is asked if she consents to the processing of her personal data to see targeted advertisement on her social media page, on the basis of data she directly provides to the social media provider (such as her age, sex and location), as well as on the basis of her activity on other websites outside of the social media platform using cookies. She is informed that this data will be collected via social media plug-ins or tracking pixels, the processes are clearly described to her, as well as the fact that targeting involves other entities who are jointly responsible for ensuring compliance with the GDPR. It is also explained to her that she can withdraw her consent at any time, and she is provided with a link to the privacy policy. Because Mrs. Ghorbani is interested in seeing targeted advertisement on her social media page, she gives her consent. No advertising cookies are placed or collected until Mrs. Ghorbani expresses here consent.
 
-<sup>61</sup> Tracking pixels are comprised of small snippets of code that are integrated into the website of the targeter. When an individual accesses the targeter's website in their browser, the browser automatically sends a request to the social media provider's server to obtain the tracking pixel. Once the tracking pixel is downloaded, the social media provider is typically able to monitor the user's session (i.e. the individual's behaviour on the website(s) in question). The observed data can be used in order for example to add a social media user to a particular target audience.
-
-<sup>62</sup> A social media provider may also be able to determine the whereabouts of their users on the basis of other data points, including IP address and WiFi information from mobile devices, or the user-derived data (e.g. if they place information about their location on the platform in a post).
-
 Later on, she visits the website "Thelatesthotnews.com" that has a social media button integrated on it. A small but clearly visible banner appears on the right edge of the screen, asking Mrs. Ghorbani to consent to the transmission of her personal data to the social media provider using cookies and social media plug-ins. The website operator undertook technical measures so that no personal data is transferred to the social media platform until she gives her consent.
 
 #### 5.3.1 Roles
@@ -384,27 +260,13 @@ Later on, she visits the website "Thelatesthotnews.com" that has a social media 
 - First of all, because Examples 4, 5 and 6 involve the use of cookies, requirements resulting from Article 5(3) of the ePrivacy Directive need to be taken into account.
 - In this regard, it should be noted that Article 5(3) of the ePrivacy Directive requires that users are provided with clear and comprehensive information, inter alia about the purposes of the processing, prior to giving their consent <sup>63</sup> , subject to very narrow exceptions <sup>64</sup> . Clear and comprehensive information implies that a user is in a position to be able to determine easily the consequences of any consent he or she might give and ensure that the consent given is well informed.<sup>65</sup> As a result, the controller will have to inform data subjects about all the relevant purposes of the processing –
 
-<sup>63</sup> Court of Justice of the European Union, Judgment in Planet 49 Gmbh, Case C-673/17, paragraph 73. <sup>64</sup> See Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the competence, tasks and powers of data protection authorities. See also Court of Justice of the European Union, Judgment in Fashion ID, C-40/17, paragraphs 89-91.
-
-<sup>65</sup> *Idem*, paragraph 74.
-
 - including any subsequent processing of the personal data obtained by accessing information in the terminal equipment.
 - To be valid, the consent collected for the implementation of tracking technologies needs to fulfil the conditions laid out in Article 7 GDPR.<sup>66</sup> For instance, consent is not validly constituted if the use of cookies is permitted by way of a checkbox pre-ticked by the service provider, which the user must deselect to refuse his or her consent.<sup>67</sup> Based on recital 32, actions such as scrolling or swiping through a webpage or similar user activity will not under any circumstances satisfy the requirement of a clear and affirmative action: such actions may be difficult to distinguish from other activity or interaction by a user and therefore determining that an unambiguous consent has been obtained will also not be possible. Furthermore, in such a case, it will be difficult to provide a way for the user to withdraw consent in a manner that is as easy as granting it.<sup>68</sup>
 - Any (joint) controller seeking to rely on consent as a legal basis is responsible for ensuring valid consent is obtained. In *Fashion ID*, the CJEU emphasized the importance of ensuring the efficient and timely protection of the data subject rights, and that consent should not be given only to the joint controller that is involved later in the processing. Valid consent must be obtained prior to the processing, which implies that (joint) controllers need to assess when and how information should be provided and consent should be obtained. In other words, the question as to which of the joint controllers should be in charge of collecting the consent comes down to determining which of them is involved first with the data subject. In example 6, as the placement of cookies and processing of personal data occurs at the moment of account creation, the social media provider must collect her valid consent before the placement of advertisement cookies.
 - The EDPB also recalls that in a case where the consent sought is to be relied upon by multiple (joint) controllers or if the data is to be transferred to or processed by other controllers who wish to rely on the original consent, these organisations should all be named.<sup>69</sup> Insofar as not all joint controllers are known at the moment when the social media provider seeks the consent, the latter will necessarily need to be complemented by further information and consent collected by the website operator embedding the social media plugin (i.e. *Thelatesthotnews.com* in Example 6).
 - The EDPB emphasizes that the consent that should be collected by the website operator for the transmission of personal data triggered by its website (by embedding a social plug-in) relates only to the operation or set of operations involving the processing of personal data in respect of which the operator actually determines the purposes and means <sup>70</sup> . The collection of consent by a website operator, i.e. "Thelatesthotnews.com" in Example 6 for instance, does not negate or in any way diminish the obligation of the social media provider to ensure the data subject has provided a valid consent for the processing for which it is responsible as a joint controller <sup>71</sup> , as well as for any subsequent or further processing it carries out for which the website operator does not jointly determine the purposes and means (e.g. subsequent profiling operations for targeting purposes).
 
-<sup>66</sup> EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 6.
-
-<sup>67</sup> Court of Justice of the European Union, Judgement in Planet 49, C-637/17, paragraph 57.
-
-<sup>68</sup> EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 19.
-
 <sup>69</sup>EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 16, paragraph 65.
-
-<sup>70</sup> Judgment in *Fashion ID*, 29 July 2019, C-40/17, ECLI:EU:C:2019:629, paragraphs 100-101.
-
-<sup>71</sup> This is all the more the case insofar as that for most targeting tools, it is the social media that carries out the read/write operations on the terminal of the user, because it collects the personal data for the purpose of targeted advertisement. Therefore, the social media provider is responsible for ensuring that valid consent is obtained.
 
 - In addition, any subsequent processing of personal data, including personal data obtained by cookies, social plug-ins or pixels, must also have a legal basis under Article 6 of the GDPR in order to be lawful.<sup>72</sup> For what concerns the legal basis of the processing in Examples 4, 5, and 6, the EDPB considers that legitimate interest cannot act as an appropriate legal basis, as the targeting relies on the monitoring of individuals' behavior across websites and locations using tracking technologies.<sup>73</sup>
 - Therefore, in such circumstances, the appropriate legal basis for any subsequent processing under Article 6 GDPR is also likely to be the consent of the data subject. Indeed, when assessing compliance with Article 6 GDPR, one should take into account that the processing as a whole involves specific activities for which the EU legislature has sought to provide additional protection. <sup>74</sup> Moreover, controllers must take into account the impact on data subjects' rights when identifying the appropriate legal basis in order to respect the principle of fairness.<sup>75</sup>
@@ -422,14 +284,6 @@ Mrs. Delucca often "likes" photos posted by the Art Gallery "Beautifulart" by im
 
 <sup>72</sup>Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the competence, tasks and powers of data protection authorities, par. 41.
 
-<sup>73</sup> Article 29 Working Party, Opinion on profiling and automated decision making, WP 251, rev. 01, p. 15, see also Article 29 WP, Opinion on legitimate interest, p. 32 and 48: «Overall, there is an imbalance between the company's legitimate interest and the protection of users' fundamental rights and Article 7(f) should not be relied on as a legal ground for processing. Article 7(a) would be a more appropriate ground to be used, provided that the conditions for a valid consent are met».
-
-<sup>74</sup> Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the competence, tasks and powers of data protection authorities, paragraph 41.
-
-<sup>75</sup> European Data Protection Board, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, paragraph 1.
-
-<sup>76</sup> See also Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April 2017, p. 10.
-
 Mr. Leon has indicated on his social media page that he is interested in sports. He has downloaded an application on his mobile phone to follow the latest results of his favorite sport games, has set on his browser the page www.livesportsresults.com as his homepage on his laptop, often uses his desktop computer at work to search for the latest sports results on the internet. He also visits a number of online gambling websites. The social media provider tracks Mr Leon' online activity across his multiple devices, i.e. his laptop, his cell mobile phone, and his desktop computer. Based on this activity and all the information provided by Mr. Leon, the social media provider infers that he will be interested in online betting. In addition, the social media platform has developed targeting criteria enabling companies to target people who are likely to be impulsive and have a lower income. The online betting company "bestpaydayloans" wishes to target users that are interested in betting and that are likely to be betting heavily. It therefore selects the criteria offered by the social media provider to target the audience to whom its advertisement should be displayed.
 
 #### 5.4.1 Roles
@@ -443,12 +297,6 @@ Mr. Leon has indicated on his social media page that he is interested in sports.
 - In Example 7, Article 5(3) of ePrivacy is applicable, insofar as the display of the advertisement on Mrs. Delucca's page related to the painter Pataolito requires a read/write operation to match this "like" with information previously held on her by the social media provider. Consent will therefore be required for these operations.
 - For what concerns Example 8, the EDPB recalls that in the case of automated decision-making which produces legal effects or similarly significantly affects the data subject, as set out in Article 22 GDPR data controllers may rely on the following exceptions:
   - explicit consent of a data subject;
-
-<sup>77</sup> As regards social media pages, joint controllership may also exist in relation to statistical information provided by the social media provider to the page administrator: see *Wirtschaftsakademie*.
-
-<sup>78</sup> The EDPB notes that profiling may have occurred in previous examples as well.
-
-<sup>79</sup> Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, p. 7.
 
 - the necessity of the automated decision-making for entering into, or performance of, a contract; or
 - authorisation by Union or Member State law to which the controller is subject.
@@ -467,10 +315,6 @@ In such circumstances as described in Example 8, the display of online betting a
 - Article 5(1)(a) GDPR states that personal data shall be processed lawfully, fairly and in a transparent manner in relation to the data subject. Article 5(1)(b) GDPR also states that personal data shall be collected for specified, explicit and legitimate purposes. Articles 12, 13 and 14 GDPR contain specific provisions on the transparency obligations of the data controller. Finally, recital 39 states that "*it should be transparent to natural persons that personal data concerning them are collected, used, consulted or otherwise processed and to what extent the personal data are or will be processed*".<sup>81</sup>
 - Information presented to data subjects in respect of the way in which their personal data are processed, should be, in all cases, concise, transparent, in an intelligible and easily accessible form, using clear and plain language.
 
-<sup>80</sup> Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, p. 22.
-
-<sup>81</sup> See also Article 29 Working Party, Guidelines on transparency under Regulation 2016/679, WP260 rev.01, 11 April 2018, https://ec.europa.eu/newsroom/Article29/item-detail.cfm?item\_id=622227
-
 The EDPB recalls that the mere use of the word "advertising" would not be enough to inform the users that their activity is being monitored for the purpose of targeted advertising. It should be made transparent to individuals what types of processing activities are carried out and what this means for the data subject in practice. Data subjects should be informed in an easily understandable language if a profile will be built based on their online behaviour on the platform or on the targeter's website, respectively, by the social platform and by the targeter, providing information to the users on the types of personal data collected to build such profiles and ultimately allow targeting and behavioural advertising by targeters.<sup>82</sup> Users should be provided with the relevant information directly on the screen, interactively and, where appropriate or necessary, through layered notices.<sup>83</sup>
 
 # 6.1 Essence of the arrangement and information to provide (Article 26 (2) GDPR)
@@ -479,14 +323,6 @@ The EDPB recalls that the mere use of the word "advertising" would not be enough
 - A further expression of the transparency principle is the obligation to make the essence of the joint controllership arrangement available to the data subject according to Article 26 (2) GDPR. Indeed, Article 26 GDPR requires joint controllers to take appropriate measures to ensure that data subjects are made aware of the allocation of responsibilities.
 - As a matter of principle, the information provided to the data subject must cover all aspects of the data processing operation(s) for which the joint controllers are jointly responsible. Indeed, the data subject is entitled to receive all information (including regarding envisaged subsequent processing where there is joint controllership) at the outset, so that the information is fair and appropriate. More precisely, this joint arrangement needs to ensure that the data subject will be provided information required by Articles 13 and 14 GDPR, including on their shared or closely linked purposes, storage periods, transmission to third parties etc., which need to be communicated to the data subject upon collection of the data or before the processing starts. The arrangement needs to make it clear where the responsibilities lie in this regard. To meet these requirements, such arrangement must contain (or reference) clear and comprehensive information in respect of the processing to which it relates with explanations, where appropriate, on the various phases and actors of the processing.<sup>84</sup>
 - Although both joint controllers are subject to the duty to inform where there is joint responsibility, they can mutually agree that one of them shall be tasked with providing the initial information to data subjects, especially in cases where only one of the controllers interacts with the users prior to processing, for example on its website<sup>85</sup>. This exchange of information to provide to the data subject should be an integral part of the joint arrangement (e.g. an appendix). In case one of the joint controllers does not have all information in detail because, for example, it does not know the exact technical execution of the processing activities, the other joint controller shall provide all necessary
-
-<sup>82</sup> Ref. to EDPB Guidelines on transparency under Regulation 2016/679.
-
-<sup>83</sup> Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev. 01., para 24, 35.
-
-<sup>84</sup> Opinion 1/2010 on the concepts of "controller" and "processor", WP 169, p. 28.
-
-<sup>85</sup> CJEU *Fashion ID*, para 102, 105.
 
 information to enable him to provide the data subject with full information in accordance with Articles 13 and 14 GDPR.
 
@@ -514,10 +350,6 @@ Data controllers must enable users to easily and fully exercise their data subje
 - Although Article 15 GDPR is not explicitly identified in Article 26(1) GDPR, the wording of this Article refers to all "responsibilities for compliance" under GDPR, which includes Article 15 GDPR.
 - In order to enable data subjects to exercise their rights in an effective and easily accessible way, the arrangement between the social media provider and the targeter may designate a single point of contact for data subjects. Joint controllers are in principle free to determine amongst themselves who should be in charge of responding to and complying with data subject requests, but they cannot exclude the possibility for the data subject to exercise his or her rights in respect of and against each of them (Article 26 (3) of the GDPR). Hence, targeters and social media providers must ensure that a suitable mechanism is in place to allow the data subjects to obtain access to his or her personal data in a user-friendly manner (including the targeting criteria used) and all information required by Article 15 of the GDPR.
 
-<sup>86</sup> Article 15 (1), (2) GDPR detail the information to be given to the data subject asking for access to her data. Article 15 (3), (4) GDPR regulate the right to obtain a copy.
-
-<sup>87</sup> See EDPB, Guidelines on transparency under Regulation 2016/679, p. 35.
-
 # 7 DATA PROTECTION IMPACT ASSESSMENTS (DPIA)
 
 - In principle, prior to initiating the envisaged targeting operations, both joint controllers should check the list of processing operations "likely to result in a high risk" adopted at national level under Article 35(4) and recitals (71), (75) and (91) GDPR to determine if the designated targeting matches any of the types of processing operations subject to the requirement to conduct a DPIA. To assess whether the envisaged targeting operations are "likely to result in a high risk" and whether a DPIA is required, the criteria identified in the guidelines on DPIA should also be taken into account<sup>88</sup>, as well as the lists that supervisory authorities have established of the kind of processing operations which are subject to the requirement for a data protection impact assessment (pursuant to article 35(4)).
@@ -526,10 +358,6 @@ Data controllers must enable users to easily and fully exercise their data subje
 - As a consequence, both joint controllers need to assess whether a DPIA is necessary. If a DPIA is necessary, they are both responsible for fulfilling this obligation. The EDPB recalls that the DPIA should tackle the entire processing of personal data, which means that in principle both joint controllers need to take part in the realization of the DPIA. In this context, both controllers need to ensure that they have a sufficient level of information on the processing to carry out the required DPIA. This implies that "each data controller should express his needs and share useful information without either compromising secrets (e.g.: protection of trade secrets, intellectual property, confidential business information) or disclosing vulnerabilities".<sup>89</sup>
 - In practice, it is possible that joint controllers decide that one of them shall be tasked with carrying carries out the DPIA as such. This should then be specified in the joint arrangement, without prejudice to the existence of joint responsibility as such. It may indeed be that one of the controllers is better placed to assess certain processing operations. For example, this controller may, depending on the context, be the one with a higher degree of control and knowledge of the targeting process in particular on the back-end of the deployed system, or on the means of the processing.
 - Every DPIA must include measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the protection of personal data, and to demonstrate compliance with the GDPR taking into account the rights and legitimate interests of data subjects and other persons concerned. If the identified risks cannot be sufficiently addressed (i.e. the residual risks remain high), the joint controllers are each responsible for ensuring a prior consultation with the relevant supervisory authorities. If the targeting would infringe the GDPR, in particular because the risks have insufficiently been identified or mitigated, the targeting should not take place.
-
-<sup>88</sup> See EDPB Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, wp248rev.0.
-
-<sup>89</sup> *Idem*, page 8.
 
 #### Example 9:
 
@@ -571,10 +399,6 @@ In Example 10, the social media provider and the environmental organisation are 
 
 The profile on Mr. Novak's social media account only reveals general information such as his name and domicile, but a status update reveals that he has visited the City Church frequently where he attended
 
-<sup>90</sup> See the analysis in chapter 5.2.1.
-
-<sup>91</sup> Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, page 15.
-
 a religious service. Later on, the City Church wants to target its visitors with religious messages in order to encourage Christian people to join the congregation. In such circumstances, the use of personal data in Mr. Novak's status update for such a targeting purposes amounts to the processing of special categories of personal data.
 
 If a social media provider or a targeter uses observed data to categorise users as having certain religious, philosophical or political beliefs - regardless of whether the categorization is correct/true or not - this categorisation of the user must obviously be seen as processing of special category of personal data in this context. As long as the categorisation enables targeting based on special category data, it does not matter how the category is labelled.
@@ -606,8 +430,6 @@ Article 9(2)(e) of the GDPR allows processing of special category of data in cas
 
 32
 
-<sup>92</sup> In Example 14, there is no joint controllership between the social media provider and YourPerfectJob at the moment of collection of personal data, because they do not jointly determine the purposes of the collection and subsequent or further processing of personal data for the purposes of Yourperfectjob at this stage of the processing. The EDPB would like to recall that the analysis on the roles and responsibilities needs to be done on a case by case basis, and that the conclusion on this specific example is without prejudice of any further work that can be carried out by the EDPB on APIs. The situation would of course be different if the social media provider, in addition to making the personal data available, also participated in the determination of purpose pursued by YourPerfectJob. In any event, joint controllership still exists between the targeter and the social media provider as regards the use of list-based targeting.
-
 - (i) the default settings of the social media platform (i.e. whether the data subject took a specific action to change these default private settings into public ones); or
 - (ii) the nature of the social media platform (i.e. whether this platform is intrinsically linked with the idea of connecting with close acquaintances of the data subject or creating intimate relations (such as online dating platforms), or if it is meant to provide a wider scope of interpersonal relations, such as professional relations, or microblogging, media sharing, social platforms to share online reviews, etc… ; or
 - (iii) the accessibility of the page where the sensitive data is published (i.e. whether the information is publically accessible or if, for instance, the creation of an account is necessary before accessing the information); or
@@ -621,8 +443,6 @@ The EDPB notes that the presence of a single element may not always be sufficien
 Mr. Jansen has opened an account on a microblogging social media platform. While completing his profile, he indicated that he is homosexual. Being a conservative, he chose to join conservative groups, knowing that he has been informed while subscribing that the messages he exchanges on the platform are public. A conservative political party wishes to target people who share the same political affiliations and sexual orientation as Mr. Jansen using the social media targeting tools.
 
 Because members' sexual orientation is by default "private" and that Mr. Jansen has not taken any step to make it public, it cannot be considered as having been manifestly made public. In addition, the data relating to his political affiliation has not been made manifestly public, despite of (i) the nature of the microblogging social media platform, which is meant to share information with the wide public, and (ii) the fact that he has been informed of the public nature of the messages he publishes on the forums. In addition, although he has joined public forums relating to conservatism, he cannot be targeted on the basis of this sensitive data, because it is the social media platform that makes a deduction on Mr. Janssen's political affiliation, and it was not the specific intention of the data subject to make this data manifestly public, all the more that this deduction may turn out to be false. He cannot therefore be targeted on the basis of political affiliation data. In other words, the circumstances in each specific case have to be taken into account when assessing whether the data have manifestly been made public by the data subject.<sup>93</sup>
-
-<sup>93</sup> The WP29 clarified in its Opinion on some key issues of the Law Enforcement Directive (WP 258, 29/11/2017, p. 10) that the expression "manifestly made public by the data subject" has to be interpreted to imply that the data subject was aware that the respective data will be publicly available which means to everyone, including authorities"; therefore, "[i]n case of doubt, a narrow interpretation should be applied…"
 
 # 9 JOINT CONTROLLERSHIP AND RESPONSIBILITY
 
@@ -671,10 +491,6 @@ In Example 1, Company X sets up an advertising campaign so that users correspond
 
 In Example 3, which involved list-based targeting, the situation is slightly different than Example 1. In Example 3, the bank initially collected the personal data and shared it with the social media provider for targeting purposes. In that case, the targeter has voluntarily caused the collection and transmission stage of the data processing. Each of these elements should be taken into account
 
-<sup>94</sup> CJEU judgment of 05 June 2018, Wirtschaftsakademie, C-210/16, para. 43.
-
-<sup>95</sup> See also CJEU, C-131/12, Google Spain ("responsibilities, powers and capabilities").
-
 when assessing the level of responsibility of each actor and should be duly reflected in the terms of the joint arrangement.
 
 Similarly, in Example 4, in case of pixel-based targeting, it should be taken into account that the website operator enables the transmission of personal data to the social media provider. It is indeed the website "BestBags.com" that integrates a tracking pixel on its website so that it can target Mr Schmidt, although he has decided not to make a purchase<sup>96</sup>. The website is therefore actively involved in the collection and transmission of the data. As a joint controller, however, the social media provider is also under an obligation to undertake appropriate measures to meet the requirements of the GDPR and protect the rights of data subjects against unlawful forms of processing. In this case, if the data subject's consent is sought, the joint controllers should agree upon the way in which consent is collected in practice.
@@ -683,4 +499,192 @@ Similarly, in Example 4, in case of pixel-based targeting, it should be taken in
 - The examples mentioned in the preceding paragraphs indicate the importance of clearly allocating responsibilities in the joint controller arrangement between social media providers and targeters. Even though the terms of the arrangement should in any case mirror the level of responsibility of each actor, a comprehensive arrangement which duly reflects the role and capabilities of each party is necessary not only to comply with Article 26 of the GDPR, but also for complying with other rules and principles of the GDPR.
 - Finally, the EDPB notes that insofar as the terms of the joint arrangement between the social media provider and the targeter do not bind supervisory authorities, supervisory authorities may exercise their competences and powers in relation to either joint controller, as long as the joint controller in question is subject to the competence of that supervisory authority.
 
-<sup>96</sup> In addition, as BestBags.com has integrated the social media tracking pixel on its website, it is also responsible for complying with ePrivacy requirements regarding this tool, which, given that the pixel also facilitates the processing of personal data, is also of importance when determining the level of responsibility.
+## Footnotes
+
+## Footnotes
+
+[^1]: Additional functions provided by social media may include, for example, personalization, application integration, social plug-ins, user authentication, analytics and publishing. Social media functions may be a standalone offering of controllers or they may be integrated as part of a wider service offering.
+
+[^2]: In addition to "traditional" social media platforms, other examples of social media include: dating platforms where registered users present themselves to find partners they can date in real life; platforms where registered users can upload their own videos, comment on and link to other's videos; or computer games where registered users may play together in groups, exchange information or share their experiences and successes within the game.
+
+[^3]: Targeting has been defined as "the act of directing or aiming something at a particular group of people" and "the act of attempting to appeal to a person or group or to influence them in some way". https://www.collinsdictionary.com/dictionary/english/targeting.
+
+[^4]: The messages delivered typically consist of images and text, but may also involve video and/or audio formats.
+
+[^5]: Personal data processed in the context of social media may constitute 'special categories of personal data' pursuant to Article 9 GDPR, relate to vulnerable individuals, or otherwise be of a highly personal nature. See also Article 29 Data Protection Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, WP 248 rev. 01, p. 9.
+
+[^6]: See, for example: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-03-13-statement-on elections\_en.pdf; https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/07/findings recommendations-and-actions-from-ico-investigation-into-data-analytics-in-political-campaigns/; https://ec.europa.eu/commission/sites/beta-political/files/soteu2018-data-protection-law-electoral-guidance- 638\_en.pdf; https://www.personuvernd.is/information-in-english/greinar/nr/2880.
+
+[^7]: CJEU, Judgment in *Wirtschaftsakademie*, 5 June 2018, C-210/16, ECLI:EU:C:2018:388; CJEU, Judgment in *Fashion ID*, 29 July 2019, C-40/17, ECLI:EU:C:2019:629.
+
+[^8]: The present guidance is without prejudice to the EDPB Guidelines 07/2020 on the concepts of controller and processor under the GDPR adopted on 02 September 2020, concerning the distribution of responsibilities in other contexts.
+
+[^9]: According to Article 24 of the GDPR, the controller shall implement appropriate technical and organizational measures to ensure and be able to demonstrate that processing is performed in accordance with the GDPR, "taking into account the nature, scope, context and purposes of processing as well as the risks of varying likelihood and severity for the rights and freedoms of natural persons". See also Article 29 Working Party, Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, WP248 rev. 01, 4 October 2017.
+
+[^10]: See also European Data Protection Supervisor, EDPS Opinion on online manipulation, Opinion 3/2018, 19 March 2018, p. 15 ("*The concern of using data from profiles for different purposes through algorithms is that the data loses its original context. Repurposing of data is likely to affect a person's informational self-determination, further reduce the control of data subjects' over their data, thus affecting the trust in digital environments and services.*").
+
+[^11]: T. Speicher a.o., Potential for Discrimination in Online Targeted Advertising, Proceedings of the 1st Conference on Fairness, Accountability and Transparency, *Proceedings of Machine Learning Research* PMLR 81:5-19, 2018, http://proceedings.mlr.press/v81/speicher18a.html.
+
+[^12]: Idem.
+
+[^13]: European Data Protection Supervisor, Opinion 3/2018, p. 18.
+
+[^14]: See 'Experimental evidence of massive-scale emotional contagion through social networks'**,** Adam D. I. Kramer, Jamie E. Guillory, and Jeffrey T. Hancock, PNAS June 17, 2014 111 (24) 8788-8790; first published June 2, 2014 https://doi.org/10.1073/pnas.1320040111, available at: https://www.pnas.org/content/111/24/8788 Adam D. I. Kramer Core Data Science Team, Facebook, Inc., Menlo Park, CA 94025.
+
+[^15]: See also European Data Protection Board, Statement 2/2019 on the use of personal data in the course of political campaigns, 13 March 2019, p. 1.
+
+[^16]: Information Commissioner's Office (ICO), *Democracy disrupted? Personal information and political influence*, 10 July 2018, p. 14.
+
+[^17]: See also European Commission, Commission Guidance on the application of Union data protection law in the electoral context, A contribution from the European Commission to the Leaders' meeting in Salzburg on 19-20 September 2018. See also L.M. Neudert and N.M. Marchal, Polarisation and the use of technology in political campaigns and communication, European Parliamentary Research Service, 2019, p. 22-24.
+
+[^18]: See also European Parliament resolution of 3 May 2018 on media pluralism and media freedom in the European Union.
+
+[^19]: European Data Protection Supervisor, Opinion 3/2018, p. 7.
+
+[^20]: European Data Protection Supervisor, Opinion 3/2018, p. 9 and Committee of experts on media pluralism and transparency of media ownership (MSI-MED), Internet and Electoral Campaigns, Study on the use of internet in electoral campaigns, Council of Europe study DGI(2017)11, April 2018, p. 19-21.
+
+[^21]: See also Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, 6 February 2018, WP251rev.01, p. 29.
+
+[^22]: Statement of the EDPB on the data protection impacts of economic concentration, available at: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb\_statement\_economic\_concentration\_en.pdf
+
+[^23]: The personal data and profiling information maintained by social media providers in relation to non-registered users are sometimes referred to as "shadow profiles".
+
+[^24]: See also recital (26) ("singling out"). See also Article 29 Data Protection Working Party, Opinion 4/2007 on the concept of personal data, 20 June 2007, WP 136, p. 12 and following.
+
+[^25]: In some cases, social media providers ask for additional documentation to further verify the data provided, for example by requesting users to upload their ID cards or similar documentation.
+
+[^26]: Such targeting may be rendered possible on the basis of online identifiers provided by their devices, applications, tools and protocols, such as internet protocol addresses, cookie identifiers or other identifiers. This may leave traces which, in particular when combined with unique identifiers and other information received by the servers, may be used to create profiles of the natural persons and identify them. See also recital (30) GDPR. Based on this recognition, targeted ads may be displayed on a website the individual visits.
+
+[^27]: Processing of personal data by a natural person in the course of a purely personal or household activity does not fall under the material scope of the GDPR (Art. 2(2)(c)).
+
+[^28]: Simply sharing information on a social media page which is intended for the public at large (e.g. information about opening hours) without prior selection of the intended audience would not be considered as « targeting » for the purposes of these guidelines.
+
+[^29]: On the description of the different actors, see WP29, Opinion 2/2010 on behavioural advertisement, at page 5. The Opinion is available at:
+
+[^30]: See Consumer Policy Research Centre, "*A day in the life of data*", available at:
+
+[^31]: Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 36.
+
+[^32]: Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 39.
+
+[^33]: Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 43; Judgment in *Jehovah's Witnesses*, C-25/17, paragraph 66 and Judgment in *Fashion ID*, C-40/17, paragraph 70.
+
+[^34]: Judgment in *Wirtschaftsakademie*, C-210/16, paragraph 30.
+
+[^35]: Judgment in *Fashion ID*, C-40/17, paragraph 75 and following and paragraph 107.
+
+[^36]: Judgment in *Fashion ID*, C-40/17, paragraph 107.
+
+[^37]: Subsequent processing is any processing operation or set of processing operations which follows (i.e. takes place after) the data collection. In Fashion ID, the term is used to refer to processing operations carried out by Facebook after their transmission and for which Fashion ID should not be considered as a joint controller (because it does not effectively participate in determining the purposes and means of those processing). Subsequent processing for a purpose other than that for which the personal data have been collected is only permissible insofar as Article 6(4) GDPR relating to further processing is complied with. For example, if an online retailer collects data relating to an individual's home address, a subsequent processing would consist in the storage or later deletion of this information. However, if this online retailer later decides to process this personal data to enrich the profile of the data subject for targeting purposes, this would amount to further processing within the meaning of Article 6(4) GDPR as it involves processing for a purpose other than that for which they were initially collected.
+
+[^38]: Judgment in *Fashion ID*, C-40/17, paragraph 76.
+
+[^39]: Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April 2017, p. 10.
+
+[^40]: See for example the decision by the Administrative Court of Bayreuth (Germany), Beschluss v. 08.05.2018, B1 S 18.105, http://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2018-N-9586.
+
+[^41]: In its Opinion 2/2010 on online behavioural advertising the WP29 noted that "*there are two main approaches to building user profiles: i) Predictive profiles are established by inference from observing individual and collective user behaviour over time, particularly by monitoring visited pages and ads viewed or clicked on. ii) Explicit profiles are created from personal data that data subjects themselves provide to a web service, such as by registering*" (Article 29 Data Protection Working Party, Opinion 2/2010 on online behavioural advertising, WP 171, p. 7).
+
+[^42]: Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April 2017, p. 10.
+
+[^43]: *Idem.*
+
+[^44]: See in this respect *Wirtschaftsakademie*, C‑210/16, para. 39 - ECLI:EU:C:2018:388.
+
+[^45]: See in the same vein also *Fashion ID*, C-40/17, para. 80: "*those processing operations are performed in the economic interests of both Fashion ID and Facebook Ireland, for whom the fact that it can use those data for its own commercial purposes is the consideration for the benefit to Fashion ID*".
+
+[^46]: See Opinion 1/2010.
+
+[^47]: See also Judgment in *Fashion ID*, C-40/17, para. 74 ("*[a] natural or legal person cannot be considered to be a controller, within the meaning of that provision, in the context of operations that precede or are subsequent in the overall chain of processing for which that person does not determine either the purposes or the means*") and paragraph 101.
+
+[^48]: Judgment in *Wirtschaftsakademie*, C-210/16, para. 38 - ECLI:EU:C:2018:388; Judgment in *Jehovah's Witnesses*, C-25/17, para. 69 - ECLI:EU:C:2018:551.
+
+[^49]: CJEU Judgment 10 July 2018 (C-25/17, para. 68 to 72).
+
+[^50]: See paragraph 18, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, available at https://edpb.europa.eu/sites/edpb/files/files/file1/edpb\_guidelines-art\_6-1-b adopted\_after\_public\_consultation\_en.pdf
+
+[^51]: CJEU, Judgment in *Fashion ID*, 29 July 2019, C-40/17, para. 95 - ECLI:EU:C:2019:629.
+
+[^52]: Idem, para 97.
+
+[^53]: Article 29 Working Party Opinion 06/2014 on the concept of legitimate interests of the data controller under Article 7 of Directive 95/46/EC, WP217, 9 April 2014, p. 29.
+
+[^54]: When assessing the impact on the interests, fundamental rights and freedoms of the individual concerned, the following considerations are particularly relevant in the context of targeting directed to users of social media (i) the purposes of the targeting, (ii) the level of detail of the targeting criteria used (e.g., a broadly described cohort such as 'people with an interest in English literature', or more detailed criteria to allow segmentation and targeting on a more granular level), (iii) the type (and combination) of targeting criteria used (i.e. whether the
+
+[^55]: Article 29 Working Party, Opinion on profiling and automated decision making, WP 251, rev. 01, p. 15, see also Article 29 WP, Opinion on legitimate interest, p. 32 and 48: « Overall, there is an imbalance between the company's legitimate interest and the protection of users' fundamental rights and Article 7(f) should not be relied on as a legal ground for processing. Article 7(a) would be a more appropriate ground to be used, provided that the conditions for a valid consent are met ».
+
+[^56]: See Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev.01.
+
+[^57]: See Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev.01, p. 3-4.
+
+[^58]: See Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, available at https://edpb.europa.eu/sites/edpb/files/files/file1/edpb\_guidelines-art\_6-1-b adopted\_after\_public\_consultation\_en.pdf
+
+[^59]: In situations where e-mail addresses are used for direct marketing purposes controllers must also take into account the provisions of Article 13 ePrivacy Directive. The EDPB notes that in the situation where the advertisement would not be displayed on the social media platform, but would be directly sent via a push notification or a direct message to the data subject, Article 13 of the ePrivacy Directive would be applicable. However, in this specific example, consent would not be required, insofar as Article 13(2) states that the electronic contact details of an existing customer may be used by an entity for "*direct marketing of its own similar products or services provided that customers clearly and distinctly are given the opportunity to object, free of charge and in an easy manner*".
+
+[^60]: The determination of purposes and means of the processing of the targeter and social media provider is similar (albeit not identical) to Example 1. By uploading the list of email addresses and setting the additional targeting criteria, the targeter defines the criteria in accordance with which the targeting takes place and designates the categories of persons whose personal data is to be made use of. The social media provider likewise makes a determination as to whose personal data shall be processed, by allowing which categories of data shall be processed, which targeting criteria shall be offered and who shall have access (to what types of) personal data that is processed in the context of a particular targeting campaign. The shared purpose underlying these processing operations resembles the purpose identified in Example 1, namely the display a specific advertisement to a set of individuals (in this case: social media users) who make up the target audience.
+
+[^61]: Tracking pixels are comprised of small snippets of code that are integrated into the website of the targeter. When an individual accesses the targeter's website in their browser, the browser automatically sends a request to the social media provider's server to obtain the tracking pixel. Once the tracking pixel is downloaded, the social media provider is typically able to monitor the user's session (i.e. the individual's behaviour on the website(s) in question). The observed data can be used in order for example to add a social media user to a particular target audience.
+
+[^62]: A social media provider may also be able to determine the whereabouts of their users on the basis of other data points, including IP address and WiFi information from mobile devices, or the user-derived data (e.g. if they place information about their location on the platform in a post).
+
+[^63]: Court of Justice of the European Union, Judgment in Planet 49 Gmbh, Case C-673/17, paragraph 73. <sup>64</sup> See Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the competence, tasks and powers of data protection authorities. See also Court of Justice of the European Union, Judgment in Fashion ID, C-40/17, paragraphs 89-91.
+
+[^65]: *Idem*, paragraph 74.
+
+[^66]: EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 6.
+
+[^67]: Court of Justice of the European Union, Judgement in Planet 49, C-637/17, paragraph 57.
+
+[^68]: EDPB Guidelines 05/2020 on consent under Regulation 2016/679, Version 1.1, p. 19.
+
+[^70]: Judgment in *Fashion ID*, 29 July 2019, C-40/17, ECLI:EU:C:2019:629, paragraphs 100-101.
+
+[^71]: This is all the more the case insofar as that for most targeting tools, it is the social media that carries out the read/write operations on the terminal of the user, because it collects the personal data for the purpose of targeted advertisement. Therefore, the social media provider is responsible for ensuring that valid consent is obtained.
+
+[^73]: Article 29 Working Party, Opinion on profiling and automated decision making, WP 251, rev. 01, p. 15, see also Article 29 WP, Opinion on legitimate interest, p. 32 and 48: «Overall, there is an imbalance between the company's legitimate interest and the protection of users' fundamental rights and Article 7(f) should not be relied on as a legal ground for processing. Article 7(a) would be a more appropriate ground to be used, provided that the conditions for a valid consent are met».
+
+[^74]: Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the competence, tasks and powers of data protection authorities, paragraph 41.
+
+[^75]: European Data Protection Board, Guidelines 2/2019 on the processing of personal data under Article 6(1)(b) GDPR in the context of the provision of online services to data subjects, Version 2.0, 8 October 2019, paragraph 1.
+
+[^76]: See also Article 29 Data Protection Working Party, Guidelines on the right to data portability, WP 242 rev.01, 5 April 2017, p. 10.
+
+[^77]: As regards social media pages, joint controllership may also exist in relation to statistical information provided by the social media provider to the page administrator: see *Wirtschaftsakademie*.
+
+[^78]: The EDPB notes that profiling may have occurred in previous examples as well.
+
+[^79]: Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, p. 7.
+
+[^80]: Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, p. 22.
+
+[^81]: See also Article 29 Working Party, Guidelines on transparency under Regulation 2016/679, WP260 rev.01, 11 April 2018, https://ec.europa.eu/newsroom/Article29/item-detail.cfm?item\_id=622227
+
+[^82]: Ref. to EDPB Guidelines on transparency under Regulation 2016/679.
+
+[^83]: Article 29 Working Party, Guidelines on consent under Regulation 2016/679, WP259 rev. 01., para 24, 35.
+
+[^84]: Opinion 1/2010 on the concepts of "controller" and "processor", WP 169, p. 28.
+
+[^85]: CJEU *Fashion ID*, para 102, 105.
+
+[^86]: Article 15 (1), (2) GDPR detail the information to be given to the data subject asking for access to her data. Article 15 (3), (4) GDPR regulate the right to obtain a copy.
+
+[^87]: See EDPB, Guidelines on transparency under Regulation 2016/679, p. 35.
+
+[^88]: See EDPB Guidelines on Data Protection Impact Assessment (DPIA) and determining whether processing is "likely to result in a high risk" for the purposes of Regulation 2016/679, wp248rev.0.
+
+[^89]: *Idem*, page 8.
+
+[^90]: See the analysis in chapter 5.2.1.
+
+[^91]: Article 29 Data Protection Working Party, Guidelines on Automated individual decision-making and Profiling for the purposes of Regulation 2016/679, WP251rev.01, page 15.
+
+[^92]: In Example 14, there is no joint controllership between the social media provider and YourPerfectJob at the moment of collection of personal data, because they do not jointly determine the purposes of the collection and subsequent or further processing of personal data for the purposes of Yourperfectjob at this stage of the processing. The EDPB would like to recall that the analysis on the roles and responsibilities needs to be done on a case by case basis, and that the conclusion on this specific example is without prejudice of any further work that can be carried out by the EDPB on APIs. The situation would of course be different if the social media provider, in addition to making the personal data available, also participated in the determination of purpose pursued by YourPerfectJob. In any event, joint controllership still exists between the targeter and the social media provider as regards the use of list-based targeting.
+
+[^93]: The WP29 clarified in its Opinion on some key issues of the Law Enforcement Directive (WP 258, 29/11/2017, p. 10) that the expression "manifestly made public by the data subject" has to be interpreted to imply that the data subject was aware that the respective data will be publicly available which means to everyone, including authorities"; therefore, "[i]n case of doubt, a narrow interpretation should be applied…"
+
+[^94]: CJEU judgment of 05 June 2018, Wirtschaftsakademie, C-210/16, para. 43.
+
+[^95]: See also CJEU, C-131/12, Google Spain ("responsibilities, powers and capabilities").
+
+[^96]: In addition, as BestBags.com has integrated the social media tracking pixel on its website, it is also responsible for complying with ePrivacy requirements regarding this tool, which, given that the pixel also facilitates the processing of personal data, is also of importance when determining the level of responsibility.
