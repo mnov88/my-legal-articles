@@ -229,12 +229,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automated decisions/Evaluation-Synthesis.md",
+                "file": "!Archive/readme-marker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluation-Synthesis"
+              "title": "readme-marker"
             }
           }
         ],
@@ -369,13 +369,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automated decisions/Evaluation-Synthesis.md",
+                "file": "!Archive/readme-marker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Evaluation-Synthesis"
+              "title": "Outline of readme-marker"
             }
           },
           {
@@ -511,8 +511,12 @@
       }
     ]
   },
-  "active": "30b35ab29aee2758",
+  "active": "aac0d5a54ba2a11a",
   "lastOpenFiles": [
+    "Automated decisions/Evaluation-Synthesis.md",
+    "Individual decisions/edpb_guidelines_202401_legitimateinterest_en.pdf",
+    "Individual decisions/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.pdf",
+    "Individual decisions/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf",
     "Automated decisions/Handoff 2.md",
     "Individual decisions/wp251rev_01_en_A754F3E1-FB46-9E76-C0A919864E4B6641_49826.pdf",
     "Automated decisions/README-Summary.md",
@@ -538,7 +542,6 @@
     "Individual decisions/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.pdf",
     "Automated decisions/ADM-Taxonomy-Elements.md",
     "Automated decisions/Official-Sources-Index.md",
-    "Automated decisions/Evaluation-Synthesis.md",
     "Individual decisions",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-395-21 D-V- v M-A-.md",
     "Untitled 6.md",
@@ -555,9 +558,6 @@
     "_page_92_Figure_2.jpeg",
     "Untitled.base",
     "Consumer AI throttling/06-Index-Files",
-    "!Archive",
-    "Consumer AI throttling/05-Drafts",
-    "Consumer AI throttling/04-Empirical-Data/AI-Service-Terms/ai_service_pricing_examples_2025.csv",
     "Untitled.canvas"
   ]
 }
