@@ -1,0 +1,21 @@
+.footnote-converter-textarea {
+	font-family: var(--font-monospace);
+	font-size: var(--font-ui-small);
+	padding: 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 4px;
+	background-color: var(--background-primary);
+	color: var(--text-normal);
+	resize: vertical;
+}
+
+.footnote-converter-buttons,
+.footnote-converter-actions {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+}
+
+.footnote-converter-actions button {
+	flex: 1;
+}

@@ -1,0 +1,10 @@
+{
+	"id": "footnote-converter",
+	"name": "Footnote Converter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Convert HTML/marker-style and Microsoft Word footnotes to Obsidian format. Handles inline references like [1](#page-3-2) and [[10]](#_ftn10), converting them to [^1] and [^10], and converts footnote definitions to Obsidian's [^n]: format.",
+	"author": "Your Name",
+	"authorUrl": "https://github.com/yourusername",
+	"isDesktopOnly": false
+}
