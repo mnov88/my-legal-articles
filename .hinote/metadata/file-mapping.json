@@ -865,7 +865,9 @@
     "Automated decisions/Official-Sources-Index.md": "automated_decisions_official-sources-index.md.json",
     "Automated decisions/Case law/Untitled": "automated_decisions_case_law_untitled.json",
     "Automated decisions/Case law/EDPB": "automated_decisions_case_law_edpb.json",
-    "Automated decisions/EDPB": "automated_decisions_edpb.json"
+    "Automated decisions/EDPB": "automated_decisions_edpb.json",
+    "Automated decisions/Untitled": "automated_decisions_untitled.json",
+    "Automated decisions/DPAs": "automated_decisions_dpas.json"
   },
-  "lastUpdated": 1763761952329
+  "lastUpdated": 1763762334486
 }
