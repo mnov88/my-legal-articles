@@ -66,22 +66,22 @@ This research package contains three comprehensive markdown documents organized 
 
 ### WP29/EDPB Guidance
 
-| Document | Official Link | Format |
-|----------|---|---|
-| **WP251rev.01** (Primary) | https://ec.europa.eu/newsroom/article29/redirection/document/49826 | PDF |
-| **WP251rev.01** (EDPB Page) | https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/automated-decision-making-and-profiling_en | Web page |
-| **EDPB Endorsement 1/2018** | https://www.edpb.europa.eu/sites/default/files/files/news/endorsement_of_wp29_documents_en_0.pdf | PDF |
-| **EDPB Guidelines 01/2022** (Access Rights) | https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf | PDF |
-| **EDPB Guidelines 8/2020** (Social Media) | https://www.edpb.europa.eu/sites/default/files/consultation/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.pdf | PDF |
-| **EDPB Guidelines 1/2024** (Legitimate Interest) | https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202401_legitimateinterest_en.pdf | PDF |
-| **EDPB Guidelines 3/2025** (DSA-GDPR) | https://www.edpb.europa.eu/system/files/2025-09/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.pdf | PDF |
+| Document                                         | Official Link                                                                                                              | Format   |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------- |
+| **WP251rev.01** (Primary)                        | https://ec.europa.eu/newsroom/article29/redirection/document/49826                                                         | PDF      |
+| **WP251rev.01** (EDPB Page)                      | https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/automated-decision-making-and-profiling_en              | Web page |
+| **EDPB Endorsement 1/2018**                      | https://www.edpb.europa.eu/sites/default/files/files/news/endorsement_of_wp29_documents_en_0.pdf                           | PDF      |
+| **EDPB Guidelines 01/2022** (Access Rights)      | https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf                | PDF      |
+| **EDPB Guidelines 8/2020** (Social Media)        | https://www.edpb.europa.eu/sites/default/files/consultation/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.pdf | PDF      |
+| **EDPB Guidelines 1/2024** (Legitimate Interest) | https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202401_legitimateinterest_en.pdf                           | PDF      |
+| **EDPB Guidelines 3/2025** (DSA-GDPR)            | https://www.edpb.europa.eu/system/files/2025-09/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.pdf                        | PDF      |
 
 ### CJEU Judgments
 
-| Case | Official Link | Citation |
-|------|---|---|
+| Case                            | Official Link                                                               | Citation           |
+| ------------------------------- | --------------------------------------------------------------------------- | ------------------ |
 | **C-184/20** (OT v Vyriausioji) | https://curia.europa.eu/juris/document/document.jsf?docid=263721&doclang=EN | ECLI:EU:C:2022:607 |
-| **C-634/21** (SCHUFA) | https://curia.europa.eu/juris/document/document.jsf?docid=282187&doclang=EN | ECLI:EU:C:2023:957 |
+| **C-634/21** (SCHUFA)           | https://curia.europa.eu/juris/document/document.jsf?docid=282187&doclang=EN | ECLI:EU:C:2023:957 |
 | **C-203/22** (Dun & Bradstreet) | https://curia.europa.eu/juris/document/document.jsf?docid=295841&doclang=EN | ECLI:EU:C:2025:131 |
 
 ---

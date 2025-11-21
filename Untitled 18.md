@@ -40,6 +40,7 @@ Public authorities utilize various AI techniques to manage the volume of submiss
 
 In cybersecurity and network engineering, "upstream filtering" refers to the blocking of traffic at the ISP or network level before it reaches the end-user's device.5 In the context of public administration, AI acts as an "upstream filter" for the policymaker. The submissions are "traffic," and the civil servant is the "end-user."  
 The legal criticality of upstream filtering lies in its invisibility. Unlike a rejected credit application where the applicant receives a notification, a filtered consultation submission simply disappears from the administrative record. The submitter receives no "bounce back" or rejection notice; the submission is technically "received" by the server but procedurally "dead" upon arrival.6 This creates a situation where the "decision" to exclude the citizen is made solely by the software, often without the knowledge of the human authority who is nominally responsible for the consultation. This structural opacity directly engages the "solely automated" prong of Article 22, as explored in the subsequent sections.  
+
 ---
 
 ## **III. Question 1: 'Solely Automated' Processing vs. Meaningful Human Review**
@@ -209,6 +210,7 @@ Article 27 of the AI Act requires deployers of high-risk AI systems (specificall
 ### **C. The European Ombudsman's Stance**
 
 The European Ombudsman has already begun investigating the use of AI in public administration, emphasizing that efficiency cannot come at the cost of accountability.79 The Ombudsman recommends that public administrations must ensure AI systems are "tools to support decision-making" and not delegates of decision-making power. "Compliance checks" and "voluntary codes of conduct" are suggested to bridge the gap before the AI Act is fully operational.88 This soft law reinforces the hard law interpretation that "black box" filtering is maladministration.89  
+
 ---
 
 ## **X. Conclusion**
@@ -231,6 +233,7 @@ To avoid unlawful automated decision-making, public authorities must restructure
 * **Avoid Sentiment Scoring for Eligibility:** Using sentiment analysis to determine the *visibility* or *weight* of a submission carries unacceptable legal risk under Article 9 GDPR.
 
 In the age of AI, the right to be heard must include the right not to be silenced by an algorithm. The current trajectory of "upstream filtering" risks creating a sanitized, automated democracy that hears only what the algorithm has been trained to select.  
+
 ---
 
 *Note: Citations follow the format as provided in the research material.*
