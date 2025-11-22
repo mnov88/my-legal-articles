@@ -363,13 +363,11 @@ Before marking Phase 0 complete:
 - To 04-Empirical-Data: [N] files (if applicable)
 
 ## Ambiguous Placements
-[List any files whose placement was unclear, with explanation of decision made in max 1 sentence]
+[List any files whose placement was unclear, with explanation of decision made, only in cases of genuine and high doubt, otherwise leave out]
 
-## Recommendations for Human Review
-[Specific files or decisions that should be verified]
+## Recommendations for alternative structure
+[If there is a very strong case to be made that several files would benefit from the project files being structured differently, and that would enhance workflow significantly, note here why, 1-2 sentences max per proposal, otherwise. leve out]
 
-## Ready for Next Phase
-Phase 0 complete. Project is ready for Phase 1 (Document Inventory & RQ Mapping).
 ```
 
 ---
@@ -389,19 +387,3 @@ Phase 0 complete. Project is ready for Phase 1 (Document Inventory & RQ Mapping)
 **This is mechanical sorting only.** When in doubt about classification: consult [[/00-Project-Meta/DOCUMENT-TYPE-GUIDE.md]]
 
 ---
-
-## How to Customize for Your Project
-
-**Before using these templates:**
-
-1. **Review the folder structure** - Remove inapplicable folders (e.g., 03-Analysis-Economic if purely doctrinal)
-
-2. **Customize jurisdiction names** - Replace generic [Jurisdiction-A] with actual jurisdictions in your project
-
-3. **Add project-specific notes** - In the Document Type Guide, add examples from YOUR project
-
-4. **Adjust subfolder depth** - Add or remove subfolder levels based on volume of documents
-
-5. **Create `/00-Project-Meta/README.md`** with your specific research questions and goals
-
-These templates should work for most legal research projects with minimal customization!

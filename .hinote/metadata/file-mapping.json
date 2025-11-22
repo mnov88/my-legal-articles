@@ -907,7 +907,11 @@
     "Automated decisions/00-Project-Meta": "automated_decisions_00-project-meta.json",
     "Automated decisions/00-Project-Meta/Untitled.md": "automated_decisions_00-project-meta_untitled.md.json",
     "Automated decisions/00-Project-Meta/DOCUMENT-TYPE-GUIDE.md": "automated_decisions_00-project-meta_document-type-guide.md.json",
-    "Automated decisions/Project summary.md": "automated_decisions_project_summary.md.json"
+    "Automated decisions/Project summary.md": "automated_decisions_project_summary.md.json",
+    "Automated decisions/00-Project-Meta/Project summary.md": "automated_decisions_00-project-meta_project_summary.md.json",
+    "Folder organization.md": "folder_organization.md.json",
+    "Prompting/Folder organization.md": "prompting_folder_organization.md.json",
+    "Automated decisions/00-Project-Meta/style.md": "automated_decisions_00-project-meta_style.md.json"
   },
-  "lastUpdated": 1763818562709
+  "lastUpdated": 1763819155464
 }
