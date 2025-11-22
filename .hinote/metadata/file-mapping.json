@@ -902,7 +902,12 @@
     "Another draft.md": "another_draft.md.json",
     "Pedagogics/Another draft.md": "pedagogics_another_draft.md.json",
     "Prompting/Expected output.md": "prompting_expected_output.md.json",
-    "Prompting/Deep research for a full manuscript.md": "prompting_deep_research_for_a_full_manuscript.md.json"
+    "Prompting/Deep research for a full manuscript.md": "prompting_deep_research_for_a_full_manuscript.md.json",
+    "Automated decisions/06-Index-Files": "automated_decisions_06-index-files.json",
+    "Automated decisions/00-Project-Meta": "automated_decisions_00-project-meta.json",
+    "Automated decisions/00-Project-Meta/Untitled.md": "automated_decisions_00-project-meta_untitled.md.json",
+    "Automated decisions/00-Project-Meta/DOCUMENT-TYPE-GUIDE.md": "automated_decisions_00-project-meta_document-type-guide.md.json",
+    "Automated decisions/Project summary.md": "automated_decisions_project_summary.md.json"
   },
-  "lastUpdated": 1763816482701
+  "lastUpdated": 1763818562709
 }
