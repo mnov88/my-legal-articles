@@ -4,7 +4,6 @@
 - Folder for legal research papers
 - One research project = one subfolder
 - PhD-level academic publications for top EU law journals
-- 
 - Root working draft: `root/subfolder/draft.md` (always the latest).
 - Prior drafts: `root/subfolder/Drafts/` (use “draft N - short description.md”).
 - Sources and notes: `root/subfolder/Materials/`.

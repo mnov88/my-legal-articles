@@ -56,189 +56,21 @@
             }
           },
           {
-            "id": "aa5b2debaaebc673",
+            "id": "4da522579fdbb995",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Fairness Proposal.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Digital Fairness Proposal"
-            }
-          },
-          {
-            "id": "1fd2ab2cc6931b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/Case C-410-23 I- SA v S- J-.md",
+                "file": "Untitled 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case C-410-23 I- SA v S- J-"
-            }
-          },
-          {
-            "id": "ea2aeb50a1a550b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "!Archive/Untitled 15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 15"
-            }
-          },
-          {
-            "id": "d2ab40b6b2b7c694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 16"
-            }
-          },
-          {
-            "id": "555fcfb37ce80ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/Article 22 GDPR Automated Decision-Making.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Article 22 GDPR Automated Decision-Making"
-            }
-          },
-          {
-            "id": "f487a40ae5482151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 16"
-            }
-          },
-          {
-            "id": "d1054bd7780a4c92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 17"
-            }
-          },
-          {
-            "id": "cc69f426b0c02f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/README-Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README-Summary"
-            }
-          },
-          {
-            "id": "c1e554d41bd02236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/Case law/C-203-22 CK v Magistrat der Stadt Wien.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C-203-22 CK v Magistrat der Stadt Wien"
-            }
-          },
-          {
-            "id": "c7b3ed6ff27e5b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/Case law/C-184-20 OT v Vyriausioji tarnybines etikos komisija.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C-184-20 OT v Vyriausioji tarnybines etikos komisija"
-            }
-          },
-          {
-            "id": "20e36029dbeba1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/Case law/C-634-21 OQ v SCHUFA Holding AG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C-634-21 OQ v SCHUFA Holding AG"
-            }
-          },
-          {
-            "id": "d26b699dd00efe4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/Case law/C-634-21 OQ v SCHUFA Holding AG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C-634-21 OQ v SCHUFA Holding AG"
-            }
-          },
-          {
-            "id": "aac0d5a54ba2a11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated decisions/EDPB/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "edpb_guidelines_202008_onthetargetingofsocialmediausers_en"
+              "title": "Untitled 12"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -369,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automated decisions/EDPB/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.md",
+                "file": "Untitled 12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of edpb_guidelines_202008_onthetargetingofsocialmediausers_en"
+              "title": "Outline of Untitled 12"
             }
           },
           {
@@ -511,34 +343,36 @@
       }
     ]
   },
-  "active": "aac0d5a54ba2a11a",
+  "active": "4da522579fdbb995",
   "lastOpenFiles": [
-    "Automated decisions/EDPB/edpb_guidelines_202201_data_subject_rights_access_v2_en.md",
-    "Automated decisions/EDPB/edpb_guidelines_202401_legitimateinterest_en.md",
-    "Automated decisions/EDPB/wp251rev_01_en_A754F3E1-FB46-9E76-C0A919864E4B6641_49826.md",
-    "Automated decisions/EDPB/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.md",
-    "Automated decisions/DPAs/MT_Tietosuojavaltuutetun_toimisto_Finland_-_6482_186_2020.md",
-    "Automated decisions/DPAs/MT_Tietosuojavaltuutetun_toimisto_Finland_-_3895_83_22.md",
-    "Automated decisions/DPAs/MT_ICO_UK_-_EA-2023-0252-FP.md",
-    "Automated decisions/DPAs/MT_HDPA_Greece_-_51_2021.md",
-    "Automated decisions/DPAs/MT_HDPA_Greece_-_30_2024.md",
-    "Automated decisions/DPAs/MT_HDPA_Greece_-_13_2024.md",
-    "Automated decisions/DPAs/MT_Garante_per_la_protezione_dei_dati_personali_Italy_-_9932951.md",
-    "Automated decisions/DPAs/MT_Garante_per_la_protezione_dei_dati_personali_Italy_-_9685994.md",
-    "Automated decisions/DPAs/MT_Garante_per_la_protezione_dei_dati_personali_Italy_-_9675440.md",
-    "Automated decisions/DPAs/MT_Garante_per_la_protezione_dei_dati_personali_Italy_-_10097012.md",
-    "Automated decisions/DPAs/MT_Garante_per_la_protezione_dei_dati_personali_Italy_-_10074601.md",
-    "Automated decisions/DPAs/MT_Datatilsynet_Denmark_-_2019-421-0028.md",
-    "Automated decisions/DPAs/MT_DSB_Austria_-_2020-0.436.002.md",
-    "Automated decisions/DPAs/MT_CNPD_Portugal_-_Deliberação_2024_279.md",
-    "Automated decisions/DPAs/MT_CNPD_Portugal_-_Deliberação_2021_622.md",
-    "Automated decisions/DPAs/MT_CNIL_France_-_SAN-2023-076.md",
-    "Automated decisions/DPAs/MT_BlnBDI_Berlin_-_31.05.2023.md",
-    "Automated decisions/DPAs/MT_APD_GBA_Belgium_-_109_2024.md",
-    "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00500_2020.md",
-    "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00259_2020.md",
-    "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00236_2020.md",
-    "Automated decisions/DPAs/MT_AEPD_Spain_-_PS_00037_2020.md",
+    "AGENTS.md",
+    "Prompting/Style new.md",
+    "Prompting/Sources.md",
+    "Prompting/Deep research for a full manuscript.md",
+    "Untitled 12.md",
+    "Pedagogics/Another draft.md",
+    "Untitled 1.md",
+    "style.md",
+    "Pedagogics/Untitled 3 1.md",
+    "Untitled 4.md",
+    "Prompt protection/Prompting case law.md",
+    "Prompt protection/Copyright full.md",
+    "Prompt protection/Draft A.md",
+    "Untitled.md",
+    "Prompt protection/Copyright A and B.md",
+    "Untitled 5.md",
+    "Untitled 6.md",
+    "Untitled 7.md",
+    "Untitled 8.md",
+    "Untitled 9.md",
+    "Untitled 10.md",
+    "Untitled 11.md",
+    "Untitled 13.md",
+    "Read later/Lucchi - Generative AI and Copyright.md",
+    "Read later",
+    "Automated decisions/Hypotheticals case matrix.md",
+    "Untitled 15.md",
+    "Untitled.base",
     "copy_article22_dpa_files.py",
     "Automated decisions/DPAs",
     "Automated decisions/EDPB",
@@ -547,8 +381,6 @@
     "Individual decisions/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf",
     "Individual decisions/wp251rev_01_en_A754F3E1-FB46-9E76-C0A919864E4B6641_49826.pdf",
     "Automated decisions/Case law",
-    "Automated decisions",
-    "Individual decisions/edpb_guidelines_202503_interplay-dsa-gdpr_v1_en.pdf",
     "_page_110_Figure_1.jpeg",
     "_page_109_Figure_4.jpeg",
     "_page_109_Figure_0.jpeg",
