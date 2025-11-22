@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/Case law table.md",
+                "file": "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Case law table"
+              "title": "Brussels I and Rome II"
             }
           }
         ],
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/01-Primary-Sources/Case-Law/Case law table.md",
+                "file": "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Case law table"
+              "title": "Outline of Brussels I and Rome II"
             }
           },
           {
@@ -413,10 +413,13 @@
       }
     ]
   },
-  "active": "285d7a905c7e25c2",
+  "active": "30b35ab29aee2758",
   "lastOpenFiles": [
+    "PIL issues Brussels Rome II discrepancy",
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/Case law table.md",
+    "PIL Issues with DSA",
     "Automated decisions/01-Primary-Sources/Case-Law/_CONTENTS.md",
-    "Brussels I and Rome II.md",
+    "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md",
     "Untitled 2.md",
     "Untitled.md",
     "Automated decisions/06-Index-Files/PHASE2-SOURCE-EXTRACTION.md",
@@ -443,14 +446,11 @@
     "Automated decisions/01-Primary-Sources/Regulatory-Materials/EDPB-Guidance/edpb_guidelines_202201_data_subject_rights_access_v2_en.md",
     "Automated decisions/01-Primary-Sources/Regulatory-Materials/EDPB-Guidance/edpb_guidelines_202008_onthetargetingofsocialmediausers_en.md",
     "Automated decisions/01-Primary-Sources/Regulatory-Materials/EDPB-Guidance/_CONTENTS.md",
-    "Automated decisions/01-Primary-Sources/Regulatory-Materials/DPA-Decisions/_CONTENTS.md",
-    "Automated decisions/01-Primary-Sources/Regulatory-Materials/DPA-Decisions/MT_Tietosuojavaltuutetun_toimisto_Finland_-_6482_186_2020.md",
     "Automated decisions/01-Primary-Sources/Regulatory-Materials/EDPB-Guidance",
     "Automated decisions/01-Primary-Sources/Regulatory-Materials/DPA-Decisions",
     "Automated decisions/01-Primary-Sources/Case-Law/CJEU",
     "Automated decisions/01-Primary-Sources/Regulatory-Materials",
     "Automated decisions/01-Primary-Sources/Case-Law",
-    "Automated decisions/01-Primary-Sources",
     "_page_110_Figure_1.jpeg",
     "_page_109_Figure_4.jpeg",
     "_page_109_Figure_0.jpeg",

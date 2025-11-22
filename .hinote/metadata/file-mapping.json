@@ -916,7 +916,10 @@
     "Automated decisions/00-Project-Meta/README.md": "automated_decisions_00-project-meta_readme.md.json",
     "Phase 1 - Doc inventory.md": "phase_1_-_doc_inventory.md.json",
     "Brussels I and Rome I.md": "brussels_i_and_rome_i.md.json",
-    "Brussels I and Rome II.md": "brussels_i_and_rome_ii.md.json"
+    "Brussels I and Rome II.md": "brussels_i_and_rome_ii.md.json",
+    "PIL Issues with DSA": "pil_issues_with_dsa.json",
+    "PIL issues Brussels Rome II discrepancy": "pil_issues_brussels_rome_ii_discrepancy.json",
+    "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md": "pil_issues_brussels_rome_ii_discrepancy_brussels_i_and_rome_ii.md.json"
   },
-  "lastUpdated": 1763834247436
+  "lastUpdated": 1763840617155
 }
