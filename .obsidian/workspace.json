@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PIL Issues with DSA/Claude report.md",
+                "file": "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude report"
+              "title": "Brussels I and Rome II"
             }
           }
         ],
@@ -285,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PIL Issues with DSA/Claude report.md",
+                "file": "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Claude report"
+              "title": "Outline of Brussels I and Rome II"
             }
           },
           {
@@ -427,8 +427,10 @@
       }
     ]
   },
-  "active": "1cd3ee4ddf63e9fe",
+  "active": "30b35ab29aee2758",
   "lastOpenFiles": [
+    "Automated decisions/AI-assisted consultation filtering and the limits of automated decision-making under EU law.pdf",
+    "PIL Issues with DSA/Claude report.md",
     "Untitled 3.md",
     "legal-insight-link 3.pdf",
     "legal-insight-link 2.pdf",
@@ -436,7 +438,6 @@
     "legal-insight-link.pdf",
     "AI-assisted consultation filtering and the limits of automated decision-making under EU law.pdf",
     "PIL Issues with DSA/DSA PIL Gemini.md",
-    "PIL Issues with DSA/Claude report.md",
     "PIL Issues with DSA/dsa-provisions-recitals.md",
     "PIL Issues with DSA/overlap-instruments-table.md",
     "PIL Issues with DSA/related-provisions-detail.md",
@@ -462,7 +463,6 @@
     "Automated decisions/02-Analysis-Legal/Doctrinal-Analysis/Unresolved issues to research.md",
     "Automated decisions/02-Analysis-Legal/Doctrinal-Analysis/Article 22 GDPR Automated Decision-Making.md",
     "Automated decisions/02-Analysis-Legal/Doctrinal-Analysis/Algorithmic Gatekeeping in Administrative Consultations.md",
-    "Automated decisions/02-Analysis-Legal/_CONTENTS.md",
     "Automated decisions/02-Analysis-Legal/Framework-Mapping",
     "Automated decisions/02-Analysis-Legal/Doctrinal-Analysis",
     "_page_110_Figure_1.jpeg",
