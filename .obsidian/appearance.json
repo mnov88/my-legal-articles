@@ -5,6 +5,6 @@
   "baseFontSizeAction": true,
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "serif-font-dividers"
+    "ibm-plex-dividers"
   ]
 }
