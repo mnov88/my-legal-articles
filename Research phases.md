@@ -1,4 +1,3 @@
-**Absolutely!** Much better approach. Here's the 3-phase breakdown:
 
 ---
 

@@ -911,7 +911,8 @@
     "Automated decisions/00-Project-Meta/Project summary.md": "automated_decisions_00-project-meta_project_summary.md.json",
     "Folder organization.md": "folder_organization.md.json",
     "Prompting/Folder organization.md": "prompting_folder_organization.md.json",
-    "Automated decisions/00-Project-Meta/style.md": "automated_decisions_00-project-meta_style.md.json"
+    "Automated decisions/00-Project-Meta/style.md": "automated_decisions_00-project-meta_style.md.json",
+    "Research phases.md": "research_phases.md.json"
   },
-  "lastUpdated": 1763819155464
+  "lastUpdated": 1763819605335
 }

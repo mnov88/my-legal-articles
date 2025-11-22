@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Research phases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 12"
+              "title": "Research phases"
             }
           },
           {
@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Research phases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 12"
+              "title": "Research phases"
             }
           }
         ],
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Research phases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 12"
+              "title": "Outline of Research phases"
             }
           },
           {
@@ -372,7 +372,7 @@
     "Automated decisions/General BG - Handoff.md",
     "Automated decisions/00-Project-Meta",
     "Automated decisions/06-Index-Files",
-    "Untitled 12.md",
+    "Research phases.md",
     "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-749-23 innogy Energie.md",
     "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
     "Prompt protection/00 Core/Topic mapping.md",
