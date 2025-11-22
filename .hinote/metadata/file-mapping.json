@@ -912,7 +912,9 @@
     "Folder organization.md": "folder_organization.md.json",
     "Prompting/Folder organization.md": "prompting_folder_organization.md.json",
     "Automated decisions/00-Project-Meta/style.md": "automated_decisions_00-project-meta_style.md.json",
-    "Research phases.md": "research_phases.md.json"
+    "Research phases.md": "research_phases.md.json",
+    "Automated decisions/00-Project-Meta/README.md": "automated_decisions_00-project-meta_readme.md.json",
+    "Phase 1 - Doc inventory.md": "phase_1_-_doc_inventory.md.json"
   },
-  "lastUpdated": 1763819605335
+  "lastUpdated": 1763820737894
 }
