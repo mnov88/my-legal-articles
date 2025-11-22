@@ -2,7 +2,7 @@
 
 **Project:** Automated Decision-Making in Administrative Public Participation
 **Extraction Date:** 2025-11-22
-**RQs Completed:** RQ1, RQ2
+**RQs Completed:** RQ1, RQ2, RQ4
 **Total RQs:** 5
 
 ---
@@ -508,5 +508,288 @@
 - Does the "right to be heard" require awareness of algorithmic filtering?
 
 **Estimated readiness:** **Adequate foundation** - Good doctrinal framework with key cases and principles identified. Would benefit from more detailed Member State comparative analysis for RQ5 integration. Aarhus analysis is strongest for environmental context; less developed for non-environmental government ADM.
+
+---
+
+## RQ4: Legal Effects and Significance
+
+**Full Statement:** When an individual's consultation submission is algorithmically excluded from consideration in a decision about a third party's application (concession, license, permit), does this produce "legal effects" or "similarly significant effects" on the submitter under Article 22? How should courts assess the significance of procedural exclusion from decisions affecting environmental, property, or other protected interests?
+
+### Documents Analyzed for RQ4
+**Primary documents:** [[Evaluation-Synthesis]], [[Hypotheticals case matrix]], [[Article 22 GDPR Automated Decision-Making]], [[Algorithmic Gatekeeping in Administrative Consultations]]
+**Supporting documents:** [[ADM-Taxonomy-Elements]], [[Unresolved issues to research]], [[Algorithmic Gatekeeping in the Public Sphere (Draft)]]
+
+---
+
+### Sub-Topics & Arguments
+
+**Sub-Topic 1: Definition and Distinction Between "Legal Effects" and "Similarly Significant Effects"**
+- **Main argument:** Article 22 requires effects that are either binding legal consequences (altering legal rights/obligations) or effects that are "similarly significant"—substantively important consequences rivaling legal effects. The EDPB defines the threshold as effects "sufficiently great or important to be worthy of attention" that significantly influence circumstances, behavior, or choices; have prolonged impact; or lead to exclusion/discrimination. Critically, effects need not be catastrophic but must exceed the merely trivial.
+- **Found in:** [[Evaluation-Synthesis]] (Element 3), [[ADM-Taxonomy-Elements]] (Section II.C), [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** WP251rev.01 p. 11-12 definitions, Recital 71 examples, CJEU SCHUFA ¶¶57-60 application
+- **Relationship to other sub-topics:** Foundation for all subsequent sub-topics; establishes the threshold analysis framework
+
+**Sub-Topic 2: SCHUFA's Probabilistic Causation Standard**
+- **Main argument:** The CJEU in SCHUFA adopted an expansive view of significant effects through a "probabilistic causation" standard. Credit scores affect data subjects "at the very least significantly" because insufficient scores lead to loan refusal "in almost all cases" (approximately 80% correlation). This establishes that high correlation with—rather than absolute determination of—outcomes suffices for Article 22 application. The focus is on practical effects rather than formal decision-making authority.
+- **Found in:** [[Article 22 GDPR Automated Decision-Making]], [[Evaluation-Synthesis]], [[Algorithmic Gatekeeping in Administrative Consultations]]
+- **Evidence used:** SCHUFA C-634/21 ¶73 (approximately 80% correlation), ¶¶56-60 (effects analysis), Hamburg DPA interpretation
+- **Relationship to other sub-topics:** Provides quantitative/qualitative threshold for Sub-Topics 4-6; contrasts with Sub-Topic 3's multi-factor approach
+
+**Sub-Topic 3: Multi-Dimensional Test for "Similarly Significant Effects"**
+- **Main argument:** Multiple factors determine whether effects are "similarly significant": (1) access to essential services/goods (healthcare, housing, finance, employment); (2) discriminatory potential (targeting protected categories or proxies); (3) permanence/reversibility (exclusion from future opportunities, lock-in effects); (4) professional/opportunity impact (employment screening, tenant scoring, credit profiling); (5) dignity and autonomy impact (behavioral prediction, manipulation). The analysis is contextual and case-specific, not categorical.
+- **Found in:** [[Evaluation-Synthesis]] (Element 3), [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** Future of Privacy Forum multi-dimensional test, WP251rev.01 effects framework, Malgieri & Comandé scholarship, national DPA enforcement patterns
+- **Relationship to other sub-topics:** Operationalizes Sub-Topic 1; provides framework for Sub-Topics 5-8
+
+**Sub-Topic 4: The Three-Tier Effects Classification**
+- **Main argument:** Effects can be classified into three tiers for Article 22 purposes: (1) **Clearly Significant**—benefit denial/delay affecting survival/housing/healthcare, procurement disqualification affecting business viability, inspection selection triggering legal obligations/sanctions; (2) **Arguably Significant**—FOI delay affecting ability to exercise rights, complaint routing affecting resolution likelihood, priority service access affecting opportunity costs; (3) **Likely Insignificant**—pure organizational categorization with no service differentiation, processing order when all receive identical treatment, metadata for internal management. No case law exists on democratic participation effects (consultation exclusion, policy feedback filtering).
+- **Found in:** [[Hypotheticals case matrix]] ("Similarly Significant Effects" Frontier section)
+- **Evidence used:** Comparative scenario analysis across administrative contexts, CJEU SCHUFA ¶¶57-62 guidance
+- **Relationship to other sub-topics:** Bridges Sub-Topic 2 and Sub-Topic 5; identifies the critical gap regarding participation effects
+
+**Sub-Topic 5: The "Indirect Effects" and "About Whom" Problem**
+- **Main argument:** Article 22 protects the right "not to be subject to" a decision, suggesting the data subject must be the formal decision object, not merely affected by decisions about third parties. However, WP251 (p. 22) explicitly recognizes that "similarly significant effects could also be triggered by the actions of individuals other than the one to which the automated decision relates"—using the example of credit limits reduced based on other customers' behavior. This creates doctrinal tension when applying Article 22 to consultation filtering where the formal decision concerns the company's application, but the citizen experiences effects through exclusion.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Sections 2, 5), [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** WP251rev.01 p. 22 third-party effects example, CJEU paragraph 46 "affect the data subject in many ways" language, Veale & Binns (2021) "indirect effects" analysis
+- **Relationship to other sub-topics:** Critical doctrinal tension; affects Sub-Topics 6-8
+
+**Sub-Topic 6: Procedural Rights as "Legal Effects"**
+- **Main argument:** In environmental governance, the Aarhus Convention and EU implementing legislation grant legally enforceable participation rights. If algorithmic filtering systematically excludes relevant submissions, the authority fails to "take due account" as required by Article 6 Aarhus, potentially rendering the entire administrative proceeding unlawful. The automated filtering thus produces "legal effects" by violating the citizen's statutory right to be heard and creating grounds for annulment of the final decision. This transforms procedural exclusion from a political grievance into a legally cognizable harm.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.4), [[Algorithmic Gatekeeping in the Public Sphere (Draft)]] (Section VI)
+- **Evidence used:** Aarhus Convention Article 6 requirements, EU Directive 2003/35/EC, EU annulment jurisprudence on procedural defects
+- **Relationship to other sub-topics:** Provides strongest argument for Article 22 applicability in environmental contexts; complements Sub-Topic 7
+
+**Sub-Topic 7: Democratic Exclusion as "Similarly Significant Effects"**
+- **Main argument:** Beyond strict statutory rights, systemic exclusion of a citizen's voice from democratic processes constitutes significant effects under the EDPB's interpretation. Effects that affect a person's behavior, choices, or access to services—or that lead to discrimination—qualify. Algorithmic bias against non-standard dialects, minority languages, or specific socio-economic phrasing effectively disenfranchises those groups. The cumulative impact of algorithmically distorted public input erodes democratic legitimacy. Knowledge of AI filtering creates "chilling effects" on speech—a recognized harm in fundamental rights jurisprudence.
+- **Found in:** [[Algorithmic Gatekeeping in the Public Sphere (Draft)]] (Section VI), [[Hypotheticals case matrix]]
+- **Evidence used:** EDPB significant effects interpretation, chilling effect doctrine in ECHR jurisprudence, analysis of algorithmic bias in language processing
+- **Relationship to other sub-topics:** Extends Sub-Topic 6 beyond environmental contexts; addresses gap identified in Sub-Topic 4
+
+**Sub-Topic 8: The Attenuation Problem and Causation Thresholds**
+- **Main argument:** The causal chain from algorithmic filtering to harm on the citizen is potentially too attenuated for Article 22: filtering → summary excludes input → decision-maker unaware → decision possibly different → citizen's interests possibly affected. Each contingency weakens causation. By analogy to EU standing jurisprudence (Article 263 TFEU requiring "direct and individual concern"), Article 22 may require direct effects on the data subject, not effects mediated through multiple decision stages. Counter-argument: Article 22 serves different purposes than standing doctrine—protecting fundamental rights rather than gatekeeping courts—supporting broader applicability despite attenuation.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 5), [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** SCHUFA direct causation model, Article 263 TFEU standing requirements, Veale & Binns multi-stage processing analysis
+- **Relationship to other sub-topics:** Key limitation on Sub-Topics 5-7; creates core uncertainty for RQ4 resolution
+
+**Sub-Topic 9: Procedural Harms as Alternative Basis for Significant Effects**
+- **Main argument:** Even if the citizen cannot control the ultimate decision outcome (whether the company receives concession), they may claim harm from procedural inequality—their input was algorithmically excluded while others' inputs were considered. The Dutch SyRI case found Article 8 ECHR violations where the decision was not "about" data subjects but flagged them for investigation, with harm arising from denial of equal treatment and exposure to suspicion. Similarly, the Austrian jobseekers case found algorithmic categorization significant because it structured access to opportunities even without directly granting/denying employment.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Sections 5.4, 6)
+- **Evidence used:** Dutch SyRI case (District Court of The Hague, 5 Feb 2020), Austrian jobseekers case, Italian Deliveroo enforcement, procedural fairness doctrine
+- **Relationship to other sub-topics:** Provides alternative framing when Sub-Topics 5-8 are uncertain; emphasizes process over outcome
+
+**Sub-Topic 10: Unresolved Questions on Effects Threshold**
+- **Main argument:** Critical questions remain unresolved: (1) Does procedural exclusion from decisions about others' rights constitute Article 22-protected effects? (2) Do participation rights qualify as "significant effects" or are they mere political interests outside Article 22 scope? (3) Is the quantitative SCHUFA threshold (approximately 80%) required, or can qualitative significance suffice? (4) Should effects on vulnerable groups warrant lower thresholds? No CJEU case law directly addresses democratic participation effects, leaving this the most doctrinally uncertain aspect of RQ4.
+- **Found in:** [[Unresolved issues to research]] (Questions 3, 4), [[Hypotheticals case matrix]]
+- **Evidence used:** Gap analysis across case law, doctrinal uncertainty identification
+- **Relationship to other sub-topics:** Synthesizes limitations across all prior sub-topics
+
+---
+
+### Legal Sources for RQ4
+
+**GDPR Provisions on Effects**
+
+| Source | Article/Section | Specific Provision | Used For | Found In |
+|--------|-----------------|-------------------|----------|----------|
+| GDPR | Article 22(1) | "...which produces legal effects concerning him or her or similarly significantly affects him or her" | Core effects threshold language | All RQ4 documents |
+| GDPR | Article 4(4) | Definition of "profiling" as evaluating "personal aspects" | Profiling-effects connection | [[ADM-Taxonomy-Elements]], [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| GDPR | Recital 71 | Examples: "automatic refusal of an online credit application or e-recruiting practices without any human intervention" | Paradigmatic significant effects | [[ADM-Taxonomy-Elements]], [[Article 22 GDPR ADM]] |
+
+**CJEU Case Law on Effects**
+
+| Case | Citation | Paragraph(s) | Principle/Holding | Used For | Found In |
+|------|----------|--------------|-------------------|----------|----------|
+| SCHUFA Holding AG | C-634/21, ECLI:EU:C:2023:957 (7 Dec 2023) | ¶¶56-60 | Effects must "significantly affect the circumstances, behaviour or choices" or "produce legal effects" | Core effects standard | [[Article 22 GDPR ADM]], [[Evaluation-Synthesis]] |
+| SCHUFA Holding AG | C-634/21 | ¶73 | Third parties "draw strongly on" automated value; insufficient scores led to denial "in almost all cases" (approximately 80% correlation) | Probabilistic causation standard | [[Evaluation-Synthesis]], [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| SCHUFA Holding AG | C-634/21 | ¶¶57-62 | Credit scores affect data subjects "at the very least significantly" through access to financial resources | Broad effects interpretation | [[Article 22 GDPR ADM]] |
+
+**EDPB/WP29 Guidance on Effects**
+
+| Source | Type | Page/Section | Key Point | Used For | Found In |
+|--------|------|--------------|-----------|----------|----------|
+| WP251rev.01 | Guidelines on ADM and Profiling | p. 11-12 | "Legal effects" = affect legal rights, status, contractual entitlements. "Similarly significant effects" = sufficiently great/important to be worthy of attention | Two-tier effects framework | [[ADM-Taxonomy-Elements]], [[Evaluation-Synthesis]], [[Article 22 GDPR ADM]] |
+| WP251rev.01 | Guidelines | p. 21-22 | Effects must: (1) significantly influence circumstances/behavior/choices; (2) have prolonged/permanent impact; (3) at most extreme, lead to exclusion/discrimination | Multi-factor effects test | [[Evaluation-Synthesis]], [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| WP251rev.01 | Guidelines | p. 22 | "Similarly significant effects could also be triggered by the actions of individuals other than the one to which the automated decision relates" | Third-party effects recognition | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| WP251rev.01 | Guidelines | p. 22 | Credit card limit reduced based on other customers' behavior example | Indirect effects paradigm | [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR ADM]] |
+
+**ECtHR and National Court Case Law**
+
+| Case | Jurisdiction | Key Holding | Used For | Found In |
+|------|--------------|-------------|----------|----------|
+| NJCM et al. v. Netherlands (SyRI) | Netherlands (District Court of The Hague, 5 Feb 2020) | Article 8 ECHR violated despite no direct legal consequences on data subjects; algorithmic welfare fraud detection created procedural harms through denial of equal treatment and exposure to suspicion; interference "extensive and serious" | Procedural harms as significant | [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR ADM]] |
+| Yüksel Yalçınkaya v. Turkey | ECtHR Grand Chamber (26 Sept 2023) | Article 6 ECHR requires disclosure of algorithmic methodology, opportunity to challenge, individual assessment, reasoned decisions; shortcomings "incompatible with very essence" of procedural rights | Procedural rights in algorithmic contexts | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| Austrian jobseekers case | Austria (FPF Report Case 9) | Algorithmic categorization determining service levels significant because it structured access to opportunities | Gatekeeping as significant effect | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| Italian Garante - Deliveroo | Italy (€2.5M fine) | Automated rider ranking determining shift access constituted significant effects given economic dependence | Work access as significant | [[Article 22 GDPR ADM]] |
+
+**International/Treaty Law**
+
+| Source | Article | Specific Provision | Used For | Found In |
+|--------|---------|-------------------|----------|----------|
+| Aarhus Convention (UNECE, 1998) | Article 6 | Decisions on specific activities: "genuine opportunity to participate effectively"; authorities must "take due account of the outcome"; public informed how "participation was taken into consideration" | Legally enforceable participation rights | [[Algorithmic Gatekeeping in Administrative Consultations]], [[Algorithmic Gatekeeping in the Public Sphere (Draft)]] |
+| EU Directive 2003/35/EC | General | Public Participation Directive implementing Aarhus in EU | EU-level participation rights | [[Article 22 GDPR ADM]], [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| EU Directive 2011/92/EU | General | Environmental Impact Assessment Directive requiring public participation | Environmental decision-making framework | [[Algorithmic Gatekeeping in the Public Sphere (Draft)]] |
+| EU Charter | Article 41 | Right to good administration: affairs handled impartially, fairly, within reasonable time; right to be heard; access to file; reasoned decisions | Administrative procedural rights | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| ECHR | Article 8 | Right to respect for private life; proportionality required for data processing | Human rights basis for effects analysis | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+
+---
+
+### Secondary Sources for RQ4
+
+**Academic Scholarship**
+
+| Source | Author(s) | Key Concept | Used For | Found In |
+|--------|-----------|-------------|----------|----------|
+| "Is That Your Final Decision?" 11 Int'l Data Privacy L. 319 (2021) | Veale & Binns | "Indirect effects" problem: should Article 22 extend to effects mediated through multi-stage processing when downstream step is human? Leave tension unresolved | Multi-stage effects analysis | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| "Automated Decision-Making in the EU Member States" 35 Computer L. & Security Rev. (2019) | Malgieri | Two-step approach distinguishing profiling (generating information) from decision-making (using information); classification as profiling subject to general GDPR unless significant effects on filtered individuals | Effects attribution in filtering | [[Algorithmic Gatekeeping in Administrative Consultations]] |
+| "Why a Right to Legibility...Exists" 7 Int'l Data Privacy L. 243 (2017) | Malgieri & Comandé | Significant effects "can encompass marketing manipulation, price discrimination" even absent formal legal effects | Broader effects interpretation | [[Article 22 GDPR ADM]] |
+| "The Right to Explanation, Explained" 34 Berkeley Tech. L.J. 189 (2019) | Kaminski | Multi-layered accountability linking individual rights to systemic governance | Effects and accountability connection | [[Article 22 GDPR ADM]] |
+| Various (narrow interpretation) | Hintze, Wong | Scope should be narrow, requiring "substantial, demonstrable impact" for effects; most marketing/pricing lacks sufficient significance | Counter-argument limiting effects scope | [[Article 22 GDPR ADM]] |
+
+---
+
+### Empirical Evidence & Data for RQ4
+
+**Quantitative Thresholds:**
+- SCHUFA: Approximately 80% correlation between insufficient credit score and loan denial ("in almost all cases") - Establishes probabilistic causation standard - Source: [[Evaluation-Synthesis]], [[Algorithmic Gatekeeping in Administrative Consultations]]
+- Italian Deliveroo: Algorithmic ranking controlling work opportunities and income potential for gig workers - Demonstrates economic effect significance - Source: [[Article 22 GDPR ADM]]
+
+**Effects Categories (Clear/Borderline/Unlikely):**
+
+**Clear Legal Effects:**
+- Credit lending decisions - Source: [[Evaluation-Synthesis]]
+- Employment hiring/firing - Source: [[Evaluation-Synthesis]]
+- Government benefit determinations - Source: [[Evaluation-Synthesis]]
+- Insurance underwriting - Source: [[Evaluation-Synthesis]]
+
+**Clear Similarly Significant Effects:**
+- Automated recruitment screening (gate-keeping to opportunities) - Source: [[Evaluation-Synthesis]]
+- Tenant screening and rejection - Source: [[Evaluation-Synthesis]]
+- Credit scoring affecting borrowing rates - Source: [[Evaluation-Synthesis]]
+- Algorithmic work allocation in gig economy - Source: [[Article 22 GDPR ADM]]
+
+**Borderline Cases (Require Fact-Specific Assessment):**
+- Social media algorithmic ranking - Source: [[Evaluation-Synthesis]]
+- Personalized pricing - Source: [[Evaluation-Synthesis]]
+- Content recommendation algorithms - Source: [[Evaluation-Synthesis]]
+- FOI delay (affects ability to exercise rights) - Source: [[Hypotheticals case matrix]]
+- Complaint routing (affects resolution likelihood) - Source: [[Hypotheticals case matrix]]
+
+**Likely NOT Significant:**
+- Generic product recommendations - Source: [[Evaluation-Synthesis]]
+- Service quality customization - Source: [[Evaluation-Synthesis]]
+- Pure organizational categorization with no service differentiation - Source: [[Hypotheticals case matrix]]
+- Metadata generation for internal management - Source: [[Hypotheticals case matrix]]
+
+**Identified Gaps:**
+- No case law on democratic participation effects (consultation exclusion, legislative input filtering, policy feedback synthesis) - Source: [[Hypotheticals case matrix]]
+- Unresolved whether influence on democratic processes is "similarly significant" - Source: [[Hypotheticals case matrix]]
+
+---
+
+### Key Tests, Frameworks & Standards for RQ4
+
+**1. Two-Tier Effects Framework (EDPB)**
+- **Established by:** WP251rev.01 p. 11-12
+- **Definition:** Analytical framework distinguishing "legal effects" from "similarly significant effects"
+- **Elements/Criteria:**
+  - **Legal Effects:** Affect legal rights, status, or contractual entitlements; produce binding legal implications; alter legal position
+  - **Similarly Significant Effects:** Sufficiently great/important to warrant attention; contextual case-by-case assessment; not merely trivial
+- **Applied in:** [[ADM-Taxonomy-Elements]], [[Evaluation-Synthesis]], [[Article 22 GDPR ADM]]
+- **Application & Conclusion:** Documents apply this framework to consultation filtering and conclude that where legally enforceable participation rights exist (e.g., Aarhus), filtering may produce "legal effects"; where participation is merely advisory, effects may still be "similarly significant" if systemic exclusion affects democratic participation materially.
+
+**2. Multi-Factor Significance Test (FPF/EDPB Synthesis)**
+- **Established by:** Future of Privacy Forum Report (May 2022), synthesizing WP251rev.01 and enforcement patterns
+- **Definition:** Contextual assessment weighing multiple factors to determine significance
+- **Elements/Criteria:**
+  1. **Access to essential services/goods:** Healthcare, housing, finance, employment
+  2. **Discriminatory potential:** Targeting protected categories or proxies
+  3. **Permanence/reversibility:** Exclusion from future opportunities; lock-in effects
+  4. **Professional/opportunity impact:** Employment screening, tenant scoring
+  5. **Dignity and autonomy:** Behavioral prediction, manipulation, coercion
+  6. **Categories of data:** Behavioral inferences, sensitive data more likely significant
+  7. **Temporal dimension:** Permanent/prolonged vs. temporary
+  8. **Vulnerable populations:** Lower thresholds for children, workers, benefit recipients
+- **Applied in:** [[Evaluation-Synthesis]], [[Article 22 GDPR ADM]]
+- **Application & Conclusion:** Applied to consultation filtering, factors 3 (permanent exclusion from record), 5 (autonomy in democratic participation), and 8 (vulnerability if environmental/health interests at stake) suggest potential significance. However, factors 1-2 and 4 (access to services, employment impact) are weaker unless concrete legal interests exist.
+
+**3. Probabilistic Causation Standard (SCHUFA Doctrine)**
+- **Established by:** SCHUFA C-634/21 ¶73
+- **Definition:** Effects are significant when automated output correlates highly with—but doesn't absolutely determine—outcomes
+- **Elements/Criteria:**
+  - High correlation between automated processing and outcome (approximately 80% in SCHUFA)
+  - Third parties "draw strongly on" automated value
+  - Outcome denial/restriction occurs "in almost all cases"
+  - Focus on practical effects rather than formal authority
+- **Applied in:** [[Evaluation-Synthesis]], [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR ADM]]
+- **Application & Conclusion:** If consultation opposition can be shown to correlate highly with concession refusal (70-80%), SCHUFA logic supports finding significant effects even if individual inputs are not absolutely decisive. If inputs are "generally meaningless" with low correlation, effects likely insufficient.
+
+**4. Three-Tier Effects Classification (Strategic Matrix)**
+- **Established by:** [[Hypotheticals case matrix]]
+- **Definition:** Risk-based classification of effects across administrative contexts
+- **Tiers:**
+  - **Tier 1 - Clearly Significant:** Benefit denial/delay, procurement disqualification, inspection selection triggering sanctions
+  - **Tier 2 - Arguably Significant:** FOI delay, complaint routing, priority service access
+  - **Tier 3 - Likely Insignificant:** Pure organizational categorization, processing order with identical treatment
+- **Applied in:** [[Hypotheticals case matrix]]
+- **Application & Conclusion:** Consultation filtering sits between Tier 2 and Tier 3—arguably significant if participation rights have legal force, likely insignificant if purely advisory. Critical gap: no case law on democratic participation effects.
+
+**5. Third-Party Effects Recognition (WP251 p. 22)**
+- **Established by:** WP251rev.01 p. 22, credit card limit example
+- **Definition:** Article 22 can apply even when effects arise from decisions formally about third parties
+- **Elements/Criteria:**
+  - Decision formally relates to others (other customers' behavior)
+  - But produces effects on the data subject (reduced credit limit)
+  - Effects are "similarly significant" despite indirect causation
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR ADM]]
+- **Application & Conclusion:** Provides doctrinal basis for applying Article 22 to consultation filtering where formal decision is about company's application but citizen experiences effects. However, causation in consultation scenario is more attenuated than credit card example.
+
+**6. Procedural Harm as Effects Basis (SyRI Framework)**
+- **Established by:** NJCM et al. v. Netherlands (SyRI), District Court of The Hague (5 Feb 2020)
+- **Definition:** Procedural inequality and exposure to differential treatment constitute significant effects even without direct determination of legal rights
+- **Elements/Criteria:**
+  - No direct legal consequences required
+  - Denial of equal treatment (some flagged, others not)
+  - Exposure to suspicion or heightened scrutiny
+  - Interference "extensive and serious" despite indirect causation
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]]
+- **Application & Conclusion:** Provides alternative basis for finding significant effects when consultation submissions are algorithmically excluded—harm arises from procedural inequality (exclusion while others considered) rather than control over outcome.
+
+---
+
+### RQ4 Extraction Summary
+
+**Coverage strength:**
+- **Well-developed sub-topics:**
+  - Two-tier effects framework (legal vs. similarly significant)
+  - Multi-factor significance test with practical indicators
+  - SCHUFA probabilistic causation standard with quantitative threshold
+  - Third-party/indirect effects recognition from WP251
+  - Procedural harm as alternative effects basis (SyRI doctrine)
+  - Aarhus Convention participation rights creating legal effects
+
+- **Under-developed areas:**
+  - Precise quantitative threshold for "high correlation" (only 80% SCHUFA example)
+  - Democratic participation effects (no case law directly on point)
+  - Distinction between environmental (Aarhus-protected) and non-environmental consultations
+  - How to measure "significance" of procedural exclusion quantitatively
+
+- **Source depth:** Strong foundation in WP251rev.01 (specific page citations), SCHUFA C-634/21 (paragraph-level citations), and ECtHR case law (SyRI, Yüksel Yalçınkaya). Good synthesis of multi-factor tests from FPF Report and academic scholarship. Strategic matrix provides useful three-tier classification. Aarhus Convention provides specific environmental framework. Limited direct precedent on consultation filtering.
+
+**Key findings:**
+- Article 22's effects threshold is contextual, not categorical—significance depends on factors including access to services, discrimination potential, permanence, and vulnerability
+- SCHUFA's probabilistic causation standard (approximately 80% correlation) provides guidance but precise threshold is uncertain
+- Third-party/indirect effects are doctrinally recognized but causation in consultation filtering is more attenuated than existing examples
+- Aarhus Convention may transform advisory participation into legally enforceable rights, creating "legal effects"
+- Procedural harm (exclusion while others considered) may constitute significant effects even without outcome control
+- No case law exists on democratic participation effects—this is the critical doctrinal gap
+
+**Gaps or questions:**
+- **Quantitative threshold:** Is 80% correlation required for "similarly significant," or does qualitative significance suffice?
+- **Democratic participation:** Does influence on democratic processes constitute "similarly significant effects"?
+- **Advisory vs. binding:** Does the advisory nature of consultation input categorically exclude effects, or can significant effects arise anyway?
+- **Attenuation limits:** At what point is the causal chain from filtering to harm too attenuated?
+- **Environmental vs. general:** Are environmental consultations (Aarhus-protected) categorically different from general administrative consultations?
+
+**Estimated readiness:** **Adequate foundation with critical gap** - Comprehensive doctrinal framework for effects analysis with strong sources on existing categories. However, the core question—whether procedural exclusion from third-party decisions produces significant effects—lacks direct case law precedent. Resolution likely depends on: (1) presence of legally enforceable participation rights (Aarhus), (2) concrete interests of the excluded citizen (environmental, property, health), (3) correlation between participation and outcomes, and (4) whether courts extend procedural harm reasoning from SyRI to consultation contexts.
 
 ---
