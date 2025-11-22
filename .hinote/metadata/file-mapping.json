@@ -914,7 +914,9 @@
     "Automated decisions/00-Project-Meta/style.md": "automated_decisions_00-project-meta_style.md.json",
     "Research phases.md": "research_phases.md.json",
     "Automated decisions/00-Project-Meta/README.md": "automated_decisions_00-project-meta_readme.md.json",
-    "Phase 1 - Doc inventory.md": "phase_1_-_doc_inventory.md.json"
+    "Phase 1 - Doc inventory.md": "phase_1_-_doc_inventory.md.json",
+    "Brussels I and Rome I.md": "brussels_i_and_rome_i.md.json",
+    "Brussels I and Rome II.md": "brussels_i_and_rome_ii.md.json"
   },
-  "lastUpdated": 1763820737894
+  "lastUpdated": 1763834247436
 }
