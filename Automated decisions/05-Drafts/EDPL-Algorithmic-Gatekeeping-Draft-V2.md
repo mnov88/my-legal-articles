@@ -148,6 +148,12 @@ The Austrian Data Protection Authority's decision in *DSB 2020-0.436.002* reinfo
 
 [^23]: DSB (Austria) Decision 2020-0.436.002 of 8 September 2020, ECLI:AT:DSB:2020:2020.0.436.002.
 
+The Finnish Data Protection Authority's decision in case 6482/186/2020 provides the most direct support for this analysis in the administrative context.[^23a] The authority examined a health benefit assessment tool that used algorithms to identify patients for proactive healthcare measures. The authority drew a critical distinction between two categories: patients selected by the algorithm for human review, and patients not selected. For the former, the authority found no solely automated decision because healthcare professionals made final assessments considering other factors. For the latter, however, the authority held that the result of the profiling remains final and the person no longer re-evaluates the evaluation produced by the tool. The non-selection by the algorithm constituted a solely automated decision because no human subsequently reconsidered the algorithmic determination.
+
+[^23a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 of 2 June 2021.
+
+Applied to consultation filtering, this reasoning is directly on point. When AI filtering excludes submissions from human review, the exclusion is the solely automated decision. Humans only review the selected submissions; those not selected never receive human consideration. The algorithmic determination that a submission is not sufficiently substantive for human attention remains final — precisely the situation the Finnish authority identified as triggering Article 22.
+
 ### D. The physical impossibility of meaningful review
 
 The Spanish AEPD developed the most sophisticated framework for assessing meaningful human involvement in March 2024 guidance responding to *SCHUFA*.[^24] The four-factor test requires: competence (authority to alter outcomes); preparation and training (ability to critically evaluate); independence and diligence (freedom from authority bias); and means to exercise competence (procedural ability, informational access, resources, and sufficient time).
@@ -263,6 +269,12 @@ The Italian Garante's 2021 decision against Deliveroo Italy provides instructive
 [^38]: Deliveroo (n 11).
 
 The parallel to consultation filtering is direct. Like the Deliveroo shift booking system, AI filtering of consultation submissions determines access to a valuable opportunity — the opportunity to have one's voice considered in democratic deliberation. Like riders denied shifts, citizens whose submissions are filtered never receive notification of the algorithmic determination affecting them.
+
+The Finnish Data Protection Authority's reasoning on significant effects merits particular attention.[^38a] The authority rejected the controller's argument that no services were denied by the algorithm. Instead, the authority held that it is sufficient that the profiling actually affects the patient's chances of receiving healthcare services. Being excluded from proactive healthcare measures — not receiving an invitation for preventive care that others received based on algorithmic selection — constituted significant effects. The authority emphasised that in terms of significant effects, it is not necessary for the patient to be actively denied access to the treatment; it is sufficient that the profiling actually affects the patient's chances of receiving healthcare services.
+
+[^38a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 (n 23a).
+
+Applied to consultation filtering, this reasoning supports recognising exclusion from consideration as producing significant effects. The submitter's chances of having their voice considered are affected by the algorithmic determination, even without formal denial of participation rights. The citizen is not told they cannot submit — they submit, and the submission is received. But the algorithmic classification affects their chances of having that submission reach human consideration, just as algorithmic classification affected patients' chances of receiving proactive healthcare. The Finnish authority's rejection of the "active denial" requirement provides direct precedent for treating algorithmic exclusion from opportunity as producing significant effects under Article 22.
 
 ### C. Democratic participation as similarly significant: the argument
 
@@ -532,6 +544,8 @@ The right to be heard must include the right not to be silenced by an algorithm.
 
 [^23]: DSB (Austria) Decision 2020-0.436.002 of 8 September 2020, ECLI:AT:DSB:2020:2020.0.436.002.
 
+[^23a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 of 2 June 2021.
+
 [^24]: Autoriteit Persoonsgegevens (Netherlands), 'Consultation on automated decision-making guidelines' (2025), developing similar framework.
 
 [^25]: See generally ReNEUAL, 'The Pan-European General Principles on Digitalisation of Public Administration' (2024).
@@ -561,6 +575,8 @@ The right to be heard must include the right not to be silenced by an algorithm.
 [^37]: ibid.
 
 [^38]: Deliveroo (n 11).
+
+[^38a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 (n 23a).
 
 [^39]: Charter of Fundamental Rights of the European Union [2012] OJ C326/391 art 11.
 
