@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+                "file": "Untitled 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHASE1-DOCUMENT-INVENTORY"
+              "title": "Untitled 12"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+                "file": "Untitled 12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PHASE1-DOCUMENT-INVENTORY"
+              "title": "Outline of Untitled 12"
             }
           },
           {
@@ -345,9 +345,10 @@
   },
   "active": "4da522579fdbb995",
   "lastOpenFiles": [
+    "Consumer AI throttling/01-Primary-Sources/Case-Law/CJEU/C-749-23 innogy Energie.md",
+    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
     "Prompt protection/00 Core/Topic mapping.md",
     "Prompt protection/00 Core/Topic Map - Detailed Arguments.md",
-    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
     "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
     "Consumer AI throttling/00-Project-Meta/Outline/00 Throttling outline.md",
     "Consumer AI throttling/README.md",
@@ -370,7 +371,6 @@
     "Untitled 6.md",
     "Untitled 7.md",
     "Untitled 8.md",
-    "Untitled 9.md",
     "Read later",
     "Untitled.base",
     "copy_article22_dpa_files.py",
