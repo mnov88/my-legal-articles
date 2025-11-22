@@ -2,7 +2,7 @@
 
 **Project:** Automated Decision-Making in Administrative Public Participation
 **Extraction Date:** 2025-11-22
-**RQs Completed:** RQ1
+**RQs Completed:** RQ1, RQ2
 **Total RQs:** 5
 
 ---
@@ -261,5 +261,252 @@
 - **Novel application:** No direct case law on AI filtering of public consultation submissions
 
 **Estimated readiness:** **Strong foundation** - Comprehensive doctrinal framework with specific citations. Ready for Phase 3 synthesis. Would benefit from additional case law if available on government algorithmic processing of citizen inputs.
+
+---
+
+## RQ2: Administrative Law Integration
+
+**Full Statement:** How do administrative procedure law protections—such as investigation duties, reasoning requirements, hearing rights, and appeal mechanisms—interact with GDPR Article 22 protections in the context of AI-assisted government decision-making? Do traditional administrative law safeguards provide broader, equivalent, or narrower protection than Article 22 in preventing algorithmic exclusion of consultation input?
+
+### Documents Analyzed for RQ2
+**Primary documents:** [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR Automated Decision-Making]], [[Hypotheticals case matrix]]
+**Supporting documents:** [[ADM-Taxonomy-Elements]], [[Unresolved issues to research]], [[Algorithmic Gatekeeping in the Public Sphere (Draft)]]
+
+---
+
+### Sub-Topics & Arguments
+
+**Sub-Topic 1: Cumulative/Layered Protection Framework**
+- **Main argument:** Multiple legal frameworks apply simultaneously to government algorithmic decision-making, creating cumulative rather than alternative protection. Article 22 operates within a broader ecosystem where ECHR Articles 6 & 8, EU Charter Articles 7-8 & 41, Aarhus Convention, and national administrative law all impose independent obligations. The most protective standard applies where frameworks overlap, and compliance with one framework does not exempt from others.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 8.4), [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** Four-layer regulatory hierarchy (Constitutional/Human Rights → Data Protection → Sectoral Regulation → AI Regulation), interaction principle analysis
+- **Relationship to other sub-topics:** Foundation for all other sub-topics; explains why RQ2 matters even if Article 22 doesn't apply
+
+**Sub-Topic 2: Article 22(2)(b) Legal Authorization Exception for Government Processing**
+- **Main argument:** Union or Member State law may authorize Article 22 processing, but such law must "lay down suitable measures to safeguard the data subject's rights and freedoms." This requires legislative acts specifically contemplating automated decision-making, not general grants of administrative authority. Scholarly debate exists on whether general administrative procedure laws suffice or whether specific ADM-contemplating provisions are required.
+- **Found in:** [[ADM-Taxonomy-Elements]], [[Article 22 GDPR Automated Decision-Making]], [[Unresolved issues to research]]
+- **Evidence used:** GDPR Article 22(2)(b), Recital 71 examples (fraud/tax evasion monitoring), Swedish scholarly debate, national legislative supplements
+- **Relationship to other sub-topics:** Defines when Article 22 prohibition doesn't apply to government; connects to Sub-Topic 3 (national approaches)
+
+**Sub-Topic 3: National Legislative Supplements for Government ADM**
+- **Main argument:** Member States have developed varied approaches to authorizing and constraining government automated decision-making. Some create specific frameworks (France's Article L. 311-3-1 for administrative automated decisions), others impose sector-specific requirements (Spain's Rider Law for algorithmic management), and still others maintain stricter standards than GDPR minimums (Belgium's absolute prohibition on discriminatory profiling based on special categories).
+- **Found in:** [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** Spanish Royal Decree Law 9/2021 (gig economy), French Code on Relations between Public and Administration Article L. 311-3-1, German BDSG Section 37, Belgian law on profiling
+- **Relationship to other sub-topics:** Provides concrete examples for Sub-Topic 2; relevant to RQ5 (comparative)
+
+**Sub-Topic 4: Gaps in Article 22 Protection Filled by Other Frameworks**
+- **Main argument:** Four critical gaps exist where Article 22 doesn't clearly apply but algorithmic harms occur: (1) meaningful human involvement gap—when humans nominally decide but lack effective capacity; (2) advisory systems gap—when processing influences but doesn't determine outcomes; (3) indirect/third-party effects gap—when individuals are affected by decisions about others; (4) collective harms gap—when systemic discrimination affects groups. Each gap is addressed by alternative frameworks.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 8.3)
+- **Evidence used:** Gap analysis with specific framework-to-gap matching: Article 41 EU Charter for Gap 1, GDPR general principles for Gap 2, Aarhus access to justice for Gap 3, EU AI Act for Gap 4
+- **Relationship to other sub-topics:** Core analysis showing admin law fills Article 22 gaps; connects to Sub-Topics 5-8
+
+**Sub-Topic 5: Right to Good Administration (Article 41 EU Charter)**
+- **Main argument:** Article 41 EU Charter establishes independent rights to have affairs handled impartially, fairly, and within reasonable time; to be heard before adverse measures; to access one's file; and to receive reasoned decisions. These apply when implementing EU law and may provide stronger protections than Article 22 because they focus on decision-making quality rather than automation specifically. Algorithmic filtering that prevents effective hearing or produces unreasoned decisions violates Article 41 regardless of Article 22 applicability.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 8.3), [[Article 22 GDPR Automated Decision-Making]]
+- **Evidence used:** EU Charter Article 41 text, right to good administration doctrine, application to Gap 1 (meaningful human involvement)
+- **Relationship to other sub-topics:** Primary admin law protection; complements Sub-Topic 6 (ECHR)
+
+**Sub-Topic 6: ECHR Articles 6 & 8 Applied to Algorithmic Decision-Making**
+- **Main argument:** ECtHR case law establishes procedural requirements for algorithmic evidence and data processing that operate independently of GDPR. Article 8 (private life) requires proportionality assessment for any personal data processing, with opacity shifting burden to government. Article 6 (fair trial) requires disclosure of algorithmic methodology, opportunity to challenge, individual assessment beyond system output, and reasoned judicial decisions. These principles apply even when Article 22's technical requirements aren't met.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Sections 7.1-7.2)
+- **Evidence used:** SyRI case (Article 8), Yüksel Yalçınkaya v. Turkey (Article 6), procedural fairness requirements
+- **Relationship to other sub-topics:** Human rights foundation; informs Sub-Topic 5 (Charter) and Sub-Topic 7 (procedural rights)
+
+**Sub-Topic 7: Right to Be Heard (Audi Alteram Partem) in Administrative Law**
+- **Main argument:** General EU administrative law principle requires that persons whose interests are affected by public authority decisions must have opportunity to state views. This predates GDPR and applies independently. National courts have applied this to algorithms, requiring "full upstream knowability" of algorithm and criteria, and ability to "effectively defend against possible errors." If citizens lack awareness their submissions were algorithmically filtered, they cannot effectively exercise right to be heard.
+- **Found in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.3)
+- **Evidence used:** Slovak Constitutional Court (eKasa, §133), Italian Higher Administrative Court (Altomare/C.P.), Dutch Council of State (SyRI)
+- **Relationship to other sub-topics:** National court operationalization of Sub-Topics 5-6; directly relevant to consultation filtering
+
+**Sub-Topic 8: Administrative Law Providing Clearer Protection Than Article 22**
+- **Main argument:** In certain scenarios, administrative law provides clearer protection than Article 22's contested scope. FOI requests are governed by transparency law obligations regardless of Article 22. Complaint triage is subject to investigation duties under administrative procedure law. Public procurement has specialized evaluation methodology rules. These sector-specific frameworks often impose stricter requirements than Article 22's general prohibition.
+- **Found in:** [[Hypotheticals case matrix]] (Administrative Law Interaction section)
+- **Evidence used:** Comparative analysis across FOI, complaints, procurement contexts; identification of where admin law exceeds Article 22
+- **Relationship to other sub-topics:** Demonstrates when Sub-Topics 5-7 provide superior protection
+
+**Sub-Topic 9: Article 22 Extending Beyond Administrative Law**
+- **Main argument:** In other scenarios, Article 22 provides protection beyond traditional administrative law. Sentiment analysis (evaluating tone-based differentiation) is rarely prohibited explicitly by admin law. Anomaly detection (pattern analysis) may not violate admin law unless demonstrably discriminatory. Article 22's prohibition on profiling-based decisions thus supplements administrative law in these areas.
+- **Found in:** [[Hypotheticals case matrix]] (Administrative Law Interaction section)
+- **Evidence used:** Analysis of sentiment analysis and anomaly detection scenarios where admin law lacks explicit prohibition
+- **Relationship to other sub-topics:** Shows complementary relationship between GDPR and admin law
+
+**Sub-Topic 10: Unresolved Question on Administrative Safeguards Adequacy**
+- **Main argument:** What satisfies "suitable measures to safeguard rights and freedoms" when Member State law authorizes automated administrative decisions under Article 22(2)(b)? It remains unclear whether existing administrative procedure rights (investigation duties, reasoning requirements, appeals) suffice, or whether additional data protection-specific safeguards are required. No guidance exists on whether general administrative powers constitute sufficiently "clear and precise" legal authorization for AI use.
+- **Found in:** [[Unresolved issues to research]] (Question 6)
+- **Evidence used:** Unresolved Issue 6 framing, Swedish scholarly debate reference
+- **Relationship to other sub-topics:** Key open question linking Sub-Topics 2-3 and 5-8
+
+---
+
+### Legal Sources for RQ2
+
+**EU Charter of Fundamental Rights**
+
+| Source | Article | Specific Provision | Used For | Found In |
+|--------|---------|-------------------|----------|----------|
+| EU Charter | Article 41 | Right to good administration: impartial, fair, reasonable time handling; right to be heard; access to file; reasoned decisions | Independent admin law protection beyond Article 22 | [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR ADM]] |
+| EU Charter | Articles 7-8 | Respect for private life; protection of personal data | Fundamental rights basis for GDPR | [[ADM-Taxonomy-Elements]] |
+
+**European Convention on Human Rights (ECtHR Case Law)**
+
+| Case | Citation | Key Holding | Used For | Found In |
+|------|----------|-------------|----------|----------|
+| SyRI (NJCM et al. v. Netherlands) | District Court of The Hague (5 Feb 2020) | Article 8 ECHR violated by algorithmic welfare fraud detection: (1) processing engaged Art. 8 rights, (2) Art. 8(2) legality/necessity/proportionality apply to algorithms, (3) opacity shifts burden to government, (4) discrimination risk requires safeguards, (5) interference "extensive and serious" despite no direct legal consequences | Article 8 proportionality for government algorithms | [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.1) |
+| Yüksel Yalçınkaya v. Turkey | ECtHR Grand Chamber (26 Sept 2023) | Article 6 violated by algorithmic evidence: (1) inadequate access to algorithmic evidence, (2) unable to challenge methodology, (3) courts failed to provide safeguards for effective challenge, (4) shortcomings "incompatible with very essence" of procedural rights, (5) uniform approach violated individual assessment requirement | Article 6 procedural rights for algorithmic evidence | [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.2) |
+
+**National Court Decisions on Administrative Algorithm Requirements**
+
+| Case | Jurisdiction | Key Holding | Used For | Found In |
+|------|--------------|-------------|----------|----------|
+| Slovak Constitutional Court (eKasa) | Slovakia | §133: Individual must have "knowledge about existence, scope and impact of automated assessment" to "effectively defend against possible errors" | Right to be heard requires algorithm awareness | [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.3) |
+| Italian Higher Administrative Court (Altomare/C.P.) | Italy | Required "full upstream knowability" of algorithm and criteria | Transparency of administrative algorithms | [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.3) |
+| Dutch Council of State (SyRI) | Netherlands | System must be "transparent and verifiable" | Verifiability requirement | [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.3) |
+
+**National Legislative Frameworks for Government ADM**
+
+| Source | Jurisdiction | Key Provision | Used For | Found In |
+|--------|--------------|---------------|----------|----------|
+| Royal Decree Law 9/2021 | Spain | Creates specific obligations for gig economy algorithmic management; requires worker representatives informed about algorithms and AI use | Sector-specific ADM authorization with safeguards | [[Article 22 GDPR ADM]] |
+| Article L. 311-3-1 Code on Relations between Public and Administration | France | Establishes specific regime for administrative automated decisions; requires controllers ensure algorithmic processing is under control; mandates detailed, intelligible explanations | Framework for administrative ADM | [[Article 22 GDPR ADM]] |
+| BDSG Section 37 | Germany | Contains specific provisions for automated decisions in employment and insurance contexts | Employment/insurance ADM authorization | [[Article 22 GDPR ADM]] |
+| Profiling prohibition | Belgium | Absolute prohibition on profiling leading to discrimination based on special categories (exceeds GDPR minimum) | Stricter-than-GDPR national standard | [[Article 22 GDPR ADM]] |
+
+**International/Treaty Law**
+
+| Source | Article | Specific Provision | Used For | Found In |
+|--------|---------|-------------------|----------|----------|
+| Aarhus Convention (1998) | Article 6 | Decisions on specific activities: public informed "early in decision-making when all options are open"; "genuine opportunity to participate effectively"; authorities "take due account of outcome"; public informed how "participation was taken into consideration" | Environmental participation rights | [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.4) |
+| Directive 2003/35/EC | General | Public Participation Directive implementing Aarhus in EU | EU implementation of Aarhus | [[Article 22 GDPR ADM]] |
+
+**GDPR Provisions (Admin Law Interaction)**
+
+| Source | Article | Specific Provision | Used For | Found In |
+|--------|---------|-------------------|----------|----------|
+| GDPR | Article 22(2)(b) | Exception: authorized by Union/Member State law "which also lays down suitable measures to safeguard the data subject's rights" | Legal authorization for government ADM | [[ADM-Taxonomy-Elements]], [[Article 22 GDPR ADM]] |
+| GDPR | Article 5(1)(a) | Fairness principle | Protection when Article 22 thresholds not met (SyRI approach) | [[Article 22 GDPR ADM]] |
+| GDPR | Article 21 | Right to object | Alternative protection for algorithmic processing | [[Article 22 GDPR ADM]] |
+| GDPR | Article 35 | DPIA requirement for high-risk processing | Systemic governance for government ADM | [[Article 22 GDPR ADM]] |
+
+---
+
+### Secondary Sources for RQ2
+
+*RQ2 is primarily doctrinal—limited secondary sources beyond those cited in RQ1.*
+
+| Source | Author(s) | Key Concept | Used For | Found In |
+|--------|-----------|-------------|----------|----------|
+| Aza (2024) | Aza | "Given imbalance of power in employment relationship, consent is not suitable legal ground for automated decision-making in algorithmic management" | Power imbalances in government/employment contexts | [[Article 22 GDPR ADM]] |
+
+---
+
+### Empirical Evidence & Data for RQ2
+
+**National DPA/Court Enforcement Examples:**
+
+| Case | Jurisdiction | Outcome | Relevance to RQ2 | Found In |
+|------|--------------|---------|------------------|----------|
+| SyRI welfare fraud detection | Netherlands | System struck down under Article 8 ECHR; fairness principles applied despite no explicit Article 22 violation | Admin/human rights law fills Article 22 gaps | [[Algorithmic Gatekeeping in Administrative Consultations]], [[Article 22 GDPR ADM]] |
+| Berlin DPA €300k case | Germany | Bank required to explain decision-making factors in individual cases | Meaningful explanation in admin context | [[Article 22 GDPR ADM]] |
+| Deliveroo rider management | Italy | €2.5M fine; algorithmic ranking without human override violated GDPR | Employment/gig economy algorithmic governance | [[Article 22 GDPR ADM]] |
+
+**Real-World Scenario Analysis:**
+- FOI Requests: Transparency law obligations apply regardless of Article 22 - Analyzed in: [[Hypotheticals case matrix]]
+- Complaint Triage: Investigation duties under administrative procedure law - Analyzed in: [[Hypotheticals case matrix]]
+- Public Procurement: Specialized procurement law on evaluation methodology - Analyzed in: [[Hypotheticals case matrix]]
+- Regulatory Inspection Selection: Enforcement context heightens significance - Analyzed in: [[Hypotheticals case matrix]]
+
+---
+
+### Key Tests, Frameworks & Standards for RQ2
+
+**1. Four-Layer Regulatory Hierarchy**
+- **Established by:** Synthesis in [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 8.4)
+- **Definition:** Cumulative framework showing how different legal layers interact
+- **Layers:**
+  1. **Constitutional/Human Rights:** ECHR Articles 6 & 8, EU Charter Articles 7-8 & 41—baseline rights applying to all government processing; interpretive framework for specific laws
+  2. **Data Protection:** GDPR Articles 5 (principles), 13-15 (information rights), 22 (ADM prohibition)—lex specialis within broader human rights framework
+  3. **Sectoral Regulation:** Aarhus Convention for environmental decisions; Digital Services Act for platforms—additional to GDPR
+  4. **Future AI Regulation:** EU AI Act classifies government AI affecting fundamental rights as "high-risk"—operates alongside GDPR
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]]
+- **Application & Conclusion:** The awarding authority in the consultation scenario must comply with all layers simultaneously—GDPR, Aarhus, ECHR/Charter, national admin law, and (when applicable) AI Act. Cumulative obligations exceed any single framework.
+
+**2. Four-Gap Framework (Article 22 Limitations)**
+- **Established by:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 8.3)
+- **Definition:** Identifies where Article 22 doesn't clearly apply and what fills each gap
+- **Gaps and Fills:**
+  1. **Meaningful human involvement gap:** Article 41 EU Charter (right to good administration), national admin procedure law
+  2. **Advisory systems gap:** GDPR general principles (Articles 5, 13-15), Article 8 ECHR (proportionality)
+  3. **Indirect/third-party effects gap:** Administrative law standing, Aarhus access to justice
+  4. **Collective harms gap:** Article 21 GDPR (right to object), non-discrimination law, DPIAs (Article 35), EU AI Act
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]]
+- **Application & Conclusion:** For consultation filtering where Article 22 may not apply, Protection 1 (Aarhus—participation rights), Protection 2 (Article 8 ECHR—proportionality), Protection 3 (Article 41—right to be heard), Protection 4 (GDPR Articles 5, 13-15—transparency), and Protection 5 (national admin law—procedural fairness) create comprehensive protection.
+
+**3. Article 8 ECHR Proportionality Test (SyRI Framework)**
+- **Established by:** SyRI case, District Court of The Hague (5 Feb 2020)
+- **Definition:** Proportionality assessment for government algorithmic processing under ECHR Article 8
+- **Elements/Criteria:**
+  1. Processing engages Article 8 rights (private life/data protection)
+  2. Article 8(2) requirements apply: legality, necessity, proportionality
+  3. Opacity shifts burden to government to prove compliance
+  4. Risk of discriminatory effects requires safeguards
+  5. Interference can be "extensive and serious" even without direct legal consequences
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]]
+- **Application & Conclusion:** Even if consultation filtering falls outside Article 22's technical scope, Article 8 ECHR requires proportionality and transparency. Algorithmic omission of citizen input without disclosure violates Article 8(2).
+
+**4. Article 6 ECHR Algorithmic Evidence Requirements (Yüksel Yalçınkaya Framework)**
+- **Established by:** Yüksel Yalçınkaya v. Turkey, ECtHR Grand Chamber (26 Sept 2023)
+- **Definition:** Procedural requirements when algorithmic evidence affects civil/criminal proceedings
+- **Elements/Criteria:**
+  1. Disclosure of algorithmic methodology
+  2. Opportunity to challenge methodology
+  3. Individual assessment beyond system output
+  4. Reasoned judicial decisions explaining how algorithmic evidence was considered
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]]
+- **Application & Conclusion:** If environmental decisions engage "civil rights" under Article 6, citizens must understand what evidence decision-makers considered, challenge algorithmic filtering methodology, and receive reasoned decisions explaining how participation was considered.
+
+**5. Aarhus Convention Participation Requirements**
+- **Established by:** UNECE Aarhus Convention (1998), Article 6
+- **Definition:** Specific procedural standards for public participation in environmental decisions
+- **Elements/Criteria:**
+  1. Public informed "early in decision-making when all options are open"
+  2. "Genuine opportunity to participate effectively"
+  3. Authorities must "take due account of the outcome"
+  4. Public informed of decisions and "how participation was taken into consideration"
+- **Applied in:** [[Algorithmic Gatekeeping in Administrative Consultations]] (Section 7.4)
+- **Application & Conclusion:** Algorithmic filtering of consultation inputs potentially violates multiple Aarhus requirements: if filtering not disclosed, public lacks information about process; if filtering removes substantive input, participation not "effective"; if authority unaware of filtered submissions, cannot "take due account"; if decisions don't explain filtering's role, explanation requirement violated.
+
+---
+
+### RQ2 Extraction Summary
+
+**Coverage strength:**
+- **Well-developed sub-topics:**
+  - Four-layer regulatory hierarchy showing cumulative protection
+  - Gap analysis identifying where admin law fills Article 22 limitations
+  - ECtHR precedents (SyRI, Yüksel Yalçınkaya) with specific holdings
+  - National court decisions on administrative algorithm requirements
+  - Aarhus Convention application to environmental consultations
+
+- **Under-developed areas:**
+  - Detailed comparative analysis of each Member State's administrative procedure law
+  - Specific standards for what satisfies Article 22(2)(b) "suitable safeguards"
+  - How courts should resolve conflicts between GDPR and admin law standards
+
+- **Source depth:** Strong ECtHR case law (SyRI, Yüksel Yalçınkaya) with specific holdings. National court decisions (Slovak, Italian, Dutch) provide concrete examples. EU Charter Article 41 provides doctrinal foundation. National legislative frameworks (Spain, France, Germany, Belgium) show varied approaches. Aarhus Convention provides specific environmental participation standards.
+
+**Key findings:**
+- Administrative law provides independent, often stronger protection than Article 22 alone
+- Cumulative application means most protective standard applies where frameworks overlap
+- Four identified gaps in Article 22 are each filled by specific alternative frameworks
+- Right to be heard (audi alteram partem) may be most directly relevant to consultation filtering
+- Aarhus Convention provides specific, binding requirements for environmental participation
+
+**Gaps or questions:**
+- What satisfies "suitable safeguards" under Article 22(2)(b) for government ADM?
+- Do general administrative procedure laws authorize government ADM, or are specific provisions required?
+- How should courts balance GDPR-specific requirements against broader admin law principles?
+- Does the "right to be heard" require awareness of algorithmic filtering?
+
+**Estimated readiness:** **Adequate foundation** - Good doctrinal framework with key cases and principles identified. Would benefit from more detailed Member State comparative analysis for RQ5 integration. Aarhus analysis is strongest for environmental context; less developed for non-environmental government ADM.
 
 ---
