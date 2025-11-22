@@ -23,42 +23,174 @@ Read each file completely before making claims about its contents. Never specula
 
 ---
 
-## Step 0: RQ Validation (Preliminary Check)
+## Step 1: Extract Research Questions
 
-**Purpose:** Ensure README research questions align with actual document content before full inventory.
+Read the README and extract the project's research questions. If not explicitly numbered, infer them from project structure.
 
-### Task 0.1: Extract README RQs
-Read `/00-Project-Meta/README.md` and extract stated research questions.
+**Begin your output with:**
+```markdown
+## Research Questions Identified
+**Source:** [README explicit / inferred from outline]
 
-**Check for these signals:**
-- README explicitly says "outdated", "to be updated", "preliminary", or similar
-- RQs are vague placeholders like "TBD" or "To be refined"
-- Project description suggests different focus than RQs state
-- Outline (if present) doesn't align with RQs
+**RQ1:** [Exact phrasing]
+**RQ2:** [Exact phrasing]
+...
+```
 
-### Task 0.2: Quick Document Scan
-**Do a scan (not deep read) of 5-10 major documents** in analysis folders to identify:
-- Major themes being discussed
-- Key legal questions being addressed
-- Primary arguments being made
+---
 
-### Task 0.3: Compare and Assess
+## Step 2: Analyze All Documents
 
-**Compare README RQs with document themes.**
+**Read all documents in:**
+- `/02-Analysis-Legal/` (all subfolders)
+- `/03-Analysis-[Domain]/` (if exists, all subfolders)
 
-**If alignment is good:**
-- README RQs match what documents actually discuss
-- No major themes in documents missing from RQs
-- → Proceed directly to Step 1
+**For each document, record:**
+- Filename and location (relative path)
+- Document type (use DOCUMENT-TYPE-GUIDE categories)
+- Length: short (<1000 words), medium (1000-5000), long (>5000)
+- Primary RQ (which RQ is the main focus)
+- Secondary RQs (others substantially addressed)
+- Summary: 3-4 sentences on what it does, its contribution, and what makes it distinctive
 
-**If misalignment detected:**
-- README RQs don't capture what documents discuss
-- Documents address major questions not in RQ list
-- RQs seem outdated relative to document content
-- → Generate RQ validation report and STOP
+**Summary quality:** Be specific about contributions, not just topics. "Provides comprehensive doctrinal analysis applying EU consumer protection law to AI pricing, arguing vague multipliers violate UCPD/CRD/UCTD through mathematical impossibility framing" not "Discusses AI and consumer law."
 
-### Task 0.4: RQ Validation Report (only if misalignment detected)
+---
 
-**Create:** `/06-Index-Files/PHASE1-RQ-VALIDATION-REPORT.md`
+## Step 3: Create Inventory Document
 
+**Create:** `/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md`
+```markdown
+# Phase 1: Document Inventory & Initial RQ Mapping
+**Completed:** [Date]
+**Project:** [Name from README]
 
+---
+
+## Research Questions Identified
+[Your RQ extraction]
+
+---
+
+## Summary Statistics
+- Total documents analyzed: [N]
+- Document types: [list with counts]
+- Documents by length: Short [N], Medium [N], Long [N]
+- Documents per RQ: RQ1: [N] primary/[N] secondary [continue for all]
+
+---
+
+## Documents by RQ Assignment
+
+### RQ1: [Full RQ statement]
+
+#### Primary Documents (main focus on RQ1):
+**[[Document Name]]**
+- Location: `/path/to/file`
+- Type: [type]
+- Length: [short/medium/long]
+- Also addresses: [other RQs if any]
+- Summary: [3-4 sentences]
+
+[Repeat for all]
+
+#### Supporting Documents (partially addresses RQ1):
+**[[Document Name]]**
+- Location: `/path/to/file`
+- Type: [type]
+- Primary RQ: [N]
+- How it supports RQ1: [1-2 sentences]
+
+---
+
+[Repeat structure for all RQs]
+
+---
+
+## Documents That Don't Clearly Map to RQs
+[List with explanations, or state "All documents successfully mapped"]
+
+---
+
+## Analysis & Observations
+
+### Coverage Patterns
+**Strengths by RQ:** [Which RQs are well-supported]
+**Gaps by RQ:** [Which RQs need more work]
+**Document type distribution:** [Patterns observed]
+
+### Cross-Cutting Documents
+[Documents addressing 3+ RQs substantially - these are integrative pieces]
+
+### Questions for Phase 2
+- Which RQs need intensive source extraction?
+- What ambiguities need resolving?
+- Which RQ to start with?
+
+---
+
+## Recommendations for Human Review
+[Priority items to verify before Phase 2]
+
+---
+
+## Ready for Phase 2
+Recommend starting with: [RQ number - typically the one with most legal sources]
+```
+
+---
+
+## Step 4 (Optional): Structure Maps for Long Documents
+
+**For documents marked "long" (>1500 words):**
+
+Create a structure map showing heading hierarchy. This helps Phase 2 understand document organization without re-reading entire files.
+
+**Create:** `/06-Index-Files/PHASE1-STRUCTURE-MAPS.md`
+```markdown
+# Structure Maps for Long Documents
+
+**Purpose:** Heading-level overviews of long documents (>5000 words) to facilitate Phase 2 extraction
+
+---
+
+## [Document Name]
+**Location:** `/path/to/file`
+**Estimated length:** [words/pages]
+
+### Document Structure:
+# Main Title
+## Section 1
+### Subsection 1.1
+### Subsection 1.2
+## Section 2
+### Subsection 2.1
+...
+
+[Extract only markdown heading lines: #, ##, ###, ####]
+[Preserve heading hierarchy]
+[Do not include any body text]
+
+---
+
+[Repeat for each long document]
+```
+
+**Only create this file if you have documents >15000 words. If all documents are short, skip this step.**
+
+---
+
+## Quality Criteria
+
+<success_criteria>
+- Every analysis document is listed with accurate RQ assignment
+- Summaries reflect actual document content (verified by reading)
+- Uncertainties are flagged
+- Clear foundation created for Phase 2
+</success_criteria>
+
+---
+
+## When Complete
+
+Present the inventory, highlight key findings, suggest which RQ to start Phase 2 with, and stop. Wait for researcher review before Phase 2.
