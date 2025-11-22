@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 12"
+              "title": "PHASE1-DOCUMENT-INVENTORY"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 12.md",
+                "file": "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 12"
+              "title": "Outline of PHASE1-DOCUMENT-INVENTORY"
             }
           },
           {
@@ -345,11 +345,17 @@
   },
   "active": "4da522579fdbb995",
   "lastOpenFiles": [
+    "Prompt protection/00 Core/Topic mapping.md",
+    "Prompt protection/00 Core/Topic Map - Detailed Arguments.md",
+    "Consumer AI throttling/06-Index-Files/PHASE1-DOCUMENT-INVENTORY.md",
+    "Consumer AI throttling/00-Project-Meta/Research Questions Framework.md",
+    "Consumer AI throttling/00-Project-Meta/Outline/00 Throttling outline.md",
+    "Consumer AI throttling/README.md",
+    "Untitled 12.md",
     "AGENTS.md",
     "Prompting/Style new.md",
     "Prompting/Sources.md",
     "Prompting/Deep research for a full manuscript.md",
-    "Untitled 12.md",
     "Pedagogics/Another draft.md",
     "Untitled 1.md",
     "style.md",
@@ -365,13 +371,7 @@
     "Untitled 7.md",
     "Untitled 8.md",
     "Untitled 9.md",
-    "Untitled 10.md",
-    "Untitled 11.md",
-    "Untitled 13.md",
-    "Read later/Lucchi - Generative AI and Copyright.md",
     "Read later",
-    "Automated decisions/Hypotheticals case matrix.md",
-    "Untitled 15.md",
     "Untitled.base",
     "copy_article22_dpa_files.py",
     "Automated decisions/DPAs",
