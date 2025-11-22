@@ -295,3 +295,258 @@ Rome II Article 5 creates a cascade for product liability favouring the injured 
 [^47]: ibid art 5(1)(a).
 
 For multi-regulatory claims, no solution exists in the current framework. Courts must navigate dépeçage, applying different laws to different aspects of the same dispute. Rome II Article 4(3)'s escape clause could theoretically consolidate applicable laws by finding a "manifestly closer connection" with a single country, but the Court of Justice interprets this narrowly. The pre-existing contractual relationship between platform and user — the Terms of Service — might justify applying the contract's governing law to related torts, but this is uncertain for statutory claims like DSA Article 54 that exist independently of contractual obligations.
+
+
+## 4. Joinder and multi-regulatory claims
+
+### 4.1 The structural problem of overlapping regimes
+
+Digital platform regulation operates through multiple overlapping instruments. A single platform decision may breach the DSA, GDPR, Copyright Directive, Platform-to-Business Regulation, Product Liability Directive, Unfair Commercial Practices Directive, and — as implementation progresses — the AI Act.[^48] The applicable instrument depends on the nature of the platform's conduct and the claimant's status.
+
+[^48]: Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (AI Act) [2024] OJ L252/1.
+
+Each instrument carries distinct PIL characteristics.
+
+The DSA contains no autonomous PIL rules. It defers to Brussels I bis and Rome II through Article 2(2)(h) and Recital 126.
+
+The GDPR contains an autonomous jurisdiction rule in Article 79(2) — habitual residence of the data subject — but relies on Rome II for applicable law. The substantive compensation right under Article 82 is directly applicable and uniform.
+
+The Copyright Directive relies on Brussels I bis Article 7(2) for jurisdiction and Rome II Article 8 for applicable law, with lex loci protectionis producing territorial fragmentation.
+
+The Platform-to-Business Regulation contains no PIL rules and no explicit compensation mechanism.[^49] Business users must rely on national contract or tort law, accessing Brussels I bis and Rome I or Rome II depending on characterisation. Article 12 imposes mandatory mediation requirements that may affect procedural timing.
+
+[^49]: Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services [2019] OJ L186/57, art 12.
+
+The Product Liability Directive — in its revised 2024 form — relies on Brussels I bis for jurisdiction and Rome II Article 5 for applicable law.[^50] Article 8 extends liability to online platforms that present products "in a way that leads the consumer to believe that the product is provided either by the online platform itself or by a trader acting under its authority or control."[^51]
+
+[^50]: Directive (EU) 2024/2853 of the European Parliament and of the Council of 23 October 2024 on liability for defective products [2024] OJ L2024/2853.
+
+[^51]: ibid art 8(1).
+
+This fragmentation means claimants must conduct separate PIL analysis for each legal basis, even when all claims arise from identical facts.
+
+
+### 4.2 Scenario analysis
+
+Four scenarios illustrate the PIL complexity of multi-regulatory claims.
+
+**Account suspension based on automated profiling.** A platform suspends a user's account based on automated analysis of posting patterns. The user has claims under DSA Article 14 (content moderation duties), DSA Article 20 (statement of reasons), GDPR Article 22 (automated decision-making), and GDPR Article 82 (compensation).
+
+For jurisdiction, GDPR Article 79(2) provides habitual residence for GDPR claims. DSA claims require Brussels I bis analysis — Article 7(2) may provide jurisdiction at the place of damage, but without Article 79(2)'s explicit authorisation. Consumer jurisdiction under Articles 17-19 may apply if the user qualifies and claims can be characterised as contractual.
+
+For applicable law, Rome II Article 4(1) lex loci damni governs the DSA claim — the user's residence. GDPR is directly applicable; remedial law follows the user's residence. In this scenario, applicable laws likely converge on a single national system.
+
+For joinder, the claims are factually identical but arise under different legal bases. Brussels I bis Article 8(1) addresses multiple defendants, not multiple claims against one defendant. No explicit rule consolidates multi-basis claims. Courts likely hear related claims together under general procedural economy principles, but this is national procedural law, not harmonised EU PIL.
+
+The key tension is doctrinal asymmetry. GDPR Article 82 case law provides favourable features: reversed burden of proof (the controller must prove it was "not in any way responsible"), no de minimis threshold for damage.[^52] DSA Article 54 has no equivalent case law; compensation follows national tort standards. Claimants have incentives to frame claims primarily as GDPR violations to access these favourable doctrines, even when the DSA framework is the more natural fit.
+
+[^52]: Österreichische Post (n 44) paras 32, 42.
+
+**Content removal by automated filter.** A platform's automated filter removes user-uploaded content. The user claims DSA Article 14 violation (content moderation duties, including fundamental rights balancing) and Copyright Directive Article 17(9) violation (safeguards for lawful content).
+
+For jurisdiction, Brussels I bis Article 7(2) applies to both. The place of damage is the user's location. Copyright case law allows jurisdiction wherever content was accessible — potentially expansive under Pinckney and Hejduk.
+
+For applicable law, DSA claims follow Rome II Article 4(1) — lex loci damni at the user's residence. Copyright claims follow Rome II Article 8 — lex loci protectionis, potentially fragmenting into multiple national copyright laws if protection is claimed across jurisdictions.
+
+The claims may present conflicting characterisations. The platform's defence to the copyright claim — that it acted to prevent infringement — is the basis for the DSA claim — that it removed lawful content without proper safeguards. A court must determine whether removal was copyright-compliant but DSA-violating. This is analytically coherent — a removal can be substantively justified under copyright law but procedurally flawed under DSA — but requires careful separation of legal frameworks applied to the same facts.
+
+**Business user suspension from marketplace.** An online marketplace suspends a business seller's account for alleged policy violations. The seller has claims under DSA Article 20 (statement of reasons), P2B Regulation Article 4 (restriction and termination procedures), and breach of contract (Terms of Service).
+
+For jurisdiction, no special rules apply. Brussels I bis Article 4 (defendant's domicile), Article 7(1) (place of contract performance), or Article 7(2) (place of tort) are available. The business user cannot invoke consumer jurisdiction under Articles 17-19.
+
+For applicable law, the contract claim follows Rome I — Article 4(1)(b) points to the service provider's habitual residence (the platform's establishment) unless manifestly more closely connected elsewhere.[^53] The DSA and P2B tort claims follow Rome II Article 4(1) — lex loci damni at the seller's location.
+
+[^53]: Regulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I) [2008] OJ L177/6, art 4(1)(b).
+
+Applicable law may diverge. The contract claim is governed by Irish law (platform's establishment); DSA and P2B tort claims are governed by the seller's national law (say, Italian law). The court applies two legal systems to the same suspension decision. Irish contract law may permit the suspension under the Terms of Service; Italian tort law may find a DSA violation in the inadequate statement of reasons. Contract and tort standards can legitimately diverge, but the practical complexity is considerable.
+
+**Defective product sold via marketplace.** A consumer purchases a smart device via a platform. The device malfunctions, causing personal injury and a data breach exposing sensitive information. The consumer has claims under DSA Article 6(5) (platform presenting itself as provider), the Product Liability Directive (defective product), and GDPR Article 82 (data breach).
+
+For jurisdiction, GDPR Article 79(2) provides habitual residence for the data breach claim. Product liability and DSA claims follow Brussels I bis Article 7(2) — the place of damage is likely the consumer's residence. All bases point to the same forum.
+
+For applicable law, product liability follows Rome II Article 5 — a cascade favouring the consumer's habitual residence if the product was marketed there.[^54] DSA follows Rome II Article 4(1) — lex loci damni at the consumer's residence. GDPR is directly applicable; remedial law follows the consumer's residence. Applicable laws converge.
+
+[^54]: Rome II (n 28) art 5(1)(a).
+
+Multiple defendants are possible — the manufacturer and the platform. Brussels I bis Article 8(1) permits joinder if claims are "closely connected." Under CDC Hydrogen Peroxide, claims arising from the same harm against parties in the same supply chain can be joined.[^55] The product caused both physical injury and data breach; claims against manufacturer and platform are connected.
+
+[^55]: CDC Hydrogen Peroxide (n 26) para 21.
+
+Liability allocation presents complexity. The manufacturer is liable for product defect; the platform is potentially liable under DSA Article 6(5) and as a data controller. Contribution and indemnification between defendants is governed by Rome II Article 20 — "the law applicable to that debtor's non-contractual obligation towards the creditor."[^56] If different applicable laws govern each defendant's obligation, different laws govern contribution.
+
+[^56]: Rome II (n 28) art 20.
+
+
+### 4.3 Brussels I bis Article 8(1) and its limits
+
+Article 8(1) permits suing multiple defendants at the domicile of any one "provided the claims are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings."[^57]
+
+[^57]: Brussels I bis (n 5) art 8(1).
+
+The Court of Justice has established parameters for this connection requirement.
+
+In CDC Hydrogen Peroxide, the Court applied a liberal standard for competition damages. Claims against multiple cartel members share the "same situation of fact and law" — participation in the cartel.[^58] Different national laws implementing Article 101 TFEU do not defeat connection because the underlying EU prohibition is uniform. The Court rejected arguments that connection requires identical applicable laws; factual connection to the same anticompetitive conduct suffices.
+
+[^58]: CDC Hydrogen Peroxide (n 26) para 21.
+
+By analogy, claims against multiple platforms for coordinated DSA violations — a joint content moderation policy, shared algorithmic systems, concerted approaches to notice-and-action — could be joined. The DSA creates uniform EU obligations; different national tort laws implementing compensation do not defeat the "same situation of law" where the underlying regulatory breach is identical.
+
+In Roche Nederland, the Court applied a restrictive standard for intellectual property. Claims for infringement of parallel national patents — the same invention protected under different national laws — are not sufficiently connected because "the patent proprietor's right can only be infringed as a result of its national character."[^59] Territorially distinct rights governed by different national laws lack the "same situation of law."
+
+[^59]: Case C-539/03 Roche Nederland BV v Primus [2006] ECR I-6535, para 30.
+
+By analogy, claims under territorially fragmented regimes — copyright lex loci protectionis across multiple Member States — may not be joinable. But DSA claims differ from patent claims: the DSA creates a uniform EU obligation, not territorially distinct national rights. Roche's restrictive approach may not apply.
+
+In Freeport, the Court held that different legal bases — contract and tort — do not preclude joinder if claims are factually connected.[^60] The test is connection, not identity of legal framework. A claim in contract against one defendant and a claim in tort against another arising from the same transaction can be joined.
+
+[^60]: Case C-98/06 Freeport plc v Arnoldsson [2007] ECR I-8319, para 40.
+
+By analogy, DSA tort claims and contractual claims against the same platform for the same conduct could be joined under Article 8(1) — if multiple defendants were involved. But the provision addresses multiple defendants. It does not explicitly address multiple claims under different legal bases against a single defendant. Such consolidation depends on national procedural law.
+
+
+### 4.4 Article 30 and parallel proceedings
+
+When related claims are brought separately in different Member States, Article 30 provides coordination mechanisms.
+
+Article 30(1) allows courts other than the court first seised to stay proceedings where related actions are pending elsewhere. Article 30(2) allows later courts to decline jurisdiction if the court first seised can consolidate the actions. Article 30(3) defines "related" actions using the same "closely connected" test as Article 8(1) — expedient to hear together to avoid irreconcilable judgments.[^61]
+
+[^61]: Brussels I bis (n 5) art 30.
+
+Consider a user who brings a GDPR claim in France under Article 79(2) and, separately, a DSA claim in Ireland under Article 4. The claims arise from identical facts — the same platform decision. Under Article 30(3), they are "related."
+
+The French court could stay the GDPR proceedings pending the Irish DSA proceeding. The Irish court could stay the DSA proceedings pending the French GDPR proceeding. But this requires a party — typically the defendant — to invoke Article 30.
+
+A structural problem emerges. Article 30(2) allows declining jurisdiction only "if the court first seised has jurisdiction over the actions in question."[^62] If the Irish court lacks GDPR Article 79(2) jurisdiction (which is specific to data protection claims before courts where the data subject resides), and the French court lacks Brussels I bis basis for the DSA claim (which may require consumer characterisation or personality rights framing), neither court can consolidate both claims.
+
+[^62]: ibid art 30(2).
+
+Parallel proceedings continue. The French court adjudicates the GDPR claim under French implementation of GDPR and French remedial law. The Irish court adjudicates the DSA claim under Irish tort law. Two courts apply different legal frameworks to the same facts, potentially reaching divergent conclusions on related questions — whether the platform's conduct was justified, whether the user suffered compensable harm, how damages should be calculated.
+
+This is not formally irreconcilable — GDPR and DSA claims have different elements — but it produces practical incoherence and duplicative litigation.
+
+
+### 4.5 Collective redress
+
+The Representative Actions Directive allows qualified entities to bring representative actions for violations of listed EU instruments, including the DSA.[^63] DSA Article 86 confirms that representative actions "may be brought before national courts or administrative authorities."[^64]
+
+[^63]: Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers [2020] OJ L409/1, annex I.
+
+[^64]: DSA (n 1) art 86.
+
+A qualified entity representing users harmed by platform conduct could bring multi-basis collective claims: DSA violations (inadequate content moderation), GDPR violations (unlawful profiling), UCPD violations (dark patterns). The RAD permits this aggregation of claims.
+
+But the RAD contains no PIL rules.
+
+For jurisdiction, qualified entities face structural obstacles. They are not consumers — they cannot invoke the protective jurisdiction of Articles 17-19 Brussels I bis. They are not data subjects in their own right — they cannot invoke GDPR Article 79(2); they represent data subjects but do not themselves have data subject status.
+
+Qualified entities must establish jurisdiction under Article 4 (defendant's domicile) or Article 7(2) (place of damage).
+
+For EU-wide collective claims, Article 7(2) fragments under the mosaic approach. Each Member State court has jurisdiction only for damage occurring in its territory. A qualified entity representing users from fifteen Member States cannot bring a single claim in any one of those states for all damage. Only Article 4 — defendant's domicile — provides jurisdiction for the entirety of EU-wide damage.
+
+All roads lead to Ireland.
+
+For applicable law, even if jurisdictional consolidation succeeds, Rome II fragments the substantive analysis. A qualified entity representing users from fifteen Member States must prove DSA violations under fifteen different national tort laws. Each national law may have different standards for breach, causation, damage, and limitation periods.
+
+GDPR claims are easier — the substantive right under Article 82 is uniform. But DSA claims follow lex loci damni, producing fifteen different applicable laws for the same platform breach.
+
+The Commission proposal for the RAD did not address PIL.[^65] The final Directive omitted it. Collective redress for multi-regulatory platform violations thus faces structural PIL obstacles that neither the RAD nor the DSA resolves.
+
+[^65]: Commission, 'Proposal for a Directive of the European Parliament and of the Council on representative actions for the protection of the collective interests of consumers' COM(2018) 184 final.
+
+
+### 4.6 The characterisation problem
+
+When the same platform act can be characterised under multiple regulatory frameworks, the characterisation controls PIL outcomes.
+
+A platform removes content based on automated analysis. This can be characterised as content moderation under the DSA (triggering Rome II Article 4), automated decision-making under GDPR (triggering Rome II Article 4 plus uniform GDPR standards), copyright enforcement under the Copyright Directive (triggering Rome II Article 8), unfair commercial practice if deceptive interfaces were involved (triggering Rome II Article 6), or personality rights violation if reputational harm resulted (falling outside Rome II under Article 1(2)(g)).
+
+Each characterisation produces different PIL outcomes. The "same" claim — compensation for wrongful content removal — can be governed by the user's residence law under Article 4, copyright lex loci protectionis under Article 8, market-affected law under Article 6, or unharmonised national PIL rules for personality rights.
+
+The court seised determines characterisation. Characterisation is governed by the lex fori — the procedural law of the forum. Different courts may characterise identically-pleaded claims differently. A French court may characterise a claim as primarily concerning personality rights; a German court may characterise the same facts as primarily content moderation.
+
+Claimants can frame claims to achieve preferred characterisation. Emphasising reputational harm invokes personality rights framing — potentially accessing more favourable national PIL rules or substantive standards. Emphasising automated processing invokes GDPR framing — accessing Article 79(2) jurisdiction and Article 82's reversed burden of proof. Emphasising content moderation invokes DSA framing — with clearer regulatory standards but less developed case law on compensation.
+
+This is not abuse of process but structural incentive. Rational claimants optimise across available frameworks. The result is forum and characterisation shopping that produces inconsistent PIL treatment of functionally identical disputes.
+
+
+## 5. Synthesis
+
+### 5.1 The structural mismatch
+
+General PIL connecting factors presuppose territorial disputes — a tort with identifiable location, parties in different jurisdictions, courts with proximity advantages justifying departure from the defendant's domicile.
+
+The DSA regulates ubiquitous digital services. Platforms operate from single establishments — typically Ireland or Luxembourg — while providing services to recipients across all Member States simultaneously. Algorithmic decisions affect millions of users at once. Content moderation policies apply uniformly across the service. Risk assessments and mitigation measures are centralised.
+
+The connecting factors do not fit this configuration.
+
+Defendant's domicile under Article 4 Brussels I bis creates concentrated jurisdiction in Ireland. For claims that do not qualify for special jurisdiction — business users, legal persons, claims not framed as consumer contracts or personality rights violations — Ireland is the only forum for full-damage recovery.
+
+Place of damage under Article 7(2) Brussels I bis and Article 4(1) Rome II creates fragmentation. A platform's single policy breach causes damage in twenty-seven Member States simultaneously. Each recipient's claim is governed by their local tort law under Rome II. Each court under the mosaic approach has jurisdiction only for local damage under Brussels I bis.
+
+Consumer jurisdiction under Articles 17-19 Brussels I bis is available only to natural persons acting outside their trade or profession, whose claims can be characterised as relating to a contract. Business users and prosumers are excluded. The characterisation requirement introduces threshold uncertainty.
+
+Lex loci damni under Rome II inverts the country-of-origin principle. The DSA centralises regulatory supervision in the platform's Member State of establishment. But compensation for the same regulatory breach is governed by twenty-seven destination-state tort laws.
+
+
+### 5.2 The multi-regulatory dimension
+
+The structural mismatch is compounded when DSA claims overlap with other regulatory regimes.
+
+GDPR Article 79(2) creates jurisdictional asymmetry. Claimants can access their home forum for GDPR claims but may not be able to do so for DSA claims arising from identical facts. A user whose account was suspended based on unlawful profiling has better PIL treatment for the data protection dimension than for the content moderation dimension — even though both arise from the same platform decision.
+
+Copyright's lex loci protectionis fragments applicable law differently than DSA's lex loci damni. A claim involving both copyright safeguards and DSA content moderation duties faces dépeçage — different laws governing interconnected aspects of the same dispute.
+
+Multi-basis claims face joinder uncertainty. Brussels I bis Article 8(1) addresses multiple defendants; no explicit rule consolidates multiple claims against one defendant under different legal bases. Article 30 coordinates parallel proceedings but cannot consolidate where neither court has jurisdiction over both claims.
+
+Collective redress lacks jurisdictional infrastructure. The RAD creates standing for qualified entities but no PIL rules. Representative actions for EU-wide DSA violations face the Ireland bottleneck.
+
+The result is that PIL treatment depends on how claims are framed rather than on the underlying facts. Claimants rationally optimise — characterising claims as GDPR to access Article 79(2), framing personality rights to escape Rome II's exclusion, emphasising consumer status to access Articles 17-19. This produces inconsistent treatment of functionally identical disputes.
+
+
+### 5.3 The GDPR contrast
+
+The GDPR addressed the structural mismatch through Article 79(2). Data subjects can sue at their habitual residence regardless of the controller's establishment. This forum actoris rule was designed specifically for cross-border data processing, where controllers in one Member State process data of subjects across the EU.
+
+The DSA addresses analogous dynamics. Platforms in one Member State provide services to recipients across the EU. Content moderation decisions made in Ireland affect users in all Member States. The case for an equivalent forum actoris rule is at least as strong as for data protection.
+
+The DSA did not adopt such a rule. The legislative history does not explain this omission. Possible explanations include oversight — PIL implications were not fully analysed during the legislative process; deliberate choice — preferring the flexibility of general rules over autonomous PIL provisions; or political constraints — Member States could not agree on special jurisdiction for platform claims.
+
+Whatever the explanation, the result is incoherent. GDPR claims arising from platform conduct receive more favourable PIL treatment than DSA claims arising from the same conduct. A user harmed by automated content moderation has better access to their home forum if they frame the claim as data protection violation than if they frame it as DSA violation.
+
+This asymmetry undermines the DSA's effectiveness as a private enforcement mechanism.
+
+
+### 5.4 Reform pathways
+
+Several reform options could address the coherence problems.
+
+First, an autonomous DSA jurisdiction provision modelled on GDPR Article 79(2). An "Article 54(2)" providing that proceedings for DSA compensation "may be brought before the courts of the Member State where the recipient of the service has his or her habitual residence" would eliminate the jurisdictional asymmetry with GDPR and reduce Ireland concentration. Recipients could choose between the platform's establishment and their own residence.
+
+Second, Rome II revision to include privacy and personality rights within its scope. The Commission's January 2025 Report signals consideration of this reform.[^66] Inclusion would bring DSA claims involving reputation, privacy, and discriminatory treatment within the harmonised applicable law framework, eliminating recourse to divergent national PIL rules.
+
+[^66]: COM(2025) 20 final (n 36) 9.
+
+Third, a specific Rome II rule for digital services. Rather than relying on general lex loci damni, a provision designating the law of the recipient's habitual residence — if the service was directed to that Member State — would align applicable law with the DSA's market-access principle. Alternatively, a claimant-choice rule like Article 6(3) for competition law would enable single-law adjudication.
+
+Fourth, Brussels I bis revision to address collective action jurisdiction. A provision allowing qualified entities to sue at the defendant's domicile for the entirety of EU-wide damage — without mosaic fragmentation — or in a Member State where a substantial portion of affected recipients are located, would provide jurisdictional infrastructure for representative actions under DSA Article 86.
+
+Fifth, explicit consolidation rules for multi-regulatory claims. A provision allowing courts to apply a single applicable law to all claims arising from the same platform act — perhaps the law of the recipient's habitual residence — would reduce dépeçage. A rule clarifying that GDPR Article 79(2) jurisdiction extends to connected DSA claims arising from the same facts would enable consolidated adjudication.
+
+The first option — an autonomous DSA jurisdiction provision — is fastest to implement and does not require reopening Rome II or Brussels I bis. It could be achieved through targeted DSA amendment. The Commission's review of the DSA under Article 91, due by 2027, provides a potential vehicle.
+
+
+## 6. Conclusion
+
+The DSA's deferral to general PIL connecting factors produces systematic incoherence in private enforcement.
+
+Jurisdiction concentrates in Ireland for claims that cannot invoke consumer status, personality rights framing, or GDPR Article 79(2) overlap. Business users and legal persons face the platform's home forum as the only option for full-damage recovery. The mosaic approach fragments cross-border claims. Consumer characterisation of DSA claims remains uncertain.
+
+Applicable law fragments into twenty-seven regimes despite uniform DSA obligations. Country-of-origin supervision coexists with country-of-destination liability. The personality rights exclusion removes a substantial category of platform harms from harmonised rules. Pure economic loss treatment varies across national tort laws, producing outcome divergence for identical breaches.
+
+Multi-regulatory claims face joinder uncertainty and dépeçage. GDPR's Article 79(2) creates jurisdictional asymmetry with DSA claims arising from the same facts. Article 8(1) does not clearly consolidate multi-basis claims against single defendants. Collective redress under the RAD lacks PIL infrastructure.
+
+These are design failures, not interpretive difficulties. The connecting factors under Brussels I bis and Rome II function as intended. They were designed for traditional territorial disputes — tortious conduct with identifiable location, parties in different jurisdictions, courts with proximity advantages. They were not designed for regulation of ubiquitous cross-border digital services operating from single establishments, or for multi-regulatory enforcement where the same platform act triggers violations across overlapping instruments.
+
+The GDPR demonstrates that the EU legislature can create autonomous PIL rules for cross-border regulatory claims. Article 79(2) addresses the structural mismatch between centralised data processing and dispersed data subjects. The DSA addresses an analogous mismatch between centralised platform operations and dispersed recipients. The case for equivalent treatment is strong.
+
+Coherence in DSA private enforcement requires either autonomous PIL rules within the DSA itself or revision of general PIL instruments to accommodate digital services and their regulatory overlaps. The Commission's forthcoming reports on Rome II and Brussels I bis, and the DSA review under Article 91, provide opportunities. Until reform occurs, Article 54's compensation right operates through a PIL framework ill-suited to its purpose.
