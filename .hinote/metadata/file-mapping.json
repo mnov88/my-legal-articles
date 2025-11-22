@@ -919,7 +919,11 @@
     "Brussels I and Rome II.md": "brussels_i_and_rome_ii.md.json",
     "PIL Issues with DSA": "pil_issues_with_dsa.json",
     "PIL issues Brussels Rome II discrepancy": "pil_issues_brussels_rome_ii_discrepancy.json",
-    "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md": "pil_issues_brussels_rome_ii_discrepancy_brussels_i_and_rome_ii.md.json"
+    "PIL issues Brussels Rome II discrepancy/Brussels I and Rome II.md": "pil_issues_brussels_rome_ii_discrepancy_brussels_i_and_rome_ii.md.json",
+    "DSA PIL Gemini.md": "dsa_pil_gemini.md.json",
+    "PIL Issues with DSA/DSA PIL Gemini.md": "pil_issues_with_dsa_dsa_pil_gemini.md.json",
+    "PIL Issues with DSA/Untitled.md": "pil_issues_with_dsa_untitled.md.json",
+    "PIL Issues with DSA/Claude report.md": "pil_issues_with_dsa_claude_report.md.json"
   },
-  "lastUpdated": 1763840617155
+  "lastUpdated": 1763841820024
 }
