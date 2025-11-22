@@ -4,6 +4,18 @@
 
 Article 54 of the Digital Services Act grants recipients of intermediary services the right to "seek, in accordance with Union and national law, compensation from providers of intermediary services, in respect of any damage or loss suffered due to an infringement by those providers of their obligations under this Regulation."[^1] This provision creates a private enforcement mechanism alongside the DSA's administrative supervision structure. Yet the phrase "in accordance with Union and national law" conceals a significant problem: the DSA contains no autonomous private international law rules.
 
+The legal character of Article 54 merits attention. It creates what may be termed a hybrid statutory remedy — a right derived from EU regulation but implemented through national procedural and remedial law. The existence of the compensation right is a matter of EU law subject to autonomous interpretation by the Court of Justice. But the modalities of the remedy — quantification of damages, rules on joint and several liability, limitation periods — are left to national law. This effectively bifurcates the cause of action: the liability trigger (breach of DSA obligation) is determined by the Regulation; the remedial mechanism (calculation of compensation) is determined by the applicable national law.
+
+Recital 121 elaborates on the causation requirement: providers should be liable for damages "caused by" their infringement of DSA obligations, with compensation "in accordance with the rules and procedures set out in the applicable national law."[^1a] This introduces a but-for causation standard — claimants must demonstrate that compliance with the DSA would have prevented the harm. For systemic risk failures under Articles 34-35, establishing causal connection between a generic risk assessment deficiency and specific individual harm presents considerable evidentiary difficulty.
+
+[^1a]: DSA (n 1) recital 121.
+
+A threshold issue concerns standing. Article 54 grants compensation rights to "recipients of the service." Article 3(b) defines a recipient as "any natural or legal person who uses an intermediary service, in particular for the purposes of seeking information or making it accessible."[^1b] This creates a dichotomy in the liability landscape. Users, content creators, and business traders have standing under Article 54 as "insider" claimants. Individuals who are not users of the platform but are harmed by content on it — a non-user defamed by a post, a copyright holder whose work is pirated on a platform they do not use — do not have standing under Article 54.
+
+[^1b]: ibid art 3(b).
+
+This distinction has PIL implications. An "insider" claimant can rely on the specific breach of DSA obligations as the basis for their claim. An "outsider" must rely on general national tort law, where DSA obligations might only serve as a standard of care. A single harmful event — viral spread of defamatory content — could trigger two distinct PIL analyses: one for the recipient-user (statutory DSA claim) and one for the non-user victim (national tort claim). The applicable law and jurisdictional analysis differ depending on standing.
+
 [^1]: Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) [2022] OJ L277/1, art 54.
 
 Article 2(2)(h) DSA explicitly preserves the application of "Union law in the field of judicial cooperation in civil matters, in particular Regulation (EU) No 1215/2012 or any Union legal act laying down the rules on law applicable to contractual and non-contractual obligations."[^2] Recital 126 elaborates that the DSA's competence allocation rules "should be without prejudice to the provisions of Union law and national rules on private international law with respect to the law applicable to contractual and non-contractual obligations."[^3]
@@ -179,7 +191,13 @@ Article 4(3) provides an escape clause: where "the tort/delict is manifestly mor
 
 [^32]: Case C-350/14 Florin Lazar v Allianz SpA [2015] EU:C:2015:802, para 31.
 
-Special rules exist for product liability (Article 5), unfair competition (Article 6), and intellectual property (Article 8).[^33] These may apply to certain DSA-adjacent claims but do not address DSA compensation claims directly.
+Special rules exist for product liability (Article 5), unfair competition (Article 6), and intellectual property (Article 8).[^33] These may apply to certain DSA-adjacent claims.
+
+Rome II Article 6 deserves particular attention for DSA claims involving dark patterns. Article 25 DSA prohibits providers from designing or operating online interfaces "in a way that deceives or manipulates the recipients of their service or in a way that otherwise materially distorts or impairs the ability of the recipients of their service to make free and informed decisions."[^33a] Where such dark patterns constitute acts of unfair competition, Article 6(1) Rome II applies: the applicable law is "the law of the country where competitive relations or the collective interests of consumers are, or are likely to be, affected."[^33b] This market-effects approach locates the applicable law where consumers experience the manipulative interface — typically their residence — rather than where the platform designed it. For dark pattern claims, Article 6 may thus align applicable law with consumer location more directly than the general lex loci damni rule.
+
+[^33a]: DSA (n 1) art 25(1).
+
+[^33b]: Rome II (n 28) art 6(1).
 
 [^33]: Rome II (n 28) arts 5-8.
 
@@ -323,6 +341,10 @@ The Product Liability Directive — in its revised 2024 form — relies on Bruss
 
 [^51]: ibid art 8(1).
 
+The Digital Markets Act presents a distinct problem. Unlike the DSA, the DMA contains no explicit private damages provision equivalent to Article 54.[^51a] Article 42 DMA extends the Representative Actions Directive to DMA violations, but this creates standing for qualified entities without establishing individual compensation rights. Private enforcement of DMA obligations against gatekeepers remains uncertain; claimants may attempt to frame DMA violations as Article 102 TFEU abuses to access the Damages Directive framework, but this requires establishing dominance and abuse — elements distinct from DMA gatekeeper designation.
+
+[^51a]: Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector (Digital Markets Act) [2022] OJ L265/1, art 42.
+
 This fragmentation means claimants must conduct separate PIL analysis for each legal basis, even when all claims arise from identical facts.
 
 
@@ -437,7 +459,9 @@ A qualified entity representing users harmed by platform conduct could bring mul
 
 But the RAD contains no PIL rules.
 
-For jurisdiction, qualified entities face structural obstacles. They are not consumers — they cannot invoke the protective jurisdiction of Articles 17-19 Brussels I bis. They are not data subjects in their own right — they cannot invoke GDPR Article 79(2); they represent data subjects but do not themselves have data subject status.
+For jurisdiction, qualified entities face structural obstacles. They are not consumers — they cannot invoke the protective jurisdiction of Articles 17-19 Brussels I bis. The Court of Justice confirmed this limitation in Schrems, holding that a claimant suing on assigned claims from other consumers loses their consumer status for jurisdictional purposes.[^64a] By analogy, qualified entities representing consumers cannot claim the consumer's protective jurisdiction. Nor are qualified entities data subjects in their own right — they cannot invoke GDPR Article 79(2); they represent data subjects but do not themselves have data subject status.
+
+[^64a]: Case C-498/16 Maximilian Schrems v Facebook Ireland Limited [2018] EU:C:2018:37, para 48.
 
 Qualified entities must establish jurisdiction under Article 4 (defendant's domicile) or Article 7(2) (place of damage).
 
