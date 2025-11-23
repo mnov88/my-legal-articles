@@ -12,9 +12,9 @@ This article provides a doctrinal analysis of whether such upstream AI filtering
 
 A citizen submits a detailed objection to a proposed power plant, documenting environmental concerns that — if considered — might have led the authority to deny the concession. The submission is received by a server, processed by an algorithm that classifies it as "not sufficiently substantive," and archived without human review. The authority grants the concession. The citizen never learns that their submission was filtered.
 
-This scenario is not hypothetical. Administrative authorities across the European Union deploy artificial intelligence to manage the volume of public consultation responses.[^1] The efficiency imperative is understandable: major infrastructure consultations can generate tens of thousands of submissions, exceeding the processing capacity of civil servants. AI tools promise to synthesise this input into actionable summaries.
+This scenario reflects an emerging reality. Administrative authorities across the European Union increasingly deploy artificial intelligence to manage digital interactions with citizens — from benefit eligibility screening and fraud detection to regulatory inspection selection and, increasingly, public consultation processing.[^1] The efficiency imperative is understandable: major infrastructure consultations can generate tens of thousands of submissions, exceeding the processing capacity of civil servants. AI tools promise to synthesise this input into actionable summaries.
 
-[^1]: See generally U.S. Federal Government, 'Implementing Federal-Wide Comment Analysis Tool' (Project Open Data 2024); S. Whitehead, 'From Noise to Insight: Using AI to Rethink Public Comment Analysis' (2025) Medium.
+[^1]: The European Commission's Better Regulation Guidelines acknowledge the potential for AI-assisted analysis of consultation responses: European Commission, 'Better Regulation Guidelines' (SWD(2021) 305 final). For documented deployments in analogous administrative contexts, see the Dutch SyRI system for benefit fraud detection (struck down in Rb. Den Haag 5 February 2020, ECLI:NL:RBDHA:2020:1878); the Finnish Kela system using AI for benefit assessment (Finnish DPA Decision 6482/186/2020); and widespread use of algorithmic tools in EU Member State tax and customs administration: European Commission, Joint Research Centre, 'AI Watch: AI Uptake in the Public Sector' (2022).
 
 The legal question is whether such filtering constitutes automated decision-making prohibited under GDPR Article 22.
 
@@ -72,7 +72,7 @@ At one end of the spectrum, predictive scoring for benefit eligibility screening
 
 Similarly, regulatory inspection selection based on algorithmic risk scoring — where anomaly detection flags entities for enforcement attention — creates direct legal consequences through investigative obligations, reputational harm, and potential sanctions.[^12] This constitutes paradigmatic Article 22 territory.
 
-[^12]: The Belgian APD's approach to government algorithmic processing in the SyRI case demonstrates regulatory attention to discriminatory algorithmic selection in enforcement contexts.
+[^12]: The Dutch District Court's landmark SyRI judgment demonstrates judicial attention to discriminatory algorithmic selection in enforcement contexts: Rb. Den Haag 5 February 2020, ECLI:NL:RBDHA:2020:1878, striking down the System Risk Indication used for benefit fraud detection as violating Article 8 ECHR.
 
 At the other end, pure organisational categorisation — routing freedom of information requests to appropriate departments based on topic classification — produces minimal Article 22 risk where categorisation does not determine substantive outcomes and all requests receive equivalent treatment regardless of category.
 
@@ -148,17 +148,17 @@ The Austrian Data Protection Authority's decision in *DSB 2020-0.436.002* reinfo
 
 [^23]: DSB (Austria) Decision 2020-0.436.002 of 8 September 2020, ECLI:AT:DSB:2020:2020.0.436.002.
 
-The Finnish Data Protection Authority's decision in case 6482/186/2020 provides the most direct support for this analysis in the administrative context.[^23a] The authority examined a health benefit assessment tool that used algorithms to identify patients for proactive healthcare measures. The authority drew a critical distinction between two categories: patients selected by the algorithm for human review, and patients not selected. For the former, the authority found no solely automated decision because healthcare professionals made final assessments considering other factors. For the latter, however, the authority held that the result of the profiling remains final and the person no longer re-evaluates the evaluation produced by the tool. The non-selection by the algorithm constituted a solely automated decision because no human subsequently reconsidered the algorithmic determination.
+The Finnish Data Protection Authority's decision in case 6482/186/2020 provides the most direct support for this analysis in the administrative context.[^24] The authority examined a health benefit assessment tool that used algorithms to identify patients for proactive healthcare measures. The authority drew a critical distinction between two categories: patients selected by the algorithm for human review, and patients not selected. For the former, the authority found no solely automated decision because healthcare professionals made final assessments considering other factors. For the latter, however, the authority held that the result of the profiling remains final and the person no longer re-evaluates the evaluation produced by the tool. The non-selection by the algorithm constituted a solely automated decision because no human subsequently reconsidered the algorithmic determination.
 
-[^23a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 of 2 June 2021.
+[^24]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 of 2 June 2021.
 
 Applied to consultation filtering, this reasoning is directly on point. When AI filtering excludes submissions from human review, the exclusion is the solely automated decision. Humans only review the selected submissions; those not selected never receive human consideration. The algorithmic determination that a submission is not sufficiently substantive for human attention remains final — precisely the situation the Finnish authority identified as triggering Article 22.
 
 ### D. The physical impossibility of meaningful review
 
-The Spanish AEPD developed the most sophisticated framework for assessing meaningful human involvement in March 2024 guidance responding to *SCHUFA*.[^24] The four-factor test requires: competence (authority to alter outcomes); preparation and training (ability to critically evaluate); independence and diligence (freedom from authority bias); and means to exercise competence (procedural ability, informational access, resources, and sufficient time).
+The Spanish AEPD developed the most sophisticated framework for assessing meaningful human involvement in March 2024 guidance responding to *SCHUFA*.[^25] The four-factor test requires: competence (authority to alter outcomes); preparation and training (ability to critically evaluate); independence and diligence (freedom from authority bias); and means to exercise competence (procedural ability, informational access, resources, and sufficient time).
 
-[^24]: Autoriteit Persoonsgegevens (Netherlands), 'Consultation on automated decision-making guidelines' (2025), developing similar framework.
+[^25]: Agencia Española de Protección de Datos (AEPD), 'Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial: Una introducción' (2024), developing four-factor test for meaningful human involvement; see also Autoriteit Persoonsgegevens (Netherlands), 'Consultation on automated decision-making guidelines' (2025), adopting similar framework.
 
 The Spanish framework includes practical feasibility calculations. If a human reviews 100 automated reports of 100 pages daily, this yields only 21 pages per minute — physically impossible to conduct meaningful assessment. Similarly, decisions about flight boarding or event access occurring in seconds lack procedural feasibility for human intervention.
 
@@ -174,13 +174,13 @@ The second unresolved question concerns the ontology of "decision" itself. Publi
 
 ### A. The invisible rejection and preparatory acts
 
-In traditional administrative law, judicial review is often limited to final decisions definitively determining individuals' legal positions.[^25] Intermediate measures — internal memoranda, preparatory reports — are generally unreviewable unless they produce independent legal effects. Public bodies argue that AI summaries or filtered datasets constitute intermediate measures preparing for final regulation.
+In traditional administrative law, judicial review is often limited to final decisions definitively determining individuals' legal positions.[^26] Intermediate measures — internal memoranda, preparatory reports — are generally unreviewable unless they produce independent legal effects. Public bodies argue that AI summaries or filtered datasets constitute intermediate measures preparing for final regulation.
 
-[^25]: See generally ReNEUAL, 'The Pan-European General Principles on Digitalisation of Public Administration' (2024).
+[^26]: See generally ReNEUAL, 'The Pan-European General Principles on Digitalisation of Public Administration' (2024).
 
-*SCHUFA* explicitly dismantled this preparatory act defence in automated processing contexts. The Court held that classifying automated scores as merely preparatory would create a lacuna in legal protection.[^26] If data subjects cannot challenge automated scores because they are preparatory and cannot challenge final decisions on grounds of scoring because final decision-makers lack algorithmic logic, rights under Article 22 and Article 15(1)(h) are nullified.
+*SCHUFA* explicitly dismantled this preparatory act defence in automated processing contexts. The Court held that classifying automated scores as merely preparatory would create a lacuna in legal protection.[^27] If data subjects cannot challenge automated scores because they are preparatory and cannot challenge final decisions on grounds of scoring because final decision-makers lack algorithmic logic, rights under Article 22 and Article 15(1)(h) are nullified.
 
-[^26]: *SCHUFA* (n 2) para 58.
+[^27]: *SCHUFA* (n 2) para 58.
 
 Applying this to consultations, the structural parallels are striking.
 
@@ -200,27 +200,27 @@ The *SCHUFA* Court's focus on "determining role" requires examining whether the 
 
 Consultation filtering exhibits this functional determinativeness. The question is not whether filtering formally constitutes the concession decision — it does not. The question is whether filtering determines, for the excluded submitter, whether their participatory effort will be considered. When the answer is yes in essentially all cases, the filtering plays a determining role.
 
-The EDPB's guidance supports this functional analysis. Automated decisions can be made with or without profiling; profiling can take place without making automated decisions.[^27] The key is whether automated processing produces determinations affecting individuals. A determination that a citizen's submission will not be considered is precisely such a determination.
+The EDPB's guidance supports this functional analysis. Automated decisions can be made with or without profiling; profiling can take place without making automated decisions.[^28] The key is whether automated processing produces determinations affecting individuals. A determination that a citizen's submission will not be considered is precisely such a determination.
 
-[^27]: WP251 (n 10) 10.
+[^28]: WP251 (n 10) 10.
 
 ### C. Summarisation as decision-making
 
-The issue extends beyond binary acceptance/rejection to summarisation nuance. Generative AI models synthesise thousands of comments into key themes reports, involving editorial decisions: selecting which points are key and which peripheral.[^28]
+The issue extends beyond binary acceptance/rejection to summarisation nuance. Generative AI models synthesise thousands of comments into key themes reports, involving editorial decisions: selecting which points are key and which peripheral.[^29]
 
-[^28]: Whitehead (n 1).
+[^29]: Whitehead (n 1).
 
-If an LLM tasked with summarising 50,000 comments on controversial legislation hallucinates or statistically marginalises valid minority objections, that objection is effectively excised from the record.[^29] The decision is the determination of relevance.
+If an LLM tasked with summarising 50,000 comments on controversial legislation hallucinates or statistically marginalises valid minority objections, that objection is effectively excised from the record.[^30] The decision is the determination of relevance.
 
-[^29]: On LLM hallucination risks, see D. Magesh and others, 'Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models' (2024) 16 Journal of Legal Analysis 64.
+[^30]: On LLM hallucination risks, see D. Magesh and others, 'Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models' (2024) 16 Journal of Legal Analysis 64.
 
-Legal scholarship recognises that AI summarisation is not neutral data compression but normative content evaluation.[^30] When this evaluation determines whether citizens' arguments reach human decision-makers, it constitutes a decision affecting participation rights. The non-deterministic, opaque nature of LLMs — where inclusion/exclusion logic cannot be verified — exacerbates legal risk, preventing administration from confirming whether summarisation was fair or arbitrary.
+Legal scholarship recognises that AI summarisation is not neutral data compression but normative content evaluation.[^31] When this evaluation determines whether citizens' arguments reach human decision-makers, it constitutes a decision affecting participation rights. The non-deterministic, opaque nature of LLMs — where inclusion/exclusion logic cannot be verified — exacerbates legal risk, preventing administration from confirming whether summarisation was fair or arbitrary.
 
-[^30]: MDPI, 'GDPR and Large Language Models: Technical and Legal Obstacles' (2025) Future Internet 151.
+[^31]: MDPI, 'GDPR and Large Language Models: Technical and Legal Obstacles' (2025) Future Internet 151.
 
-The February 2025 *Dun & Bradstreet Austria* judgment significantly strengthens this analysis.[^31] The Court clarified that meaningful information about the logic involved under Article 15(1)(h) requires explanation of the procedure and principles actually applied — not merely technical descriptions or statistical abstractions, but practical explanation of how the algorithm functions relative to the specific data subject. Information must facilitate comprehension of decision-making rationale and enable effective exercise of data subject rights, including the ability to contest decisions knowledgeably.
+The February 2025 *Dun & Bradstreet Austria* judgment significantly strengthens this analysis.[^32] The Court clarified that meaningful information about the logic involved under Article 15(1)(h) requires explanation of the procedure and principles actually applied — not merely technical descriptions or statistical abstractions, but practical explanation of how the algorithm functions relative to the specific data subject. Information must facilitate comprehension of decision-making rationale and enable effective exercise of data subject rights, including the ability to contest decisions knowledgeably.
 
-[^31]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
+[^32]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
 
 The Court held that trade secrets do not excuse transparency obligations. Controllers must find means to explain logic while protecting legitimate business interests; judicial authorities and DPAs can access algorithmic information for enforcement purposes. Applied to consultation summarisation, authorities cannot simply claim that LLM reasoning is proprietary or too complex to explain.
 
@@ -234,45 +234,47 @@ This defence requires examination.
 
 ### A. Legal effects: the Aarhus Convention and statutory participation rights
 
-The legal effect threshold is met when decisions impact legal status or rights under contract or law.[^32] In environmental governance, the Aarhus Convention and implementing EU Directive (2011/92/EU) grant explicit legal rights to participate in decision-making.
+The legal effect threshold is met when decisions impact legal status or rights under contract or law.[^33] This threshold applies most clearly to consultations where participation rights have statutory foundation.
 
-[^32]: WP251 (n 10) 11–12.
+[^33]: WP251 (n 10) 11–12.
 
-Article 6 of the Aarhus Convention requires that due account be taken of public participation outcomes.[^33] If AI filtering systematically excludes relevant submissions — flagging environmental concerns as off-topic in planning consultations, for instance — the authority fails to take due account. In EU administrative law, breach of essential procedural requirements — including failure to consider mandatory public input — can lead to annulment of final decisions.[^34]
+In environmental governance, the Aarhus Convention and implementing EU Directive (2011/92/EU) grant explicit legal rights to participate in decision-making. Article 6 of the Aarhus Convention requires that due account be taken of public participation outcomes.[^34] If AI filtering systematically excludes relevant submissions — flagging environmental concerns as off-topic in planning consultations, for instance — the authority fails to take due account. In EU administrative law, breach of essential procedural requirements — including failure to consider mandatory public input — can lead to annulment of final decisions.[^35]
 
-[^33]: Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters (adopted 25 June 1998, entered into force 30 October 2001) 2161 UNTS 447 (Aarhus Convention) art 6.
+[^34]: Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters (adopted 25 June 1998, entered into force 30 October 2001) 2161 UNTS 447 (Aarhus Convention) art 6.
 
-[^34]: See Case C-72/12 *Gemeinde Altrip* ECLI:EU:C:2013:712; EIA Directive 2011/92/EU.
+[^35]: See Case C-72/12 *Gemeinde Altrip* ECLI:EU:C:2013:712; EIA Directive 2011/92/EU.
 
-Automated filtering produces legal effect: it violates statutory rights to be heard and potentially renders entire administrative proceedings unlawful. The decision to exclude comments is a decision to deny exercise of statutory rights.
+For this category of consultations — environmental impact assessments, strategic environmental assessments, and other proceedings governed by specific participation requirements — automated filtering produces legal effects on the data subject. The submitter holds a statutory right to have their input considered; algorithmic exclusion denies exercise of that right. The decision to filter is a decision affecting the data subject's legal position.
 
-The CJEU's judgment in *OT v Vyriausioji tarnybinės etikos komisija* (C-184/20) reinforces necessity and proportionality requirements for processing affecting fundamental rights.[^35] Indirect revelation of sensitive data still counts as special category processing. Where consultation filtering reveals or infers political opinions, these enhanced protections apply.
+A distinction must be drawn, however. Not all public consultations carry statutory participation rights. General policy consultations, "have your say" initiatives, and informal feedback mechanisms may lack specific legal foundations creating enforceable rights to consideration. For these consultations, the "legal effects" argument is weaker, and the analysis must rely primarily on "similarly significant effects" — the alternative threshold examined below.
 
-[^35]: Case C-184/20 *OT v Vyriausioji tarnybinės etikos komisija* ECLI:EU:C:2022:601.
+The CJEU's judgment in *OT v Vyriausioji tarnybinės etikos komisija* (C-184/20) reinforces necessity and proportionality requirements for processing affecting fundamental rights.[^36] Indirect revelation of sensitive data still counts as special category processing. Where consultation filtering reveals or infers political opinions, these enhanced protections apply.
+
+[^36]: Case C-184/20 *OT v Vyriausioji tarnybinės etikos komisija* ECLI:EU:C:2022:601.
 
 ### B. Similarly significant effects: the access-to-opportunity framework
 
-Beyond strict statutory rights, Article 22 covers similarly significant effects. The EDPB interprets this to include decisions affecting behaviour, choices, access to services, or resulting in discrimination.[^36]
+Beyond strict statutory rights, Article 22 covers similarly significant effects. The EDPB interprets this to include decisions affecting behaviour, choices, access to services, or resulting in discrimination.[^37]
 
-[^36]: WP251 (n 10) 21–22.
+[^37]: WP251 (n 10) 21–22.
 
-The EDPB's guidelines identify automated decisions affecting access to services as producing similarly significant effects.[^37] Credit scoring that determines borrowing access, employment screening that gates job opportunities, and tenant scoring that affects housing availability all fall within Article 22's scope precisely because they control access to important life resources.
+The EDPB's guidelines identify automated decisions affecting access to services as producing similarly significant effects.[^38] Credit scoring that determines borrowing access, employment screening that gates job opportunities, and tenant scoring that affects housing availability all fall within Article 22's scope precisely because they control access to important life resources.
 
-[^37]: ibid.
+[^38]: ibid.
 
 Public consultation participation operates analogously.
 
 Citizens engage in consultations to influence policy outcomes affecting their lives, communities, and interests. The opportunity to participate — to have one's views considered in governmental deliberation — constitutes access to a democratic service fundamental to citizenship. When AI filtering determines which citizens gain this access and which do not, it produces effects similar to those recognised in commercial contexts.
 
-The Italian Garante's 2021 decision against Deliveroo Italy provides instructive analogy.[^38] The authority imposed a €2,500,000 fine for inadequate transparency about algorithms managing riders' work shifts. The shift booking system allocated work opportunities based on automated scoring of rider reliability and availability. The Garante emphasised that profiling carried out by the company produces a significant effect on the rider concerned, consisting in the possibility of allowing or denying access to job opportunities.
+The Italian Garante's 2021 decision against Deliveroo Italy provides instructive analogy.[^39] The authority imposed a €2,500,000 fine for inadequate transparency about algorithms managing riders' work shifts. The shift booking system allocated work opportunities based on automated scoring of rider reliability and availability. The Garante emphasised that profiling carried out by the company produces a significant effect on the rider concerned, consisting in the possibility of allowing or denying access to job opportunities.
 
-[^38]: Deliveroo (n 11).
+[^39]: Deliveroo (n 11).
 
 The parallel to consultation filtering is direct. Like the Deliveroo shift booking system, AI filtering of consultation submissions determines access to a valuable opportunity — the opportunity to have one's voice considered in democratic deliberation. Like riders denied shifts, citizens whose submissions are filtered never receive notification of the algorithmic determination affecting them.
 
-The Finnish Data Protection Authority's reasoning on significant effects merits particular attention.[^38a] The authority rejected the controller's argument that no services were denied by the algorithm. Instead, the authority held that it is sufficient that the profiling actually affects the patient's chances of receiving healthcare services. Being excluded from proactive healthcare measures — not receiving an invitation for preventive care that others received based on algorithmic selection — constituted significant effects. The authority emphasised that in terms of significant effects, it is not necessary for the patient to be actively denied access to the treatment; it is sufficient that the profiling actually affects the patient's chances of receiving healthcare services.
+The Finnish Data Protection Authority's reasoning on significant effects merits particular attention.[^40] The authority rejected the controller's argument that no services were denied by the algorithm. Instead, the authority held that it is sufficient that the profiling actually affects the patient's chances of receiving healthcare services. Being excluded from proactive healthcare measures — not receiving an invitation for preventive care that others received based on algorithmic selection — constituted significant effects. The authority emphasised that in terms of significant effects, it is not necessary for the patient to be actively denied access to the treatment; it is sufficient that the profiling actually affects the patient's chances of receiving healthcare services.
 
-[^38a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 (n 23a).
+[^40]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 (n 24).
 
 Applied to consultation filtering, this reasoning supports recognising exclusion from consideration as producing significant effects. The submitter's chances of having their voice considered are affected by the algorithmic determination, even without formal denial of participation rights. The citizen is not told they cannot submit — they submit, and the submission is received. But the algorithmic classification affects their chances of having that submission reach human consideration, just as algorithmic classification affected patients' chances of receiving proactive healthcare. The Finnish authority's rejection of the "active denial" requirement provides direct precedent for treating algorithmic exclusion from opportunity as producing significant effects under Article 22.
 
@@ -284,19 +286,27 @@ The argument that such exclusion should qualify proceeds on three grounds.
 
 First, Article 22's fundamental rights purpose supports extension to democratic participation. The provision exists to protect individuals from algorithmic determinations of significant outcomes without human oversight. Democratic participation — the opportunity to influence governmental decisions affecting one's life — is significant. Where algorithms determine who participates and who does not, the protective purpose is engaged regardless of whether the effects are commercial or civic.
 
-Second, the Charter of Fundamental Rights integrates democratic participation into the fundamental rights framework. Article 11 protects freedom of expression, including the right to receive and impart information without interference.[^39] Article 41 establishes the right to good administration, including the right to be heard before any adverse measure is taken.[^40] Article 47 guarantees effective remedy.[^41] Algorithmic filtering that prevents submissions from reaching decision-makers interferes with these rights. Interpreting Article 22 to exclude democratic participation effects would create incoherence within the Charter framework.
+Second, the Charter of Fundamental Rights integrates democratic participation into the fundamental rights framework. Article 11 protects freedom of expression, including the right to receive and impart information without interference.[^41] Article 41 establishes the right to good administration, including the right to be heard before any adverse measure is taken.[^42] Article 47 guarantees effective remedy.[^43] Algorithmic filtering that prevents submissions from reaching decision-makers interferes with these rights. Interpreting Article 22 to exclude democratic participation effects would create incoherence within the Charter framework.
 
-[^39]: Charter of Fundamental Rights of the European Union [2012] OJ C326/391 art 11.
+[^41]: Charter of Fundamental Rights of the European Union [2012] OJ C326/391 art 11.
 
-[^40]: ibid art 41.
+[^42]: ibid art 41.
 
-[^41]: ibid art 47.
+[^43]: ibid art 47.
 
-Third, the *SCHUFA* Court's anti-formalist reasoning supports functional analysis. The Court rejected the argument that Article 22 applies only to formal final decisions, emphasising that such interpretation would enable circumvention.[^42] The same reasoning applies to the indirect effects objection. If Article 22 does not apply because the filtered citizen's submission concerned a third party's concession rather than their own legal rights, controllers could systematically exclude citizens from participation by characterising all consultations as affecting third-party interests.
+Third, the *SCHUFA* Court's anti-formalist reasoning supports functional analysis. The Court rejected the argument that Article 22 applies only to formal final decisions, emphasising that such interpretation would enable circumvention.[^44] The same reasoning applies to the indirect effects objection. If Article 22 does not apply because the filtered citizen's submission concerned a third party's concession rather than their own legal rights, controllers could systematically exclude citizens from participation by characterising all consultations as affecting third-party interests.
 
-[^42]: *SCHUFA* (n 2) paras 56–65.
+[^44]: *SCHUFA* (n 2) paras 56–65.
 
-The relevant effect is not on the concession decision but on the data subject's participatory rights. The submitter's right to have their submission considered — a right grounded in the Aarhus Convention, EU administrative law principles, and the Charter — was algorithmically denied. That denial produces effects on the data subject regardless of whose concession is at stake.
+The third-party effects objection merits more sustained examination. Article 22 requires effects "concerning" the data subject. Does exclusion from a consultation about a third party's project produce effects "concerning" the excluded submitter?
+
+The answer depends on whether Article 22 protects substantive interests alone or procedural rights as well. If Article 22 requires effects on the data subject's substantive interests — their property, their employment, their credit access — then consultation filtering about third-party projects might fall outside scope. The submitter's property is not affected; only the project proponent's interests are at stake in the concession decision.
+
+This interpretation, however, conflicts with the provision's protective purpose and with established practice. The EDPB's guidelines recognise effects on "behaviour" and "choices" as qualifying, not merely effects on legal or economic status.[^45] Algorithmic exclusion from democratic participation affects the submitter's behaviour (their engagement with democratic processes) and choices (whether to participate in future consultations). Moreover, in many consultation contexts, the submitter does hold substantive interests: neighbours affected by proposed developments; environmental groups with standing under Aarhus; workers affected by proposed labour regulations; consumers affected by proposed product standards. The "pure third-party interest" scenario is narrower than the objection suggests.
+
+[^45]: WP251 (n 10) 21–22.
+
+The more persuasive analysis focuses on the procedural right itself. The submitter's right to have their submission considered — a right grounded in the Aarhus Convention for environmental consultations, in EU administrative law principles more broadly, and in the Charter's right to good administration — was algorithmically denied. That procedural denial produces effects on the data subject regardless of whose substantive interests the underlying decision concerns. The effect is not on the concession decision but on the data subject's participatory access. This is sufficient for Article 22 purposes.
 
 ### D. Counterarguments addressed
 
@@ -318,9 +328,9 @@ A common technical defence asserts that NLP tools analyse content (text), not pe
 
 ### A. Inferring personal aspects from text
 
-Article 4(4) defines profiling as automated processing to evaluate personal aspects, including personal preferences, interests, reliability, behaviour.[^43] Modern NLP techniques — sentiment analysis and stance detection — are designed precisely to evaluate these aspects.
+Article 4(4) defines profiling as automated processing to evaluate personal aspects, including personal preferences, interests, reliability, behaviour.[^46] Modern NLP techniques — sentiment analysis and stance detection — are designed precisely to evaluate these aspects.
 
-[^43]: GDPR, art 4(4).
+[^46]: GDPR, art 4(4).
 
 Sentiment as preference: when AI analyses submissions to determine if authors are angry, satisfied, or neutral, it evaluates personal preferences and emotional states.
 
@@ -328,9 +338,9 @@ Stance as interest: classifying submissions as pro-policy or anti-policy evaluat
 
 Linkage to identity: even where text is anonymised, modern practices often link submissions to accounts or identifiers to detect duplicate submissions. Once this link exists, text analysis becomes profiling of identifiable natural persons.
 
-The Austrian DSB's *2020-0.436.002* decision directly addressed this issue.[^44] Marketing scores calculating probability percentages for classification into categories such as conservatives, traditionalists, or digital individualists constituted profiling under Article 4(4). The authority emphasised that processing need not be solely automated to constitute profiling — any automated evaluation of personal aspects suffices.
+The Austrian DSB's *2020-0.436.002* decision directly addressed this issue.[^47] Marketing scores calculating probability percentages for classification into categories such as conservatives, traditionalists, or digital individualists constituted profiling under Article 4(4). The authority emphasised that processing need not be solely automated to constitute profiling — any automated evaluation of personal aspects suffices.
 
-[^44]: DSB (Austria) 2020-0.436.002 (n 23).
+[^47]: DSB (Austria) 2020-0.436.002 (n 23).
 
 ### B. The "about whom" problem: when content evaluation becomes person evaluation
 
@@ -344,29 +354,39 @@ Relevance scoring evaluates the perceived value of the person's contribution —
 
 Quality assessment evaluates communicative competence — the person's performance in the act of democratic expression.
 
-The Deliveroo enforcement illustrates this point. The Garante found the algorithm evaluated riders, not just shifts, because work allocation evaluated rider characteristics.[^45] The same reasoning applies: consultation filtering evaluates submitters, not just submissions, because filtering evaluates submitter characteristics as expressed through their submissions.
+The Deliveroo enforcement illustrates this point. The Garante found the algorithm evaluated riders, not just shifts, because work allocation evaluated rider characteristics.[^48] The same reasoning applies: consultation filtering evaluates submitters, not just submissions, because filtering evaluates submitter characteristics as expressed through their submissions.
 
-[^45]: Deliveroo (n 11).
+[^48]: Deliveroo (n 11).
 
 A functional test emerges: if AI classification determines how a person is treated based on evaluation of their communicative acts, this constitutes profiling of personal aspects. The output — inclusion or exclusion — determines how the person is treated. The input — evaluation of their submission's sentiment, stance, quality, or relevance — evaluates personal aspects expressed through communication.
 
+A limiting principle prevents this analysis from extending too far. Not every automated evaluation of human output constitutes profiling. Three distinctions cabin the analysis.
+
+First, the distinction between objective criteria and personal characteristics. Evaluating whether a submission meets formal requirements — word count, deadline compliance, proper formatting — does not evaluate personal aspects. Evaluating the substance of the submission's arguments — their quality, relevance, or persuasiveness — does evaluate the person's communicative performance. The former is administrative processing; the latter is profiling.
+
+Second, the distinction between single-instance assessment and pattern analysis. Academic grading evaluates a single piece of work; the grade reflects performance on that assessment. Algorithmic filtering that incorporates historical patterns — the submitter's past engagement, their demographic profile, their predicted reliability based on aggregate data — moves definitively into profiling territory. Many NLP systems, particularly those using machine learning, inherently involve pattern analysis across populations.
+
+Third, the distinction between evaluation of content and inference of characteristics. Assessing whether an argument is logically coherent evaluates the argument. Inferring the submitter's emotional state, political orientation, or personality traits from their writing evaluates the person. Sentiment analysis, stance detection, and related techniques fall into the latter category — they explicitly aim to infer personal characteristics from textual expression.
+
+These limiting principles preserve space for legitimate automated processing of submissions while recognising that much contemporary NLP — particularly sentiment analysis and machine learning-based relevance scoring — crosses into profiling.
+
 ### C. Sentiment analysis as special category data processing
 
-Legal stakes escalate dramatically where inferred personal aspects include political opinions. Under Article 9, data revealing political opinions constitutes special category data; processing is generally prohibited.[^46]
+Legal stakes escalate dramatically where inferred personal aspects include political opinions. Under Article 9, data revealing political opinions constitutes special category data; processing is generally prohibited.[^49]
 
-[^46]: GDPR, art 9(1).
+[^49]: GDPR, art 9(1).
 
 In consultations regarding controversial legislation — migration, tax reform, environmental regulation — submissions expressing strong opposition inherently reveal political opinions. If NLP models categorise submissions as opposed with negative sentiment, they process special category data.
 
-Article 22(4) explicitly prohibits automated decisions based on special category data unless the subject has given explicit consent, or processing is necessary for substantial public interest with suitable measures in place.[^47]
+Article 22(4) explicitly prohibits automated decisions based on special category data unless the subject has given explicit consent, or processing is necessary for substantial public interest with suitable measures in place.[^50]
 
-[^47]: GDPR, art 22(4).
+[^50]: GDPR, art 22(4).
 
 Public authorities rarely obtain explicit consent to profile political sentiment for filtering purposes. The substantial public interest defence is weak for mere administrative efficiency. Using sentiment analysis to deprioritise negative feedback constitutes prima facie violation of Article 22(4).
 
-The EDPB's WP251 guidelines acknowledge that profiling can create special category data by inference from data not itself special category but becoming so when combined.[^48] Consultation comments combined with stance detection infer political convictions. Controllers must ensure they have lawful basis for special category processing and inform data subjects of such processing.
+The EDPB's WP251 guidelines acknowledge that profiling can create special category data by inference from data not itself special category but becoming so when combined.[^51] Consultation comments combined with stance detection infer political convictions. Controllers must ensure they have lawful basis for special category processing and inform data subjects of such processing.
 
-[^48]: WP251 (n 10) 15.
+[^51]: WP251 (n 10) 15.
 
 ### D. The content-person distinction reconsidered
 
@@ -374,9 +394,9 @@ The argument that NLP analyses content rather than people faces a deeper concept
 
 Article 4(4) defines profiling as evaluating personal aspects including interests, reliability, and behaviour. When AI classifies a submission as off-topic, low-quality, or non-constructive, it evaluates the submitter's behaviour (the act of making a particular type of submission) and implicitly their reliability as a participant in democratic deliberation.
 
-This analysis finds support in the Court of Justice's approach to algorithmic processing. In *SCHUFA*, the Court emphasised that automated processing affecting individuals must be subject to safeguards regardless of technical characterisation.[^49] The protective purpose of Article 22 applies wherever algorithms make determinations that affect how individuals are treated, not merely where processing fits neatly into predefined technical categories.
+This analysis finds support in the Court of Justice's approach to algorithmic processing. In *SCHUFA*, the Court emphasised that automated processing affecting individuals must be subject to safeguards regardless of technical characterisation.[^52] The protective purpose of Article 22 applies wherever algorithms make determinations that affect how individuals are treated, not merely where processing fits neatly into predefined technical categories.
 
-[^49]: *SCHUFA* (n 2) paras 56–65.
+[^52]: *SCHUFA* (n 2) paras 56–65.
 
 ---
 
@@ -386,41 +406,41 @@ Article 22(2)(b) provides an exception for automated decisions authorised by Uni
 
 ### A. The adequacy of statutory authorisation
 
-General administrative laws authorising data processing or digital government are likely insufficient to authorise solely automated filtering under strict GDPR requirements. Recital 71 mandates specific authorisation.[^50]
+General administrative laws authorising data processing or digital government are likely insufficient to authorise solely automated filtering under strict GDPR requirements. Recital 71 mandates specific authorisation.[^53]
 
-[^50]: GDPR, Recital 71.
+[^53]: GDPR, Recital 71.
 
-German framework: Section 35a of the Administrative Procedure Act (VwVfG) permits fully automated administrative acts only where permitted by a legal provision and where there is no discretion or room for independent appreciation.[^51] Evaluating public comments is inherently discretionary — weighing arguments, assessing relevance. Fully automated filtering of consultation responses likely falls outside § 35a's scope. Without specific legal basis, such filtering is unauthorised and illegal under Article 22(2)(b).
+German framework: Section 35a of the Administrative Procedure Act (VwVfG) permits fully automated administrative acts only where permitted by a legal provision and where there is no discretion or room for independent appreciation.[^54] Evaluating public comments is inherently discretionary — weighing arguments, assessing relevance. Fully automated filtering of consultation responses likely falls outside § 35a's scope. Without specific legal basis, such filtering is unauthorised and illegal under Article 22(2)(b).
 
-[^51]: Verwaltungsverfahrensgesetz (VwVfG) § 35a; see CERIDAP, 'Automated Decision-Making Systems in German Administrative Law' (2024).
+[^54]: Verwaltungsverfahrensgesetz (VwVfG) § 35a; see CERIDAP, 'Automated Decision-Making Systems in German Administrative Law' (2024).
 
-French framework: the Code of Relations between the Public and Administration (CRPA Article L311-3-1) permits individual decisions based on algorithmic processing, provided the decision is explicitly mentioned and rules defining processing are communicated upon request.[^52] This framework imposes strict transparency conditions. If authorities use proprietary, opaque LLMs and cannot explain rules defining the processing because models are non-deterministic, they violate Article L311-3-1. Filtering becomes unlawful not because automated, but because failing the explanation safeguard.
+French framework: the Code of Relations between the Public and Administration (CRPA Article L311-3-1) permits individual decisions based on algorithmic processing, provided the decision is explicitly mentioned and rules defining processing are communicated upon request.[^55] This framework imposes strict transparency conditions. If authorities use proprietary, opaque LLMs and cannot explain rules defining the processing because models are non-deterministic, they violate Article L311-3-1. Filtering becomes unlawful not because automated, but because failing the explanation safeguard.
 
-[^52]: Code des relations entre le public et l'administration, art L311-3-1; see Défenseur des Droits, 'Algorithms, AI systems and public services: what rights do users have?' (2024).
+[^55]: Code des relations entre le public et l'administration, art L311-3-1; see Défenseur des Droits, 'Algorithms, AI systems and public services: what rights do users have?' (2024).
 
 ### B. The safeguards deficit
 
-Even where legally authorised, controllers must implement suitable measures including rights to obtain human intervention, express views, and contest decisions.[^53]
+Even where legally authorised, controllers must implement suitable measures including rights to obtain human intervention, express views, and contest decisions.[^56]
 
-[^53]: GDPR, art 22(3).
+[^56]: GDPR, art 22(3).
 
 The notice gap: in AI filtering, citizens are rarely notified that submissions were filtered. Without notification, they cannot exercise rights to contest or demand human intervention.
 
-The black box barrier: even where citizens contest filtering, authorities may be unable to provide meaningful explanation of why LLMs rejected comments, violating the right to good administration.[^54]
+The black box barrier: even where citizens contest filtering, authorities may be unable to provide meaningful explanation of why LLMs rejected comments, violating the right to good administration.[^57]
 
-[^54]: Charter of Fundamental Rights art 41.
+[^57]: Charter of Fundamental Rights art 41.
 
 Architectural inadequacy: current consultation procedures were designed for paper submissions; they lack procedural hooks — notification mechanisms, appeal processes — necessary for Article 22 compliance.
 
-The Berlin DPA's enforcement action underscores these requirements.[^55] The authority held that even with automated processes, controllers must provide comprehensible information about the automated rejection, including specific information on the database and the decision-making factors as well as the criteria for rejection in individual cases. Generic descriptions of AI systems are insufficient.
+The Berlin DPA's enforcement action underscores these requirements.[^58] The authority held that even with automated processes, controllers must provide comprehensible information about the automated rejection, including specific information on the database and the decision-making factors as well as the criteria for rejection in individual cases. Generic descriptions of AI systems are insufficient.
 
-[^55]: BlnBDI Decision (n 18).
+[^58]: BlnBDI Decision (n 18).
 
 ### C. The Dun & Bradstreet transparency standard
 
-The *Dun & Bradstreet Austria* judgment establishes heightened transparency requirements post-February 2025.[^56] Meaningful information about logic involved requires substantive explanation — not "algorithm processed your data" or "socio-demographic factors given equal weighting," but explanation of how specific data inputs produced the decision regarding this individual.
+The *Dun & Bradstreet Austria* judgment establishes heightened transparency requirements post-February 2025.[^59] Meaningful information about logic involved requires substantive explanation — not "algorithm processed your data" or "socio-demographic factors given equal weighting," but explanation of how specific data inputs produced the decision regarding this individual.
 
-[^56]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
+[^59]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
 
 The Court's holding that trade secrets do not excuse non-disclosure is particularly significant for public authorities using third-party AI systems. Where vendors claim algorithmic opacity as intellectual property, authorities cannot simply defer: they bear responsibility for ensuring systems they deploy permit compliance with transparency obligations. This may require contractual provisions mandating vendor cooperation with explanation requests, or may counsel against deploying truly opaque systems for decisions affecting fundamental rights.
 
@@ -436,31 +456,31 @@ The regulatory landscape tightens with the AI Act's entry into force. This legis
 
 ### A. High-risk classification
 
-The AI Act classifies AI systems intended for administration of justice and democratic processes as high-risk (Annex III, point 8).[^57] Systems used by public authorities that may influence democratic processes fall within this category.
+The AI Act classifies AI systems intended for administration of justice and democratic processes as high-risk (Annex III, point 8).[^60] Systems used by public authorities that may influence democratic processes fall within this category.
 
-[^57]: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act) Annex III, point 8.
+[^60]: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act) Annex III, point 8.
 
-AI tools filtering or summarising public consultation responses directly impact democratic processes. This classification triggers stringent obligations: high-quality data governance to prevent bias, record-keeping, transparency, and human oversight.[^58]
+AI tools filtering or summarising public consultation responses directly impact democratic processes. This classification triggers stringent obligations: high-quality data governance to prevent bias, record-keeping, transparency, and human oversight.[^61]
 
-[^58]: ibid arts 9–15.
+[^61]: ibid arts 9–15.
 
-Data governance requirements under Article 10 mandate that training, validation, and testing datasets be relevant, sufficiently representative, and free of errors.[^59] For consultation filtering systems, this requires demonstration that training data adequately represents the diversity of legitimate public input — a challenging requirement given the heterogeneity of democratic discourse.
+Data governance requirements under Article 10 mandate that training, validation, and testing datasets be relevant, sufficiently representative, and free of errors.[^62] For consultation filtering systems, this requires demonstration that training data adequately represents the diversity of legitimate public input — a challenging requirement given the heterogeneity of democratic discourse.
 
-[^59]: ibid art 10.
+[^62]: ibid art 10.
 
-Human oversight under Article 14 requires measures enabling humans to understand system capacities and limitations, appropriately monitor operation, and intervene when necessary.[^60] This reinforces the meaningful intervention requirements discussed above — nominal human involvement that merely ratifies algorithmic outputs does not satisfy Article 14 any more than it satisfies Article 22 GDPR.
+Human oversight under Article 14 requires measures enabling humans to understand system capacities and limitations, appropriately monitor operation, and intervene when necessary.[^63] This reinforces the meaningful intervention requirements discussed above — nominal human involvement that merely ratifies algorithmic outputs does not satisfy Article 14 any more than it satisfies Article 22 GDPR.
 
-[^60]: ibid art 14.
+[^63]: ibid art 14.
 
 ### B. Fundamental rights impact assessment
 
-Article 27 requires deployers of high-risk AI systems — specifically public bodies — to conduct Fundamental Rights Impact Assessments (FRIA) prior to deployment.[^61]
+Article 27 requires deployers of high-risk AI systems — specifically public bodies — to conduct Fundamental Rights Impact Assessments (FRIA) prior to deployment.[^64]
 
-[^61]: ibid art 27.
+[^64]: ibid art 27.
 
-The assessment must address specific risks of harm to affected individuals' fundamental rights: freedom of expression, good administration, non-discrimination.[^62] If authorities cannot guarantee that AI filters will not disproportionately silence minority voices or misclassify valid dissent as toxicity, FRIA should theoretically prevent deployment.
+The assessment must address specific risks of harm to affected individuals' fundamental rights: freedom of expression, good administration, non-discrimination.[^65] If authorities cannot guarantee that AI filters will not disproportionately silence minority voices or misclassify valid dissent as toxicity, FRIA should theoretically prevent deployment.
 
-[^62]: ibid Recital 96.
+[^65]: ibid Recital 96.
 
 The FRIA requirement represents a significant procedural safeguard absent from GDPR's Article 22 framework. For consultation filtering, the relevant fundamental rights extend beyond data protection to include freedom of expression (Article 11 CFR), the right to good administration (Article 41 CFR), and the right to effective remedy (Article 47 CFR).
 
@@ -468,9 +488,9 @@ A comprehensive FRIA for consultation filtering would need to assess risks to ea
 
 ### C. Regulatory convergence
 
-The AI Act explicitly preserves GDPR's application. Article 2(7) provides that the Regulation applies without prejudice to Union law on data protection.[^63] This means that compliance with AI Act requirements does not excuse GDPR violations — authorities must satisfy both frameworks.
+The AI Act explicitly preserves GDPR's application. Article 2(7) provides that the Regulation applies without prejudice to Union law on data protection.[^66] This means that compliance with AI Act requirements does not excuse GDPR violations — authorities must satisfy both frameworks.
 
-[^63]: ibid art 2(7).
+[^66]: ibid art 2(7).
 
 The AI Act's high-risk classification for systems affecting democratic processes effectively recognises what Article 22 analysis suggests — that AI in democratic contexts requires enhanced oversight. The regulatory convergence supports interpreting Article 22 to apply to consultation filtering.
 
@@ -498,7 +518,7 @@ The right to be heard must include the right not to be silenced by an algorithm.
 
 ## References
 
-[^1]: See generally U.S. Federal Government, 'Implementing Federal-Wide Comment Analysis Tool' (Project Open Data 2024); S. Whitehead, 'From Noise to Insight: Using AI to Rethink Public Comment Analysis' (2025) Medium.
+[^1]: The European Commission's Better Regulation Guidelines acknowledge the potential for AI-assisted analysis of consultation responses: European Commission, 'Better Regulation Guidelines' (SWD(2021) 305 final). For documented deployments in analogous administrative contexts, see the Dutch SyRI system for benefit fraud detection (struck down in Rb. Den Haag 5 February 2020, ECLI:NL:RBDHA:2020:1878); the Finnish Kela system using AI for benefit assessment (Finnish DPA Decision 6482/186/2020); and widespread use of algorithmic tools in EU Member State tax and customs administration: European Commission, Joint Research Centre, 'AI Watch: AI Uptake in the Public Sector' (2022).
 
 [^2]: Case C-634/21 *SCHUFA Holding and Others (Scoring)* ECLI:EU:C:2023:957; Case C-203/22 *CK v Magistrat der Stadt Wien* ECLI:EU:C:2025:131.
 
@@ -520,7 +540,7 @@ The right to be heard must include the right not to be silenced by an algorithm.
 
 [^11]: Italian Garante decisions on algorithmic management in gig economy contexts demonstrate this approach: Garante per la protezione dei dati personali (Italy), Decision 9685994 of 22 July 2021 (Deliveroo Italy), imposing €2,500,000 fine.
 
-[^12]: The Belgian APD's approach to government algorithmic processing in the SyRI case demonstrates regulatory attention to discriminatory algorithmic selection in enforcement contexts.
+[^12]: The Dutch District Court's landmark SyRI judgment demonstrates judicial attention to discriminatory algorithmic selection in enforcement contexts: Rb. Den Haag 5 February 2020, ECLI:NL:RBDHA:2020:1878, striking down the System Risk Indication used for benefit fraud detection as violating Article 8 ECHR.
 
 [^13]: WP251 (n 10) 20–21.
 
@@ -544,86 +564,88 @@ The right to be heard must include the right not to be silenced by an algorithm.
 
 [^23]: DSB (Austria) Decision 2020-0.436.002 of 8 September 2020, ECLI:AT:DSB:2020:2020.0.436.002.
 
-[^23a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 of 2 June 2021.
+[^24]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 of 2 June 2021.
 
-[^24]: Autoriteit Persoonsgegevens (Netherlands), 'Consultation on automated decision-making guidelines' (2025), developing similar framework.
+[^25]: Agencia Española de Protección de Datos (AEPD), 'Adecuación al RGPD de tratamientos que incorporan Inteligencia Artificial: Una introducción' (2024), developing four-factor test for meaningful human involvement; see also Autoriteit Persoonsgegevens (Netherlands), 'Consultation on automated decision-making guidelines' (2025), adopting similar framework.
 
-[^25]: See generally ReNEUAL, 'The Pan-European General Principles on Digitalisation of Public Administration' (2024).
+[^26]: See generally ReNEUAL, 'The Pan-European General Principles on Digitalisation of Public Administration' (2024).
 
-[^26]: *SCHUFA* (n 2) para 58.
+[^27]: *SCHUFA* (n 2) para 58.
 
-[^27]: WP251 (n 10) 10.
+[^28]: WP251 (n 10) 10.
 
-[^28]: Whitehead (n 1).
+[^29]: Whitehead (n 1).
 
-[^29]: On LLM hallucination risks, see D. Magesh and others, 'Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models' (2024) 16 Journal of Legal Analysis 64.
+[^30]: On LLM hallucination risks, see D. Magesh and others, 'Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models' (2024) 16 Journal of Legal Analysis 64.
 
-[^30]: MDPI, 'GDPR and Large Language Models: Technical and Legal Obstacles' (2025) Future Internet 151.
+[^31]: MDPI, 'GDPR and Large Language Models: Technical and Legal Obstacles' (2025) Future Internet 151.
 
-[^31]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
+[^32]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
 
-[^32]: WP251 (n 10) 11–12.
+[^33]: WP251 (n 10) 11–12.
 
-[^33]: Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters (adopted 25 June 1998, entered into force 30 October 2001) 2161 UNTS 447 (Aarhus Convention) art 6.
+[^34]: Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters (adopted 25 June 1998, entered into force 30 October 2001) 2161 UNTS 447 (Aarhus Convention) art 6.
 
-[^34]: See Case C-72/12 *Gemeinde Altrip* ECLI:EU:C:2013:712; EIA Directive 2011/92/EU.
+[^35]: See Case C-72/12 *Gemeinde Altrip* ECLI:EU:C:2013:712; EIA Directive 2011/92/EU.
 
-[^35]: Case C-184/20 *OT v Vyriausioji tarnybinės etikos komisija* ECLI:EU:C:2022:601.
+[^36]: Case C-184/20 *OT v Vyriausioji tarnybinės etikos komisija* ECLI:EU:C:2022:601.
 
-[^36]: WP251 (n 10) 21–22.
+[^37]: WP251 (n 10) 21–22.
 
-[^37]: ibid.
+[^38]: ibid.
 
-[^38]: Deliveroo (n 11).
+[^39]: Deliveroo (n 11).
 
-[^38a]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 (n 23a).
+[^40]: Tietosuojavaltuutetun toimisto (Finland) Decision 6482/186/2020 (n 24).
 
-[^39]: Charter of Fundamental Rights of the European Union [2012] OJ C326/391 art 11.
+[^41]: Charter of Fundamental Rights of the European Union [2012] OJ C326/391 art 11.
 
-[^40]: ibid art 41.
+[^42]: ibid art 41.
 
-[^41]: ibid art 47.
+[^43]: ibid art 47.
 
-[^42]: *SCHUFA* (n 2) paras 56–65.
+[^44]: *SCHUFA* (n 2) paras 56–65.
 
-[^43]: GDPR, art 4(4).
+[^45]: WP251 (n 10) 21–22.
 
-[^44]: DSB (Austria) 2020-0.436.002 (n 23).
+[^46]: GDPR, art 4(4).
 
-[^45]: Deliveroo (n 11).
+[^47]: DSB (Austria) 2020-0.436.002 (n 23).
 
-[^46]: GDPR, art 9(1).
+[^48]: Deliveroo (n 11).
 
-[^47]: GDPR, art 22(4).
+[^49]: GDPR, art 9(1).
 
-[^48]: WP251 (n 10) 15.
+[^50]: GDPR, art 22(4).
 
-[^49]: *SCHUFA* (n 2) paras 56–65.
+[^51]: WP251 (n 10) 15.
 
-[^50]: GDPR, Recital 71.
+[^52]: *SCHUFA* (n 2) paras 56–65.
 
-[^51]: Verwaltungsverfahrensgesetz (VwVfG) § 35a; see CERIDAP, 'Automated Decision-Making Systems in German Administrative Law' (2024).
+[^53]: GDPR, Recital 71.
 
-[^52]: Code des relations entre le public et l'administration, art L311-3-1; see Défenseur des Droits, 'Algorithms, AI systems and public services: what rights do users have?' (2024).
+[^54]: Verwaltungsverfahrensgesetz (VwVfG) § 35a; see CERIDAP, 'Automated Decision-Making Systems in German Administrative Law' (2024).
 
-[^53]: GDPR, art 22(3).
+[^55]: Code des relations entre le public et l'administration, art L311-3-1; see Défenseur des Droits, 'Algorithms, AI systems and public services: what rights do users have?' (2024).
 
-[^54]: Charter of Fundamental Rights art 41.
+[^56]: GDPR, art 22(3).
 
-[^55]: BlnBDI Decision (n 18).
+[^57]: Charter of Fundamental Rights art 41.
 
-[^56]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
+[^58]: BlnBDI Decision (n 18).
 
-[^57]: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act) Annex III, point 8.
+[^59]: *Dun & Bradstreet Austria* (n 2) paras 47–52.
 
-[^58]: ibid arts 9–15.
+[^60]: Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (AI Act) Annex III, point 8.
 
-[^59]: ibid art 10.
+[^61]: ibid arts 9–15.
 
-[^60]: ibid art 14.
+[^62]: ibid art 10.
 
-[^61]: ibid art 27.
+[^63]: ibid art 14.
 
-[^62]: ibid Recital 96.
+[^64]: ibid art 27.
 
-[^63]: ibid art 2(7).
+[^65]: ibid Recital 96.
+
+[^66]: ibid art 2(7).
